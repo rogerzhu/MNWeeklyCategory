@@ -339,7 +339,4 @@
 1. [《揭秘 Java 虚拟机：JVM 设计原理与实现》](https://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.amazon.cn%2Fgp%2Fproduct%2FB073LZD7KB%3Fie%3DUTF8%26camp%3D536%26creativeASIN%3DB073LZD7KB%26linkCode%3Dxm2%26tag%3Dmanongio-23&aid=10560&nid=181)
 1. [JVM 系列（一）：Java 类的加载机制](https://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrLooaTOU_NQTJdn28KAUFw&aid=10581&nid=181)
 1. [《揭秘 Java 虚拟机：JVM 设计原理与实现》](https://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.amazon.cn%2Fgp%2Fproduct%2FB073LZD7KB%3Fie%3DUTF8%26camp%3D536%26creativeASIN%3DB073LZD7KB%26linkCode%3Dxm2%26tag%3Dmanongio-23&aid=10560&nid=181)
-1. [[PPT+视频]C++本质（Bjarne Stroustrup）](https://weekly.manong.io/bounce?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNjExNTg1Nzg4.html&aid=17&nid=2)
-1. [[PPT+视频]C++本质（Bjarne Stroustrup）](https://weekly.manong.io/bounce?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNjExNTg1Nzg4.html&aid=17&nid=16)
-1. [系列文章：5 个流行的 C++ 神话 (Bjarne Stroustrup)](https://weekly.manong.io/bounce?url=https%3A%2F%2Fisocpp.org%2Fblog%2F2014%2F12%2Fmyths-2&aid=1738&nid=55)
 1. [[译] JAR 地狱](https://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.u-trust.me%2F2016%2F05%2F30%2Fwhat-is-jar-hell%2F&aid=6542&nid=122)
