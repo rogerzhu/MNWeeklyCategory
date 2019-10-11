@@ -46,3 +46,8 @@
 1. [jd_spider：两只蠢萌京东的分布式爬虫](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fd1vrcq&aid=10059&nid=173)
 1. [Sasila：灵活、友好的爬虫框架（Python）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhzpsph&aid=10191&nid=175)
 1. [爬虫工程师如何绕过验证码？](https://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWDq22nSf_Rweho4pDCe5Eg&aid=10303&nid=177)
+1. [50 种常用的开源网页抓取工具 (Baiju NT)](https://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.bigdata-madesimple.com%2Ftop-50-open-source-web-crawlers-for-data-mining%2F&aid=1878&nid=60) 
+1. [TraceView 自动化抓取方案实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftesterhome.com%2Ftopics%2F3505&aid=4211&nid=94) 
+1. [You-Get：视频网站资源抓取器](https://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fsoimort%2Fyou-get&aid=5800&nid=112)  
+1. [如何优雅地抓取微信公众号历史文章](https://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWDH6sE5sihfM8t5DqesmpA&aid=9207&nid=161)
+1. [CatGate：基于浏览器插件的数据抓取工具](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3vs1l2&aid=10118&nid=174)
