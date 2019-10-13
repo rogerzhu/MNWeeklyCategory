@@ -136,3 +136,4 @@
 1. [[PDF] 阿里巴巴 Java 开发手册](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff63cew&aid=8674&nid=154)
 1. [[PDF] Software Engineering at Google](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fel722f&aid=8680&nid=154)
 1. [[PDF] 中学生编程](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz573u6&aid=10310&nid=177)
+1. [[PDF] 人工智能标准化白皮书（2018 版）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2aur31&aid=12118&nid=202)
