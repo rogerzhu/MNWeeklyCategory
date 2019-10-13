@@ -19,7 +19,7 @@
 | [c/c++](docs/CPPLinks.md) | [Python](docs/PythonLists.md) | [Java](docs/JavaLinks.md) | [Go语言](docs/GoLists.md) | [Rust语言](docs/Rustinks.md)|
 | [人工智能](docs/AILinks.md) | [算法与数据结构](docs/AlgLinks.md) | [面试相关](docs/InterviewLinks.md) | [前端](docs/FrontendLinks.md) | [微信小程序](docs/WXMiniProgramLinks.md) |
 | [Android](docs/AndroidLinks.md) | [PDF资料](docs/PDFLinks.md) | [免费资源](docs/FreeLists.md) | [开源资料](docs/OpenSourceLinks.md) | [爬虫相关](docs/ScrapyLinks.md) |
-| [游戏开发](docs/GameDevLinks.md) | [计算机网络](docs/NetworkLists.md) | [多线程/并发](docs/ConThreadLists.md) | [[大数据](docs/BigDataLinks.md) | [数据库](docs/DatabaseLinks.md) |
+| [游戏开发](docs/GameDevLinks.md) | [计算机网络](docs/NetworkLists.md) | [多线程/并发](docs/ConThreadLists.md) | [大数据](docs/BigDataLinks.md) | [数据库](docs/DatabaseLinks.md) |
 | [Linux](docs/LinuxLists.md) | [嵌入式](docs/EmbededLinks.md) | [架构](docs/ArchitectureLists.md) | [设计模式](docs/DesignModeLists.md) | [测试相关](docs/TestingLinks.md) |
 | [PHP](docs/PHPLists.md) | [翻译资料](docs/TranslateLinks.md) | [演讲实录](docs/SpeechLinks.md) | ### | ### |
 
