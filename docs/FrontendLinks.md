@@ -759,4 +759,3 @@
 1. [深入理解 CSS 外边距折叠（Margin Collapse）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fczg53j&aid=10221&nid=176)
 1. [《Web 前端开发精品课 HTML 与 CSS 进阶教程》](https://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.epubit.com.cn%2Fbook%2Fdetails%2F4651&aid=10358&nid=178)
 1. [[译] 探索 ReactJS 中的 CSS 架构](https://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FV3hkxAYQSXGrTmO8ndOH4w&aid=10593&nid=181)
-1. [[译] 探索 ReactJS 中的 CSS 架构](https://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FV3hkxAYQSXGrTmO8ndOH4w&aid=10593&nid=181)
