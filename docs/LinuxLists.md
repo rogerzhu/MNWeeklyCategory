@@ -183,3 +183,7 @@
 1. [陌陌操作审计体系分享之 Linux](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsuRCuK0ctC6F9v2dOg5Wcg&aid=17044&nid=271)
 1. [被神话的 Linux，一文带你看清 Linux 在多核可扩展性设计上的不足](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSZXPWHzzUtCTGOurcItHlg&aid=17397&nid=276)
 1. [《Linux系统安全：纵深防御、安全扫描与入侵检测》](https://weekly.manong.io/bounce?url=https%3A%2F%2Fitem.jd.com%2F12552441.html%3Fdist%3Djd&aid=17453&nid=276)
+1. [Linux 安全配置规范](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRMocWCJGt001ASgmRbpP7Q&aid=17776&nid=281)
+1. [Linux 托管 Windows 虚拟机最佳实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fi21iog3&aid=17784&nid=281)
+1. [基于 Bash Shell 脚本制定灵活的 trimlog 日志清理策略](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb8vvbb8&aid=17783&nid=281)
+1. [Bash 常见特殊符号及含义](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fodf1v9x&aid=17788&nid=281)

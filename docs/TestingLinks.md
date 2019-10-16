@@ -256,3 +256,4 @@
 1. [Flask 应用集成测试案例谈](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frpqwg7s&aid=17666&nid=279)
 1. [Web 应用程序测试完整指南](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqgsiawh&aid=17668&nid=279)
 1. [seven的测试人生](https://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F38921%23280&aid=17749&nid=280)
+1. [学习单元测试，告别祈祷式编程](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoD96OEv92oX0ypAYLbYFyA&aid=17790&nid=281)

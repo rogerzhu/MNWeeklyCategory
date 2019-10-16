@@ -157,4 +157,7 @@
 1. [《架构解密：从分布式到微服务》](https://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.amazon.cn%2Fgp%2Fproduct%2FB072MPKSHJ%3Fie%3DUTF8%26camp%3D536%26creativeASIN%3DB072MPKSHJ%26linkCode%3Dxm2%26tag%3Dmanongio-23&aid=10419&nid=179)
 1. [分布式流式处理的新贵 Kafka Stream](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6hslm0&aid=10545&nid=180)
 1. [如何用 Go 打造亿级实时分布式出行平台](https://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fiy1JfYb7E4t8mByx_P_OyA&aid=10587&nid=181)
-1. [如何用 Go 打造亿级实时分布式出行平台](https://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fiy1JfYb7E4t8mByx_P_OyA&aid=10587&nid=181)
+1. [技术中台：分布式架构在蚂蚁金服的实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhZWHzQNBtH8g4brSg8R3aw&aid=17751&nid=281)
+1. [图解各路分布式 ID 生成算法](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqVN75AeN_5x-rn-wvgnBHg&aid=17770&nid=281)
+1. [分布式存储系统的一致性：可见性差异](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUzNjAxODg4MQ%3D%3D%26mid%3D2247485029%26idx%3D1%26sn%3D81b593816669318ee3203449177f90c9&aid=17785&nid=281)
+1. [技术中台：分布式架构在蚂蚁金服的实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhZWHzQNBtH8g4brSg8R3aw&aid=17751&nid=281)

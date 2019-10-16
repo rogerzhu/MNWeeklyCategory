@@ -397,3 +397,6 @@
 1. [MySQL 为什么要这样优化](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftrqulw7&aid=17702&nid=280)
 1. [使用 MySQL 模拟 Redis](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1kNm5HhGh8meLSEsc5pCwA&aid=17705&nid=280)
 1. [微服务架构下，MySQL 读写分离后，数据库 CPU 飙升卡壳问题解析](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGlgHJ_o2taPYQ87RKomVVw&aid=17708&nid=280)
+1. [马蜂窝数据仓库的架构、模型与应用实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FIruW82xlgj9te-OBh_3TeQ&aid=17752&nid=281)
+1. [小米 Go 开发实践：用 Go 构建高性能数据库中间件](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgzjFt9zi4trMzFi92WqF-A&aid=17812&nid=281)
+1. [终于把 MySQL 索引的那些事儿说清楚了](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_WOFmTxL9U-5TJk-3CZa7g&aid=17793&nid=281)

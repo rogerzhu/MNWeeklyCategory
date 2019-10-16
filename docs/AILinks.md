@@ -690,3 +690,13 @@
 1. [有关人工智能必知的基础知识，都在这里了](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F906QEZoAmt2zXBqgHc4ZbA&aid=17625&nid=279)
 1. [大牛书单 | 人工智能方向好书分享（第二期）](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_KUtmNAAZkeLdaZ2cRvBJQ&aid=17626&nid=279)
 1. [[译] 机器学习模型的偏见和伦理问题](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fo9EUodByjy5c9JMWYa4BBQ&aid=17687&nid=280)
+1. [如何优化大规模推荐？下一代算法技术 JTM 来了](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQThtXNF9oIE5bXF5kaSg5w&aid=17753&nid=281)
+1. [了解无人驾驶汽车原理](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5MzA1Mzc3Nw%3D%3D%26mid%3D2247485177%26idx%3D1%26sn%3D4ef7fbfa42a264f23e49595d419292c1&aid=17757&nid=281)
+1. [机器学习中的评价指标](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUQgs0suLrRZXGh7Y7_uS9A&aid=17758&nid=281)
+1. [神经网络的构成、训练和算法](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv_UxlVVKdqu0CbA16tP_Iw&aid=17759&nid=281)
+1. [谷歌重磅发布 TensorFlow 2.0 正式版](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbjQoJ7hqxXJJ70Y6a0Yp2g&aid=17760&nid=281)
+1. [TensorFlow 中的计算图](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXGtJIlbTV1nclmvRJqwB6A&aid=17761&nid=281)
+1. [Facebook 发布 Detectron 2，下一个万星目标检测新框架](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkUNOE3u40NZmKxUSN7Ie8w&aid=17763&nid=281)
+1. [科技网站最近有什么大新闻？LDA 主题生成模型](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flp53hv0&aid=17764&nid=281)
+1. [大数据与人工智能](https://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F392714%23281&aid=17821&nid=281)
+

@@ -318,3 +318,4 @@
 1. [再分享几个 Docker 小技巧](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fs2yh_4dAmx_VB88JeW6jAg&aid=17564&nid=278)
 1. [拥抱容器：From swarm to k8s 实战](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkT0llSC5cUG8iWwV5-4BEw&aid=17568&nid=278)
 1. [Kubernetes Pod 安全策略 (PSP) 配置](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4yjvyqn&aid=17714&nid=280)
+1. [写给前端工程师看的 Docker 教程（实战篇）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxz4ysjv&aid=17787&nid=281)

@@ -713,3 +713,8 @@
 1. [Golang error 的突围](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcE_q1LWapFFGYlphZJP-Cw&aid=17739&nid=280)
 1. [控制 Goroutine 的并发数量的方式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2a5pggg&aid=17740&nid=280)
 1. [Golang 设计模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9mzp3bf&aid=17715&nid=280)
+1. [Go 和 Android 集成实战](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn32pi3h&aid=17802&nid=281)
+1. [Go 1.13 中 sync.Pool 是如何优化的？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fi3brpd0&aid=17811&nid=281)
+1. [小米 Go 开发实践：用 Go 构建高性能数据库中间件](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgzjFt9zi4trMzFi92WqF-A&aid=17812&nid=281)
+1. [Go 学习笔记之 10 分钟简要理解 Go 语言闭包技术](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGJnvPgW7IONK9LVw-i34hQ&aid=17813&nid=281)
+1. [Go 微服务全链路跟踪详解](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAOE9K6JVKdI7cYIJpGgmNA&aid=17814&nid=281)

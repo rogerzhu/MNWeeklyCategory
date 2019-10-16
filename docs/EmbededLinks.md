@@ -45,3 +45,4 @@
 1. [从 0 开始使用树莓派和 TensorFlow 构建自动驾驶项目](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FIvGWrzKM2_E6cJt6AZrXbA&aid=16173&nid=261)
 1. [Flutter：适用于移动、Web、嵌入式和桌面平台的便携式界面框架](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxVmilQeiveA8XZNU0g668Q&aid=16226&nid=261)
 1. [在树莓派上建立 Kubernetes 集群](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw85t62&aid=16814&nid=268)
+1. [中国芯片的极限突围](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FpkERAn5pFYoTXzP13kH2PQ&aid=17756&nid=281)

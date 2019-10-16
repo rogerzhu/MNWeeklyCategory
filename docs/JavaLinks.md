@@ -328,3 +328,4 @@
 1. [JVM 系列（一）：Java 类的加载机制](https://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrLooaTOU_NQTJdn28KAUFw&aid=10581&nid=181)
 1. [《揭秘 Java 虚拟机：JVM 设计原理与实现》](https://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.amazon.cn%2Fgp%2Fproduct%2FB073LZD7KB%3Fie%3DUTF8%26camp%3D536%26creativeASIN%3DB073LZD7KB%26linkCode%3Dxm2%26tag%3Dmanongio-23&aid=10560&nid=181)
 1. [[译] JAR 地狱](https://weekly.manong.io/bounce?url=http%3A%2F%2Fblog.u-trust.me%2F2016%2F05%2F30%2Fwhat-is-jar-hell%2F&aid=6542&nid=122)
+1. [JVM CPU Profiler 技术原理及源码深度解析](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRKqmy8dw7B7WtQc6Xy2CLA&aid=17798&nid=281)

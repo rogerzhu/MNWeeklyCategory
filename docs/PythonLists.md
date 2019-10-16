@@ -572,3 +572,7 @@
 1. [某音无水印视频如何下载？我教你（Python）](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8wMMXz6MgeWWiRa6Uqxfdg&aid=17605&nid=278)
 1. [HttpRunner 源码阅读（Python）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmsdeupj&aid=17643&nid=279)
 1. [Python 浮点数的冷知识](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTBEW2R4BzRNzom-9d-3b9w&aid=17737&nid=280)
+1. [一些你不知道的 Python Tips](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKTLRwzCM7lOvBF4IEGuBPg&aid=17808&nid=281)
+1. [Python 设计和历史的 27 个问题](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzabIvt4dfu_rf7SmGZXqXg&aid=17809&nid=281)
+1. [Python之美_](https://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F6988%23281&aid=17824&nid=281)
+1. [docopt：让你如绅士般基于描述编写 Python 命令行工具的开源项目](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2lZWapE3LhYry1XGn-ZHBw&aid=17794&nid=281)

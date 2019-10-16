@@ -296,3 +296,6 @@
 1. [字符串模式匹配趣味算法](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxB4lfGawj9uJ2ZiOvtSDFA&aid=17660&nid=279)
 1. [数据结构在实际项目中的使用（二）：位图](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3qdbu8q&aid=17661&nid=279)
 1. [基于朴素 ML 思想的协同过滤推荐算法](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPwIDOeC-wPshZkGet1pE2w&aid=17688&nid=280)
+1. [如何优化大规模推荐？下一代算法技术 JTM 来了](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQThtXNF9oIE5bXF5kaSg5w&aid=17753&nid=281)
+1. [了解无人驾驶汽车原理](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5MzA1Mzc3Nw%3D%3D%26mid%3D2247485177%26idx%3D1%26sn%3D4ef7fbfa42a264f23e49595d419292c1&aid=17757&nid=281)
+1. [图解各路分布式 ID 生成算法](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqVN75AeN_5x-rn-wvgnBHg&aid=17770&nid=281)

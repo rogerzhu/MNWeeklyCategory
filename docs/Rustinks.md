@@ -33,3 +33,4 @@
 1. [Rust 开发编译 Android 动态库实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA4MjU1MDk3Ng%3D%3D%26mid%3D2451526612%26idx%3D1%26sn%3D1b7a33d8d73a480b08baad69b378f793&aid=16400&nid=263)
 1. [Rust 中的 RefCell 和内部可变性](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0JEjdxNHfgn4idsBMR9dBg&aid=16714&nid=267)
 1. [Rust 生命周期 bound 用于泛型的引用](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_-ETKS6-odhZW2n8-fw7ig&aid=16843&nid=268)
+1. [Rust 入坑指南：常规套路](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp9Tjj0tDla_kbojaSt5yOQ&aid=17819&nid=281)

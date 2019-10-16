@@ -1503,3 +1503,5 @@
 1. [Chrome OS 上的 Android 系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4jc98hb&aid=17727&nid=280)
 1. [Android 本地化适配：RTL (right-to-left) 配清单](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn0uetc2lCzuu14p6ME2tOQ&aid=17728&nid=280)
 1. [Android 音视频开发打怪升级之音视频硬解码篇（一）：音视频基础知识](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frybtywu&aid=17729&nid=280)
+1. [Android 插件化系列（三）：技术流派和四大组件支持](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhgP33DAxd5-OWWXTafQBWg&aid=17799&nid=281)
+1. [Go 和 Android 集成实战](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn32pi3h&aid=17802&nid=281)

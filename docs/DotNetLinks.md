@@ -56,3 +56,4 @@
 1. [ASP.NET 自定义项目模板](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9ejx28s&aid=17300&nid=274)
 1. [对微软的敌视何时休？ 从一篇语言评论文章对 C# 的评价说起](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7UBqWAAFgeR4dn6CBcxNjw&aid=17436&nid=276)
 1. [进击的 .NET 在云原生时代的蜕变](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fqfqk9BtiZ9i3iSJSYB-MaA&aid=17736&nid=280)
+1. [.NET Core 微服务网关 Bumblebee 架设](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5k6gZzj-gPcRksHnRyZejw&aid=17815&nid=281)
