@@ -31,7 +31,7 @@
 | ------ | ------ | ------ | ------ | ------ |
 | [算法与数据结构](docs/AlgLinks.md) | [计算机网络](docs/NetworkLists.md) | [多线程/并发](docs/ConThreadLists.md) | [数据库](docs/DatabaseLinks.md) | [Linux](docs/LinuxLists.md) |
 
-###架构/设计模式
+### 架构/设计模式
 | 甲 | 乙 |
 | ------ | ------ |
 | [架构](docs/ArchitectureLists.md) | [设计模式](docs/DesignModeLists.md) |
