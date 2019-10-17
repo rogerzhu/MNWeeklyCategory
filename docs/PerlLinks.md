@@ -1,0 +1,7 @@
+1. [免费电子书《Modern Perl》](https://weekly.manong.io/bounce?url=http%3A%2F%2Fmodernperlbooks.com%2Fbooks%2Fmodern_perl_2014%2F&aid=1159&nid=34)
+1. [Perl 之父 Larry Wall：我的目标永远是让人开怀（卢鸫翔，王江平）](https://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.csdn.net%2Farticle%2F2014-08-18%2F2821256-larry-wall-interview&aid=1379&nid=42)
+1. [Perl 6 Introduction](https://weekly.manong.io/bounce?url=http%3A%2F%2Fperl6intro.com%2F&aid=4475&nid=97)
+1. [Hyperloop，让发布简洁高效（iOS）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fagpc6e&aid=9775&nid=169)
+1. [区块链开源实现 hyperledger fabric 架构详解](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzu4wt8&aid=13126&nid=216)
+1. [区块链之 Hyperledger Fabric 初探](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtYKof85wpYZp5dSq-1FI-w&aid=13941&nid=228)
+1. [基于 tendermint 实现 Hyperledger Fabric 的拜占庭容错排序](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4lccUIoXrfWn_Za8xJXH-w&aid=15560&nid=252)

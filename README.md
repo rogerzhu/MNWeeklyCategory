@@ -17,8 +17,8 @@
 | 甲 | 乙 | 丙 | 丁 | 戊 |
 | ------ | ------ | ------ | ------ | ------ |
 | [c/c++](docs/CPPLinks.md) | [Python](docs/PythonLists.md) | [Java](docs/JavaLinks.md) | [Go语言](docs/GoLists.md) | [Rust语言](docs/Rustinks.md)|
-| [PHP](docs/PHPLists.md) | ### | ### | ### | ### |
-
+| [PHP](docs/PHPLists.md) | [C#/.Net](docs/DotNetLinks.md) | [Ruby](docs/RubyLinks.md) | [Perl](docs/PerlLinks.md) | [Swift](docs/SwiftLinks.md) |
+| [Kotlin](docs/KotlinLinks.md) | [Typescript](docs/TypescriptLinks.md) | ### | ### | ### | 
 
 ### 待分类
 | 甲 | 乙 | 丙 | 丁 | 戊 |
@@ -27,7 +27,7 @@
 | [Android](docs/AndroidLinks.md) | [PDF资料](docs/PDFLinks.md) | [免费资源](docs/FreeLists.md) | [开源资料](docs/OpenSourceLinks.md) | [爬虫相关](docs/ScrapyLinks.md) |
 | [游戏开发](docs/GameDevLinks.md) | [计算机网络](docs/NetworkLists.md) | [多线程/并发](docs/ConThreadLists.md) | [大数据](docs/BigDataLinks.md) | [数据库](docs/DatabaseLinks.md) |
 | [Linux](docs/LinuxLists.md) | [嵌入式](docs/EmbededLinks.md) | [架构](docs/ArchitectureLists.md) | [设计模式](docs/DesignModeLists.md) | [测试相关](docs/TestingLinks.md) |
-| ### | [翻译资料](docs/TranslateLinks.md) | [演讲实录](docs/SpeechLinks.md) | [容器/k8s](docs/ContainerLinks.md) | [.Net](docs/DotNetLinks.md) |
+| ### | [翻译资料](docs/TranslateLinks.md) | [演讲实录](docs/SpeechLinks.md) | [容器/k8s](docs/ContainerLinks.md) | |
 
 **目前更新至281期**
 持续更新中。。。 
