@@ -13,15 +13,21 @@
 - 为了更新，我利用了我的树莓派，每隔三天获取最新一期的列表，自动重复上述的一些步骤，只不过目前这个阶段在git push之前我还是得加入一些人工筛选
 
 ## 分类
-
-| 条目一 | 条目二 | 条目三 | 条目四 | 条目五 |
+### 语言
+| 甲 | 乙 | 丙 | 丁 | 戊 |
 | ------ | ------ | ------ | ------ | ------ |
 | [c/c++](docs/CPPLinks.md) | [Python](docs/PythonLists.md) | [Java](docs/JavaLinks.md) | [Go语言](docs/GoLists.md) | [Rust语言](docs/Rustinks.md)|
+| [PHP](docs/PHPLists.md) | ### | ### | ### | ### |
+
+
+### 待分类
+| 甲 | 乙 | 丙 | 丁 | 戊 |
+| ------ | ------ | ------ | ------ | ------ |
 | [人工智能](docs/AILinks.md) | [算法与数据结构](docs/AlgLinks.md) | [面试相关](docs/InterviewLinks.md) | [前端](docs/FrontendLinks.md) | [微信小程序](docs/WXMiniProgramLinks.md) |
 | [Android](docs/AndroidLinks.md) | [PDF资料](docs/PDFLinks.md) | [免费资源](docs/FreeLists.md) | [开源资料](docs/OpenSourceLinks.md) | [爬虫相关](docs/ScrapyLinks.md) |
 | [游戏开发](docs/GameDevLinks.md) | [计算机网络](docs/NetworkLists.md) | [多线程/并发](docs/ConThreadLists.md) | [大数据](docs/BigDataLinks.md) | [数据库](docs/DatabaseLinks.md) |
 | [Linux](docs/LinuxLists.md) | [嵌入式](docs/EmbededLinks.md) | [架构](docs/ArchitectureLists.md) | [设计模式](docs/DesignModeLists.md) | [测试相关](docs/TestingLinks.md) |
-| [PHP](docs/PHPLists.md) | [翻译资料](docs/TranslateLinks.md) | [演讲实录](docs/SpeechLinks.md) | [容器/k8s](docs/ContainerLinks.md) | [.Net](docs/DotNetLinks.md) |
+| ### | [翻译资料](docs/TranslateLinks.md) | [演讲实录](docs/SpeechLinks.md) | [容器/k8s](docs/ContainerLinks.md) | [.Net](docs/DotNetLinks.md) |
 
 **目前更新至281期**
 持续更新中。。。 
