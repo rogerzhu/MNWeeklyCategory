@@ -18,7 +18,7 @@
 | ------ | ------ | ------ | ------ | ------ |
 | [c/c++](docs/CPPLinks.md) | [Python](docs/PythonLists.md) | [Java](docs/JavaLinks.md) | [Go语言](docs/GoLists.md) | [Rust语言](docs/Rustinks.md)|
 | [PHP](docs/PHPLists.md) | [C#/.Net](docs/DotNetLinks.md) | [Ruby](docs/RubyLinks.md) | [Perl](docs/PerlLinks.md) | [Swift](docs/SwiftLinks.md) |
-| [Kotlin](docs/KotlinLinks.md) | [Typescript](docs/TypescriptLinks.md) | ### | ### | ### | 
+| [Kotlin](docs/KotlinLinks.md) | [Typescript](docs/TypescriptLinks.md) | [Bash](docs/BashLinks.md) | ### | ### | 
 
 ### 资料资源
 | 甲 | 乙 | 丙 | 丁 | 戊 |
@@ -37,6 +37,11 @@
 | [Vue.js](docs/VueLinks.md) | [React](docs/ReactLinks.md) | [Angular/AngularJs](docs/AngularLinks.md) | [BootStrap](docs/BootStrapLinks.md) | [Ant Design](docs/AntDesignLinks.md) |
 | [JQuery](docs/JQueryLinks.md) | [Sass](docs/SassLinks.md) | [Less](docs/LessLinks.md) | [HTML](docs/HTMLLinks.md) | [JS](docs/JavaScriptLinks.md) |
 
+### 移动开发
+| 甲 | 乙 | 丙 | 丁 | 戊 |
+| ------  | ------ | ------ | ------ | ------ |
+| [Android](docs/AndroidLinks.md) | [Mac/IOS](docs/IOSLinks.md) | [Flutter](docs/FlutterLinks.md) | [移动端APP](docs/FlutterLinks.md) | ### |
+
 ### 架构/设计模式
 | 甲 | 乙 |
 | ------ | ------ |
@@ -46,7 +51,7 @@
 | 甲 | 乙 | 丙 | 丁 | 戊 |
 | ------ | ------ | ------ | ------ | ------ |
 | [人工智能](docs/AILinks.md) | ### | ### | ### | [微信小程序](docs/WXMiniProgramLinks.md) |
-| [Android](docs/AndroidLinks.md) | ### | ### | ### | [爬虫相关](docs/ScrapyLinks.md) |
+| | ### | ### | ### | [爬虫相关](docs/ScrapyLinks.md) |
 | [游戏开发](docs/GameDevLinks.md) | ### | ### | [大数据](docs/BigDataLinks.md) | ### |
 | ### | [嵌入式](docs/EmbededLinks.md) | ### | ### | [测试相关](docs/TestingLinks.md) |
 | ### | ### | ### | [容器/k8s](docs/ContainerLinks.md) | |
