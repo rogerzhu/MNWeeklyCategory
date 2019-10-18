@@ -42,19 +42,23 @@
 | ------  | ------ | ------ | ------ | ------ |
 | [Android](docs/AndroidLinks.md) | [Mac/IOS](docs/IOSLinks.md) | [Flutter](docs/FlutterLinks.md) | [移动端APP](docs/FlutterLinks.md) | ### |
 
+### 应用
+| 甲 | 乙 | 丙 | 丁 | 戊 |
+| ------  | ------ | ------ | ------ | ------ |
+| [人工智能](docs/AILinks.md) | [微信小程序](docs/WXMiniProgramLinks.md) | [爬虫相关](docs/ScrapyLinks.md) | [游戏开发](docs/GameDevLinks.md) | [大数据](docs/BigDataLinks.md) |
+| [嵌入式](docs/EmbededLinks.md) | [容器/k8s](docs/ContainerLinks.md) | ### | ### | ### |
+
+
 ### 架构/设计模式
 | 甲 | 乙 |
 | ------ | ------ |
 | [架构](docs/ArchitectureLists.md) | [设计模式](docs/DesignModeLists.md) |
 
-### 待分类
-| 甲 | 乙 | 丙 | 丁 | 戊 |
-| ------ | ------ | ------ | ------ | ------ |
-| [人工智能](docs/AILinks.md) | ### | ### | ### | [微信小程序](docs/WXMiniProgramLinks.md) |
-| | ### | ### | ### | [爬虫相关](docs/ScrapyLinks.md) |
-| [游戏开发](docs/GameDevLinks.md) | ### | ### | [大数据](docs/BigDataLinks.md) | ### |
-| ### | [嵌入式](docs/EmbededLinks.md) | ### | ### | [测试相关](docs/TestingLinks.md) |
-| ### | ### | ### | [容器/k8s](docs/ContainerLinks.md) | |
+### 测试
+| 甲 | 乙 | 丙 | 丁 |
+| ------  | ------ | ------ | ------ |
+| [测试相关](docs/TestingLinks.md) | [单元测试](docs/UnitTestingLinks.md) | [集成测试](docs/InterTestLinks.md) | [自动化测试](docs/AutoTestLinks.md)  |
+ 
 
 **目前更新至281期**
 
