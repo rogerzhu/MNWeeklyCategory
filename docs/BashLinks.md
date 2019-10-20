@@ -1,6 +1,5 @@
 1. [Bash 编程陷阱](https://weekly.manong.io/bounce?url=http%3A%2F%2Fbash.cumulonim.biz%2FBashPitfalls.html&aid=208&nid=11)
 1. [Bash 编程实例教程（Matthew Might）](https://weekly.manong.io/bounce?url=http%3A%2F%2Fmatt.might.net%2Farticles%2Fbash-by-example%2F&aid=398&nid=18)
-1. [[译] Bash 脚本 15 分钟进阶教程（@外刊IT评论）](https://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.vaikan.com%2Fbash-scripting%2F&aid=983&nid=29)
 1. [Bash 编程指南 (lhunath)](https://weekly.manong.io/bounce?url=http%3A%2F%2Fguide.bash.academy%2F&aid=1309&nid=40)
 1. [bash 代码注入的安全漏洞（@左耳朵耗子）](https://weekly.manong.io/bounce?url=http%3A%2F%2Fcoolshell.cn%2Farticles%2F11973.html&aid=1479&nid=46)
 1. [Bash 风格指南 (Dave Eddy)](https://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fbahamas10%2Fbash-style-guide&aid=2097&nid=66)
