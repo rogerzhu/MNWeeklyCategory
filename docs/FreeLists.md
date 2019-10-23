@@ -132,3 +132,4 @@
 1. [免费又好用的 iOS UI 调试软件，Lookin 正式发布](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFlGfb02ZOv9YLwCfEwIsjA&aid=17108&nid=272)
 1. [Vuestic Admin：免费与美妙 Vue.js 管理模板](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwlalogz&aid=17272&nid=274)
 1. [YourNovel：基于 Golang 的开源小说搜索引擎 & 免费小说阅读网站](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fze16yiz&aid=17590&nid=278)
+1. [免费获取 JetBrains 全家桶正版 License 教程](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkopwisx&aid=17840&nid=282)

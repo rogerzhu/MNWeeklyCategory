@@ -1662,3 +1662,8 @@
 1. [[译] JavaScript 工作原理：V8 编译器的优化](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F3HdutdFxd3De5tkH2pxqvw&aid=17816&nid=281)
 1. [[译] SwiftShield：SwiftOBJ-C 代码混淆工具](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDpW_NpwitzZ9WWDgZUqKcQ&aid=17796&nid=281)
 1. [[译] Cilium：BPF 和 XDP 参考指南](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq60gk1u&aid=17779&nid=281)
+1. [[译] 什么是深度学习，其工作原理是什么？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOcXdVlN5_c3EaGFQk0UsXA&aid=17835&nid=282)
+1. [[译] React VS Vue：2020 年应该选哪个？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FynIZyDl9jWEgBwwJrC0tKQ&aid=17881&nid=282)
+1. [[译] 送给你的代码审查问题手册](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fu53A9rvvxq0Xjn5kQ99z7Q&aid=17844&nid=282)
+1. [[译] Kubernetes 存活检测的危险性](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuIrVZOpfmcAGusm-yDyKCQ&aid=17846&nid=282)
+1. [[译] Kubernetes 污点与容忍详解](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FubF7_3SIjOELmD0YjCS8-Q&aid=17853&nid=282)

@@ -155,3 +155,5 @@
 1. [Linux 托管 Windows 虚拟机最佳实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fi21iog3&aid=17784&nid=281)
 1. [基于 Bash Shell 脚本制定灵活的 trimlog 日志清理策略](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb8vvbb8&aid=17783&nid=281)
 1. [Bash 常见特殊符号及含义](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fodf1v9x&aid=17788&nid=281)
+1. [Linux 系统监测工具 sysstat 介绍](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft500o3h&aid=17850&nid=282)
+1. [文件描述符了解一下](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUp9jWi6Tgx9D2Gd95lO_EQ&aid=17864&nid=282)

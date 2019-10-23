@@ -640,3 +640,4 @@
 1. [HFish 0.3.2：国产高交互开源蜜罐系统小版本更新](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fa6RO9qZlNKXbG8Rg0PEgdg&aid=17719&nid=280)
 1. [ElasticDL：蚂蚁金服开源基于 TensorFlow 的弹性分布式深度学习系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBitZUQ5xyDSpVE2IeZxhqw&aid=17721&nid=280)
 1. [ArtiPub：开源的一文多发平台](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Foagceoo&aid=17723&nid=280)
+1. [一周 GitHub 开源项目推荐](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FL0tbkn_L5xVPcrWl-r03vw&aid=17839&nid=282)

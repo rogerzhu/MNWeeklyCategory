@@ -68,3 +68,5 @@
 1. [这份必备免费软件清单，让你的 Mac 更值钱](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSdbuoBuMCPhbXFOYW1HlvA&aid=15318&nid=249)
 1. [腾讯视频 Mac App 自动化测试实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMLj4AP4ZPyplArSReTn9wA&aid=16225&nid=261)
 1. [高效 MacBook 工作环境配置](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGzKroGGfn_ZmrEoFqiZpyg&aid=17647&nid=279)
+1. [iOS 基础知识实践（一）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fagh357q&aid=17869&nid=282)
+1. [macOS 使用 Homebrew 的经验分享](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv85t5sx&aid=17870&nid=282)

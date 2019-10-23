@@ -497,3 +497,6 @@
 1. [Python 设计和历史的 27 个问题](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzabIvt4dfu_rf7SmGZXqXg&aid=17809&nid=281)
 1. [Python之美_](https://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F6988%23281&aid=17824&nid=281)
 1. [docopt：让你如绅士般基于描述编写 Python 命令行工具的开源项目](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2lZWapE3LhYry1XGn-ZHBw&aid=17794&nid=281)
+1. [Python 3.8 正式发布，带来那些新特性？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRpvtevM3Hzfk1hv0xXVLtw&aid=17879&nid=282)
+1. [从 KafkaConsumer 看看 Kafka（一）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk6c7sjx&aid=17848&nid=282)
+1. [追踪 Nginx ingress 最大打开文件数问题](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgyo2ij2&aid=17859&nid=282)

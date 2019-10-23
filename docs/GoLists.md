@@ -642,3 +642,7 @@
 1. [小米 Go 开发实践：用 Go 构建高性能数据库中间件](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgzjFt9zi4trMzFi92WqF-A&aid=17812&nid=281)
 1. [Go 学习笔记之 10 分钟简要理解 Go 语言闭包技术](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGJnvPgW7IONK9LVw-i34hQ&aid=17813&nid=281)
 1. [Go 微服务全链路跟踪详解](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAOE9K6JVKdI7cYIJpGgmNA&aid=17814&nid=281)
+1. [腾讯微服务框架 Tars 的 Go 性能提升之路](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FU-YVvA6W3EJ-g7FF9Y5Mug&aid=17875&nid=282)
+1. [Golang map 底层实现](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fppb2610&aid=17876&nid=282)
+1. [Go 语言反射的实现原理](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe67ni9k&aid=17877&nid=282)
+1. [了解 MongoDB 看这一篇就够了](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwNjY3MjgzOA%3D%3D%26mid%3D2477610625%26idx%3D1%26sn%3Ddac9ca95bb8cd71345212d22906517bf&aid=17845&nid=282)

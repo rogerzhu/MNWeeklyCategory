@@ -209,3 +209,4 @@
 1. [SwiftUI 系列教程（四）：UIKit 老相好在 SwiftUI 下的实现](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2fip3jd&aid=17360&nid=275)
 1. [Swift 与 OC 混编过程中的配置](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn-EJBi66k8WbSFhNE8_EHg&aid=17435&nid=276)
 1. [Swift 游戏开发之「能否关个灯」（一）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F48to6ss&aid=17600&nid=278)
+1. [Swift 里的 String 为什么这么难用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnesfc1u&aid=17871&nid=282)

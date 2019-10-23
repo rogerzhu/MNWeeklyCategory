@@ -414,3 +414,4 @@
 1. [简单聊聊 TCP 的可靠性](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOGbZ4rzIQZf6CmDcx_WKOg&aid=17773&nid=281)
 1. [你所不知道的 TIME_WAIT 和 CLOSE_WAIT](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5hapacu&aid=17780&nid=281)
 1. [RPC 负载均衡策略学习](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flxlrykk&aid=17792&nid=281)
+1. [Traefik 2.0 实现自动化 HTTPS](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcfoqjfe&aid=17855&nid=282)

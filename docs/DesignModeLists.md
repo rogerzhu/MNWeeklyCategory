@@ -42,3 +42,4 @@
 1. [《Java设计模式及实践》](https://weekly.manong.io/bounce?url=https%3A%2F%2Fitem.jd.com%2F12542821.html%3Fdist%3Djd&aid=17228&nid=273)
 1. [你真的懂 Builder 设计模式吗？论如何实现真正安全的 Builder 模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSdTAS8I-7_OBcrYYb78CzA&aid=17484&nid=277)
 1. [Golang 设计模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9mzp3bf&aid=17715&nid=280)
+1. [业务复杂 = if else？刚来的大神竟然用策略 + 工厂彻底干掉了他们](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRG-h7r69JyKUlBZylJJIFQ&aid=17851&nid=282)

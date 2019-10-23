@@ -285,3 +285,7 @@
 1. [拥抱容器：From swarm to k8s 实战](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkT0llSC5cUG8iWwV5-4BEw&aid=17568&nid=278)
 1. [Kubernetes Pod 安全策略 (PSP) 配置](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4yjvyqn&aid=17714&nid=280)
 1. [写给前端工程师看的 Docker 教程（实战篇）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxz4ysjv&aid=17787&nid=281)
+1. [Docker 大势已去，Podman 万岁](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FnUm_bYldQkhIg36X3xgjaQ&aid=17841&nid=282)
+1. [[译] Kubernetes 存活检测的危险性](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuIrVZOpfmcAGusm-yDyKCQ&aid=17846&nid=282)
+1. [[译] Kubernetes 污点与容忍详解](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FubF7_3SIjOELmD0YjCS8-Q&aid=17853&nid=282)
+1. [从 KafkaConsumer 看看 Kafka（一）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk6c7sjx&aid=17848&nid=282)

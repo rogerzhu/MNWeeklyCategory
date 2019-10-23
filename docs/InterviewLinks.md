@@ -59,3 +59,5 @@
 1. [面试小结之 Elasticsearch 篇](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu59f3q&aid=9959&nid=172)
 1. [八年 PHPer 的高级工程师面试之路](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyuancd&aid=10082&nid=174)
 1. [招聘面试的套路与原则](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAxMTEyOTQ5OQ%3D%3D%26mid%3D2650610925%26idx%3D1%26sn%3D571d5ab7696f550caf797d5b94a75b01&aid=10483&nid=180)
+1. [再也不怕面试官问你 Express 和 Koa 的区别了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fonz7s8s&aid=17856&nid=282)
+1. [我是如何拿到腾讯的实习 offer 并顺利转正的](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVz9N8f3oATe-kG3xtuKdnQ&aid=17827&nid=282)

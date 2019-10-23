@@ -222,3 +222,4 @@
 1. [seven的测试人生](https://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F38921%23280&aid=17749&nid=280)
 1. [性能测试从零开始实施指南（容量评估篇）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnq0fgsj&aid=17768&nid=281)
 1. [学习单元测试，告别祈祷式编程](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoD96OEv92oX0ypAYLbYFyA&aid=17790&nid=281)
+1. [月薪 20k+ 的测试工程师都会这项技能！](https://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.broadview.com.cn%2Farticle%2F419574%3Fhmsr%3Dtoutiao.io%26utm_medium%3Dtoutiao.io%26utm_source%3Dtoutiao.io&aid=17832&nid=282)

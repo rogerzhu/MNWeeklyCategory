@@ -676,3 +676,8 @@
 1. [Facebook 发布 Detectron 2，下一个万星目标检测新框架](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkUNOE3u40NZmKxUSN7Ie8w&aid=17763&nid=281)
 1. [科技网站最近有什么大新闻？LDA 主题生成模型](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flp53hv0&aid=17764&nid=281)
 1. [大数据与人工智能](https://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F392714%23281&aid=17821&nid=281)
+1. [深度学习在推荐系统中的应用](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTUXvhkdqQ_kdmSKknsvUcA&aid=17833&nid=282)
+1. [Facebook 面向个性化推荐系统的深度学习推荐模型](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWBjdm-7gqCNzkDS8XHt-Qg&aid=17834&nid=282)
+1. [[译] 什么是深度学习，其工作原理是什么？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOcXdVlN5_c3EaGFQk0UsXA&aid=17835&nid=282)
+1. [CNN, RNN, LSTM 都是什么?],https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMN82najoyV-eoJhuy85HbQ&aid=17836&nid=282)
+1. [Loughran & McDonald 金融文本情感分析库](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6dpSPcDKKdZFGXPaSYY8ig&aid=17838&nid=282)

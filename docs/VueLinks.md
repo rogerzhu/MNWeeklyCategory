@@ -146,3 +146,4 @@
 1. [学习 Vue 源码的必要知识储备](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNiMTgxBasw-o4IxaQ621lg&aid=17741&nid=280)
 1. [Vue 3.0 公开代码之后……](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_9XaMyAv0NjJRvwKEEleuw&aid=17817&nid=281)
 1. [一张图理清 Vue 3.0 的响应式系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flo5shyw&aid=17818&nid=281)
+1. [[译] React VS Vue：2020 年应该选哪个？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FynIZyDl9jWEgBwwJrC0tKQ&aid=17881&nid=282)

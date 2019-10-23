@@ -271,3 +271,6 @@
 1. [如何优化大规模推荐？下一代算法技术 JTM 来了](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQThtXNF9oIE5bXF5kaSg5w&aid=17753&nid=281)
 1. [了解无人驾驶汽车原理](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMjM5MzA1Mzc3Nw%3D%3D%26mid%3D2247485177%26idx%3D1%26sn%3D4ef7fbfa42a264f23e49595d419292c1&aid=17757&nid=281)
 1. [图解各路分布式 ID 生成算法](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqVN75AeN_5x-rn-wvgnBHg&aid=17770&nid=281)
+1. [深入浅出 Apriori 关联分析算法（一）](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyCGUSVB-vA3p5Vtc88GPZg&aid=17847&nid=282)
+1. [一道 Easy 的 LeetCode 题目引发的血案](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Firijs90&aid=17852&nid=282)
+1. [可能是最容易理解的 KMP 教程](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0urgntw&aid=17854&nid=282)

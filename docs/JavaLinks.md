@@ -471,3 +471,4 @@
 1. [进击的 Java，云原生时代的蜕变](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fx509eBHiDuasGmJupJKVow&aid=17725&nid=280)
 1. [JVM CPU Profiler 技术原理及源码深度解析](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRKqmy8dw7B7WtQc6Xy2CLA&aid=17798&nid=281)
 1. [Java程序员的世界](https://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F162119%23280&aid=17747&nid=280)
+1. [Android 兼容 Java 8 语法特性的原理分析](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMxMcpJlqSEZRO0CssQglOg&aid=17866&nid=282)

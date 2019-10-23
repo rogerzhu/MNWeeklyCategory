@@ -135,3 +135,5 @@
 1. [图解各路分布式 ID 生成算法](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqVN75AeN_5x-rn-wvgnBHg&aid=17770&nid=281)
 1. [分布式存储系统的一致性：可见性差异](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUzNjAxODg4MQ%3D%3D%26mid%3D2247485029%26idx%3D1%26sn%3D81b593816669318ee3203449177f90c9&aid=17785&nid=281)
 1. [技术中台：分布式架构在蚂蚁金服的实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhZWHzQNBtH8g4brSg8R3aw&aid=17751&nid=281)
+1. [漫谈分布式系统（一）：为什么要有分布式系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaHge2nbvQa_XIgL3c7L-aA&aid=17863&nid=282)
+1. [Raft 协议简介](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqau057l&aid=17857&nid=282)

@@ -744,3 +744,6 @@
 1. [Android 音视频开发打怪升级之音视频硬解码篇（一）：音视频基础知识](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frybtywu&aid=17729&nid=280)
 1. [Android 插件化系列（三）：技术流派和四大组件支持](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhgP33DAxd5-OWWXTafQBWg&aid=17799&nid=281)
 1. [Go 和 Android 集成实战](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn32pi3h&aid=17802&nid=281)
+1. [Android 兼容 Java 8 语法特性的原理分析](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMxMcpJlqSEZRO0CssQglOg&aid=17866&nid=282)
+1. [Android WebView 诊断与排查问题的方法和技巧](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7g0vvmj&aid=17867&nid=282)
+1. [今日头条启动很快，你觉得可能是做了哪些优化（Android）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3u5b9ta&aid=17868&nid=282)
