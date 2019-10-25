@@ -1,7 +1,5 @@
 # [码农周刊](https://weekly.manong.io/)一周精选分类
 
-**目前更新至282期**
-
 ## 写在最前面的话
 
 作为最初的一批码农周刊的订阅者，不能说经历了其成长，但是确实见证了他的壮大。码农周刊确实从开始第一期的基本上都是精选的满满的干货，至少从我收到的每一期的一周精选看真是如此。但是随着时间的累计，一周精选的总量变得很大，到我写这些话的时候是280期。我就想，可不可以做个分类，让这些有心人分类的有用的资源更加有效率的被运用。
@@ -38,7 +36,8 @@
 | 甲 | 乙 | 丙 | 丁 | 戊 |
 | ------ | ------ | ------ | ------ | ------ |
 | [Vue.js](docs/VueLinks.md) | [React](docs/ReactLinks.md) | [Angular/AngularJs](docs/AngularLinks.md) | [BootStrap](docs/BootStrapLinks.md) | [Ant Design](docs/AntDesignLinks.md) |
-| [JQuery](docs/JQueryLinks.md) | [Sass](docs/SassLinks.md) | [Less](docs/LessLinks.md) | [HTML](docs/HTMLLinks.md) | [JS](docs/JavaScriptLinks.md) |
+| [JQuery](docs/JQueryLinks.md) | [CSS](docs/CSSLinks.md) | [Less](docs/LessLinks.md) | [HTML](docs/HTMLLinks.md) | [JS](docs/JavaScriptLinks.md) |
+| [Sass](docs/SassLinks.md) | ### | ### | ### | ### |
 
 ### 移动开发
 | 甲 | 乙 | 丙 | 丁 |
@@ -49,8 +48,12 @@
 | 甲 | 乙 | 丙 | 丁 | 戊 |
 | ------  | ------ | ------ | ------ | ------ |
 | [人工智能](docs/AILinks.md) | [微信小程序](docs/WXMiniProgramLinks.md) | [爬虫相关](docs/ScrapyLinks.md) | [游戏开发](docs/GameDevLinks.md) | [大数据](docs/BigDataLinks.md) |
-| [嵌入式](docs/EmbededLinks.md) | [容器/k8s](docs/ContainerLinks.md) | ### | ### | ### |
+| [嵌入式](docs/EmbededLinks.md) | [容器/k8s](docs/ContainerLinks.md) | [区块链](docs/BlockChainLinks.md) | [Elasticsearch](docs/ElasticsearchLinks.md) | [微服务](docs/MicroServiceLinks.md) |
 
+### 工具
+| 甲 | 乙 | 丙 | 丁 | 戊 |
+| ------  | ------ | ------ | ------ | ------ |
+| [Git](docs/GitLinks.md) | [Vim](docs/VimLinks.md) | [GitHub](docs/GithubLinks.md) | ### | ### |
 
 ### 架构/设计模式
 | 甲 | 乙 |
@@ -63,6 +66,6 @@
 | [测试相关](docs/TestingLinks.md) | [单元测试](docs/UnitTestingLinks.md) | [集成测试](docs/InterTestLinks.md) | [自动化测试](docs/AutoTestLinks.md)  |
  
 
-**目前更新至282期**
+**目前更新至281期**
 
 持续更新中。。。 
