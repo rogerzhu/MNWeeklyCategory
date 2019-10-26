@@ -99,6 +99,7 @@
 1. [学习 Flutter 从这里开始](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgD1aXQV5lpaABvYScZ5bJw&aid=17520&nid=277)
 1. [Flutter 开发者国服最强辅助 App：FlutterGo 2.0 强势归来](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5oNZ20D71wJaPIFZDue2Gg&aid=17521&nid=277)
 1. [从 Flutter Go 到 Flutter Go web：手把手带你轻松玩转 Flutter-web（一）](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ7f4O-fejj5radfDU10CDw&aid=17601&nid=278)
+1. [金九银十招聘季，这些面试题祝你一臂之力（Flutter）](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqMUD3oGMBKMAS2OM7IylWQ&aid=17638&nid=279)
 1. [Flutter 之搞定 Dart（二）](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxdSYvqSYOXTOCeb89C1uvg&aid=17639&nid=279)
 1. [Flutter 开发初体验](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUU2WO_YSoobthTTbniBm5Q&aid=17732&nid=280)
 1. [如何在 Flutter 上实现高性能的动态模板渲染](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfX6DtXYtKw0hFqf7t---eA&aid=17733&nid=280)

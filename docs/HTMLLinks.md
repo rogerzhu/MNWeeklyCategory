@@ -44,6 +44,7 @@
 1. [HTML5 中手势原理分析与数学知识的实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flbtq3o&aid=10544&nid=180)
 1. [Tempy：纯 Python 语法的 HTML 模板库](https://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwuCdcvFCNR9zzmwMSylBEg&aid=10621&nid=181)
 1. [HTMLTestRunner 汉化版](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvpfmhe&aid=10852&nid=184)
+1. [《移动Web前端高效开发实战：HTML 5 + CSS 3 + JavaScript + Webpack + React Native + Vue.js + Node.js》](https://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.amazon.cn%2Fgp%2Fproduct%2FB0753YGDKW%3Fie%3DUTF8%26camp%3D536%26creativeASIN%3DB0753YGDKW%26linkCode%3Dxm2%26tag%3Dmanongio-23&aid=10946&nid=186)
 1. [HTML5 的 Websocket](https://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwaqovW-Z7b1cm25HmBsVGg&aid=11246&nid=190)
 1. [[译] 用深度学习自动生成 HTML 代码](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo9lxo7&aid=12044&nid=201)
 1. [前端面试总结：http、HTML 和浏览器篇](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyqnb54&aid=13760&nid=225)

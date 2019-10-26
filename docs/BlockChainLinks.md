@@ -1,4 +1,3 @@
-1. [[译] Material Design 开发利器：Android Design Support Library 介绍](https://weekly.manong.io/bounce?url=https%3A%2F%2Fblog.leancloud.cn%2F3306%2F&aid=2506&nid=74)
 1. [一个超赞超全的 Android Library (Huqiu Liao)](https://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.android-gems.com%2F&aid=3233&nid=83)
 1. [Deep Learning Libraries by Language (teglor)](https://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.teglor.com%2Fb%2Fdeep-learning-libraries-language-cm569%2F%3Fhmsr%3Dtoutiao.io%26utm_medium%3Dtoutiao.io%26utm_source%3Dtoutiao.io&aid=3774&nid=89)
 1. [Android Support Library 23.1 的变化](https://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.jcodecraeer.com%2Fa%2Fanzhuokaifa%2Fandroidkaifa%2F2015%2F1025%2F3622.html&aid=4096&nid=93)

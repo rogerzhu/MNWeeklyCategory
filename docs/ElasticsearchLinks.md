@@ -1,4 +1,4 @@
-1. [Elasticsearch 初入门](https://weekly.manong.io/bounce?url=http%3A%2F%2Frenchx.com%2FElasticsearch1%2F&aid=4876&nid=101)
+1. [elasticsearch-dsl：灵活的 Elasticsearch Python ORM (Vinta陳上進)](https://weekly.manong.io/bounce?url=http%3A%2F%2Fvinta.ws%2Fcode%2Fusing-elasticsearch-dsl-with-python.html&aid=2573&nid=75)
 1. [把 Elasticsearch 当数据库使](https://weekly.manong.io/bounce?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000003502849&aid=5299&nid=106)
 1. [ELK 在广告系统监控中的应用及 Elasticsearch 简介](https://weekly.manong.io/bounce?url=http%3A%2F%2Ftech.youmi.net%2F2016%2F02%2F137134732.html&aid=5838&nid=113)
 1. [Elasticsearch 架构以及源码概览](https://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA4NjgwMDQ0OA%3D%3D%26mid%3D2652445487%26idx%3D1%26sn%3Dfb99fac1db2ad8120e98f00165323b2a&aid=6879&nid=127)
