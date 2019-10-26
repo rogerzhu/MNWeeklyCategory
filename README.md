@@ -17,37 +17,37 @@
 ### 语言
 | 甲 | 乙 | 丙 | 丁 | 戊 |
 | ------ | ------ | ------ | ------ | ------ |
-| [c/c++](docs/CPPLinks.md) | [Python](docs/PythonLists.md) | [Java](docs/JavaLinks.md) | [Go语言](docs/GoLists.md) | [Rust语言](docs/Rustinks.md)|
-| [PHP](docs/PHPLists.md) | [C#/.Net](docs/DotNetLinks.md) | [Ruby](docs/RubyLinks.md) | [Perl](docs/PerlLinks.md) | [Swift](docs/SwiftLinks.md) |
+| [c/c++](docs/CPPLinks.md) | [Python](docs/PythonLinks.md) | [Java](docs/JavaLinks.md) | [Go语言](docs/GoLinks.md) | [Rust语言](docs/RustLinks.md)|
+| [PHP](docs/PHPLinks.md) | [C#/.Net](docs/DotNetLinks.md) | [Ruby](docs/RubyLinks.md) | [Perl](docs/PerlLinks.md) | [Swift](docs/SwiftLinks.md) |
 | [Kotlin](docs/KotlinLinks.md) | [Typescript](docs/TypescriptLinks.md) | [Bash](docs/BashLinks.md) | ### | ### | 
 
 ### 资料资源
 | 甲 | 乙 | 丙 | 丁 | 戊 |
 | ------ | ------ | ------ | ------ | ------ |
-| [面试相关](docs/InterviewLinks.md) | [开源资料](docs/OpenSourceLinks.md) | [免费资源](docs/FreeLists.md) | [PDF资料](docs/PDFLinks.md) | [翻译资料](docs/TranslateLinks.md) |
+| [面试相关](docs/InterviewLinks.md) | [开源资料](docs/OpenSourceLinks.md) | [免费资源](docs/FreeLinks.md) | [PDF资料](docs/PDFLinks.md) | [翻译资料](docs/TranslateLinks.md) |
 | [演讲实录](docs/SpeechLinks.md) | ### | ### | ### | ### |
 
 ### 基础知识
 | 甲 | 乙 | 丙 | 丁 | 戊 |
 | ------ | ------ | ------ | ------ | ------ |
-| [算法与数据结构](docs/AlgLinks.md) | [计算机网络](docs/NetworkLists.md) | [多线程/并发](docs/ConThreadLists.md) | [数据库](docs/DatabaseLinks.md) | [Linux](docs/LinuxLists.md) |
+| [算法与数据结构](docs/AlgLinks.md) | [计算机网络](docs/NetworkLinks.md) | [多线程/并发](docs/ConThreadLinks.md) | [数据库](docs/DatabaseLinks.md) | [Linux](docs/LinuxLinks.md) |
 
 ### 前端
 | 甲 | 乙 | 丙 | 丁 | 戊 |
 | ------ | ------ | ------ | ------ | ------ |
-| [Vue.js](docs/VueLinks.md) | [React](docs/ReactLinks.md) | [Angular/AngularJs](docs/AngularLinks.md) | [BootStrap](docs/BootStrapLinks.md) | [Ant Design](docs/AntDesignLinks.md) |
-| [JQuery](docs/JQueryLinks.md) | [CSS](docs/CSSLinks.md) | [Less](docs/LessLinks.md) | [HTML](docs/HTMLLinks.md) | [JS](docs/JavaScriptLinks.md) |
+| [Vue.js](docs/VueJsLinks.md) | [React](docs/ReactLinks.md) | [Angular/AngularJs](docs/AngularLinks.md) | [BootStrap](docs/BootStrapLinks.md) | [Ant Design](docs/AntDesignLinks.md) |
+| [JQuery](docs/JQueryLinks.md) | [CSS](docs/CSSLinks.md) | [Less](docs/LessLinks.md) | [HTML](docs/HTMLLinks.md) | [JS](docs/JSLinks.md) |
 | [Sass](docs/SassLinks.md) | ### | ### | ### | ### |
 
 ### 移动开发
 | 甲 | 乙 | 丙 | 丁 |
 | ------  | ------ | ------ | ------ |
-| [Android](docs/AndroidLinks.md) | [Mac/IOS](docs/IOSLinks.md) | [Flutter](docs/FlutterLinks.md) | [移动端APP](docs/FlutterLinks.md) |
+| [Android](docs/AndroidLinks.md) | [Mac/IOS](docs/AppleLinks.md) | [Flutter](docs/FlutterLinks.md) | [移动端APP](docs/FlutterLinks.md) |
 
 ### 应用
 | 甲 | 乙 | 丙 | 丁 | 戊 |
 | ------  | ------ | ------ | ------ | ------ |
-| [人工智能](docs/AILinks.md) | [微信小程序](docs/WXMiniProgramLinks.md) | [爬虫相关](docs/ScrapyLinks.md) | [游戏开发](docs/GameDevLinks.md) | [大数据](docs/BigDataLinks.md) |
+| [人工智能](docs/AILinks.md) | [小程序](docs/MiniProgramLinks.md) | [爬虫相关](docs/CrawlerLinks.md) | [游戏开发](docs/GameLinks.md) | [大数据](docs/BigDataLinks.md) |
 | [嵌入式](docs/EmbededLinks.md) | [容器/k8s](docs/ContainerLinks.md) | [区块链](docs/BlockChainLinks.md) | [Elasticsearch](docs/ElasticsearchLinks.md) | [微服务](docs/MicroServiceLinks.md) |
 
 ### 工具
@@ -58,12 +58,12 @@
 ### 架构/设计模式
 | 甲 | 乙 |
 | ------ | ------ |
-| [架构](docs/ArchitectureLists.md) | [设计模式](docs/DesignModeLists.md) |
+| [架构](docs/ArchitectureLinks.md) | [设计模式](docs/DesignPatternLinks.md) |
 
 ### 测试
 | 甲 | 乙 | 丙 | 丁 |
 | ------  | ------ | ------ | ------ |
-| [测试相关](docs/TestingLinks.md) | [单元测试](docs/UnitTestingLinks.md) | [集成测试](docs/InterTestLinks.md) | [自动化测试](docs/AutoTestLinks.md)  |
+| [测试相关](docs/TestingLinks.md) | [单元测试](docs/UnitTestLinks.md) | [集成测试](docs/InterTestLinks.md) | [自动化测试](docs/AutoTestLinks.md)  |
  
 
 **目前更新至281期**
