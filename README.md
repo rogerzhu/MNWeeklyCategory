@@ -20,7 +20,7 @@
 | 甲 | 乙 | 丙 | 丁 | 戊 |
 | ------ | ------ | ------ | ------ | ------ |
 | [c/c++](docs/CPPLinks.md) | [Python](docs/PythonLinks.md) | [Java](docs/JavaLinks.md) | [Go语言](docs/GoLinks.md) | [Rust语言](docs/RustLinks.md)|
-| [PHP](docs/PHPLinks.md) | [C#/.Net](docs/DotNetLinks.md) | [Ruby](docs/RubyLinks.md) | [Perl](docs/PerlLinks.md) | [Swift](docs/SwiftLinks.md |
+| [PHP](docs/PHPLinks.md) | [C#/.Net](docs/DotNetLinks.md) | [Ruby](docs/RubyLinks.md) | [Perl](docs/PerlLinks.md) | [Swift](docs/SwiftLinks.md) |
 | [Kotlin](docs/KotlinLinks.md) | [Typescript](docs/TypescriptLinks.md) | [Bash](docs/BashLinks.md) | ### | ### |
 
 ### 资料资源
