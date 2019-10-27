@@ -1,5 +1,7 @@
 # [码农周刊](https://weekly.manong.io/)一周精选分类
 
+**目前更新至282期**
+
 ## 写在最前面的话
 
 作为最初的一批码农周刊的订阅者，不能说经历了其成长，但是确实见证了他的壮大。码农周刊确实从开始第一期的基本上都是精选的满满的干货，至少从我收到的每一期的一周精选看真是如此。但是随着时间的累计，一周精选的总量变得很大，到我写这些话的时候是280期。我就想，可不可以做个分类，让这些有心人分类的有用的资源更加有效率的被运用。
@@ -18,7 +20,8 @@
 | 甲 | 乙 | 丙 | 丁 | 戊 |
 | ------ | ------ | ------ | ------ | ------ |
 | [c/c++](docs/CPPLinks.md) | [Python](docs/PythonLinks.md) | [Java](docs/JavaLinks.md) | [Go语言](docs/GoLinks.md) | [Rust语言](docs/RustLinks.md)|
-| [PHP](docs/PHPLinks.md) | [C#/.Net](docs/DotNetLinks.md) | [Ruby](docs/RubyLinks.md) | [Perl](docs/PerlLinks.md) | [Swift](docs/SwiftLinks.md) |
+| [PHP](docs/PHPLinks.md) | [C#/.Net](docs/DotNetLinks.md) | [Ruby](docs/RubyLinks.md) | 
+[Perl](docs/PerlLinks.md) | [Swift](docs/SwiftLinks.md) |
 | [Kotlin](docs/KotlinLinks.md) | [Typescript](docs/TypescriptLinks.md) | [Bash](docs/BashLinks.md) | ### | ### | 
 
 ### 资料资源
@@ -65,7 +68,6 @@
 | ------  | ------ | ------ | ------ |
 | [测试相关](docs/TestingLinks.md) | [单元测试](docs/UnitTestLinks.md) | [集成测试](docs/InterTestLinks.md) | [自动化测试](docs/AutoTestLinks.md)  |
  
-
-**目前更新至281期**
+**目前更新至282期**
 
 持续更新中。。。 
