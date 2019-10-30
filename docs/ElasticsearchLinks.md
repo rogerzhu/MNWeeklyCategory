@@ -83,3 +83,4 @@
 1. [搜索引擎 Elasticsearch 入门原来这么简单](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSObD-V1jtDlhpL1_12GiYQ&aid=17695&nid=280)
 1. [Elasticsearch 从入门到放弃](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fbh0kEjwIGXfcr9jOlh48Hg&aid=17699&nid=280)
 1. [ElasticDL：蚂蚁金服开源基于 TensorFlow 的弹性分布式深度学习系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBitZUQ5xyDSpVE2IeZxhqw&aid=17721&nid=280)
+1. [Elasticsearch 从入门到放弃：索引基本使用方法](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F3ooosWUYv5udX77pQ7cwpw&aid=17942&nid=283)

@@ -621,3 +621,4 @@
 1. [Python 3.8 正式发布，带来那些新特性？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRpvtevM3Hzfk1hv0xXVLtw&aid=17879&nid=282)
 1. [从 KafkaConsumer 看看 Kafka（一）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk6c7sjx&aid=17848&nid=282)
 1. [追踪 Nginx ingress 最大打开文件数问题](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgyo2ij2&aid=17859&nid=282)
+1. [[译] Python 3 既是激进的又是克制的，这些提议被否决了](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDAFMeAEczL6oBG-0sfhvJQ&aid=17914&nid=283)

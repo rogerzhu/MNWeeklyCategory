@@ -623,3 +623,6 @@
 1. [《程序员的三门课：技术精进、架构修炼、管理探秘》](https://weekly.manong.io/bounce?url=https%3A%2F%2Fu.jd.com%2FaPsD0T&aid=17765&nid=281)
 1. [去中心化的 RTC 通信平台架构设计](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsaAOhvxjOFMI6LUWMfF4iA&aid=17829&nid=282)
 1. [多云架构落地设计和实施方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUxNTEwNTg5Mg%3D%3D%26mid%3D2247488364%26idx%3D1%26sn%3Db22ade7308b660c95837c2ed21300fe0&aid=17830&nid=282)
+1. [阿里官方解密：基于 NodeJS 的 Serverless 架构实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrR8VK7RodyCofOiSehF6fA&aid=17894&nid=283)
+1. [HTTP 服务端架构演进](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHU0PxMaoSxSkQqzutVAdKg&aid=17926&nid=283)
+1. [下一代容器架构已出，Docker 何去何处？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoSeEjpgBxkpHNXAdV8YGmw&aid=17929&nid=283)

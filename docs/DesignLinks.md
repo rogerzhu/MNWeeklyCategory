@@ -550,3 +550,4 @@
 1. [大话 App 配置功能的设计和落地](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fd12whjg&aid=17778&nid=281)
 1. [去中心化的 RTC 通信平台架构设计](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsaAOhvxjOFMI6LUWMfF4iA&aid=17829&nid=282)
 1. [多云架构落地设计和实施方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUxNTEwNTg5Mg%3D%3D%26mid%3D2247488364%26idx%3D1%26sn%3Db22ade7308b660c95837c2ed21300fe0&aid=17830&nid=282)
+1. [IM 服务器设计：如何解决消息的乱序](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6fMO7ru-sV_eEAPu2UFUYQ&aid=17893&nid=283)

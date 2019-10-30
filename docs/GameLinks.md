@@ -207,3 +207,4 @@
 1. [用 JS 写游戏自动脚本是什么体验？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F67e3vc8&aid=17644&nid=279)
 1. [搜索引擎 Elasticsearch 入门原来这么简单](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSObD-V1jtDlhpL1_12GiYQ&aid=17695&nid=280)
 1. [steam lab 用机器学习自动生成游戏 TV 节目](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fw6BH3fLkm9XkkHRXTez2fA&aid=17837&nid=282)
+1. [深度学习推理引擎的一些思考](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fht3rzgl&aid=17900&nid=283)

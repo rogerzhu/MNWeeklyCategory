@@ -771,3 +771,6 @@
 1. [Android 兼容 Java 8 语法特性的原理分析](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMxMcpJlqSEZRO0CssQglOg&aid=17866&nid=282)
 1. [Android WebView 诊断与排查问题的方法和技巧](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7g0vvmj&aid=17867&nid=282)
 1. [今日头条启动很快，你觉得可能是做了哪些优化（Android）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3u5b9ta&aid=17868&nid=282)
+1. [Android 基于 Choreographer 的渲染机制详解](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftrw8kcu&aid=17907&nid=283)
+1. [安居客 Android App 走向平台化](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk4aeyzi&aid=17908&nid=283)
+1. [Android 开发中 Kotlin Coroutines 如何优雅地处理异常](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy9uvtog&aid=17909&nid=283)

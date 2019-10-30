@@ -453,3 +453,6 @@
 1. [深入浅出 Apriori 关联分析算法（一）](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyCGUSVB-vA3p5Vtc88GPZg&aid=17847&nid=282)
 1. [一道 Easy 的 LeetCode 题目引发的血案](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Firijs90&aid=17852&nid=282)
 1. [可能是最容易理解的 KMP 教程](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0urgntw&aid=17854&nid=282)
+1. [既然使用神经网络也可以解决分类问题，那 SVM、决策树这些算法还有什么意义呢？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKEKOrkna9Zvr9lkdMmFhOQ&aid=17902&nid=283)
+1. [Android 基于 Choreographer 的渲染机制详解](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftrw8kcu&aid=17907&nid=283)
+1. [通用高效字符串匹配：Sunday 算法](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl26v2ko&aid=17938&nid=283)

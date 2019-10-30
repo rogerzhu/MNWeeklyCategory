@@ -393,3 +393,6 @@
 1. [[译] Kubernetes 存活检测的危险性](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuIrVZOpfmcAGusm-yDyKCQ&aid=17846&nid=282)
 1. [从 KafkaConsumer 看看 Kafka（一）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk6c7sjx&aid=17848&nid=282)
 1. [[译] Kubernetes 污点与容忍详解](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FubF7_3SIjOELmD0YjCS8-Q&aid=17853&nid=282)
+1. [通过 TensorFlow serving 和 Kubernetes 部署你的机器学习模型](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw9217w6&aid=17898&nid=283)
+1. [下一代容器架构已出，Docker 何去何处？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoSeEjpgBxkpHNXAdV8YGmw&aid=17929&nid=283)
+1. [推荐一个神器：对 k8s 的 yaml 部署清单按照类别进行排序](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxl8wbt8&aid=17944&nid=283)

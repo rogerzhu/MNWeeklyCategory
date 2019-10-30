@@ -208,3 +208,4 @@
 1. [秋招季，写份亮眼的求职简历](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FeSvSC5uB9ZWFjQKErZJ0Sg&aid=17682&nid=280)
 1. [再也不怕面试官问你 Express 和 Koa 的区别了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fonz7s8s&aid=17856&nid=282)
 1. [我是如何拿到腾讯的实习 offer 并顺利转正的](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVz9N8f3oATe-kG3xtuKdnQ&aid=17827&nid=282)
+1. [字节跳动的三道编码面试题的实现](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F91o3frk&aid=17937&nid=283)

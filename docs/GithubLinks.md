@@ -135,3 +135,5 @@
 1. [使用 GitHub，知道这些就够了](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fs_pNeT1lMlVDbjO37Fys4A&aid=17578&nid=278)
 1. [GitHub Actions 入门教程](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuhfsj3d&aid=17662&nid=279)
 1. [一周 GitHub 开源项目推荐](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FL0tbkn_L5xVPcrWl-r03vw&aid=17839&nid=282)
+1. [一周 GitHub 开源项目推荐](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsdrEk5xx8rpHo9dHEIdaBw&aid=17923&nid=283)
+1. [GitHub 带来的不止是开源，还有折叠的认知](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfxSpOEaJVm7-ydEy0fNqSQ&aid=17927&nid=283)

@@ -588,3 +588,6 @@
 1. [从程序媛角度去看项目管理](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz_NzSK6iRxXJxMrwOtaKEw&aid=17777&nid=281)
 1. [docopt：让你如绅士般基于描述编写 Python 命令行工具的开源项目](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2lZWapE3LhYry1XGn-ZHBw&aid=17794&nid=281)
 1. [一周 GitHub 开源项目推荐](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FL0tbkn_L5xVPcrWl-r03vw&aid=17839&nid=282)
+1. [从 30 分钟到 1 分钟：一个 Scala 项目的编译速度优化](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKC_my3H4big7eH2zWqb2lA&aid=17919&nid=283)
+1. [一周 GitHub 开源项目推荐](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsdrEk5xx8rpHo9dHEIdaBw&aid=17923&nid=283)
+1. [GitHub 带来的不止是开源，还有折叠的认知](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfxSpOEaJVm7-ydEy0fNqSQ&aid=17927&nid=283)

@@ -198,3 +198,5 @@
 1. [Kotlin 使用技巧之接口与命名参数的优雅运用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyobm6mg&aid=17734&nid=280)
 1. [Kotlin 范型之泛型约束、类型投影、星号投影](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fa3ighul&aid=17801&nid=281)
 1. [Kotlin 范型之泛型约束、类型投影、星号投影](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fa3ighul&aid=17801&nid=281)
+1. [Android 开发中 Kotlin Coroutines 如何优雅地处理异常](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy9uvtog&aid=17909&nid=283)
+1. [Android 开发中 Kotlin Coroutines 如何优雅地处理异常](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy9uvtog&aid=17909&nid=283)

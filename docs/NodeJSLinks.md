@@ -138,3 +138,4 @@
 1. [《狼书（卷1）：更了不起的Node.js》](https://weekly.manong.io/bounce?url=https%3A%2F%2Fu.jd.com%2FbpKi0D&aid=16929&nid=269)
 1. [如何加快 Node.js 应用的启动速度，实现分钟到毫秒的转化](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtbK63erZgMy5-RbhbAWgrw&aid=17742&nid=280)
 1. [企业最佳 Node.js 应用案例分享](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI1NjQ3MDc4MQ%3D%3D%26mid%3D2247483995%26idx%3D1%26sn%3Dd53b4deda87bd48e0b92ab012a46531b&aid=17744&nid=280)
+1. [阿里官方解密：基于 NodeJS 的 Serverless 架构实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrR8VK7RodyCofOiSehF6fA&aid=17894&nid=283)

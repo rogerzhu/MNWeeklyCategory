@@ -440,3 +440,4 @@
 1. [天猫搜索前端技术历代记](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FR38oST2_DvxA5zrh8eQ5Eg&aid=17704&nid=280)
 1. [前端数值展示的思考与实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F77rdu7g&aid=17786&nid=281)
 1. [写给前端工程师看的 Docker 教程（实战篇）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxz4ysjv&aid=17787&nid=281)
+1. [起底阿里完整前端技术体系](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFr2V283GT_yvx8xqAVOn5A&aid=17939&nid=283)

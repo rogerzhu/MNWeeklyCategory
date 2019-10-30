@@ -22,3 +22,4 @@
 1. [如何写好 Go 语言单元测试](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_8-K85LrflBbPOZsodKEbQ&aid=17297&nid=274)
 1. [为什么大部分开发人员没有在写单元测试？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcq5gctg&aid=17348&nid=275)
 1. [学习单元测试，告别祈祷式编程](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoD96OEv92oX0ypAYLbYFyA&aid=17790&nid=281)
+1. [少年，单元测试的两个流派了解下](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5SruD251ZRugTGq3auDyIw&aid=17943&nid=283)

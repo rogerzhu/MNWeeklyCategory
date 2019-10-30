@@ -764,3 +764,7 @@
 1. [Golang map 底层实现](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fppb2610&aid=17876&nid=282)
 1. [Go 语言反射的实现原理](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe67ni9k&aid=17877&nid=282)
 1. [了解 MongoDB 看这一篇就够了](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAwNjY3MjgzOA%3D%3D%26mid%3D2477610625%26idx%3D1%26sn%3Ddac9ca95bb8cd71345212d22906517bf&aid=17845&nid=282)
+1. [如何写出优雅的 Golang 代码](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fenqg2tf&aid=17915&nid=283)
+1. [Go 学习笔记之解读什么是 defer 延迟函数](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXttOuCEk7kgySKLOCqVMRQ&aid=17916&nid=283)
+1. [golang grpc 客户端负载均衡、重试、健康检查](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4bfz497&aid=17917&nid=283)
+1. [声网Agora实时云](https://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F82291%23283&aid=17949&nid=283)

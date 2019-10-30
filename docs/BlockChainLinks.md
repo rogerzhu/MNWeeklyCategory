@@ -159,3 +159,4 @@
 1. [[译] 区块链的互操作性重要吗？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfJ9qDFM5eNNpnVjDlT9QQA&aid=17486&nid=277)
 1. [万向区块链肖风：由 Libra 引起的思考](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAiTfzawWUAufyUCFJmws6g&aid=17696&nid=280)
 1. [十分钟，在 Libra 区块链上发布一个代币：鸟币](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fphgxa74&aid=17842&nid=282)
+1. [为什么区块链会成为国家战略？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfiWpTw6N7JJW84pGIx5SsQ&aid=17924&nid=283)

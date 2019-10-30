@@ -1018,3 +1018,7 @@
 1. [CNN]( RNN, LSTM 都是什么？,https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMN82najoyV-eoJhuy85HbQ&aid=17836&nid=282)
 1. [steam lab 用机器学习自动生成游戏 TV 节目](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fw6BH3fLkm9XkkHRXTez2fA&aid=17837&nid=282)
 1. [Loughran & McDonald 金融文本情感分析库](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6dpSPcDKKdZFGXPaSYY8ig&aid=17838&nid=282)
+1. [机器学习在干什么？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvzjxpi0&aid=17897&nid=283)
+1. [通过 TensorFlow serving 和 Kubernetes 部署你的机器学习模型](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw9217w6&aid=17898&nid=283)
+1. [微软小冰首席科学家武威解读 EMNLP 论文：聊天机器人的深度学习模型](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFSVYt-rauuCcqm9y7eTDfg&aid=17899&nid=283)
+1. [深度学习推理引擎的一些思考](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fht3rzgl&aid=17900&nid=283)

@@ -157,3 +157,4 @@
 1. [记一次常规的 gitflow 工作流](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUzMzE4MDY0Nw%3D%3D%26mid%3D2247483665%26idx%3D1%26sn%3D5bd10a6d8c2f621a678d7b023bd9988f&aid=17577&nid=278)
 1. [[译] Git 版本控制的核心概念](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvfyKgfsyacGx4uyhzJI3-A&aid=17709&nid=280)
 1. [工作中 Git 的使用实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fmje4XVyuDzspttWdOFC02g&aid=17767&nid=281)
+1. [GitBook 简明使用教程](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdmsox6k&aid=17930&nid=283)

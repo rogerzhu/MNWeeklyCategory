@@ -917,3 +917,8 @@
 1. [漫谈 Typescript 研发体系建设](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffdriq4q&aid=17882&nid=282)
 1. [Traefik 2.0 实现自动化 HTTPS](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcfoqjfe&aid=17855&nid=282)
 1. [Raft 协议简介](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqau057l&aid=17857&nid=282)
+1. [网络图模型知识点综述](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fb_QqUxFbQ70xmsxGMtoaDQ&aid=17901&nid=283)
+1. [既然使用神经网络也可以解决分类问题，那 SVM、决策树这些算法还有什么意义呢？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKEKOrkna9Zvr9lkdMmFhOQ&aid=17902&nid=283)
+1. [神经网络中的网络优化和正则化（四）：正则化](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fy3y3QvLYZPKII1Z0Smox1Q&aid=17903&nid=283)
+1. [HTTP 服务端架构演进](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHU0PxMaoSxSkQqzutVAdKg&aid=17926&nid=283)
+1. [从对称加密到非对称加密再到认证中心：https 的证书申请](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMrlAKiCUZkrk6GK1an_3xA&aid=17932&nid=283)
