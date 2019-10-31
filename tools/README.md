@@ -2,10 +2,12 @@
 
 ## 代码依赖
 本repo主要是用python编写，在无脑跑起整个项目之前，需要安装以下依赖：
-> pip3 install selenium
-> pip3 install requests
-> pip3 install BeautifulSoup4
-> pip3 install click
+```
+pip3 install selenium
+pip3 install requests
+pip3 install BeautifulSoup4
+pip3 install click
+```
 
 前三个都是爬虫和解析所要用的工具，第四个是强大的python命令行构建工具
 
@@ -74,10 +76,12 @@
 在爬虫部分，我试过比较多的方法，为什么选用selenium这个偏向测试而不是爬虫的库？原因是我用了requests，但是码农周刊这个域名的签名有问题，使用requests的话会报错。我试了几个方法，都在解决和不能解决这问题之前徘徊，所以，索性我换了另一种框架。
 
 其实后面解释的内容使用子命令的--help都能看到，比如`python3 GetAllTitles.py new --help`会显示如下结果：
-> Usage: GetAllTitles.py new [OPTIONS]
-> Options:
->   --fname TEXT  The output file name for all content, default file name is allLists.txt.
->   --help        Show this message and exit.
+```
+Usage: GetAllTitles.py new [OPTIONS]
+Options:
+   --fname TEXT  The output file name for all content, default file name is allLists.txt.
+   --help        Show this message and exit.
+```
 
 简单点，如果你执行python3 GetAllTitles.py new会怎样呢？理论上如果你无人值守的话，过一会你会发现在你的代码目录下有个一直在更新的allLists.txt文件，里面的内容都是这样的格式的：
 > 期数：标题$url
@@ -94,11 +98,13 @@
 * 记录下未被分到任何一类的内容，自动保存在一个名叫uncategorized1.md的文件中，人工筛选其中的文章，并且根据筛选的结果，更新category.json文件，以求在一次次的洗礼中获得更加准确，合理的分类配置文件
 
 使用`python3 ./ExtractMD.py --help`可以看到如下帮助信息：
-> Usage: ExtractMD.py [OPTIONS]
-> Options:
->  --fname TEXT    The raw file name for crawling file，default is allList.txt.
->  --filters TEXT  Input the filers that you need, seperate by ',', if no keywords, means use all filters by default.
->  --help          Show this message and exit.
+```
+Usage: ExtractMD.py [OPTIONS]
+Options:
+  --fname TEXT    The raw file name for crawling file，default is allList.txt.
+  --filters TEXT  Input the filers that you need, seperate by ',', if no keywords, means use all filters by default.
+  --help          Show this message and exit.
+```
 
 其中的filters是你想分类的文件的关键词，比如说“c++，java，大数据”等等，这些类名可以在下一节提到的category.json中查询。如果不传这个参数，标示按照category.json文件里面的类别尽量分类。
 
@@ -138,20 +144,24 @@
 这个就是去除不可达的url的内容，因为码农周刊从第一期开始算的话，已经有6年了，那是一个二维码支付都还刚刚开始普及的年代，很多估计是年久失修了或者作者心血来潮清除了自己的黑历史。
 
 方法很简单，就是利用requests的库去获得每一条url的response code。但是正如我在该部分第一小节说过的一样，码农周刊的域名和requests库会发生证书报错的问题。怎么办？我选取了最简单的办法，如果url里面含有码农周刊的域名，也就是toutiao.io，我就默认这个是一个可以访问的网站。使用`python3 ./Erase404.py --help`可以看到如下内容：
-> Usage: Erase404.py [OPTIONS]
-> Options:
->   --folder TEXT  The folder that contains markdown files to be processed, default is current folder.
->   --help         Show this message and exit.
+```
+Usage: Erase404.py [OPTIONS]
+Options:
+   --folder TEXT  The folder that contains markdown files to be processed, default is current folder.
+   --help         Show this message and exit.
+```
 
 只需要一个参数，就是含有需要处理的markdown文件的folder名称，默认就是当前文件。处理好的文件会放在当前文件夹下的新建的一个叫做filtered的文件夹下。因为这个算IO密集型的操作，所以使用多线程大大提高了其速度。
 
 ### MergeFiles.py
 这个文件就及其简单了，合并两个文件夹下文件名相同的文件。使用`python3 ./MergeFiles.py --help`可以看到如下内容：
->Usage: MergeFiles.py [OPTIONS]
->Options:
->  --src TEXT  Sorce folder that contains markdown files to be merged.
->  --dst TEXT  Destination folder that contains existing,categorized markdown files.
->  --help      Show this message and exit.
+```
+Usage: MergeFiles.py [OPTIONS]
+Options:
+  --src TEXT  Sorce folder that contains markdown files to be merged.
+  --dst TEXT  Destination folder that contains existing,categorized markdown files.
+  --help      Show this message and exit.
+```
 
 ## 如何把他们链接起来
 这里我又要做一次树莓派的强力推广人员，上面的4个文件明显是可以自动化，只有最后的git push需要更多一点的关照。而这种默默采集数据加一些处理的工作利用树莓派再合适不过了，只需要利用脚本在上linux的cron程序，可以实现这些程序定时的跑起来，省时又省电。
