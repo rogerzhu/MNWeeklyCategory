@@ -2,7 +2,7 @@
     "root":[
         {
             "keywords":"C++",
-            "filters":["c++","c 语言"],
+            "filters":["c++","c 语言","stl"],
             "rejecters":[],
             "fileName":"CppLinks.md"
         },
@@ -105,7 +105,7 @@
         {
             "keywords":"工具",
             "filters":["工具"],
-            "rejecters":[""],
+            "rejecters":[],
             "fileName":"ToolsLinks.md"
         },
         {
@@ -260,7 +260,7 @@
         },
         {
             "keywords":"人工智能",
-            "filters":["智能","深度学习","deep","cnn", "rnn", "lstm","情感分析","机器学习","tensorflow","pytorch","识别"],
+            "filters":["智能","深度学习","deep","cnn", "rnn", "lstm","情感分析","机器学习","tensorflow","pytorch","识别","计算机视觉"],
             "rejecters":[],
             "fileName":"AILinks.md"
         },
@@ -278,7 +278,7 @@
         },
         {
             "keywords":"分布式",
-            "filters":["分布式","raft"],
+            "filters":["分布式","raft","zookeeper"],
             "rejecters":[],
             "fileName":"DisSysLinks.md"
         },
@@ -332,7 +332,7 @@
         },
         {
             "keywords":"容器/k8s",
-            "filters":["容器","docker","kubernetes","kafka","k8s"],
+            "filters":["容器","docker","kubernetes","kafka","k8s","zookeeper"],
             "rejecters":[],
             "fileName":"ContainerLinks.md"
         },
