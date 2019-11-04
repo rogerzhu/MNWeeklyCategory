@@ -85,6 +85,12 @@
             "fileName":"BashLinks.md"
         },
         {
+            "keywords":"Scala",
+            "filters":["scala"],
+            "rejecters":[],
+            "fileName":"ScalaLinks.md"
+        },
+        {
             "keywords":"面试相关",
             "filters":["面试","offer","简历","求职"],
             "rejecters":[],
@@ -260,7 +266,7 @@
         },
         {
             "keywords":"人工智能",
-            "filters":["智能","深度学习","deep","cnn", "rnn", "lstm","情感分析","机器学习","tensorflow","pytorch","识别","计算机视觉"],
+            "filters":["智能","深度学习","deep","cnn", "rnn", "lstm","情感分析","机器学习","tensorflow","pytorch","识别","计算机视觉","强化学习","ai "],
             "rejecters":[],
             "fileName":"AILinks.md"
         },
@@ -369,12 +375,6 @@
         {
             "keywords":"设计模式",
             "filters":["设计模式","工厂"],
-            "rejecters":[],
-            "fileName":"DesignPatternLinks.md"
-        },
-        {
-            "keywords":"设计模式",
-            "filters":["设计模式"],
             "rejecters":[],
             "fileName":"DesignPatternLinks.md"
         },
