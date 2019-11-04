@@ -26,7 +26,7 @@ def GetLatestNumber():
 
 def GetAllFromWeeklyManong(start,end,filename = 'allLists.txt'):
     if end == -1:
-        end = GetLatestNumber()
+        end = GetLatestNumber() + 1
 
     driver = webdriver.Chrome()
     for i in range(start,end):
