@@ -17,5 +17,5 @@
 1. [[译] 未来我们对微服务和 Serverless 架构有什么期望](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhhX7DAkwutP5siew1NUBDg&aid=15866&nid=257)
 1. [支付宝小程序 Serverless 服务架构演进](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMDk2MzUzMQ%3D%3D%26mid%3D2247484320%26idx%3D1%26sn%3Dd0fb43b53c5a08572e095cc073517b3f&aid=16166&nid=261)
 1. [Serverless 掀起新的前端技术变革](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8sctee&aid=17145&nid=272)
-1. [阿里官方解密：基于 NodeJS 的 Serverless 架构实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrR8VK7RodyCofOiSehF6fA&aid=17894&nid=283)
-1. [2019 JSConf China《面向传统，Serverless 进化之路》分享文字版](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6sngx4f&aid=17931&nid=283)
+1. [阿里官方解密：基于 NodeJS 的 Serverless 架构实践](https://weekly.manong.io/bounce?nid=283&aid=17894&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrR8VK7RodyCofOiSehF6fA)
+1. [2019 JSConf China《面向传统，Serverless 进化之路》分享文字版](https://weekly.manong.io/bounce?nid=283&aid=17931&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6sngx4f)

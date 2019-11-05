@@ -1,6 +1,6 @@
 1. [jQuery 编码规范与最佳实践 (Abhinay Rathore)](https://weekly.manong.io/bounce?url=http%3A%2F%2Flab.abhinayrathore.com%2Fjquery-standards%2F&aid=777&nid=24)
+1. [[译] jQuery API 中文文档最新版（@愚人码头）](https://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.css88.com%2Fjqapi-1.9%2F&aid=887&nid=26)
 1. [fullPage.js - 一个 jQuery 全屏滚动插件 (Álvaro)](https://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Falvarotrigo%2FfullPage.js&aid=1994&nid=63)
-1. [zoom.js - 一个 jQuery 图片放大插件 (fat)](https://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Ffat%2Fzoom.js&aid=2288&nid=70)
 1. [学习 jQuery 之前了解一下 RequireJS 也无妨 (亚里士朱德)](https://weekly.manong.io/bounce?url=http%3A%2F%2Fyalishizhude.github.io%2F2015%2F08%2F22%2Frequirejs%2F&aid=3398&nid=85)
 1. [[译] React.js 介绍：针对了解 jQuery 的工程师 (墨白歌者)](https://weekly.manong.io/bounce?url=http%3A%2F%2Fsegmentfault.com%2Fa%2F1190000003501752&aid=3453&nid=86)
 1. [adaptive-backgrounds - 一个简单的提取图片主要部分颜色的 jQuery 插件](https://weekly.manong.io/bounce?url=http%3A%2F%2Fawesomes.cn%2Frepo%2Fbriangonzalez%2Fjquery-adaptive-backgrounds-js&aid=4227&nid=94)

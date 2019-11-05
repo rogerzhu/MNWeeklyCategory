@@ -2,7 +2,6 @@
 1. [RESTful API 设计最佳实践（Vinay Sahni）](https://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.vinaysahni.com%2Fbest-practices-for-a-pragmatic-restful-api&aid=131&nid=16)
 1. [RESTful API 设计指南 (@ruanyf)](https://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.ruanyifeng.com%2Fblog%2F2014%2F05%2Frestful_api.html&aid=1046&nid=31)
 1. [RESTful API 设计指南 (@ruanyf)](https://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.ruanyifeng.com%2Fblog%2F2014%2F05%2Frestful_api.html&aid=1046&nid=36)
-1. [《RESTful Web APIs 中文版》](https://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.amazon.cn%2Fgp%2Fproduct%2FB00KWGEI64%2Fref%3Das_li_tf_tl%3Fie%3DUTF8%26camp%3D536%26creative%3D3200%26creativeASIN%3DB00KWGEI64%26linkCode%3Das2%26tag%3Dmanongio-23&aid=1323&nid=41)
 1. [RestKit：更好支持 RESTful 风格服务器接口的 iOS 库 (@ios122)](https://weekly.manong.io/bounce?url=http%3A%2F%2Fsegmentfault.com%2Fa%2F1190000003745207%3Fhmsr%3Dtoutiao.io%26utm_medium%3Dtoutiao.io%26utm_source%3Dtoutiao.io&aid=3784&nid=89)
 1. [RESTFUL API 安全设计指南](https://weekly.manong.io/bounce?url=http%3A%2F%2Fdrops.wooyun.org%2Fweb%2F9737&aid=3926&nid=91)
 1. [[译] 最好的 8 个 Java RESTful 框架](https://weekly.manong.io/bounce?url=http%3A%2F%2Fcolobu.com%2F2015%2F11%2F15%2Fbest-available-java-restful-micro-frameworks%2F&aid=4247&nid=95)

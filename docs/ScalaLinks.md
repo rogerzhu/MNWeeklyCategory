@@ -1,4 +1,4 @@
-1. [Scala 指南（@yankay）](https://weekly.manong.io/bounce?url=http%3A%2F%2Fzh.scala-tour.com%2F&aid=404&nid=18)
+1. [WhatsApp 架构设计 (High Scalability)](https://weekly.manong.io/bounce?url=http%3A%2F%2Fhighscalability.com%2Fblog%2F2014%2F2%2F26%2Fthe-whatsapp-architecture-facebook-bought-for-19-billion.html&aid=500&nid=21)
 1. [99 道 Scala 测试题 (Phil Gold)](https://weekly.manong.io/bounce?url=http%3A%2F%2Faperiodic.net%2Fphil%2Fscala%2Fs-99%2F&aid=916&nid=27)
 1. [Scala 学习资源合集](https://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Flauris%2Fawesome-scala&aid=1251&nid=38)
 1. [Scala 学习资源（@TW张逸）](https://weekly.manong.io/bounce?url=http%3A%2F%2Fagiledon.github.io%2Fblog%2F2014%2F07%2F20%2Fscala-resource%2F&aid=1282&nid=39)
@@ -6,7 +6,6 @@
 1. [[课程] Scala 函数式编程原理 (Martin Odersky)](https://weekly.manong.io/bounce?url=http%3A%2F%2Fmooc.guokr.com%2Fcourse%2F399%2FFunctional-Programming-Principles-in-Scala%2F&aid=1457&nid=45)
 1. [Scala 最佳实践 (Alexandru Nedelcu)](https://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Falexandru%2Fscala-best-practices%2F&aid=1602&nid=50)
 1. [[译] Scala 概述 (@吾微而志)](https://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fwecite%2Fpapers%2Ftree%2Fmaster%2FAn-Overview-of-the-Scala-Programming-Language&aid=1872&nid=60)
-1. [[PDF] Scala 语言概览 (@无围而志)](https://weekly.manong.io/bounce?url=http%3A%2F%2Fwecite.github.io%2Fdocs%2FScalaOverview-20150226.pdf&aid=1906&nid=61)
 1. [Scala 的 implicit 和 magnet 模式 (@isao)](https://weekly.manong.io/bounce?url=http%3A%2F%2Fxun.im%2F2015%2F04%2F21%2Fscala-implicit-and-magnet-pattern%2F&aid=2180&nid=68)
 1. [[译] Scala Collections 提示和技巧 (@colobu)](https://weekly.manong.io/bounce?url=http%3A%2F%2Fcolobu.com%2F2015%2F07%2F02%2FScala-Collections-Tips-and-Tricks%2F&aid=2772&nid=78)
 1. [Scala 从入门到入门+ (@笋干太咸给我一个碗可以不可以)](https://weekly.manong.io/bounce?url=http%3A%2F%2Fsegmentfault.com%2Fa%2F1190000003068853&aid=3205&nid=83)
@@ -44,3 +43,4 @@
 1. [Scala 循环表达式](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXku__P2JB1rg9BX9q9OzVA&aid=17080&nid=271)
 1. [大数据分析工程师面试集锦（二）：Scala](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F11vry9estQtQmQnRnbTksQ&aid=17184&nid=273)
 1. [Scala 函数式编程（一）：什么是函数式编程？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTpL1kQE9VfkcjL88P3Ru9Q&aid=17442&nid=276)
+1. [从 30 分钟到 1 分钟：一个 Scala 项目的编译速度优化](https://weekly.manong.io/bounce?nid=283&aid=17919&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKC_my3H4big7eH2zWqb2lA)

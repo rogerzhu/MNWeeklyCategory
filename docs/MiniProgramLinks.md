@@ -1,4 +1,3 @@
-1. [Python 练习册，每天一个小程序 (易枭寒)](https://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FYixiaohan%2Fshow-me-the-code&aid=1662&nid=52)
 1. [全球首个微信 “小程序” 开发教程](https://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fxfzthh&aid=7599&nid=137)
 1. [它比微信小程序早出现半年，却不曾引爆技术圈](https://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2F9bx8pq&aid=7613&nid=137)
 1. [微信小程序，一个有局限的类似 React Native 轮子！](https://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fj%2Fl95awu&aid=7614&nid=137)

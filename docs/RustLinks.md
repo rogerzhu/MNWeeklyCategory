@@ -1,5 +1,6 @@
 1. [Rust 语言30分钟简明教程（Steve Klabnik）](https://weekly.manong.io/bounce?url=http%3A%2F%2Fwords.steveklabnik.com%2Fa-30-minute-introduction-to-rust&aid=406&nid=18)
 1. [Rust 语言实例教程](https://weekly.manong.io/bounce?url=http%3A%2F%2Frustbyexample.com%2F&aid=1019&nid=30)
+1. [[译] Rust 创始人 Graydon Hoare 对 Swift 的看法 (@CSDN)](https://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.csdn.net%2Farticle%2F2014-06-03%2F2820055&aid=1111&nid=33)
 1. [Rust 30 分钟入门教程](https://weekly.manong.io/bounce?url=http%3A%2F%2Fdoc.rust-lang.org%2Fmaster%2Fintro.html&aid=1220&nid=37)
 1. [Rust 新手指南](https://weekly.manong.io/bounce?url=http%3A%2F%2Fdoc.rust-lang.org%2Fguide.html&aid=1458&nid=45)
 1. [免费 iOS 8 Illustrator UI 工具包 (Rusty Mitchell)](https://weekly.manong.io/bounce?url=http%3A%2F%2Fmercury.io%2Fblog%2Fios-8-illustrator-vector-ui-kit-update%23download&aid=1464&nid=45)
@@ -31,4 +32,4 @@
 1. [Rust 中的 RefCell 和内部可变性](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0JEjdxNHfgn4idsBMR9dBg&aid=16714&nid=267)
 1. [Rust 生命周期 bound 用于泛型的引用](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_-ETKS6-odhZW2n8-fw7ig&aid=16843&nid=268)
 1. [Rust 入坑指南：常规套路](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp9Tjj0tDla_kbojaSt5yOQ&aid=17819&nid=281)
-1. [[译] Rust 异步编程方式重大升级：新版 Tokio 如何提升 10 倍性能详解](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqLVKxzorLvFYxfjol01xNA&aid=17918&nid=283)
+1. [[译] Rust 异步编程方式重大升级：新版 Tokio 如何提升 10 倍性能详解](https://weekly.manong.io/bounce?nid=283&aid=17918&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqLVKxzorLvFYxfjol01xNA)
