@@ -37,12 +37,19 @@ def DeleteUnreachable(folder):
 
 
 def DeleteUnreachableCore(file_name): 
-    lines = []
-    print(file_name)   
+    lines = [] 
     r = open(file_name,'r')
 
     for line in r:
-        url = line[line.find('url=')+4:line.find('&aid')]
+        #modified because the url format changed from serires #283
+        url = ''
+        index_of_url = int(line.find('url='))
+        index_of_aid = int(line.find('&aid'))
+        if index_of_url < index_of_aid:
+            url = line[line.find('url=')+4:line.find('&aid')]
+        else:
+            url = line[line.find('url=')+4:-2]
+
         if not 'http' in url:
             continue
 
