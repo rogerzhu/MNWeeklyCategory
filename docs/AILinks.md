@@ -1172,3 +1172,5 @@
 1. [通过 TensorFlow serving 和 Kubernetes 部署你的机器学习模型](https://weekly.manong.io/bounce?nid=283&aid=17898&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw9217w6)
 1. [微软小冰首席科学家武威解读 EMNLP 论文：聊天机器人的深度学习模型](https://weekly.manong.io/bounce?nid=283&aid=17899&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFSVYt-rauuCcqm9y7eTDfg)
 1. [深度学习推理引擎的一些思考](https://weekly.manong.io/bounce?nid=283&aid=17900&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fht3rzgl)
+1. [你所不知道的 AI 进展](https://weekly.manong.io/bounce?nid=284&aid=17959&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9_0bQwl_r5hXyff8-BEk2g)
+1. [机器学习进阶之路](https://weekly.manong.io/bounce?nid=284&aid=18021&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F160579%23284)

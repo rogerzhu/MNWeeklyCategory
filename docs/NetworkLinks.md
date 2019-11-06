@@ -923,3 +923,5 @@
 1. [神经网络中的网络优化和正则化（四）：正则化](https://weekly.manong.io/bounce?nid=283&aid=17903&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fy3y3QvLYZPKII1Z0Smox1Q)
 1. [HTTP 服务端架构演进](https://weekly.manong.io/bounce?nid=283&aid=17926&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHU0PxMaoSxSkQqzutVAdKg)
 1. [从对称加密到非对称加密再到认证中心：https 的证书申请](https://weekly.manong.io/bounce?nid=283&aid=17932&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMrlAKiCUZkrk6GK1an_3xA)
+1. [什么是生成对抗网络 (GAN)](https://weekly.manong.io/bounce?nid=284&aid=17960&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FecfvrpsQMho_LVjxVaxX9Q)
+1. [AWS 上 Cilium 的网络拓扑和数据流](https://weekly.manong.io/bounce?nid=284&aid=17977&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fikpq2dd)

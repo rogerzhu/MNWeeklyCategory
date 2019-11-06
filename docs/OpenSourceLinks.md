@@ -574,3 +574,7 @@
 1. [从 30 分钟到 1 分钟：一个 Scala 项目的编译速度优化](https://weekly.manong.io/bounce?nid=283&aid=17919&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKC_my3H4big7eH2zWqb2lA)
 1. [一周 GitHub 开源项目推荐](https://weekly.manong.io/bounce?nid=283&aid=17923&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsdrEk5xx8rpHo9dHEIdaBw)
 1. [GitHub 带来的不止是开源，还有折叠的认知](https://weekly.manong.io/bounce?nid=283&aid=17927&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfxSpOEaJVm7-ydEy0fNqSQ)
+1. [美团 iOS 端开源框架 Graver 在动态化上的探索与实践](https://weekly.manong.io/bounce?nid=284&aid=18006&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPD9hnWv8B32ZCYj1UokUBA)
+1. [教你在 Node.js 项目中接入 Sign with Apple 第三方登录](https://weekly.manong.io/bounce?nid=284&aid=18015&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1hvrvz6)
+1. [声网 Agora 开源抗丢包音频编解码器 Agora SOLO](https://weekly.manong.io/bounce?nid=284&aid=17965&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwUbPaxM46w9YGVmiqpUm9Q)
+1. [[译] 开源：从社区到商业，如何构建开源商业模式](https://weekly.manong.io/bounce?nid=284&aid=17956&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYuIP_dk_I7SDtiJuLOUIAg)

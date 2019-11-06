@@ -541,3 +541,8 @@
 1. [一场 HBase 2.x 的写入性能优化之旅](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FprVjqWtsRHZC_IRDIPwYcg&aid=17771&nid=281)
 1. [终于把 MySQL 索引的那些事儿说清楚了](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_WOFmTxL9U-5TJk-3CZa7g&aid=17793&nid=281)
 1. [亿级数据从 MySQL 到 Hbase 的三种同步方案与实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyUHdBheleqjpr1sbcwnehA&aid=17862&nid=282)
+1. [万亿级日访问量下，Redis 在微博的 9 年优化历程](https://weekly.manong.io/bounce?nid=284&aid=17954&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyTDCXiWnHA6zvtqyH8kg7A)
+1. [面试官：怎么优化 SQL？](https://weekly.manong.io/bounce?nid=284&aid=17981&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fa4CWa_PjR7sPk5kS9ZyPpA)
+1. [SQLAlchemy 简明教程](https://weekly.manong.io/bounce?nid=284&aid=17983&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx7vmdln)
+1. [详解 Redis 内存管理机制和实现](https://weekly.manong.io/bounce?nid=284&aid=17990&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlHMprr7-OYkYTzCkzjec4w)
+1. [MySQL 的又一神器：锁](https://weekly.manong.io/bounce?nid=284&aid=17998&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftmzfqj0)

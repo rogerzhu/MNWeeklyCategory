@@ -433,3 +433,5 @@
 1. [ActionStage：iOS 消息通信、模块解耦的框架](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk3b7cxc&aid=17722&nid=280)
 1. [Facebook 发布 Detectron 2，下一个万星目标检测新框架](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkUNOE3u40NZmKxUSN7Ie8w&aid=17763&nid=281)
 1. [腾讯微服务框架 Tars 的 Go 性能提升之路](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FU-YVvA6W3EJ-g7FF9Y5Mug&aid=17875&nid=282)
+1. [美团 iOS 端开源框架 Graver 在动态化上的探索与实践](https://weekly.manong.io/bounce?nid=284&aid=18006&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPD9hnWv8B32ZCYj1UokUBA)
+1. [如何选型一个合适的框架：分布式任务调度框架选型](https://weekly.manong.io/bounce?nid=284&aid=17995&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA5Mjg2MDQ5NQ%3D%3D%26mid%3D2452509471%26idx%3D1%26sn%3Dde9953e7dc0798084ae5601834a6d84b)

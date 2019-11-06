@@ -579,3 +579,5 @@
 1. [去中心化的 RTC 通信平台架构设计](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsaAOhvxjOFMI6LUWMfF4iA&aid=17829&nid=282)
 1. [多云架构落地设计和实施方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUxNTEwNTg5Mg%3D%3D%26mid%3D2247488364%26idx%3D1%26sn%3Db22ade7308b660c95837c2ed21300fe0&aid=17830&nid=282)
 1. [IM 服务器设计：如何解决消息的乱序](https://weekly.manong.io/bounce?nid=283&aid=17893&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6fMO7ru-sV_eEAPu2UFUYQ)
+1. [我是如何进行架构设计的](https://weekly.manong.io/bounce?nid=284&aid=17952&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLoI21d6wN96wLU4CcYQ8wg)
+1. [区块链不仅是技术，更是新的机制设计](https://weekly.manong.io/bounce?nid=284&aid=17967&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHPjMBD9Z4ZZZZRyNqOW6_g)

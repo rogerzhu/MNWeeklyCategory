@@ -666,3 +666,5 @@
 1. [阿里官方解密：基于 NodeJS 的 Serverless 架构实践](https://weekly.manong.io/bounce?nid=283&aid=17894&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrR8VK7RodyCofOiSehF6fA)
 1. [HTTP 服务端架构演进](https://weekly.manong.io/bounce?nid=283&aid=17926&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHU0PxMaoSxSkQqzutVAdKg)
 1. [下一代容器架构已出，Docker 何去何处？](https://weekly.manong.io/bounce?nid=283&aid=17929&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoSeEjpgBxkpHNXAdV8YGmw)
+1. [我是如何进行架构设计的](https://weekly.manong.io/bounce?nid=284&aid=17952&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLoI21d6wN96wLU4CcYQ8wg)
+1. [跨界架构师](https://weekly.manong.io/bounce?nid=284&aid=18019&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F268968%23284)

@@ -682,3 +682,6 @@
 1. [iOS 基础知识实践（一）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fagh357q&aid=17869&nid=282)
 1. [macOS 使用 Homebrew 的经验分享](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv85t5sx&aid=17870&nid=282)
 1. [写给 Unity 开发者的 iOS 内存调试指南](https://weekly.manong.io/bounce?nid=283&aid=17910&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj5m47yp)
+1. [美团 iOS 端开源框架 Graver 在动态化上的探索与实践](https://weekly.manong.io/bounce?nid=284&aid=18006&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPD9hnWv8B32ZCYj1UokUBA)
+1. [iOS 底层拾遗：objc_msgSend 与方法缓存](https://weekly.manong.io/bounce?nid=284&aid=18007&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNVz_7ZzBrJrOLScmAIU8MA)
+1. [Mac 高效开发之 iTerm2、Prezto 和 Solarized 主题](https://weekly.manong.io/bounce?nid=284&aid=17969&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzds496n)

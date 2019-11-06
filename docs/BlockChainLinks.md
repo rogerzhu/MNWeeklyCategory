@@ -167,3 +167,7 @@
 1. [万向区块链肖风：由 Libra 引起的思考](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAiTfzawWUAufyUCFJmws6g&aid=17696&nid=280)
 1. [十分钟，在 Libra 区块链上发布一个代币：鸟币](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fphgxa74&aid=17842&nid=282)
 1. [为什么区块链会成为国家战略？](https://weekly.manong.io/bounce?nid=283&aid=17924&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfiWpTw6N7JJW84pGIx5SsQ)
+1. [区块链技术学习笔记](https://weekly.manong.io/bounce?nid=284&aid=18018&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F421924%23284)
+1. [区块链是什么](https://weekly.manong.io/bounce?nid=284&aid=17966&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7ukd7xu)
+1. [区块链不仅是技术，更是新的机制设计](https://weekly.manong.io/bounce?nid=284&aid=17967&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHPjMBD9Z4ZZZZRyNqOW6_g)
+1. [[译] 区块链火了，但你可能对它一知半解](https://weekly.manong.io/bounce?nid=284&aid=17968&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F63g9ygKJZ8UnRMFsqhYqyQ)

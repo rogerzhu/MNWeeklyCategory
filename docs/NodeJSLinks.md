@@ -128,3 +128,5 @@
 1. [如何加快 Node.js 应用的启动速度，实现分钟到毫秒的转化](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtbK63erZgMy5-RbhbAWgrw&aid=17742&nid=280)
 1. [企业最佳 Node.js 应用案例分享](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI1NjQ3MDc4MQ%3D%3D%26mid%3D2247483995%26idx%3D1%26sn%3Dd53b4deda87bd48e0b92ab012a46531b&aid=17744&nid=280)
 1. [阿里官方解密：基于 NodeJS 的 Serverless 架构实践](https://weekly.manong.io/bounce?nid=283&aid=17894&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrR8VK7RodyCofOiSehF6fA)
+1. [腾讯视频 Node.js 服务是如何支撑国庆阅兵直播高并发的？](https://weekly.manong.io/bounce?nid=284&aid=18014&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWKhALCAarFNOCQylBUryfQ)
+1. [教你在 Node.js 项目中接入 Sign with Apple 第三方登录](https://weekly.manong.io/bounce?nid=284&aid=18015&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1hvrvz6)

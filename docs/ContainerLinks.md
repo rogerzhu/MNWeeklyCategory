@@ -416,3 +416,6 @@
 1. [通过 TensorFlow serving 和 Kubernetes 部署你的机器学习模型](https://weekly.manong.io/bounce?nid=283&aid=17898&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw9217w6)
 1. [下一代容器架构已出，Docker 何去何处？](https://weekly.manong.io/bounce?nid=283&aid=17929&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoSeEjpgBxkpHNXAdV8YGmw)
 1. [推荐一个神器：对 k8s 的 yaml 部署清单按照类别进行排序](https://weekly.manong.io/bounce?nid=283&aid=17944&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxl8wbt8)
+1. [k8s技术圈](https://weekly.manong.io/bounce?nid=284&aid=18020&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F268333%23284)
+1. [记一次 Kafka 集群线上扩容](https://weekly.manong.io/bounce?nid=284&aid=17980&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn2dMrs21nUU15Vza0VV1pA)
+1. [为什么 K8s 需要 Volcano？](https://weekly.manong.io/bounce?nid=284&aid=17993&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_6WCgqxjTR1rAv8gQqNdWw)

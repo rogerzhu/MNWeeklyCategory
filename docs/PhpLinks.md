@@ -289,3 +289,4 @@
 1. [coredump 调试记录（PHP 篇）](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-VdusyL3d7vpZvNMDMQe_g&aid=17602&nid=278)
 1. [老王，Laravel 的请求怎么一步步到达控制器的？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FssjGemEOyLyL0vaJBN029g&aid=17735&nid=280)
 1. [PHP 反序列化靶机实战](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2bkCRZf6_An2fWEdXbHxrg&aid=17807&nid=281)
+1. [PHP 代码加密实践](https://weekly.manong.io/bounce?nid=284&aid=18008&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmVTAbm-qSSuDE7JWk0hMow)

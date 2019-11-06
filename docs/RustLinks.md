@@ -33,3 +33,4 @@
 1. [Rust 生命周期 bound 用于泛型的引用](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_-ETKS6-odhZW2n8-fw7ig&aid=16843&nid=268)
 1. [Rust 入坑指南：常规套路](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp9Tjj0tDla_kbojaSt5yOQ&aid=17819&nid=281)
 1. [[译] Rust 异步编程方式重大升级：新版 Tokio 如何提升 10 倍性能详解](https://weekly.manong.io/bounce?nid=283&aid=17918&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqLVKxzorLvFYxfjol01xNA)
+1. [Rust 入坑指南：千人千构](https://weekly.manong.io/bounce?nid=284&aid=18017&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fj8B9HnHbYf1cjiUtD-HcKQ)

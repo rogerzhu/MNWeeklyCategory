@@ -206,3 +206,5 @@
 1. [再也不怕面试官问你 Express 和 Koa 的区别了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fonz7s8s&aid=17856&nid=282)
 1. [我是如何拿到腾讯的实习 offer 并顺利转正的](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVz9N8f3oATe-kG3xtuKdnQ&aid=17827&nid=282)
 1. [字节跳动的三道编码面试题的实现](https://weekly.manong.io/bounce?nid=283&aid=17937&url=https%3A%2F%2Ftoutiao.io%2Fk%2F91o3frk)
+1. [面试官：怎么优化 SQL？](https://weekly.manong.io/bounce?nid=284&aid=17981&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fa4CWa_PjR7sPk5kS9ZyPpA)
+1. [面试官：“准备用 HashMap 存 1w 条数据，构造时传 10000 会触发扩容吗？”](https://weekly.manong.io/bounce?nid=284&aid=17991&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FT7e6SmO-VAN6i2XWCBNS7w)

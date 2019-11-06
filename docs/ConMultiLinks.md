@@ -225,3 +225,4 @@
 1. [EventBus 的几种线程切换细节](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaoZjtn5lufjJbsGNkJA6bg&aid=17635&nid=279)
 1. [《并发模式与应用实践》](https://weekly.manong.io/bounce?url=https%3A%2F%2Fitem.jd.com%2F12534315.html%3Fdist%3Djd&aid=17027&nid=279)
 1. [控制 Goroutine 的并发数量的方式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2a5pggg&aid=17740&nid=280)
+1. [腾讯视频 Node.js 服务是如何支撑国庆阅兵直播高并发的？](https://weekly.manong.io/bounce?nid=284&aid=18014&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWKhALCAarFNOCQylBUryfQ)

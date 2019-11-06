@@ -758,3 +758,8 @@
 1. [Android 基于 Choreographer 的渲染机制详解](https://weekly.manong.io/bounce?nid=283&aid=17907&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftrw8kcu)
 1. [安居客 Android App 走向平台化](https://weekly.manong.io/bounce?nid=283&aid=17908&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk4aeyzi)
 1. [Android 开发中 Kotlin Coroutines 如何优雅地处理异常](https://weekly.manong.io/bounce?nid=283&aid=17909&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy9uvtog)
+1. [Android 中的 “后台无效动画” 行为分析](https://weekly.manong.io/bounce?nid=284&aid=18002&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjpzkqdo)
+1. [Android 开发者，是时候了解 LeakCanary 了](https://weekly.manong.io/bounce?nid=284&aid=18003&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FplD0g16u0VEqVXDQJrhhpA)
+1. [关于 Android 编译，你需要了解什么](https://weekly.manong.io/bounce?nid=284&aid=18004&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh3oj51q)
+1. [Android 应用逻辑漏洞半自动化挖掘思路](https://weekly.manong.io/bounce?nid=284&aid=18005&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtFFe_LOs0e1Po8nj9ifmKg)
+1. [废旧 Android 手机如何改造成 Linux 服务器](https://weekly.manong.io/bounce?nid=284&aid=17979&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfpB8mrTDs8wGBkcXaHyoyA)

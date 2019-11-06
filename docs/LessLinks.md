@@ -19,3 +19,4 @@
 1. [Serverless 掀起新的前端技术变革](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8sctee&aid=17145&nid=272)
 1. [阿里官方解密：基于 NodeJS 的 Serverless 架构实践](https://weekly.manong.io/bounce?nid=283&aid=17894&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrR8VK7RodyCofOiSehF6fA)
 1. [2019 JSConf China《面向传统，Serverless 进化之路》分享文字版](https://weekly.manong.io/bounce?nid=283&aid=17931&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6sngx4f)
+1. [闲鱼前端基于 Serverless 的一种多端开发解决方案](https://weekly.manong.io/bounce?nid=284&aid=17987&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVLsVTe4ZyOJ9rNyVf5aXyg)

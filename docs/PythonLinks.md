@@ -601,3 +601,6 @@
 1. [从 KafkaConsumer 看看 Kafka（一）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk6c7sjx&aid=17848&nid=282)
 1. [追踪 Nginx ingress 最大打开文件数问题](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgyo2ij2&aid=17859&nid=282)
 1. [[译] Python 3 既是激进的又是克制的，这些提议被否决了](https://weekly.manong.io/bounce?nid=283&aid=17914&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDAFMeAEczL6oBG-0sfhvJQ)
+1. [作为一个 C/C++ 工程师，聊聊对 Python 的看法](https://weekly.manong.io/bounce?nid=284&aid=18000&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUkXs48iY0YTLoIJ2rrP2Ag)
+1. [Python 之父宣布退休，但 Python 仍在吞噬世界](https://weekly.manong.io/bounce?nid=284&aid=18009&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFbTZAGj1cpTnsAsDerAdEQ)
+1. [记一次 Kafka 集群线上扩容](https://weekly.manong.io/bounce?nid=284&aid=17980&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn2dMrs21nUU15Vza0VV1pA)

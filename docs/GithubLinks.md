@@ -131,3 +131,4 @@
 1. [一周 GitHub 开源项目推荐](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FL0tbkn_L5xVPcrWl-r03vw&aid=17839&nid=282)
 1. [一周 GitHub 开源项目推荐](https://weekly.manong.io/bounce?nid=283&aid=17923&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsdrEk5xx8rpHo9dHEIdaBw)
 1. [GitHub 带来的不止是开源，还有折叠的认知](https://weekly.manong.io/bounce?nid=283&aid=17927&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfxSpOEaJVm7-ydEy0fNqSQ)
+1. [用 Git 和 GitHub 提高效率的 10 个技巧](https://weekly.manong.io/bounce?nid=284&aid=17974&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKHQYz2dHvXVy69FsvYaMAw)

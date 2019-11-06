@@ -763,3 +763,5 @@
 1. [JVM CPU Profiler 技术原理及源码深度解析](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRKqmy8dw7B7WtQc6Xy2CLA&aid=17798&nid=281)
 1. [[译] JavaScript 工作原理：V8 编译器的优化](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F3HdutdFxd3De5tkH2pxqvw&aid=17816&nid=281)
 1. [Android 兼容 Java 8 语法特性的原理分析](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMxMcpJlqSEZRO0CssQglOg&aid=17866&nid=282)
+1. [[译] JVM 内存分析神器 MAT：Shallow Heap Vs Retained Heap 你理解的对吗？](https://weekly.manong.io/bounce?nid=284&aid=18001&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgHgePfSs1Nty7iJ-3IQNWw)
+1. [Go 语言出现后，Java 还是最佳选择吗？](https://weekly.manong.io/bounce?nid=284&aid=18010&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FK1us6aH-gjHsWGhQ3SulFg)
