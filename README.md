@@ -29,7 +29,7 @@
 | 甲 | 乙 | 丙 | 丁 | 戊 |
 | ------ | ------ | ------ | ------ | ------ |
 | [面试相关](docs/InterviewLinks.md) | [开源资料](docs/OpenSourceLinks.md) | [免费资源](docs/FreeLinks.md) | [PDF资料](docs/PDFLinks.md) | [翻译资料](docs/TranslateLinks.md) |
-| [演讲实录](docs/SpeechLinks.md) | ### | ### | ### | ### |
+| [演讲实录](docs/SpeechLinks.md) | [视频](docs/VideoLinks.md) | ### | ### | ### |
 
 ### 基础知识
 | 甲 | 乙 | 丙 | 丁 | 戊 |
