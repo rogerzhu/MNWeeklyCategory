@@ -13,7 +13,6 @@
 - 在尝试了好几种方法之后，我决定利用selenium + beautifulsoup做爬虫
 - 将所有的爬取下来的标题和url转化为markdown文件
 - 利用requests库除去不能访问的链接
-- ~~ 利用jieba分词做一个分词，按照频率记录出现频率最高的关键词~~
 - 人工筛选这些关键词，按照每个关键词尽量的分类，形成新的markdown分类文件
 - 为了更新，我利用了我的树莓派，每隔三天获取最新一期的列表，自动重复上述的一些步骤，只不过目前这个阶段在git push之前我还是得加入一些人工筛选
 
@@ -53,7 +52,7 @@
 | ------  | ------ | ------ | ------ | ------ |
 | [人工智能](docs/AILinks.md) | [小程序](docs/MiniProgramLinks.md) | [爬虫相关](docs/CrawlerLinks.md) | [游戏开发](docs/GameLinks.md) | [大数据](docs/BigDataLinks.md) |
 | [嵌入式](docs/EmbededLinks.md) | [容器/k8s](docs/ContainerLinks.md) | [区块链](docs/BlockChainLinks.md) | [Elasticsearch](docs/ElasticsearchLinks.md) | [微服务](docs/MicroServiceLinks.md) |
-| [Restful API](docs/RestfulAPILinks.md) | ### | ### | ### | ### |
+| [Restful API](docs/RestfulAPILinks.md) | [优化](docs/OptimizationLinks.md) | ### | ### | ### |
 
 ### 工具相关
 | 甲 | 乙 | 丙 | 丁 | 戊 |
