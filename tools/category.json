@@ -349,6 +349,12 @@
             "fileName":"OptimizationLinks.md"
         },
         {
+            "keywords":"推荐系统",
+            "filters":["推荐系统","推荐算法"],
+            "rejecters":[],
+            "fileName":"RecommandSysLinks.md"
+        },
+        {
             "keywords":"GitHub",
             "filters":["github"],
             "rejecters":[],
