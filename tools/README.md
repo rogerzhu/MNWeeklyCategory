@@ -6,10 +6,11 @@
 pip3 install selenium
 pip3 install requests
 pip3 install BeautifulSoup4
+pip3 install fake-useragent
 pip3 install click
 ```
 
-前三个都是爬虫和解析所要用的工具，第四个是强大的python命令行构建工具
+前四个都是爬虫和解析所要用的工具，第四个是强大的python命令行构建工具
 
 除了这些，还需要安装一个webdriver，而这个是根据你对浏览器的喜好和系统选择的，具体的可以参照下面：
 * [Chrome](http://chromedriver.storage.googleapis.com/index.html)

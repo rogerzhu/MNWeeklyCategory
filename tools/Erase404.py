@@ -7,7 +7,13 @@ import os
 import click 
 from threading import Thread
 import time
+import fake_useragent
+from random import randint
 
+def get_header():
+    location = os.getcwd() + '/agent.json'
+    ua = fake_useragent.UserAgent(path=location)
+    return ua.random
 
 def CountMDFileInAFolder(folder):
     file_names = os.listdir(folder)
@@ -57,7 +63,8 @@ def DeleteUnreachableCore(file_name):
         print(real_url)
         if not 'toutiao.io' in real_url:
             try:
-                r = requests.get(real_url,timeout=15)
+                headers={"User-Agent":get_header()}
+                r = requests.get(real_url,timeout=15,headers = headers)
                 print(r.status_code)
                 if r.status_code == 200:
                     with open('./filtered/'+ file_name,'a+') as w:
