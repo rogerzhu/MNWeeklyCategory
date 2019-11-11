@@ -1,3 +1,7 @@
+#! /usr/local/bin/python3
+# coding:utf-8
+# author:rogerzhu@126.com
+
 import os
 import click
 

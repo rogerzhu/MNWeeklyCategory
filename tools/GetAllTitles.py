@@ -1,5 +1,6 @@
 #! /usr/local/bin/python3
 # coding:utf-8
+# author:rogerzhu@126.com
 
 from selenium import webdriver
 from time import sleep
