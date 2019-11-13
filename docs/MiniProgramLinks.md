@@ -110,7 +110,6 @@
 1. [当微信小程序遇上 TensorFlow：官方文档](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fly4byGD34nOiXHC6LJnlKg&aid=17021&nid=271)
 1. [随手开源一个微信小程序仪表盘组件](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp2aval&aid=17153&nid=272)
 1. [小程序底层实现原理及一些思考](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEbO7Wp6s29X9YliA2M-iCg&aid=17669&nid=279)
-1. [小程序底层实现原理及一些思考](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbzz1t29&aid=17693&nid=280)
 1. [小程序云开发尝试：CP 宝](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2q9o38z&aid=17883&nid=282)
 1. [微信小程序和 Jenkins 不得不说的二三事](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fm-m4tqIjbh9A2XTDQsV9Og&aid=17849&nid=282)
 1. [如何开发微信小程序打车应用](https://weekly.manong.io/bounce?nid=284&aid=17975&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FObR__SOz40y0TCnWsAfRWw)

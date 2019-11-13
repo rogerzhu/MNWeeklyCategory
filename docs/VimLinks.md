@@ -3,7 +3,6 @@
 1. [无插件 Vim 编程技巧（@左耳朵耗子）](https://weekly.manong.io/bounce?url=http%3A%2F%2Fcoolshell.cn%2Farticles%2F11312.html&aid=841&nid=25)
 1. [Vim 插件合集](https://weekly.manong.io/bounce?url=http%3A%2F%2Fvimawesome.com%2F&aid=1226&nid=37)
 1. [Vim Plug - 一个极简的 Vim 插件管理器](https://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fjunegunn%2Fvim-plug%2F&aid=1466&nid=45)
-1. [Vim 插件合集](https://weekly.manong.io/bounce?url=http%3A%2F%2Fvimawesome.com%2F&aid=1226&nid=56)
 1. [像 IDE 一样使用 Vim (yangyang.gnu)](https://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fyangyangwithgnu%2Fuse_vim_as_ide&aid=1879&nid=60)
 1. [边玩边学 Vim](https://weekly.manong.io/bounce?url=http%3A%2F%2Fvim-adventures.com%2F&aid=2026&nid=64)
 1. [Spacemacs：将 Emacs 和 Vim 合二为一 (Sylvain Benner)](https://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fsyl20bnr%2Fspacemacs&aid=2152&nid=67)
@@ -42,5 +41,4 @@
 1. [7 种提高工作效率的 Vim 操作](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkj3z2v&aid=16484&nid=264)
 1. [vim-web：像 IDE 一样的 Vim，安装配置自己的 Vim](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn7b4cb&aid=16642&nid=266)
 1. [Vim 从小白到入门](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F586ua1p&aid=17567&nid=278)
-1. [Vim教程网](https://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F389874%23280&aid=17745&nid=280)
 1. [Vim 漫游键，为什么不设定左手？介绍一种 5x 倍速漫游方式](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWfsVy9nlihqYIzrqiIj6qA&aid=17858&nid=282)

@@ -1,5 +1,4 @@
 1. [Write less（Elliot Nash）](https://weekly.manong.io/bounce?url=http%3A%2F%2Fgetnashty.com%2Fwrite-less&aid=59&nid=4)
-1. [Write less（Elliot Nash）](https://weekly.manong.io/bounce?url=http%3A%2F%2Fgetnashty.com%2Fwrite-less&aid=59&nid=16)
 1. [Serverless 简介](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg1lnlz&aid=8115&nid=145)
 1. [[译] 十分钟入门 Less](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpn9za4&aid=8162&nid=146)
 1. [vue-cnode：基于 vue2 + vue-router + vuex + ES6 + less + flex.css 重写 vue 版 cnode 社区](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl327n0&aid=8317&nid=148)
@@ -13,7 +12,6 @@
 1. [零基础玩转 Serverless](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwi75xe&aid=12305&nid=204)
 1. [[译] 当我们说区块链 “Trsutless” 时，是什么意思？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHVn57m-q-IaqiJNz7-vnCw&aid=13072&nid=215)
 1. [[译] 评估 Kubernetes 中的 Serverless 框架](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRL4d_-pMaGup5BFxCnTL-g&aid=14690&nid=239)
-1. [零基础玩转 Serverless](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUcyEnwd20XnlYsPMVZ1iug&aid=14959&nid=244)
 1. [[译] 未来我们对微服务和 Serverless 架构有什么期望](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhhX7DAkwutP5siew1NUBDg&aid=15866&nid=257)
 1. [支付宝小程序 Serverless 服务架构演进](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMDk2MzUzMQ%3D%3D%26mid%3D2247484320%26idx%3D1%26sn%3Dd0fb43b53c5a08572e095cc073517b3f&aid=16166&nid=261)
 1. [Serverless 掀起新的前端技术变革](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8sctee&aid=17145&nid=272)

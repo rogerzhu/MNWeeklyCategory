@@ -1,6 +1,5 @@
 1. [大量免费的基于 Bootstrap 的 HTML 模板](https://weekly.manong.io/bounce?url=http%3A%2F%2Fstartbootstrap.com%2F&aid=55&nid=4)
 1. [Android Bootstrap](https://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FBearded-Hen%2FAndroid-Bootstrap&aid=170&nid=9)
-1. [大量免费的基于 Bootstrap 的 HTML 模板](https://weekly.manong.io/bounce?url=http%3A%2F%2Fstartbootstrap.com%2F&aid=55&nid=16)
 1. [多款免费好看的 Bootstrap 主题 ](https://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.blacktie.co%2F&aid=373&nid=17)
 1. [免费的 Bootstrap 3 UI 工具包](https://weekly.manong.io/bounce?url=http%3A%2F%2Fbootstrapuikit.com%2F&aid=454&nid=19)
 1. [Bootstrap 3.1 正式版发布](https://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Ftwbs%2Fbootstrap%2Freleases%2Ftag%2Fv3.1.0&aid=493&nid=20)

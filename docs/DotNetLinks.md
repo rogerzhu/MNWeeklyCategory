@@ -18,7 +18,6 @@
 1. [.net技术精选](https://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F4870&aid=8434&nid=150)
 1. [大话.NET平台](https://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F116492%23161&aid=9219&nid=161)
 1. [.NET 平台常用的框架整理](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fakac99&aid=9624&nid=167)
-1. [大话.NET平台](https://weekly.manong.io/bounce?url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F116492%23175&aid=10197&nid=175)
 1. [跨境电商平台为何抛弃 C# 转投 Go 的怀抱](https://weekly.manong.io/bounce?url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4lV0EwrwGsnUKiYwb3dMjw&aid=10506&nid=180)
 1. [C# 内存与性能优化](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbYZqOZD0WDVK_o8W6ygG5A&aid=10509&nid=180)
 1. [ASP.NET MVC 插件化开发简化方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdct4by&aid=10610&nid=181)

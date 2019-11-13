@@ -2,8 +2,6 @@
 1. [马化腾 WE 大会演讲稿官方完整版](https://weekly.manong.io/bounce?url=http%3A%2F%2Fp.t.qq.com%2Flongweibo%2Fpage.php%3Fid%3D314489003153716%26lid%3D8466589935109084613&aid=174&nid=9)
 1. [Spark Summit 2013 演讲稿](https://weekly.manong.io/bounce?url=http%3A%2F%2Fspark-summit.org%2Fagenda%2F&aid=246&nid=12)
 1. [Percona Live MySQL London 2013 大会演讲稿](https://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.percona.com%2Flive%2Flondon-2013%2Fslides&aid=247&nid=12)
-1. [张小龙2011年在华中科大的演讲实录](https://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.36kr.com%2Fp%2F206006.html&aid=14&nid=16)
-1. [马化腾 WE 大会演讲稿官方完整版](https://weekly.manong.io/bounce?url=http%3A%2F%2Fp.t.qq.com%2Flongweibo%2Fpage.php%3Fid%3D314489003153716%26lid%3D8466589935109084613&aid=174&nid=16)
 1. [杭 JS 2014 演讲视频合集](https://weekly.manong.io/bounce?url=http%3A%2F%2Fcnodejs.org%2Ftopic%2F53bbc408a3ccaece73467f11&aid=1254&nid=38)
 1. [[视频] DockerCon 2014 Solomon Hykes 主题演讲（中文字幕）](https://weekly.manong.io/bounce?url=http%3A%2F%2Fv.youku.com%2Fv_show%2Fid_XNzQ2NDk1NTE2.html&aid=1287&nid=39)
 1. [CppCon 2015 大会演讲资料 (CppCon)](https://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2FCppCon%2FCppCon2015%3Fhmsr%3Dtoutiao.io%26utm_medium%3Dtoutiao.io%26utm_source%3Dtoutiao.io&aid=3856&nid=90)

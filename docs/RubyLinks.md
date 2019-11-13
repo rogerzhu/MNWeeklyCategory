@@ -11,7 +11,6 @@
 1. [Ruby 入门教程 (Steve Klabnik)](https://weekly.manong.io/bounce?url=http%3A%2F%2Fhowistart.org%2Fposts%2Fruby%2F1&aid=1400&nid=43)
 1. [Ruby on Rails 教程（第 3 版） (Michael Hartl)](https://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.railstutorial.org%2Fbook&aid=1535&nid=48)
 1. [试译 Ruby 源码解读 (gyorou)](https://weekly.manong.io/bounce?url=https%3A%2F%2Fruby-china.org%2Ftopics%2F22386&aid=1600&nid=50)
-1. [Cache 在 Ruby China 里面的应用 (@huacnlee)](https://weekly.manong.io/bounce?url=https%3A%2F%2Fruby-china.org%2Ftopics%2F19436&aid=1082&nid=56)
 1. [[译] Ruby 2.2 中的增量式垃圾回收 (alex_marmot)](https://weekly.manong.io/bounce?url=https%3A%2F%2Fruby-china.org%2Ftopics%2F24242&aid=1945&nid=62)
 1. [mediom - 用 Go 编写的 Ruby China (@huacnlee)](https://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fhuacnlee%2Fmediom&aid=1962&nid=62)
 1. [Ruby 探针的基本实现原理 (李哲)](https://weekly.manong.io/bounce?url=http%3A%2F%2Fcode.oneapm.com%2Fruby%2F2015%2F05%2F13%2Fknowledge-behind-ruby-agent%2F&aid=2324&nid=71)
@@ -33,5 +32,4 @@
 1. [Ruby/Rails 为什么不如以前热门了？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuzg1fh&aid=8606&nid=153)
 1. [[译] 高级元编程指南：创建一个 Ruby DSL（上）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpobt3y&aid=10439&nid=179)
 1. [Ruby Web 服务器的并发模型与性能](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxklfo7&aid=11454&nid=193)
-1. [以太坊 Go、Java、Python、Ruby、JS 客户端介绍](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0pltjr&aid=13541&nid=222)
 1. [[译] 作为普通 Ruby 开发，我如何从零转型机器学习](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsgtaY8Aj2fFH0J-MaL6RGA&aid=14318&nid=234)

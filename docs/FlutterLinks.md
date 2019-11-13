@@ -103,7 +103,6 @@
 1. [Flutter 之搞定 Dart（二）](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxdSYvqSYOXTOCeb89C1uvg&aid=17639&nid=279)
 1. [Flutter 开发初体验](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUU2WO_YSoobthTTbniBm5Q&aid=17732&nid=280)
 1. [如何在 Flutter 上实现高性能的动态模板渲染](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfX6DtXYtKw0hFqf7t---eA&aid=17733&nid=280)
-1. [《Flutter技术入门与实战》](https://weekly.manong.io/bounce?url=https%3A%2F%2Fitem.jd.com%2F12526484.html&aid=16594&nid=280)
 1. [Flutter 实战之从 0 搭建「网易云音乐」App（一）：创建项目、添加插件、通用代码](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fh3d9png9fpmyHZO-y4RvfQ&aid=17805&nid=281)
 1. [Flutter 的布局 Widget](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fw33dctz-TmaYBZ9hXr4oig&aid=17806&nid=281)
 1. [闲鱼公开多年 Flutter 实践经验](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRzvJeT_w69oZJmS9JHGBCg&aid=17872&nid=282)

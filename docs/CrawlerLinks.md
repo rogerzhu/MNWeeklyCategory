@@ -1,7 +1,6 @@
 1. [[译] Scrapy v0.22 中文文档 (@marchtea)](https://weekly.manong.io/bounce?url=http%3A%2F%2Fscrapy-chs.readthedocs.org%2Fzh_CN%2Flatest%2F&aid=956&nid=28)
 1. [Python 网页爬虫 & 文本处理 & 科学计算 & 机器学习 & 数据挖掘兵器谱 (@52nlp)](https://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.52nlp.cn%2Fpython-%25E7%25BD%2591%25E9%25A1%25B5%25E7%2588%25AC%25E8%2599%25AB-%25E6%2596%2587%25E6%259C%25AC%25E5%25A4%2584%25E7%2590%2586-%25E7%25A7%2591%25E5%25AD%25A6%25E8%25AE%25A1%25E7%25AE%2597-%25E6%259C%25BA%25E5%2599%25A8%25E5%25AD%25A6%25E4%25B9%25A0-%25E6%2595%25B0%25E6%258D%25AE%25E6%258C%2596%25E6%258E%2598&aid=1278&nid=39)
 1. [pyspider - 一个 Python 实现的强大的爬虫系统 (binux)](https://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fbinux%2Fpyspider&aid=1644&nid=51)
-1. [pyspider - 一个 Python 实现的强大的爬虫系统 (binux)](https://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fbinux%2Fpyspider&aid=1644&nid=56)
 1. [scrape：一个简单、更高层次的 Web 爬虫接口（Golang） (yhat)](https://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fyhat%2Fscrape&aid=2525&nid=74)
 1. [Pholcus - 一款纯 Go 语言编写的重量级爬虫软件 (henrylee2cn)](https://weekly.manong.io/bounce?url=https%3A%2F%2Fgithub.com%2Fhenrylee2cn%2Fpholcus&aid=2642&nid=76)
 1. [Python 3 爬虫之入门和正则表达式 (一条青尾鱼peace)](https://weekly.manong.io/bounce?url=http%3A%2F%2Frlovep.com%2F2015%2F09%2F23%2Fpython3%25E7%2588%25AC%25E8%2599%25AB%25E4%25B9%258B%25E5%2585%25A5%25E9%2597%25A8%25E5%2592%258C%25E6%25AD%25A3%25E5%2588%2599%25E8%25A1%25A8%25E8%25BE%25BE%25E5%25BC%258F%2F%3Fhmsr%3Dtoutiao.io%26utm_medium%3Dtoutiao.io%26utm_source%3Dtoutiao.io&aid=3862&nid=90)
