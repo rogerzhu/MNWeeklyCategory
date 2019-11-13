@@ -19,7 +19,7 @@ def CountMDFileInAFolder(folder):
 
 @click.command()
 @click.option('--folder', default='.',
-              help='he folder name to omit duplications of markdowns.')
+              help='the folder name to omit duplications of markdowns.')
 def OmitDup(folder):
     if not os.path.exists('nodup'):
         os.mkdir('nodup')
@@ -45,12 +45,9 @@ def OmitDupCore(folder, file_name):
     with open(folder + '/' + file_name, 'r') as r:
         for line in r:
             title = line[line.find('[')+1:line.rfind(']')]
-            print(title)
             if title not in no_dup_titles:
                 no_dup_titles.append(title)
                 no_dup_lines_content.append(line)
-            else:
-                print("duplicated!")
 
     w = open('./NoDup/' + file_name, 'a+')
     for line in no_dup_lines_content:
