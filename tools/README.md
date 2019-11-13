@@ -169,12 +169,12 @@ Options:
 这个文件是后面加入的，原因是发现在前面形成的markdown文件中有时候会出现重复项，原因我猜应该是小编们在整理文章时很难记得在之前其实已经被选入过了。比如有一个文章在第16期被选中了，而后在36期又被选中了，其中差了20期。按照码农周刊的更新频率，这至少得5个月了，让一个人记得这么久的内容显然不现实。这个去重其实可以在最先做，但这是开挂的视角看待这个问题，因为我发现这个已经是有大量整理好的文件了。本着我自己前面说的要keep it simple，stupid的原则，我选择了再搞一个功能单一的文件。
 
 用法很简单，使用`python3 ./OmitDup.py --help`可以看到如下内容：
-'''
+```
 Usage: OmitDup.py [OPTIONS]
 Options:
   --folder TEXT  the folder name to omit duplications of markdowns.
   --help         Show this message and exit.
-'''
+```
 
 该程序会搜索folder路径下面所有md结尾的文件，然后对他们进行去重操作，当然，是多线程的。
 
