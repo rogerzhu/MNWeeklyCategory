@@ -39,7 +39,7 @@ def DeleteUnreachable(folder):
 
     for x in range(len(md_file_names)):
         thread = Thread(target=DeleteUnreachableCore,
-                        args=(md_file_names[x], ))
+                        args=(folder, md_file_names[x], ))
         threads.append(thread)
         thread.start()
 
@@ -47,8 +47,8 @@ def DeleteUnreachable(folder):
         thread.join()
 
 
-def DeleteUnreachableCore(file_name):
-    r = open(file_name, 'r')
+def DeleteUnreachableCore(folder, file_name):
+    r = open(folder + '/' + file_name, 'r')
 
     for line in r:
         # modified because the url format changed from serires #283
