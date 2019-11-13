@@ -208,3 +208,4 @@
 1. [字节跳动的三道编码面试题的实现](https://weekly.manong.io/bounce?nid=283&aid=17937&url=https%3A%2F%2Ftoutiao.io%2Fk%2F91o3frk)
 1. [面试官：怎么优化 SQL？](https://weekly.manong.io/bounce?nid=284&aid=17981&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fa4CWa_PjR7sPk5kS9ZyPpA)
 1. [面试官：“准备用 HashMap 存 1w 条数据，构造时传 10000 会触发扩容吗？”](https://weekly.manong.io/bounce?nid=284&aid=17991&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FT7e6SmO-VAN6i2XWCBNS7w)
+1. [互联网 8 年技术老兵的近期面试有感](https://weekly.manong.io/bounce?nid=285&aid=18025&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLwfdhLaQxvq20fPJPCrUdw)

@@ -356,3 +356,6 @@
 1. [从 30 分钟到 1 分钟：一个 Scala 项目的编译速度优化](https://weekly.manong.io/bounce?nid=283&aid=17919&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKC_my3H4big7eH2zWqb2lA)
 1. [万亿级日访问量下，Redis 在微博的 9 年优化历程](https://weekly.manong.io/bounce?nid=284&aid=17954&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyTDCXiWnHA6zvtqyH8kg7A)
 1. [面试官：怎么优化 SQL？](https://weekly.manong.io/bounce?nid=284&aid=17981&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fa4CWa_PjR7sPk5kS9ZyPpA)
+1. [Android 静态代码扫描效率优化与实践](https://weekly.manong.io/bounce?nid=285&aid=18059&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcY6rUrrjYRaIV--UzjiUgA)
+1. [CSS 渲染原理以及优化策略](https://weekly.manong.io/bounce?nid=285&aid=18071&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxvcmm9p)
+1. [MySQL 性能优化指南](https://weekly.manong.io/bounce?nid=285&aid=18033&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3p752yb)

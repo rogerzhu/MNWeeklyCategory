@@ -578,3 +578,5 @@
 1. [教你在 Node.js 项目中接入 Sign with Apple 第三方登录](https://weekly.manong.io/bounce?nid=284&aid=18015&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1hvrvz6)
 1. [声网 Agora 开源抗丢包音频编解码器 Agora SOLO](https://weekly.manong.io/bounce?nid=284&aid=17965&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwUbPaxM46w9YGVmiqpUm9Q)
 1. [[译] 开源：从社区到商业，如何构建开源商业模式](https://weekly.manong.io/bounce?nid=284&aid=17956&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYuIP_dk_I7SDtiJuLOUIAg)
+1. [[译] Go 开源项目 BigCache 如何加速并发访问以及避免高额的 GC 开销](https://weekly.manong.io/bounce?nid=285&aid=18069&url=https%3A%2F%2Ftoutiao.io%2Fk%2F90vmyb6)
+1. [关于引入开源技术的一些建议](https://weekly.manong.io/bounce?nid=285&aid=18043&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0k1wmqp)

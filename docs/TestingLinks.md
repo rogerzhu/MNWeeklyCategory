@@ -228,3 +228,4 @@
 1. [月薪 20k+ 的测试工程师都会这项技能！](https://weekly.manong.io/bounce?url=http%3A%2F%2Fwww.broadview.com.cn%2Farticle%2F419574%3Fhmsr%3Dtoutiao.io%26utm_medium%3Dtoutiao.io%26utm_source%3Dtoutiao.io&aid=17832&nid=282)
 1. [少年，单元测试的两个流派了解下](https://weekly.manong.io/bounce?nid=283&aid=17943&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5SruD251ZRugTGq3auDyIw)
 1. [软件测试人员应具备哪些能力？](https://weekly.manong.io/bounce?nid=284&aid=17989&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fgnubud1RMgxVPX1IrYI_3w)
+1. [seven的测试人生](https://weekly.manong.io/bounce?nid=285&aid=18084&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F38921%23285)

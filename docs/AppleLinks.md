@@ -685,3 +685,6 @@
 1. [美团 iOS 端开源框架 Graver 在动态化上的探索与实践](https://weekly.manong.io/bounce?nid=284&aid=18006&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPD9hnWv8B32ZCYj1UokUBA)
 1. [iOS 底层拾遗：objc_msgSend 与方法缓存](https://weekly.manong.io/bounce?nid=284&aid=18007&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNVz_7ZzBrJrOLScmAIU8MA)
 1. [Mac 高效开发之 iTerm2、Prezto 和 Solarized 主题](https://weekly.manong.io/bounce?nid=284&aid=17969&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzds496n)
+1. [多线程原理：了解 GCD（iOS）](https://weekly.manong.io/bounce?nid=285&aid=18062&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgbhe0cd)
+1. [Mac OS 上使用 ffmpeg 的 “血泪” 总结](https://weekly.manong.io/bounce?nid=285&aid=18063&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FI9GB88-mrXGa1FtU1j4UzQ)
+1. [[译] 用 Flutter 打包 iOS 应用的一些细节知识](https://weekly.manong.io/bounce?nid=285&aid=18064&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPsvVFoB91_jGzibFPIwnIw)

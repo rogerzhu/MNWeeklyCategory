@@ -112,3 +112,5 @@
 1. [跨平台技术演进及 Flutter 未来](https://weekly.manong.io/bounce?nid=283&aid=17911&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUZQU-PWM5JEb3dYtZKT6Cw)
 1. [Flutter 在京东 7FRESH 的业务实践](https://weekly.manong.io/bounce?nid=283&aid=17912&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FN2W3u0Od7WgLretuE5T8RA)
 1. [[译] 写一款小众的 Flutter 图标包](https://weekly.manong.io/bounce?nid=283&aid=17913&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvD6q3pIkJKqFtFz36AX3OA)
+1. [[译] 用 Flutter 打包 iOS 应用的一些细节知识](https://weekly.manong.io/bounce?nid=285&aid=18064&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPsvVFoB91_jGzibFPIwnIw)
+1. [做一个高一致性、高性能的 Flutter 动态渲染，真的很难么？](https://weekly.manong.io/bounce?nid=285&aid=18065&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FR6IxJqawwbmlWvlwb3ZXww)

@@ -581,3 +581,6 @@
 1. [IM 服务器设计：如何解决消息的乱序](https://weekly.manong.io/bounce?nid=283&aid=17893&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6fMO7ru-sV_eEAPu2UFUYQ)
 1. [我是如何进行架构设计的](https://weekly.manong.io/bounce?nid=284&aid=17952&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLoI21d6wN96wLU4CcYQ8wg)
 1. [区块链不仅是技术，更是新的机制设计](https://weekly.manong.io/bounce?nid=284&aid=17967&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHPjMBD9Z4ZZZZRyNqOW6_g)
+1. [超越 “双十一”：ebay 百万 TPS 支付账务系统的设计与实现](https://weekly.manong.io/bounce?nid=285&aid=18029&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsbHPxzIqv_dRn555XzE5mw)
+1. [开发可伸缩系统必须遵守这 11 个软件设计原则](https://weekly.manong.io/bounce?nid=285&aid=18030&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjhruPpGCdT5VYx-ZHCPrpg)
+1. [日志系统的设计](https://weekly.manong.io/bounce?nid=285&aid=18045&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F3hM-k8FwxQU4sjYWuN6wfg)

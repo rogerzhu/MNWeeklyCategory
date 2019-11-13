@@ -290,3 +290,4 @@
 1. [老王，Laravel 的请求怎么一步步到达控制器的？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FssjGemEOyLyL0vaJBN029g&aid=17735&nid=280)
 1. [PHP 反序列化靶机实战](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2bkCRZf6_An2fWEdXbHxrg&aid=17807&nid=281)
 1. [PHP 代码加密实践](https://weekly.manong.io/bounce?nid=284&aid=18008&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmVTAbm-qSSuDE7JWk0hMow)
+1. [PHP Opcache 工作原理](https://weekly.manong.io/bounce?nid=285&aid=18066&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fd2cg38j)

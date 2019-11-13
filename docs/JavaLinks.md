@@ -765,3 +765,5 @@
 1. [Android 兼容 Java 8 语法特性的原理分析](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMxMcpJlqSEZRO0CssQglOg&aid=17866&nid=282)
 1. [[译] JVM 内存分析神器 MAT：Shallow Heap Vs Retained Heap 你理解的对吗？](https://weekly.manong.io/bounce?nid=284&aid=18001&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgHgePfSs1Nty7iJ-3IQNWw)
 1. [Go 语言出现后，Java 还是最佳选择吗？](https://weekly.manong.io/bounce?nid=284&aid=18010&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FK1us6aH-gjHsWGhQ3SulFg)
+1. [作为高级 Java，你应该了解的 Linux 知识](https://weekly.manong.io/bounce?nid=285&aid=18057&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1XSbEmbIYTfn_UdyNecH6Q)
+1. [初创公司 5 大 Java 服务困局，阿里工程师如何打破？](https://weekly.manong.io/bounce?nid=285&aid=18058&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUJ2yy7pb8EXZSlQVJIymBg)

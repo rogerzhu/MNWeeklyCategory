@@ -541,3 +541,5 @@
 1. [通用高效字符串匹配：Sunday 算法](https://weekly.manong.io/bounce?nid=283&aid=17938&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl26v2ko)
 1. [[译] JVM 内存分析神器 MAT：Shallow Heap Vs Retained Heap 你理解的对吗？](https://weekly.manong.io/bounce?nid=284&aid=18001&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgHgePfSs1Nty7iJ-3IQNWw)
 1. [刷 14 道 LeetCode 的总结](https://weekly.manong.io/bounce?nid=284&aid=17970&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUzNjAxODg4MQ%3D%3D%26mid%3D2247485060%26idx%3D1%26sn%3D02720887a28154ede413f85fa0af29f6)
+1. [饿了么交付中心语言栈转型总结](https://weekly.manong.io/bounce?nid=285&aid=18046&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRC6IWqhW36QUcjKom7qM8w)
+1. [分布式唯一 ID 之 Snowflake 算法](https://weekly.manong.io/bounce?nid=285&aid=18055&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fazcxobo)

@@ -604,3 +604,4 @@
 1. [作为一个 C/C++ 工程师，聊聊对 Python 的看法](https://weekly.manong.io/bounce?nid=284&aid=18000&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUkXs48iY0YTLoIJ2rrP2Ag)
 1. [Python 之父宣布退休，但 Python 仍在吞噬世界](https://weekly.manong.io/bounce?nid=284&aid=18009&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFbTZAGj1cpTnsAsDerAdEQ)
 1. [记一次 Kafka 集群线上扩容](https://weekly.manong.io/bounce?nid=284&aid=17980&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn2dMrs21nUU15Vza0VV1pA)
+1. [《Python 数据分析与挖掘实战》](https://weekly.manong.io/bounce?nid=285&aid=18086&url=https%3A%2F%2Fitem.jd.com%2F11821937.html)

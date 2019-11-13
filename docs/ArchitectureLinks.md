@@ -668,3 +668,4 @@
 1. [下一代容器架构已出，Docker 何去何处？](https://weekly.manong.io/bounce?nid=283&aid=17929&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoSeEjpgBxkpHNXAdV8YGmw)
 1. [我是如何进行架构设计的](https://weekly.manong.io/bounce?nid=284&aid=17952&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLoI21d6wN96wLU4CcYQ8wg)
 1. [跨界架构师](https://weekly.manong.io/bounce?nid=284&aid=18019&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F268968%23284)
+1. [学习 sentry 源码整体架构，打造属于自己的前端异常监控 SDK](https://weekly.manong.io/bounce?nid=285&aid=18039&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjkkJMkApuw_uKtG81QWw_Q)

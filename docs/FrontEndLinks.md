@@ -430,3 +430,5 @@
 1. [写给前端工程师看的 Docker 教程（实战篇）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxz4ysjv&aid=17787&nid=281)
 1. [起底阿里完整前端技术体系](https://weekly.manong.io/bounce?nid=283&aid=17939&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFr2V283GT_yvx8xqAVOn5A)
 1. [闲鱼前端基于 Serverless 的一种多端开发解决方案](https://weekly.manong.io/bounce?nid=284&aid=17987&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVLsVTe4ZyOJ9rNyVf5aXyg)
+1. [学习 sentry 源码整体架构，打造属于自己的前端异常监控 SDK](https://weekly.manong.io/bounce?nid=285&aid=18039&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjkkJMkApuw_uKtG81QWw_Q)
+1. [Winter：前端团队的成长](https://weekly.manong.io/bounce?nid=285&aid=18040&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwRF-D2_m_L02enCntmF9cQ)

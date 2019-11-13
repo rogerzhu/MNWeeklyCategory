@@ -546,3 +546,5 @@
 1. [SQLAlchemy 简明教程](https://weekly.manong.io/bounce?nid=284&aid=17983&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx7vmdln)
 1. [详解 Redis 内存管理机制和实现](https://weekly.manong.io/bounce?nid=284&aid=17990&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlHMprr7-OYkYTzCkzjec4w)
 1. [MySQL 的又一神器：锁](https://weekly.manong.io/bounce?nid=284&aid=17998&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftmzfqj0)
+1. [MySQL 性能优化指南](https://weekly.manong.io/bounce?nid=285&aid=18033&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3p752yb)
+1. [宜信的 105 条数据库军规](https://weekly.manong.io/bounce?nid=285&aid=18051&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fd522quy)

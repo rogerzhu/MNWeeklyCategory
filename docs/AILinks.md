@@ -1174,3 +1174,7 @@
 1. [深度学习推理引擎的一些思考](https://weekly.manong.io/bounce?nid=283&aid=17900&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fht3rzgl)
 1. [你所不知道的 AI 进展](https://weekly.manong.io/bounce?nid=284&aid=17959&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9_0bQwl_r5hXyff8-BEk2g)
 1. [机器学习进阶之路](https://weekly.manong.io/bounce?nid=284&aid=18021&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F160579%23284)
+1. [蚂蚁金服有哪些金融特色的机器学习技术？](https://weekly.manong.io/bounce?nid=285&aid=18073&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHwGGOaIGysuPY404pRQ4-g)
+1. [携程度假智能客服机器人背后是这么玩的](https://weekly.manong.io/bounce?nid=285&aid=18074&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4rlpTSNX9XrqPTJ5ufPm5w)
+1. [利用深度学习识别滑动验证码缺口位置](https://weekly.manong.io/bounce?nid=285&aid=18075&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZUPEFMj2ml9h49LnKqwwTg)
+1. [如何通过 WebRTC 开发实时互动 AI 视频应用](https://weekly.manong.io/bounce?nid=285&aid=18079&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9k0CR_niaNorgBWDPQWgmQ)

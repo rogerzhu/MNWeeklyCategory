@@ -1690,3 +1690,8 @@
 1. [[译] 区块链火了，但你可能对它一知半解](https://weekly.manong.io/bounce?nid=284&aid=17968&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F63g9ygKJZ8UnRMFsqhYqyQ)
 1. [[译] 做好这几件事，代码质量可以提升一个档次](https://weekly.manong.io/bounce?nid=284&aid=17971&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9FEG8YaW6uCt_05tOqi7rw)
 1. [[译] 开源：从社区到商业，如何构建开源商业模式](https://weekly.manong.io/bounce?nid=284&aid=17956&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYuIP_dk_I7SDtiJuLOUIAg)
+1. [[译] 用 Flutter 打包 iOS 应用的一些细节知识](https://weekly.manong.io/bounce?nid=285&aid=18064&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPsvVFoB91_jGzibFPIwnIw)
+1. [[译] Golang template 小抄](https://weekly.manong.io/bounce?nid=285&aid=18067&url=https%3A%2F%2Ftoutiao.io%2Fk%2Faav782r)
+1. [[译] Go 开源项目 BigCache 如何加速并发访问以及避免高额的 GC 开销](https://weekly.manong.io/bounce?nid=285&aid=18069&url=https%3A%2F%2Ftoutiao.io%2Fk%2F90vmyb6)
+1. [[译] AR/VR 显示技术原理（上）](https://weekly.manong.io/bounce?nid=285&aid=18048&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh86bcjr)
+1. [[译] 工程师如何打怪升级](https://weekly.manong.io/bounce?nid=285&aid=18027&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F3MYXSQP_wG2JXxeGJobpwg)

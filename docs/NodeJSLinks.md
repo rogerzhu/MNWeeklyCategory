@@ -130,3 +130,4 @@
 1. [阿里官方解密：基于 NodeJS 的 Serverless 架构实践](https://weekly.manong.io/bounce?nid=283&aid=17894&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrR8VK7RodyCofOiSehF6fA)
 1. [腾讯视频 Node.js 服务是如何支撑国庆阅兵直播高并发的？](https://weekly.manong.io/bounce?nid=284&aid=18014&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWKhALCAarFNOCQylBUryfQ)
 1. [教你在 Node.js 项目中接入 Sign with Apple 第三方登录](https://weekly.manong.io/bounce?nid=284&aid=18015&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1hvrvz6)
+1. [Node.js 在微医的应用场景及实践](https://weekly.manong.io/bounce?nid=285&aid=18072&url=https%3A%2F%2Ftoutiao.io%2Fk%2F781vbit)
