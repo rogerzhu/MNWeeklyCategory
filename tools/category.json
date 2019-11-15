@@ -355,6 +355,12 @@
             "fileName":"RecommandSysLinks.md"
         },
         {
+            "keywords":"自然语言处理",
+            "filters":["语言处理","nlp"],
+            "rejecters":[],
+            "fileName":"NLPLinks.md"
+        },
+        {
             "keywords":"GitHub",
             "filters":["github"],
             "rejecters":[],

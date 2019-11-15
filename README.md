@@ -52,7 +52,7 @@
 | ------  | ------ | ------ | ------ | ------ |
 | [人工智能](docs/AILinks.md) | [小程序](docs/MiniProgramLinks.md) | [爬虫相关](docs/CrawlerLinks.md) | [游戏开发](docs/GameLinks.md) | [大数据](docs/BigDataLinks.md) |
 | [嵌入式](docs/EmbededLinks.md) | [容器/k8s](docs/ContainerLinks.md) | [区块链](docs/BlockChainLinks.md) | [Elasticsearch](docs/ElasticsearchLinks.md) | [微服务](docs/MicroServiceLinks.md) |
-| [Restful API](docs/RestfulAPILinks.md) | [优化](docs/OptimizationLinks.md) | [推荐系统](docs/RecommandSysLinks.md) | ### | ### |
+| [Restful API](docs/RestfulAPILinks.md) | [优化](docs/OptimizationLinks.md) | [推荐系统](docs/RecommandSysLinks.md) | [自然语言处理](docs/NLPLinks.md) | ### |
 
 ### 工具相关
 | 甲 | 乙 | 丙 | 丁 | 戊 |
