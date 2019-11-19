@@ -32,7 +32,7 @@
         },
         {
             "keywords":"PHP",
-            "filters":["php","laravel","flarunm"],
+            "filters":["php","laravel","flarunm","swoole"],
             "rejecters":[],
             "fileName":"PhpLinks.md"
         },
@@ -85,6 +85,12 @@
             "fileName":"BashLinks.md"
         },
         {
+            "keywords":"Shell",
+            "filters":["shell"],
+            "rejecters":[],
+            "fileName":"ShellLinks.md"
+        },
+        {
             "keywords":"Scala",
             "filters":["scala"],
             "rejecters":[],
@@ -113,6 +119,12 @@
             "filters":["源码"],
             "rejecters":[],
             "fileName":"SourceAnalysisLinks.md"
+        },
+        {
+            "keywords":"论文",
+            "filters":["论文"],
+            "rejecters":[],
+            "fileName":"ThesisLinks.md"
         },
         {
             "keywords":"工具",
@@ -158,7 +170,7 @@
         },
         {
             "keywords":"数据库",
-            "filters":["数据库","database","sql","redis","hbase"],
+            "filters":["数据库","database","sql","redis","hbase","innodb"],
             "rejecters":[],
             "fileName":"DatabaseLinks.md"
         },
@@ -236,8 +248,8 @@
         },
         {
             "keywords":"JS",
-            "filters":["javascript"],
-            "rejecters":[],
+            "filters":["javascript",".js"],
+            "rejecters":[".json"],
             "fileName":"JSLinks.md"
         },
         {
