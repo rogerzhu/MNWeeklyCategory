@@ -457,3 +457,6 @@
 1. [刷 14 道 LeetCode 的总结](https://weekly.manong.io/bounce?nid=284&aid=17970&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUzNjAxODg4MQ%3D%3D%26mid%3D2247485060%26idx%3D1%26sn%3D02720887a28154ede413f85fa0af29f6)
 1. [饿了么交付中心语言栈转型总结](https://weekly.manong.io/bounce?nid=285&aid=18046&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRC6IWqhW36QUcjKom7qM8w)
 1. [分布式唯一 ID 之 Snowflake 算法](https://weekly.manong.io/bounce?nid=285&aid=18055&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fazcxobo)
+1. [hash 算法原理及应用漫谈](https://weekly.manong.io/bounce?nid=286&aid=18112&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNyKqBEDI6g8AQ0PGeU1C5g)
+1. [面试常考排序算法的全面总结](https://weekly.manong.io/bounce?nid=286&aid=18126&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0XW-JFjep4UPVgurt31ypQ)
+1. [GitHub 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍](https://weekly.manong.io/bounce?nid=286&aid=18133&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffgw4pdm)

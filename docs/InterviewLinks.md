@@ -207,3 +207,5 @@
 1. [面试官：怎么优化 SQL？](https://weekly.manong.io/bounce?nid=284&aid=17981&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fa4CWa_PjR7sPk5kS9ZyPpA)
 1. [面试官：“准备用 HashMap 存 1w 条数据，构造时传 10000 会触发扩容吗？”](https://weekly.manong.io/bounce?nid=284&aid=17991&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FT7e6SmO-VAN6i2XWCBNS7w)
 1. [互联网 8 年技术老兵的近期面试有感](https://weekly.manong.io/bounce?nid=285&aid=18025&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLwfdhLaQxvq20fPJPCrUdw)
+1. [面试的时候，面试官到底在干什么？应届生面试软件工程师，你要注意什么？](https://weekly.manong.io/bounce?nid=286&aid=18109&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7z8hh98)
+1. [面试常考排序算法的全面总结](https://weekly.manong.io/bounce?nid=286&aid=18126&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0XW-JFjep4UPVgurt31ypQ)

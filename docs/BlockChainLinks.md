@@ -162,3 +162,4 @@
 1. [[译] 区块链火了，但你可能对它一知半解](https://weekly.manong.io/bounce?nid=284&aid=17968&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F63g9ygKJZ8UnRMFsqhYqyQ)
 1. [万向区块链首席经济学家邹传伟：对人民银行 DC/EP 的初步分析](https://weekly.manong.io/bounce?nid=285&aid=18031&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZI0oJwXgGRo1twHD_U8wtg)
 1. [基于区块链究竟可以做什么？](https://weekly.manong.io/bounce?nid=285&aid=18032&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5WPSOvMh7H6QGPuVLL5_EQ)
+1. [初识 R3-Corda，解析区块链结构](https://weekly.manong.io/bounce?nid=286&aid=18122&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxnfpuj8)

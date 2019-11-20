@@ -920,3 +920,5 @@
 1. [什么是生成对抗网络 (GAN)](https://weekly.manong.io/bounce?nid=284&aid=17960&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FecfvrpsQMho_LVjxVaxX9Q)
 1. [AWS 上 Cilium 的网络拓扑和数据流](https://weekly.manong.io/bounce?nid=284&aid=17977&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fikpq2dd)
 1. [为什么 TCP 建立连接需要三次握手](https://weekly.manong.io/bounce?nid=285&aid=18035&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx2j5ax3)
+1. [如何通过 JavaScript 编写高质量的函数（四）：函数式编程之实战篇](https://weekly.manong.io/bounce?nid=286&aid=18146&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZoXYbjuezOWgNyJKmSQmTw)
+1. [对网络安全行业的深度思考](https://weekly.manong.io/bounce?nid=286&aid=18107&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FpYxoDxpSQSu867lmIbsWyg)

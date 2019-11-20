@@ -147,3 +147,5 @@
 1. [废旧 Android 手机如何改造成 Linux 服务器](https://weekly.manong.io/bounce?nid=284&aid=17979&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfpB8mrTDs8wGBkcXaHyoyA)
 1. [作为高级 Java，你应该了解的 Linux 知识](https://weekly.manong.io/bounce?nid=285&aid=18057&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1XSbEmbIYTfn_UdyNecH6Q)
 1. [Linux 日志切割神器 logrotate 原理介绍和配置详解](https://weekly.manong.io/bounce?nid=285&aid=18042&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fja37t9n)
+1. [10 个高效 Linux 技巧及 Vim 命令对比](https://weekly.manong.io/bounce?nid=286&aid=18111&url=https%3A%2F%2Ftoutiao.io%2Fk%2F80vyszp)
+1. [Linux 背后的思想](https://weekly.manong.io/bounce?nid=286&aid=18115&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqWz_8avqdWi3tVLRz5In8Q)

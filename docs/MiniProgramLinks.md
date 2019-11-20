@@ -113,3 +113,4 @@
 1. [小程序云开发尝试：CP 宝](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2q9o38z&aid=17883&nid=282)
 1. [微信小程序和 Jenkins 不得不说的二三事](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fm-m4tqIjbh9A2XTDQsV9Og&aid=17849&nid=282)
 1. [如何开发微信小程序打车应用](https://weekly.manong.io/bounce?nid=284&aid=17975&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FObR__SOz40y0TCnWsAfRWw)
+1. [ColorUI：鲜亮的高饱和色彩，专注视觉的小程序组件库](https://weekly.manong.io/bounce?nid=286&aid=18134&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgp78g7w)

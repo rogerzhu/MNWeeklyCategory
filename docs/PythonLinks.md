@@ -586,3 +586,6 @@
 1. [Python 之父宣布退休，但 Python 仍在吞噬世界](https://weekly.manong.io/bounce?nid=284&aid=18009&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFbTZAGj1cpTnsAsDerAdEQ)
 1. [记一次 Kafka 集群线上扩容](https://weekly.manong.io/bounce?nid=284&aid=17980&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn2dMrs21nUU15Vza0VV1pA)
 1. [《Python 数据分析与挖掘实战》](https://weekly.manong.io/bounce?nid=285&aid=18086&url=https%3A%2F%2Fitem.jd.com%2F11821937.html)
+1. [Python 命令行之旅：深入 click 之参数篇](https://weekly.manong.io/bounce?nid=286&aid=18143&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPYbn8lN3fCFxb46vMNheVA)
+1. [Nginx 基础知识从小白到入门](https://weekly.manong.io/bounce?nid=286&aid=18123&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frbkd19n)
+1. [Python 工程师必备](https://weekly.manong.io/bounce?nid=286&aid=18147&url=https%3A%2F%2Fpro.m.jd.com%2Fmall%2Factive%2F3izbkZCa2WavHr3h68y5rV8fGUte%2Findex.html)

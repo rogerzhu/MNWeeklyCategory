@@ -600,3 +600,6 @@
 1. [下一代容器架构已出，Docker 何去何处？](https://weekly.manong.io/bounce?nid=283&aid=17929&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoSeEjpgBxkpHNXAdV8YGmw)
 1. [我是如何进行架构设计的](https://weekly.manong.io/bounce?nid=284&aid=17952&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLoI21d6wN96wLU4CcYQ8wg)
 1. [学习 sentry 源码整体架构，打造属于自己的前端异常监控 SDK](https://weekly.manong.io/bounce?nid=285&aid=18039&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjkkJMkApuw_uKtG81QWw_Q)
+1. [支撑马蜂窝 “双 11” 营销大战背后的技术架构](https://weekly.manong.io/bounce?nid=286&aid=18091&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmBnBsYgwAISYcNq2BwKvVg)
+1. [360 搜索：支撑百亿级网页搜索引擎的架构](https://weekly.manong.io/bounce?nid=286&aid=18092&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDNZE0fs6RBaIo1EX3K3RzA)
+1. [GitHub 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍](https://weekly.manong.io/bounce?nid=286&aid=18133&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffgw4pdm)

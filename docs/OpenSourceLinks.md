@@ -545,3 +545,4 @@
 1. [[译] 开源：从社区到商业，如何构建开源商业模式](https://weekly.manong.io/bounce?nid=284&aid=17956&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYuIP_dk_I7SDtiJuLOUIAg)
 1. [[译] Go 开源项目 BigCache 如何加速并发访问以及避免高额的 GC 开销](https://weekly.manong.io/bounce?nid=285&aid=18069&url=https%3A%2F%2Ftoutiao.io%2Fk%2F90vmyb6)
 1. [关于引入开源技术的一些建议](https://weekly.manong.io/bounce?nid=285&aid=18043&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0k1wmqp)
+1. [红帽宣布发布企业容器仓库开源项目 Quay](https://weekly.manong.io/bounce?nid=286&aid=18132&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUl61I9vdCe2dv6-cJhYjNA)
