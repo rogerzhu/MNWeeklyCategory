@@ -284,7 +284,7 @@
         },
         {
             "keywords":"人工智能",
-            "filters":["智能","深度学习","deep","cnn", "rnn", "lstm","情感分析","机器学习","tensorflow","pytorch","识别","计算机视觉","强化学习","ai "],
+            "filters":["智能","深度学习","deep","cnn", "rnn", "lstm","情感分析","机器学习","tensorflow","pytorch","识别","计算机视觉","强化学习","ai ","贝叶斯","gan"],
             "rejecters":[],
             "fileName":"AILinks.md"
         },
@@ -379,6 +379,12 @@
             "fileName":"NLPLinks.md"
         },
         {
+            "keywords":"支付系统",
+            "filters":["支付","pay"],
+            "rejecters":[],
+            "fileName":"PaySystemLinks.md"
+        },
+        {
             "keywords":"GitHub",
             "filters":["github"],
             "rejecters":[],
@@ -395,6 +401,12 @@
             "filters":["git"],
             "rejecters":["github"],
             "fileName":"GitLinks.md"
+        },
+        {
+            "keywords":"利器神器",
+            "filters":["利器","神器"],
+            "rejecters":[],
+            "fileName":"VeryGoodToolsLinks.md"
         },
         {
             "keywords":"架构",
