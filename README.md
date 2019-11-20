@@ -22,13 +22,13 @@
 | ------ | ------ | ------ | ------ | ------ |
 | [c/c++](docs/CPPLinks.md) | [Python](docs/PythonLinks.md) | [Java](docs/JavaLinks.md) | [Go语言](docs/GoLinks.md) | [Rust语言](docs/RustLinks.md)|
 | [PHP](docs/PHPLinks.md) | [C#/.Net](docs/DotNetLinks.md) | [Ruby](docs/RubyLinks.md) | [Perl](docs/PerlLinks.md) | [Swift](docs/SwiftLinks.md) |
-| [Kotlin](docs/KotlinLinks.md) | [Typescript](docs/TypescriptLinks.md) | [Bash](docs/BashLinks.md) | [Scala](docs/ScalaLinks.md) | ### |
+| [Kotlin](docs/KotlinLinks.md) | [Typescript](docs/TypescriptLinks.md) | [Bash](docs/BashLinks.md) | [Scala](docs/ScalaLinks.md) | [Shell](docs/ShellLinks.md) |
 
 ### 资料资源
 | 甲 | 乙 | 丙 | 丁 | 戊 |
 | ------ | ------ | ------ | ------ | ------ |
 | [面试相关](docs/InterviewLinks.md) | [开源资料](docs/OpenSourceLinks.md) | [免费资源](docs/FreeLinks.md) | [PDF资料](docs/PDFLinks.md) | [翻译资料](docs/TranslateLinks.md) |
-| [演讲实录](docs/SpeechLinks.md) | [视频](docs/VideoLinks.md) | [源代码分析](docs/SourceAnalysisLinks.md) | ### | ### |
+| [演讲实录](docs/SpeechLinks.md) | [视频](docs/VideoLinks.md) | [源代码分析](docs/SourceAnalysisLinks.md) | [论文](docs/ThesisLinks.md) | ### |
 
 ### 基础知识
 | 甲 | 乙 | 丙 | 丁 | 戊 |
