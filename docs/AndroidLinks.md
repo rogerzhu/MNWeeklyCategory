@@ -749,3 +749,7 @@
 1. [Android 应用逻辑漏洞半自动化挖掘思路](https://weekly.manong.io/bounce?nid=284&aid=18005&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtFFe_LOs0e1Po8nj9ifmKg)
 1. [废旧 Android 手机如何改造成 Linux 服务器](https://weekly.manong.io/bounce?nid=284&aid=17979&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfpB8mrTDs8wGBkcXaHyoyA)
 1. [Android 静态代码扫描效率优化与实践](https://weekly.manong.io/bounce?nid=285&aid=18059&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcY6rUrrjYRaIV--UzjiUgA)
+1. [一条电商 Android 工程化实践](https://weekly.manong.io/bounce?nid=286&aid=18138&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxg64dyk)
+1. [Android 之 App 安全测试篇](https://weekly.manong.io/bounce?nid=286&aid=18139&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FiI6-pcejytVSDkT6Kcburg)
+1. [Systrace 基础知识：MainThread 和 RenderThread 解读（Android）](https://weekly.manong.io/bounce?nid=286&aid=18140&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxogc5gs)
+1. [Gbox：基于 Litho 的 Android 高性能动态业务容器，解决首页动态化的痛点](https://weekly.manong.io/bounce?nid=286&aid=18135&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7t2itei)

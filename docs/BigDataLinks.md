@@ -233,3 +233,4 @@
 1. [Flink 实战剖析](https://weekly.manong.io/bounce?nid=282&aid=17884&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F424606%23282)
 1. [零基础学 Flink：监控 on Prometheus & Grafana ](https://weekly.manong.io/bounce?nid=284&aid=17978&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgXklpz4d59RTHYwFQII2xw)
 1. [使用 Spark 和 Delta Lake 构建近实时数据仓库](https://weekly.manong.io/bounce?nid=285&aid=18053&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FStoHQhBb4wzmx1xe-E2V_A)
+1. [Flink 实战剖析](https://weekly.manong.io/bounce?nid=286&aid=18148&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F424606%23286)

@@ -413,3 +413,6 @@
 1. [推荐一个神器：对 k8s 的 yaml 部署清单按照类别进行排序](https://weekly.manong.io/bounce?nid=283&aid=17944&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxl8wbt8)
 1. [记一次 Kafka 集群线上扩容](https://weekly.manong.io/bounce?nid=284&aid=17980&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn2dMrs21nUU15Vza0VV1pA)
 1. [为什么 K8s 需要 Volcano？](https://weekly.manong.io/bounce?nid=284&aid=17993&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_6WCgqxjTR1rAv8gQqNdWw)
+1. [启用 Docker 虚拟机 GPU，加速深度学习](https://weekly.manong.io/bounce?nid=286&aid=18098&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLIm357mAmtCZ8c_1AInHfg)
+1. [红帽宣布发布企业容器仓库开源项目 Quay](https://weekly.manong.io/bounce?nid=286&aid=18132&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUl61I9vdCe2dv6-cJhYjNA)
+1. [Gbox：基于 Litho 的 Android 高性能动态业务容器，解决首页动态化的痛点](https://weekly.manong.io/bounce?nid=286&aid=18135&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7t2itei)

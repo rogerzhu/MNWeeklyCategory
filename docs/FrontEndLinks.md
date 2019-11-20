@@ -391,3 +391,5 @@
 1. [闲鱼前端基于 Serverless 的一种多端开发解决方案](https://weekly.manong.io/bounce?nid=284&aid=17987&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVLsVTe4ZyOJ9rNyVf5aXyg)
 1. [学习 sentry 源码整体架构，打造属于自己的前端异常监控 SDK](https://weekly.manong.io/bounce?nid=285&aid=18039&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjkkJMkApuw_uKtG81QWw_Q)
 1. [Winter：前端团队的成长](https://weekly.manong.io/bounce?nid=285&aid=18040&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwRF-D2_m_L02enCntmF9cQ)
+1. [写给前端的 AI 白皮书](https://weekly.manong.io/bounce?nid=286&aid=18097&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdXjrsR8DSWo1DmDlhw91jA)
+1. [前端的一些雕虫小技，从 100% 和滚动条说起](https://weekly.manong.io/bounce?nid=286&aid=18118&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgfeo1j0)

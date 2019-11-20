@@ -1684,3 +1684,5 @@
 1. [[译] Go 开源项目 BigCache 如何加速并发访问以及避免高额的 GC 开销](https://weekly.manong.io/bounce?nid=285&aid=18069&url=https%3A%2F%2Ftoutiao.io%2Fk%2F90vmyb6)
 1. [[译] AR/VR 显示技术原理（上）](https://weekly.manong.io/bounce?nid=285&aid=18048&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh86bcjr)
 1. [[译] 工程师如何打怪升级](https://weekly.manong.io/bounce?nid=285&aid=18027&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F3MYXSQP_wG2JXxeGJobpwg)
+1. [[译] 利用机器学习来找出有 bug 的 patch](https://weekly.manong.io/bounce?nid=286&aid=18095&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvfVKovS2XTnnGQZpwNdX4w)
+1. [[译] 编程语言中的 6 种内存模型（2016）](https://weekly.manong.io/bounce?nid=286&aid=18108&url=https%3A%2F%2Ftoutiao.io%2Fk%2F81a94hi)

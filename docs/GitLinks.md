@@ -168,3 +168,4 @@
 1. [[译] Git 版本控制的核心概念](https://weekly.manong.io/bounce?nid=280&aid=17709&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvfyKgfsyacGx4uyhzJI3-A)
 1. [工作中 Git 的使用实践](https://weekly.manong.io/bounce?nid=281&aid=17767&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fmje4XVyuDzspttWdOFC02g)
 1. [GitBook 简明使用教程](https://weekly.manong.io/bounce?nid=283&aid=17930&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdmsox6k)
+1. [为什么你应该使用 Git 进行版本控制](https://weekly.manong.io/bounce?nid=286&aid=18106&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0cr5pgx)

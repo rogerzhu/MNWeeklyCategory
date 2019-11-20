@@ -566,3 +566,4 @@
 1. [超越 “双十一”：ebay 百万 TPS 支付账务系统的设计与实现](https://weekly.manong.io/bounce?nid=285&aid=18029&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsbHPxzIqv_dRn555XzE5mw)
 1. [开发可伸缩系统必须遵守这 11 个软件设计原则](https://weekly.manong.io/bounce?nid=285&aid=18030&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjhruPpGCdT5VYx-ZHCPrpg)
 1. [日志系统的设计](https://weekly.manong.io/bounce?nid=285&aid=18045&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F3hM-k8FwxQU4sjYWuN6wfg)
+1. [2019 人工智能用户体验设计指南：技术、场景、设计](https://weekly.manong.io/bounce?nid=286&aid=18094&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FIdHZj4q3eKkpfOfEY13mHQ)

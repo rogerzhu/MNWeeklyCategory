@@ -198,3 +198,4 @@
 1. [steam lab 用机器学习自动生成游戏 TV 节目](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fw6BH3fLkm9XkkHRXTez2fA&aid=17837&nid=282)
 1. [深度学习推理引擎的一些思考](https://weekly.manong.io/bounce?nid=283&aid=17900&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fht3rzgl)
 1. [实时计算引擎在贝壳的应用与实践](https://weekly.manong.io/bounce?nid=285&aid=18037&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQeS3PpfwJuxjAUQevVtkyQ)
+1. [360 搜索：支撑百亿级网页搜索引擎的架构](https://weekly.manong.io/bounce?nid=286&aid=18092&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDNZE0fs6RBaIo1EX3K3RzA)

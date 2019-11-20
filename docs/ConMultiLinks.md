@@ -223,3 +223,5 @@
 1. [腾讯视频 Node.js 服务是如何支撑国庆阅兵直播高并发的？](https://weekly.manong.io/bounce?nid=284&aid=18014&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWKhALCAarFNOCQylBUryfQ)
 1. [多线程原理：了解 GCD（iOS）](https://weekly.manong.io/bounce?nid=285&aid=18062&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgbhe0cd)
 1. [[译] Go 开源项目 BigCache 如何加速并发访问以及避免高额的 GC 开销](https://weekly.manong.io/bounce?nid=285&aid=18069&url=https%3A%2F%2Ftoutiao.io%2Fk%2F90vmyb6)
+1. [Systrace 基础知识：MainThread 和 RenderThread 解读（Android）](https://weekly.manong.io/bounce?nid=286&aid=18140&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxogc5gs)
+1. [多线程原理：GCD 源码分析（iOS）](https://weekly.manong.io/bounce?nid=286&aid=18141&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7t5nzhm)

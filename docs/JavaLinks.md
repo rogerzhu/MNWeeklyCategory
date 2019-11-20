@@ -494,3 +494,5 @@
 1. [初创公司 5 大 Java 服务困局，阿里工程师如何打破？](https://weekly.manong.io/bounce?nid=285&aid=18058&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUJ2yy7pb8EXZSlQVJIymBg)
 1. [每个人都应该有一个 Jekyll 博客 (@JavaChen)](https://weekly.manong.io/bounce?nid=57&aid=1795&url=http%3A%2F%2Fwww.cellier.me%2F2015%2F01%2F04%2Fjekyll%25E6%2590%25AD%25E5%25BB%25BA%25E5%258D%259A%25E5%25AE%25A2%25E6%2595%2599%25E7%25A8%258B%2F)
 1. [C/C++ 在 Java 项目、Android 和 Objective-C 三大平台下实现混合编程](https://weekly.manong.io/bounce?nid=130&aid=7098&url=http%3A%2F%2Fwww.taoweiji.cn%2F2016%2F08%2F02%2Fndk)
+1. [如何利用缓存机制实现 Java 类反射性能提升 30 倍](https://weekly.manong.io/bounce?nid=286&aid=18136&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFbOqMo1AUoxPFT6pSLdnrw)
+1. [Java 线上故障排查全套路](https://weekly.manong.io/bounce?nid=286&aid=18137&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmczyjep)

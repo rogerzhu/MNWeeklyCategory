@@ -42,3 +42,5 @@
 1. [vim-web：像 IDE 一样的 Vim，安装配置自己的 Vim](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn7b4cb&aid=16642&nid=266)
 1. [Vim 从小白到入门](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F586ua1p&aid=17567&nid=278)
 1. [Vim 漫游键，为什么不设定左手？介绍一种 5x 倍速漫游方式](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWfsVy9nlihqYIzrqiIj6qA&aid=17858&nid=282)
+1. [Vim教程网](https://weekly.manong.io/bounce?nid=286&aid=18152&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F389874%23286)
+1. [10 个高效 Linux 技巧及 Vim 命令对比](https://weekly.manong.io/bounce?nid=286&aid=18111&url=https%3A%2F%2Ftoutiao.io%2Fk%2F80vyszp)

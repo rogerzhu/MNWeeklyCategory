@@ -672,3 +672,4 @@
 1. [多线程原理：了解 GCD（iOS）](https://weekly.manong.io/bounce?nid=285&aid=18062&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgbhe0cd)
 1. [Mac OS 上使用 ffmpeg 的 “血泪” 总结](https://weekly.manong.io/bounce?nid=285&aid=18063&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FI9GB88-mrXGa1FtU1j4UzQ)
 1. [[译] 用 Flutter 打包 iOS 应用的一些细节知识](https://weekly.manong.io/bounce?nid=285&aid=18064&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPsvVFoB91_jGzibFPIwnIw)
+1. [多线程原理：GCD 源码分析（iOS）](https://weekly.manong.io/bounce?nid=286&aid=18141&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7t5nzhm)
