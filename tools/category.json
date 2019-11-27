@@ -4,451 +4,526 @@
             "keywords":"C++",
             "filters":["c++","c 语言","stl"],
             "rejecters":[],
-            "fileName":"CppLinks.md"
+            "fileName":"CppLinks.md",
+            "categoryL1":"语言"
         },
         {
             "keywords":"Java",
             "filters":["java","jar","jvm","jdk"],
             "rejecters":["招聘","bjarne","javascript"],
-            "fileName":"JavaLinks.md"
+            "fileName":"JavaLinks.md",
+            "categoryL1":"语言"
         },
         {
             "keywords":"Python",
             "filters":["python","kafka","nginx"],
             "rejecters":[],
-            "fileName":"PythonLinks.md"
+            "fileName":"PythonLinks.md",
+            "categoryL1":"语言"
         },
         {
             "keywords":"Go",
             "filters":["go","goLang"],
             "rejecters":["google"],
-            "fileName":"GoLinks.md"
+            "fileName":"GoLinks.md",
+            "categoryL1":"语言"
         },
         {
             "keywords":"Rust",
             "filters":["rust"],
             "rejecters":[],
-            "fileName":"RustLinks.md"
+            "fileName":"RustLinks.md",
+            "categoryL1":"语言"
         },
         {
             "keywords":"PHP",
             "filters":["php","laravel","flarunm","swoole"],
             "rejecters":[],
-            "fileName":"PhpLinks.md"
+            "fileName":"PhpLinks.md",
+            "categoryL1":"语言"
         },
         {
             "keywords":".Net",
             "filters":[".net","c#"],
             "rejecters":[],
-            "fileName":"DotNetLinks.md"
+            "fileName":"DotNetLinks.md",
+            "categoryL1":"语言"
         },
         {
             "keywords":"Ruby",
             "filters":["ruby"],
             "rejecters":[],
-            "fileName":"RubyLinks.md"
+            "fileName":"RubyLinks.md",
+            "categoryL1":"语言"
         },
         {
             "keywords":"Perl",
             "filters":["perl","catalyst","mojolicious","dancer"],
             "rejecters":[],
-            "fileName":"PerlLinks.md"
+            "fileName":"PerlLinks.md",
+            "categoryL1":"语言"
         },
         {
             "keywords":"Swift",
             "filters":["swift"],
             "rejecters":[],
-            "fileName":"SwiftLinks.md"
+            "fileName":"SwiftLinks.md",
+            "categoryL1":"语言"
         },
         {
             "keywords":"Kotlin",
             "filters":["kotlin"],
             "rejecters":[],
-            "fileName":"KotlinLinks.md"
+            "fileName":"KotlinLinks.md",
+            "categoryL1":"语言"
         },
         {
             "keywords":"Kotlin",
             "filters":["kotlin"],
             "rejecters":[],
-            "fileName":"KotlinLinks.md"
+            "fileName":"KotlinLinks.md",
+            "categoryL1":"语言"
         },
         {
             "keywords":"TypeScript",
             "filters":["typescript"],
             "rejecters":[],
-            "fileName":"TypeScriptLinks.md"
+            "fileName":"TypeScriptLinks.md",
+            "categoryL1":"语言"
         },
         {
             "keywords":"Bash",
             "filters":["bash"],
             "rejecters":[],
-            "fileName":"BashLinks.md"
+            "fileName":"BashLinks.md",
+            "categoryL1":"语言"
         },
         {
             "keywords":"Shell",
             "filters":["shell"],
             "rejecters":[],
-            "fileName":"ShellLinks.md"
+            "fileName":"ShellLinks.md",
+            "categoryL1":"语言"
         },
         {
             "keywords":"Scala",
             "filters":["scala"],
             "rejecters":[],
-            "fileName":"ScalaLinks.md"
+            "fileName":"ScalaLinks.md",
+            "categoryL1":"语言"
         },
         {
             "keywords":"面试相关",
             "filters":["面试","offer","简历","求职"],
             "rejecters":[],
-            "fileName":"InterviewLinks.md"
+            "fileName":"InterviewLinks.md",
+            "categoryL1":"资料资源"
         },
         {
             "keywords":"开源资料",
             "filters":["开源","open source","项目"],
             "rejecters":[],
-            "fileName":"OpenSourceLinks.md"
+            "fileName":"OpenSourceLinks.md",
+            "categoryL1":"资料资源"
         },
         {
             "keywords":"免费资源",
             "filters":["免费"],
             "rejecters":["加入"],
-            "fileName":"FreeLinks.md"
+            "fileName":"FreeLinks.md",
+            "categoryL1":"资料资源"
         },
         {
             "keywords":"源代码分析",
             "filters":["源码"],
             "rejecters":[],
-            "fileName":"SourceAnalysisLinks.md"
+            "fileName":"SourceAnalysisLinks.md",
+            "categoryL1":"资料资源"
         },
         {
             "keywords":"论文",
             "filters":["论文"],
             "rejecters":[],
-            "fileName":"ThesisLinks.md"
+            "fileName":"ThesisLinks.md",
+            "categoryL1":"资料资源"
         },
         {
             "keywords":"工具",
             "filters":["工具"],
             "rejecters":[],
-            "fileName":"ToolsLinks.md"
+            "fileName":"ToolsLinks.md",
+            "categoryL1":"工具相关"
         },
         {
             "keywords":"PDF资料",
             "filters":["[pdf]"],
             "rejecters":[],
-            "fileName":"PDFLinks.md"
+            "fileName":"PDFLinks.md",
+            "categoryL1":"资料资源"
         },
         {
             "keywords":"翻译资料",
             "filters":["[译]"],
             "rejecters":[],
-            "fileName":"TranslateLinks.md"
+            "fileName":"TranslateLinks.md",
+            "categoryL1":"资料资源"
         },
         {
             "keywords":"演讲实录",
             "filters":["演讲"],
             "rejecters":[],
-            "fileName":"SpeechLinks.md"
+            "fileName":"SpeechLinks.md",
+            "categoryL1":"资料资源"
         },
         {
             "keywords":"算法与数据结构",
             "filters":["算法","数据结构","leetcode","kmp","stack","queue","tree","heap","graph","list","栈","队列","树","链表"],
             "rejecters":["stack overflow","magpi","stack exchange","技术栈","树莓派","全栈","树上爬猪","GraphDB","vheap"],
-            "fileName":"AlgLinks.md"
+            "fileName":"AlgLinks.md",
+            "categoryL1":"基础知识"
         },
         {
             "keywords":"计算机网络",
             "filters":["网络","tcp","http","udp","dns","arp","ip","dhcp","协议"],
             "rejecters":[],
-            "fileName":"NetworkLinks.md"
+            "fileName":"NetworkLinks.md",
+            "categoryL1":"基础知识"
         },
         {
             "keywords":"多线程/并发",
             "filters":["线程","并发","thread","concurrency"],
             "rejecters":[],
-            "fileName":"ConMultiLinks.md"
+            "fileName":"ConMultiLinks.md",
+            "categoryL1":"基础知识"
         },
         {
             "keywords":"数据库",
             "filters":["数据库","database","sql","redis","hbase","innodb"],
             "rejecters":[],
-            "fileName":"DatabaseLinks.md"
+            "fileName":"DatabaseLinks.md",
+            "categoryL1":"基础知识"
         },
         {
             "keywords":"Restful API",
             "filters":["restful"],
             "rejecters":[],
-            "fileName":"RestfulAPILinks.md"
+            "fileName":"RestfulAPILinks.md",
+            "categoryL1":"应用"
         },
         {
             "keywords":"Linux/Unix",
             "filters":["linux","unix"],
             "rejecters":[],
-            "fileName":"LinuxLinks.md"
+            "fileName":"LinuxLinks.md",
+            "categoryL1":"基础知识"
         },
         {
             "keywords":"Vue",
             "filters":["vue"],
             "rejecters":[],
-            "fileName":"VueJsLinks.md"
+            "fileName":"VueJsLinks.md",
+            "categoryL1":"前端"
         },
         {
             "keywords":"React",
             "filters":["react"],
             "rejecters":[],
-            "fileName":"ReactLinks.md"
+            "fileName":"ReactLinks.md",
+            "categoryL1":"前端"
         },
         {
             "keywords":"Angular",
             "filters":["angular"],
             "rejecters":[],
-            "fileName":"AngularLinks.md"
+            "fileName":"AngularLinks.md",
+            "categoryL1":"前端"
         },
         {
             "keywords":"BootStrap",
             "filters":["bootstrap"],
             "rejecters":[],
-            "fileName":"BootStrapLinks.md"
+            "fileName":"BootStrapLinks.md",
+            "categoryL1":"前端"
         },
         {
             "keywords":"Ant Design",
             "filters":["ant design"],
             "rejecters":[],
-            "fileName":"AntDesignLinks.md"
+            "fileName":"AntDesignLinks.md",
+            "categoryL1":"前端"
         },
         {
             "keywords":"JQuery",
             "filters":["jquery"],
             "rejecters":[],
-            "fileName":"JQueryLinks.md"
+            "fileName":"JQueryLinks.md",
+            "categoryL1":"前端"
         },
         {
             "keywords":"NodeJs",
             "filters":["node.js","nodejs"],
             "rejecters":[],
-            "fileName":"NodeJSLinks.md"
+            "fileName":"NodeJSLinks.md",
+            "categoryL1":"前端"
         },
         {
             "keywords":"Sass",
             "filters":["sass"],
             "rejecters":[],
-            "fileName":"SassLinks.md"
+            "fileName":"SassLinks.md",
+            "categoryL1":"前端"
         },
         {
             "keywords":"Less",
             "filters":["less"],
             "rejecters":[],
-            "fileName":"LessLinks.md"
+            "fileName":"LessLinks.md",
+            "categoryL1":"前端"
         },
         {
             "keywords":"HTML",
             "filters":["html"],
             "rejecters":[],
-            "fileName":"HtmlLinks.md"
+            "fileName":"HtmlLinks.md",
+            "categoryL1":"前端"
         },
         {
             "keywords":"JS",
             "filters":["javascript",".js"],
             "rejecters":[".json"],
-            "fileName":"JSLinks.md"
+            "fileName":"JSLinks.md",
+            "categoryL1":"前端"
         },
         {
             "keywords":"CSS",
             "filters":["css"],
             "rejecters":[],
-            "fileName":"CSSLinks.md"
+            "fileName":"CSSLinks.md",
+            "categoryL1":"前端"
         },
         {
             "keywords":"Android",
             "filters":["android"],
             "rejecters":[],
-            "fileName":"AndroidLinks.md"
+            "fileName":"AndroidLinks.md",
+            "categoryL1":"移动开发"
         },
         {
             "keywords":"MacOS/IOS",
             "filters":["mac","ios"],
             "rejecters":[],
-            "fileName":"AppleLinks.md"
+            "fileName":"AppleLinks.md",
+            "categoryL1":"移动开发"
         },
         {
             "keywords":"Flutter",
             "filters":["flutter"],
             "rejecters":[],
-            "fileName":"FlutterLinks.md"
+            "fileName":"FlutterLinks.md",
+            "categoryL1":"移动开发"
         },
         {
             "keywords":"移动端APP",
             "filters":["移动端"],
             "rejecters":[],
-            "fileName":"MobileLinks.md"
+            "fileName":"MobileLinks.md",
+            "categoryL1":"移动开发"
         },
         {
             "keywords":"人工智能",
             "filters":["智能","深度学习","deep","cnn", "rnn", "lstm","情感分析","机器学习","tensorflow","pytorch","识别","计算机视觉","强化学习","ai ","贝叶斯","gan"],
             "rejecters":[],
-            "fileName":"AILinks.md"
+            "fileName":"AILinks.md",
+            "categoryL1":"应用"
         },
         {
             "keywords":"小程序",
             "filters":["小程序"],
             "rejecters":[],
-            "fileName":"MiniProgramLinks.md"
+            "fileName":"MiniProgramLinks.md",
+            "categoryL1":"应用"
         },
         {
             "keywords":"爬虫相关",
             "filters":["爬虫","beautifulsoup","scrapy","requests"],
             "rejecters":[],
-            "fileName":"CrawlerLinks.md"
+            "fileName":"CrawlerLinks.md",
+            "categoryL1":"应用"
         },
         {
             "keywords":"分布式",
             "filters":["分布式","raft","zookeeper"],
             "rejecters":[],
-            "fileName":"DisSysLinks.md"
+            "fileName":"DisSysLinks.md",
+            "categoryL1":"应用"
         },
         {
             "keywords":"游戏开发",
             "filters":["游戏","引擎"],
             "rejecters":[],
-            "fileName":"GameLinks.md"
+            "fileName":"GameLinks.md",
+            "categoryL1":"应用"
         },
         {
             "keywords":"大数据",
             "filters":["大数据","big data","spark","hadoop","flink"],
             "rejecters":[],
-            "fileName":"BigDataLinks.md"
+            "fileName":"BigDataLinks.md",
+            "categoryL1":"应用"
         },
         {
             "keywords":"嵌入式",
             "filters":["嵌入式","raspberry","arduino"],
             "rejecters":[],
-            "fileName":"EmbededLinks.md"
+            "fileName":"EmbededLinks.md",
+            "categoryL1":"应用"
         },
         {
             "keywords":"区块链",
             "filters":["区块链","blockchain","libra"],
             "rejecters":["library","libraries"],
-            "fileName":"BlockChainLinks.md"
+            "fileName":"BlockChainLinks.md",
+            "categoryL1":"应用"
         },
         {
             "keywords":"微服务",
             "filters":["微服务","microservice"],
             "rejecters":[],
-            "fileName":"MicroServiceLinks.md"
+            "fileName":"MicroServiceLinks.md",
+            "categoryL1":"应用"
         },
         {
             "keywords":"框架",
             "filters":["框架","framework"],
             "rejecters":[],
-            "fileName":"FrameWorkLinks.md"
+            "fileName":"FrameWorkLinks.md",
+            "categoryL1":"应用"
         },
         {
             "keywords":"Elasticsearch",
             "filters":["elastic"],
             "rejecters":[],
-            "fileName":"ElasticsearchLinks.md"
+            "fileName":"ElasticsearchLinks.md",
+            "categoryL1":"应用"
         },
         {
-            "keywords":"前端",
+            "keywords":"其他前端",
             "filters":["前端"],
             "rejecters":[],
-            "fileName":"FrontEndLinks.md"
+            "fileName":"FrontEndLinks.md",
+            "categoryL1":"前端"
         },
         {
             "keywords":"容器/k8s",
             "filters":["容器","docker","kubernetes","kafka","k8s","zookeeper"],
             "rejecters":[],
-            "fileName":"ContainerLinks.md"
+            "fileName":"ContainerLinks.md",
+            "categoryL1":"应用"
         },
         {
             "keywords":"优化",
             "filters":["优化"],
             "rejecters":[],
-            "fileName":"OptimizationLinks.md"
+            "fileName":"OptimizationLinks.md",
+            "categoryL1":"应用"
         },
         {
             "keywords":"推荐系统",
             "filters":["推荐系统","推荐算法"],
             "rejecters":[],
-            "fileName":"RecommandSysLinks.md"
+            "fileName":"RecommandSysLinks.md",
+            "categoryL1":"应用"
         },
         {
             "keywords":"自然语言处理",
             "filters":["语言处理","nlp"],
             "rejecters":[],
-            "fileName":"NLPLinks.md"
+            "fileName":"NLPLinks.md",
+            "categoryL1":"应用"
         },
         {
             "keywords":"支付系统",
             "filters":["支付","pay"],
             "rejecters":[],
-            "fileName":"PaySystemLinks.md"
+            "fileName":"PaySystemLinks.md",
+            "categoryL1":"应用"
         },
         {
             "keywords":"GitHub",
             "filters":["github"],
             "rejecters":[],
-            "fileName":"GithubLinks.md"
+            "fileName":"GithubLinks.md",
+            "categoryL1":"工具相关"
         },
         {
             "keywords":"Vim",
             "filters":["vim"],
             "rejecters":[],
-            "fileName":"VimLinks.md"
+            "fileName":"VimLinks.md",
+            "categoryL1":"工具相关"
         },
         {
             "keywords":"Git",
             "filters":["git"],
             "rejecters":["github"],
-            "fileName":"GitLinks.md"
+            "fileName":"GitLinks.md",
+            "categoryL1":"工具相关"
         },
         {
             "keywords":"利器神器",
             "filters":["利器","神器"],
             "rejecters":[],
-            "fileName":"VeryGoodToolsLinks.md"
+            "fileName":"VeryGoodToolsLinks.md",
+            "categoryL1":"工具相关"
         },
         {
             "keywords":"架构",
             "filters":["架构"],
             "rejecters":["图谱"],
-            "fileName":"ArchitectureLinks.md"
+            "fileName":"ArchitectureLinks.md",
+            "categoryL1":"架构/设计模式"
         },
         {
             "keywords":"设计",
             "filters":["设计"],
             "rejecters":["设计模式"],
-            "fileName":"DesignLinks.md"
+            "fileName":"DesignLinks.md",
+            "categoryL1":"架构/设计模式"
         },
         {
             "keywords":"设计模式",
             "filters":["设计模式","工厂"],
             "rejecters":[],
-            "fileName":"DesignPatternLinks.md"
+            "fileName":"DesignPatternLinks.md",
+            "categoryL1":"架构/设计模式"
         },
         {
             "keywords":"测试相关",
             "filters":["testing","测试"],
             "rejecters":[],
-            "fileName":"TestingLinks.md"
+            "fileName":"TestingLinks.md",
+            "categoryL1":"测试"
         },
         {
             "keywords":"单元测试",
             "filters":["单元测试","unit test"],
             "rejecters":[],
-            "fileName":"UnitTestLinks.md"
+            "fileName":"UnitTestLinks.md",
+            "categoryL1":"测试"
         },
         {
             "keywords":"集成测试",
             "filters":["集成测试","integration test"],
             "rejecters":[],
-            "fileName":"InterTestLinks.md"
+            "fileName":"InterTestLinks.md",
+            "categoryL1":"测试"
         },
         {
             "keywords":"自动化测试",
             "filters":["自动化测试","automation test"],
             "rejecters":[],
-            "fileName":"AutoTestLinks.md"
+            "fileName":"AutoTestLinks.md",
+            "categoryL1":"测试"
         }
     ]
 }
