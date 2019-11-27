@@ -99,3 +99,5 @@
 1. [Android 开发中 Kotlin Coroutines 如何优雅地处理异常](https://weekly.manong.io/bounce?nid=283&aid=17909&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy9uvtog)
 1. [浅谈 Kotlin 中的函数](https://weekly.manong.io/bounce?nid=285&aid=18060&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUV23Uw_969oVhiOdo4ZKAw)
 1. [Kotlin 重载个方法，还有两幅面孔，省代码的同时也带来一个深坑](https://weekly.manong.io/bounce?nid=285&aid=18061&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXaN-Nd6_adLL2ZKfEuMvtw)
+1. [这可能是最好的 Android/Kotlin 日志输出方法](https://weekly.manong.io/bounce?nid=287&aid=18197&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff0p78a7)
+1. [这可能是最好的 Android/Kotlin 日志输出方法](https://weekly.manong.io/bounce?nid=287&aid=18197&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff0p78a7)

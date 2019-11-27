@@ -115,3 +115,4 @@
 1. [用 Git 和 GitHub 提高效率的 10 个技巧](https://weekly.manong.io/bounce?nid=284&aid=17974&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKHQYz2dHvXVy69FsvYaMAw)
 1. [GitHub Mobile 抢先体验篇（多图预警）](https://weekly.manong.io/bounce?nid=286&aid=18110&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuSH48yDzIV6oKUwBqeJxFA)
 1. [GitHub 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍](https://weekly.manong.io/bounce?nid=286&aid=18133&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffgw4pdm)
+1. [一周 GitHub 开源项目推荐](https://weekly.manong.io/bounce?nid=287&aid=18163&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkxBHPoJaFsWGLuqGj1pgrA)

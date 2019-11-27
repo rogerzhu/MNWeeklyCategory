@@ -149,3 +149,5 @@
 1. [Linux 日志切割神器 logrotate 原理介绍和配置详解](https://weekly.manong.io/bounce?nid=285&aid=18042&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fja37t9n)
 1. [10 个高效 Linux 技巧及 Vim 命令对比](https://weekly.manong.io/bounce?nid=286&aid=18111&url=https%3A%2F%2Ftoutiao.io%2Fk%2F80vyszp)
 1. [Linux 背后的思想](https://weekly.manong.io/bounce?nid=286&aid=18115&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqWz_8avqdWi3tVLRz5In8Q)
+1. [最全 Linux 应急响应技巧](https://weekly.manong.io/bounce?nid=287&aid=18166&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fii2gbg8)
+1. [Linux 内核初探：进程与线程](https://weekly.manong.io/bounce?nid=287&aid=18178&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fyrf_QRFCsEvf-hXr9gmIDg)

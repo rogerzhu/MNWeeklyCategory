@@ -336,3 +336,4 @@
 1. [如何选型一个合适的框架：分布式任务调度框架选型](https://weekly.manong.io/bounce?nid=284&aid=17995&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA5Mjg2MDQ5NQ%3D%3D%26mid%3D2452509471%26idx%3D1%26sn%3Dde9953e7dc0798084ae5601834a6d84b)
 1. [分布式唯一 ID 之 Snowflake 算法](https://weekly.manong.io/bounce?nid=285&aid=18055&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fazcxobo)
 1. [JMeter 分布式压测小技巧](https://weekly.manong.io/bounce?nid=286&aid=18129&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzg2NDAwMjM1NQ%3D%3D%26mid%3D2247483867%26idx%3D1%26sn%3D2e9d090feec4791a4606f5df1600b7e2)
+1. [解耦并不难：分布式系统中的解耦](https://weekly.manong.io/bounce?nid=287&aid=18180&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FArR2qtSy9lYBwXrAv4VGcA)

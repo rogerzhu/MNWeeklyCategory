@@ -225,3 +225,6 @@
 1. [[译] Go 开源项目 BigCache 如何加速并发访问以及避免高额的 GC 开销](https://weekly.manong.io/bounce?nid=285&aid=18069&url=https%3A%2F%2Ftoutiao.io%2Fk%2F90vmyb6)
 1. [Systrace 基础知识：MainThread 和 RenderThread 解读（Android）](https://weekly.manong.io/bounce?nid=286&aid=18140&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxogc5gs)
 1. [多线程原理：GCD 源码分析（iOS）](https://weekly.manong.io/bounce?nid=286&aid=18141&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7t5nzhm)
+1. [设计高性能高并发网络系统需考虑哪些因素](https://weekly.manong.io/bounce?nid=287&aid=18160&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaE0Q0syOO0mThn2_pBBKHw)
+1. [Linux 内核初探：进程与线程](https://weekly.manong.io/bounce?nid=287&aid=18178&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fyrf_QRFCsEvf-hXr9gmIDg)
+1. [程序员，别再迷恋多线程工作了](https://weekly.manong.io/bounce?nid=287&aid=18157&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNsgaVJekQqG1uM2ioIFrtg)

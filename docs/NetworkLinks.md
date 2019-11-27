@@ -922,3 +922,8 @@
 1. [为什么 TCP 建立连接需要三次握手](https://weekly.manong.io/bounce?nid=285&aid=18035&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx2j5ax3)
 1. [如何通过 JavaScript 编写高质量的函数（四）：函数式编程之实战篇](https://weekly.manong.io/bounce?nid=286&aid=18146&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZoXYbjuezOWgNyJKmSQmTw)
 1. [对网络安全行业的深度思考](https://weekly.manong.io/bounce?nid=286&aid=18107&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FpYxoDxpSQSu867lmIbsWyg)
+1. [设计高性能高并发网络系统需考虑哪些因素](https://weekly.manong.io/bounce?nid=287&aid=18160&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaE0Q0syOO0mThn2_pBBKHw)
+1. [探索权重无关神经网络](https://weekly.manong.io/bounce?nid=287&aid=18217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fg7o60Ypri0J1e65cZQspiA)
+1. [Golang 生态：使用 viper 管理配置](https://weekly.manong.io/bounce?nid=287&aid=18205&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp-eFNb6VDSbnNXJxT8LgGA)
+1. [为什么 DNS 使用 UDP 协议](https://weekly.manong.io/bounce?nid=287&aid=18165&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1zxqxx9)
+1. [轻量级边缘计算 EMQ X Kuiper 与 Azure IoT Hub 集成方案](https://weekly.manong.io/bounce?nid=287&aid=18183&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhesuao6)

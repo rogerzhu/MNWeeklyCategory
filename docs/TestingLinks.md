@@ -226,3 +226,4 @@
 1. [少年，单元测试的两个流派了解下](https://weekly.manong.io/bounce?nid=283&aid=17943&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5SruD251ZRugTGq3auDyIw)
 1. [软件测试人员应具备哪些能力？](https://weekly.manong.io/bounce?nid=284&aid=17989&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fgnubud1RMgxVPX1IrYI_3w)
 1. [Android 之 App 安全测试篇](https://weekly.manong.io/bounce?nid=286&aid=18139&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FiI6-pcejytVSDkT6Kcburg)
+1. [交易所安全测试：输入输出安全](https://weekly.manong.io/bounce?nid=287&aid=18173&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUu-_RzygemG5o9aJ87yHbw)

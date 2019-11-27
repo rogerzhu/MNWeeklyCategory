@@ -589,3 +589,5 @@
 1. [Python 命令行之旅：深入 click 之参数篇](https://weekly.manong.io/bounce?nid=286&aid=18143&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPYbn8lN3fCFxb46vMNheVA)
 1. [Nginx 基础知识从小白到入门](https://weekly.manong.io/bounce?nid=286&aid=18123&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frbkd19n)
 1. [Python 工程师必备](https://weekly.manong.io/bounce?nid=286&aid=18147&url=https%3A%2F%2Fpro.m.jd.com%2Fmall%2Factive%2F3izbkZCa2WavHr3h68y5rV8fGUte%2Findex.html)
+1. [将安卓手机打造成 Python 全栈开发利器](https://weekly.manong.io/bounce?nid=287&aid=18202&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0sFyUE4c1xQryCc9R1x-2A)
+1. [Python happybase 操作 HBase 最佳实践](https://weekly.manong.io/bounce?nid=287&aid=18203&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6w1BWibVvZfJTKil8nd3Ew)

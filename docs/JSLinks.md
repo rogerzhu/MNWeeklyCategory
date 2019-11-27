@@ -547,3 +547,4 @@
 1. [Egg.js 打造高可用服务集群](https://weekly.manong.io/bounce?nid=284&aid=17992&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjvrb95x)
 1. [Node.js 在微医的应用场景及实践](https://weekly.manong.io/bounce?nid=285&aid=18072&url=https%3A%2F%2Ftoutiao.io%2Fk%2F781vbit)
 1. [如何通过 JavaScript 编写高质量的函数（四）：函数式编程之实战篇](https://weekly.manong.io/bounce?nid=286&aid=18146&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZoXYbjuezOWgNyJKmSQmTw)
+1. [微信小程序与 tensorflow.js 模型引入](https://weekly.manong.io/bounce?nid=287&aid=18213&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_9z4flQA5NESndX9La7VhA)

@@ -567,3 +567,5 @@
 1. [开发可伸缩系统必须遵守这 11 个软件设计原则](https://weekly.manong.io/bounce?nid=285&aid=18030&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjhruPpGCdT5VYx-ZHCPrpg)
 1. [日志系统的设计](https://weekly.manong.io/bounce?nid=285&aid=18045&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F3hM-k8FwxQU4sjYWuN6wfg)
 1. [2019 人工智能用户体验设计指南：技术、场景、设计](https://weekly.manong.io/bounce?nid=286&aid=18094&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FIdHZj4q3eKkpfOfEY13mHQ)
+1. [设计高性能高并发网络系统需考虑哪些因素](https://weekly.manong.io/bounce?nid=287&aid=18160&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaE0Q0syOO0mThn2_pBBKHw)
+1. [如何教会机器读懂设计 v1.1](https://weekly.manong.io/bounce?nid=287&aid=18209&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrUEF_TsrtfhMbMMnEeWN2w)

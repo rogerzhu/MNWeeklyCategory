@@ -354,3 +354,4 @@
 1. [PHP 代码加密实践](https://weekly.manong.io/bounce?nid=284&aid=18008&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmVTAbm-qSSuDE7JWk0hMow)
 1. [PHP Opcache 工作原理](https://weekly.manong.io/bounce?nid=285&aid=18066&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fd2cg38j)
 1. [给公司写的 composer 包开发的规范（PHP）](https://weekly.manong.io/bounce?nid=286&aid=18142&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuqdx9oi)
+1. [Laravel 参数验证的疑与惑](https://weekly.manong.io/bounce?nid=287&aid=18204&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuyNTBlWrIIqEGjK1XWdt1g)

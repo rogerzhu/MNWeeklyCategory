@@ -1211,3 +1211,8 @@
 1. [在 ARM 盒子上使用 IEF 和 Tensorflow 运行边缘 AI](https://weekly.manong.io/bounce?nid=286&aid=18099&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdpuAC58GTcibWbZ1OgjDow)
 1. [手把手教你搭建一个 LSTM 时序模型](https://weekly.manong.io/bounce?nid=286&aid=18101&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FduDWwCexEdfCJTy4QqfJzQ)
 1. [GitHub 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍](https://weekly.manong.io/bounce?nid=286&aid=18133&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffgw4pdm)
+1. [为何一定要学习机器学习？](https://weekly.manong.io/bounce?nid=287&aid=18208&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHQE9YYXcXicKkpq6pW4tWg)
+1. [深度学习是如何帮助携程机票客服提高对话效率的](https://weekly.manong.io/bounce?nid=287&aid=18210&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQq2R4WYft8fPLpgcsFmorw)
+1. [深度学习语音合成 2019 指南](https://weekly.manong.io/bounce?nid=287&aid=18211&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv1t05s2)
+1. [在 ARM 盒子上使用 IEF 和 Tensorflow Lite 运行边缘 AI](https://weekly.manong.io/bounce?nid=287&aid=18212&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPoT280Q_emFU9g8F5BjRsA)
+1. [微信小程序与 tensorflow.js 模型引入](https://weekly.manong.io/bounce?nid=287&aid=18213&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_9z4flQA5NESndX9La7VhA)

@@ -202,3 +202,4 @@
 1. [Swift 游戏开发之「能否关个灯」（一）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F48to6ss&aid=17600&nid=278)
 1. [[译] SwiftShield：SwiftOBJ-C 代码混淆工具](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDpW_NpwitzZ9WWDgZUqKcQ&aid=17796&nid=281)
 1. [Swift 里的 String 为什么这么难用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnesfc1u&aid=17871&nid=282)
+1. [Swift 在 GAIA 平台云端一体化的探索](https://weekly.manong.io/bounce?nid=287&aid=18200&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7B2FDBZ_vnvswiYWjLih4Q)

@@ -86,3 +86,4 @@
 1. [[译] JVM 内存分析神器 MAT：Shallow Heap Vs Retained Heap 你理解的对吗？](https://weekly.manong.io/bounce?nid=284&aid=18001&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgHgePfSs1Nty7iJ-3IQNWw)
 1. [MySQL 的又一神器：锁](https://weekly.manong.io/bounce?nid=284&aid=17998&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftmzfqj0)
 1. [Linux 日志切割神器 logrotate 原理介绍和配置详解](https://weekly.manong.io/bounce?nid=285&aid=18042&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fja37t9n)
+1. [将安卓手机打造成 Python 全栈开发利器](https://weekly.manong.io/bounce?nid=287&aid=18202&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0sFyUE4c1xQryCc9R1x-2A)

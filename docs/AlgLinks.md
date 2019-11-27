@@ -460,3 +460,6 @@
 1. [hash 算法原理及应用漫谈](https://weekly.manong.io/bounce?nid=286&aid=18112&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNyKqBEDI6g8AQ0PGeU1C5g)
 1. [面试常考排序算法的全面总结](https://weekly.manong.io/bounce?nid=286&aid=18126&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0XW-JFjep4UPVgurt31ypQ)
 1. [GitHub 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍](https://weekly.manong.io/bounce?nid=286&aid=18133&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffgw4pdm)
+1. [万亿级消息背后: 小米消息队列的实践](https://weekly.manong.io/bounce?nid=287&aid=18161&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuHDa5e3HUEwyMFcsbbwKWQ)
+1. [爱恨交织的红黑树](https://weekly.manong.io/bounce?nid=287&aid=18179&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoisJz1vz6z3N8G8xyJWI7Q)
+1. [基于 Redis 实现的延迟消息队列](https://weekly.manong.io/bounce?nid=287&aid=18191&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwww9xod)

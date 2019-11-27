@@ -209,3 +209,6 @@
 1. [互联网 8 年技术老兵的近期面试有感](https://weekly.manong.io/bounce?nid=285&aid=18025&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLwfdhLaQxvq20fPJPCrUdw)
 1. [面试的时候，面试官到底在干什么？应届生面试软件工程师，你要注意什么？](https://weekly.manong.io/bounce?nid=286&aid=18109&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7z8hh98)
 1. [面试常考排序算法的全面总结](https://weekly.manong.io/bounce?nid=286&aid=18126&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0XW-JFjep4UPVgurt31ypQ)
+1. [面试官：如何用 Redis 实现全局锁](https://weekly.manong.io/bounce?nid=287&aid=18169&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FpEScg7U2-x756omUf3BNkg)
+1. [如何回答性能优化的问题，才能打动阿里面试官？](https://weekly.manong.io/bounce?nid=287&aid=18185&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsnQ3T86usv4rXz0MMQvFfQ)
+1. [《Offer来了：Java面试核心知识点精讲（原理篇）》](https://weekly.manong.io/bounce?nid=287&aid=18162&url=https%3A%2F%2Fu.jd.com%2FFQ5z5i)

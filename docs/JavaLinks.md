@@ -496,3 +496,5 @@
 1. [C/C++ 在 Java 项目、Android 和 Objective-C 三大平台下实现混合编程](https://weekly.manong.io/bounce?nid=130&aid=7098&url=http%3A%2F%2Fwww.taoweiji.cn%2F2016%2F08%2F02%2Fndk)
 1. [如何利用缓存机制实现 Java 类反射性能提升 30 倍](https://weekly.manong.io/bounce?nid=286&aid=18136&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFbOqMo1AUoxPFT6pSLdnrw)
 1. [Java 线上故障排查全套路](https://weekly.manong.io/bounce?nid=286&aid=18137&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmczyjep)
+1. [[译] 10 个你必须知道的 Java 安全最佳实践](https://weekly.manong.io/bounce?nid=287&aid=18195&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOe71n5vSAyhJ1f3be7x7qA)
+1. [《Offer来了：Java面试核心知识点精讲（原理篇）》](https://weekly.manong.io/bounce?nid=287&aid=18162&url=https%3A%2F%2Fu.jd.com%2FFQ5z5i)

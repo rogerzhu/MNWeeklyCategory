@@ -870,3 +870,4 @@
 1. [[译] Go 开源项目 BigCache 如何加速并发访问以及避免高额的 GC 开销](https://weekly.manong.io/bounce?nid=285&aid=18069&url=https%3A%2F%2Ftoutiao.io%2Fk%2F90vmyb6)
 1. [走进 Golang 之编译器原理](https://weekly.manong.io/bounce?nid=286&aid=18144&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FObjACsCSbG0PK8xuF8mSjw)
 1. [Golang 限流器 time/rate 使用介绍](https://weekly.manong.io/bounce?nid=286&aid=18145&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9rn75qe)
+1. [Golang 生态：使用 viper 管理配置](https://weekly.manong.io/bounce?nid=287&aid=18205&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp-eFNb6VDSbnNXJxT8LgGA)
