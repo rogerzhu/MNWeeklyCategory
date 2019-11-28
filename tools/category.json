@@ -184,7 +184,7 @@
         },
         {
             "keywords":"计算机网络",
-            "filters":["网络","tcp","http","udp","dns","arp","ip","dhcp","协议"],
+            "filters":["网络","tcp","http","udp","dns","arp","ipv4","ipv6","dhcp","协议","多路复用"],
             "rejecters":[],
             "fileName":"NetworkLinks.md",
             "categoryL1":"基础知识"
@@ -446,6 +446,13 @@
             "filters":["支付","pay"],
             "rejecters":[],
             "fileName":"PaySystemLinks.md",
+            "categoryL1":"应用"
+        },
+        {
+            "keywords":"中台",
+            "filters":["中台"],
+            "rejecters":[],
+            "fileName":"MiddleLayerLinks.md",
             "categoryL1":"应用"
         },
         {
