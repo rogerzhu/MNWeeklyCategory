@@ -1,6 +1,6 @@
 # [码农周刊](https://weekly.manong.io/)一周精选分类
 
-**目前更新至287期**
+**目前更新至288期**
 
 ## 写在最前面的话
 
@@ -70,6 +70,6 @@
 | ------  | ------ | ------ | ------ |
 | [测试相关](docs/TestingLinks.md) | [单元测试](docs/UnitTestLinks.md) | [集成测试](docs/InterTestLinks.md) | [自动化测试](docs/AutoTestLinks.md)  |
  
-**目前更新至287期**
+**目前更新至288期**
 
 持续更新中。。。 

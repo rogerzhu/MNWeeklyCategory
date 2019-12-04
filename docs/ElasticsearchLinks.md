@@ -80,3 +80,4 @@
 1. [ElasticDL：蚂蚁金服开源基于 TensorFlow 的弹性分布式深度学习系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBitZUQ5xyDSpVE2IeZxhqw&aid=17721&nid=280)
 1. [Elasticsearch 从入门到放弃：索引基本使用方法](https://weekly.manong.io/bounce?nid=283&aid=17942&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F3ooosWUYv5udX77pQ7cwpw)
 1. [Elasticsearch 从入门到放弃：文档 CRUD 要牢记](https://weekly.manong.io/bounce?nid=287&aid=18176&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaOZnZpAC4c_dYkVW8DfNPg)
+1. [ElasticSearch 亿级数据检索深度优化](https://weekly.manong.io/bounce?nid=288&aid=18257&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfU3TbYgFi964505-x46FjQ)

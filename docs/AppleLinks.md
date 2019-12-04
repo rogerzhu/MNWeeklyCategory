@@ -674,3 +674,4 @@
 1. [[译] 用 Flutter 打包 iOS 应用的一些细节知识](https://weekly.manong.io/bounce?nid=285&aid=18064&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPsvVFoB91_jGzibFPIwnIw)
 1. [多线程原理：GCD 源码分析（iOS）](https://weekly.manong.io/bounce?nid=286&aid=18141&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7t5nzhm)
 1. [iOS 双摄像头在直播中的应用](https://weekly.manong.io/bounce?nid=287&aid=18199&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbrjuA5CYqSXvBcYCIJOX5Q)
+1. [iOS 内存管理之开发（实战篇）](https://weekly.manong.io/bounce?nid=288&aid=18237&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdoZ_k-LBl_r5xgR_qkSrWg)

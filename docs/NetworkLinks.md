@@ -309,3 +309,5 @@
 1. [Raft 协议简介](https://weekly.manong.io/bounce?nid=282&aid=17857&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqau057l)
 1. [AWS 上 Cilium 的网络拓扑和数据流](https://weekly.manong.io/bounce?nid=284&aid=17977&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fikpq2dd)
 1. [为什么 TCP 建立连接需要三次握手](https://weekly.manong.io/bounce?nid=285&aid=18035&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx2j5ax3)
+1. [图神经网络库 DGL 零基础上手指南（一）](https://weekly.manong.io/bounce?nid=288&aid=18232&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb1u820n)
+1. [全球 IPv4 地址耗尽，IPv6 来了](https://weekly.manong.io/bounce?nid=288&aid=18253&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwMdDiu0o4JfUiqD8hAB75w)

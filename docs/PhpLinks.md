@@ -355,3 +355,4 @@
 1. [PHP Opcache 工作原理](https://weekly.manong.io/bounce?nid=285&aid=18066&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fd2cg38j)
 1. [给公司写的 composer 包开发的规范（PHP）](https://weekly.manong.io/bounce?nid=286&aid=18142&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuqdx9oi)
 1. [Laravel 参数验证的疑与惑](https://weekly.manong.io/bounce?nid=287&aid=18204&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuyNTBlWrIIqEGjK1XWdt1g)
+1. [PHP urlencode 不得不说的秘密](https://weekly.manong.io/bounce?nid=288&aid=18240&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flxapeor)

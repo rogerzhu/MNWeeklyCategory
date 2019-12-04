@@ -15,3 +15,5 @@
 1. [技术中台：分布式架构在蚂蚁金服的实践](https://weekly.manong.io/bounce?nid=281&aid=17751&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhZWHzQNBtH8g4brSg8R3aw)
 1. [程序员与 “中台” 的爱恨交错](https://weekly.manong.io/bounce?nid=285&aid=18028&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXqWaJcDLm5yWlx93Y0d2Kg)
 1. [向左还是向右？聊聊中台建设中的那些纠结事](https://weekly.manong.io/bounce?nid=286&aid=18120&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJcgA978QM2xnKgYtjqLozQ)
+1. [阿里巴巴架构师：十问业务中台和我的答案](https://weekly.manong.io/bounce?nid=288&aid=18227&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FiDM-1clgezsC8ry-gk9vCg)
+1. [有别于 BATJ，滴滴的中台数据体系建设怎么另辟蹊径？](https://weekly.manong.io/bounce?nid=288&aid=18228&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOunubq5J0U5ijQsFgQZU0A)

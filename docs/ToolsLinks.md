@@ -380,3 +380,4 @@
 1. [Linux 系统监测工具 sysstat 介绍](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft500o3h&aid=17850&nid=282)
 1. [史上最全 Windows 安全工具锦集](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fho7qzur&aid=17861&nid=282)
 1. [从数据科学实施方案中的资源、需求、工具分类、选型、及成本聊开去](https://weekly.manong.io/bounce?nid=284&aid=17984&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDarcipW4Xj665T0aY_sBiA)
+1. [一份可以令 Python 变快的工具清单](https://weekly.manong.io/bounce?nid=288&aid=18241&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0l4mjXdodDMJ52_MceGDXA)

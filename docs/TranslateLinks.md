@@ -1688,3 +1688,5 @@
 1. [[译] 编程语言中的 6 种内存模型（2016）](https://weekly.manong.io/bounce?nid=286&aid=18108&url=https%3A%2F%2Ftoutiao.io%2Fk%2F81a94hi)
 1. [[译] 10 个你必须知道的 Java 安全最佳实践](https://weekly.manong.io/bounce?nid=287&aid=18195&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOe71n5vSAyhJ1f3be7x7qA)
 1. [[译] 通过 GASP 让 Vue 实现动态效果](https://weekly.manong.io/bounce?nid=287&aid=18206&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgyd8b5c)
+1. [[译] Swift 5.1 极简参考手册](https://weekly.manong.io/bounce?nid=288&aid=18238&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKzlQXNgG5sQRrA_rGfq2lw)
+1. [[译] V 神：加密货币的难题，五年之后的回顾](https://weekly.manong.io/bounce?nid=288&aid=18251&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9gqlgqs)

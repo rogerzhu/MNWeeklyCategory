@@ -416,3 +416,7 @@
 1. [启用 Docker 虚拟机 GPU，加速深度学习](https://weekly.manong.io/bounce?nid=286&aid=18098&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLIm357mAmtCZ8c_1AInHfg)
 1. [红帽宣布发布企业容器仓库开源项目 Quay](https://weekly.manong.io/bounce?nid=286&aid=18132&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUl61I9vdCe2dv6-cJhYjNA)
 1. [Gbox：基于 Litho 的 Android 高性能动态业务容器，解决首页动态化的痛点](https://weekly.manong.io/bounce?nid=286&aid=18135&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7t2itei)
+1. [美团外卖前端容器化演进实践](https://weekly.manong.io/bounce?nid=288&aid=18262&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSAuKvlB0Bfj7dRIBzkhO8w)
+1. [Kubernetes 中最有趣的趋势是什么？](https://weekly.manong.io/bounce?nid=288&aid=18266&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmTxQIc2NTB2Xop0G1x67Yg)
+1. [关于 Kafka 的一些面试题目](https://weekly.manong.io/bounce?nid=288&aid=18270&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAJ45e4TgLDRLJT2ODoQNpw)
+1. [Kubernetes 学习必备 (awesome-kubernetes-notes)](https://weekly.manong.io/bounce?nid=288&aid=18274&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fperqw6y)

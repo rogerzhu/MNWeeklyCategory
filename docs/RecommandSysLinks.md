@@ -55,3 +55,4 @@
 1. [深度学习在推荐系统中的应用](https://weekly.manong.io/bounce?nid=282&aid=17833&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTUXvhkdqQ_kdmSKknsvUcA)
 1. [Facebook 面向个性化推荐系统的深度学习推荐模型](https://weekly.manong.io/bounce?nid=282&aid=17834&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWBjdm-7gqCNzkDS8XHt-Qg)
 1. [YouTube 基于多任务学习的视频排序推荐系统](https://weekly.manong.io/bounce?nid=284&aid=17964&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKZ2DF-DHnvsgJRIQFYC7dQ)
+1. [微信看一看实时 Look-alike 推荐算法](https://weekly.manong.io/bounce?nid=288&aid=18269&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ_L4Ix1fe8q7audK6gmceA)

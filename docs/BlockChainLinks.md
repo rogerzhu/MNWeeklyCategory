@@ -164,3 +164,6 @@
 1. [基于区块链究竟可以做什么？](https://weekly.manong.io/bounce?nid=285&aid=18032&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5WPSOvMh7H6QGPuVLL5_EQ)
 1. [初识 R3-Corda，解析区块链结构](https://weekly.manong.io/bounce?nid=286&aid=18122&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxnfpuj8)
 1. [玩玩区块链：概念](https://weekly.manong.io/bounce?nid=287&aid=18172&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzrx5854)
+1. [区块链关键技术研究进展](https://weekly.manong.io/bounce?nid=288&aid=18248&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9J7UmWFK4pJYXUkIzJp6EA)
+1. [以比特币为例，解析区块链的经济学原理](https://weekly.manong.io/bounce?nid=288&aid=18249&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr_n86-5Wp541Ds6of6WR1g)
+1. [从黑客文化看区块链开源社区的自我组织与成功之道](https://weekly.manong.io/bounce?nid=288&aid=18250&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fxbgr2fd-Zhgbg6cz1CwNtw)

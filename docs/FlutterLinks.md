@@ -115,3 +115,4 @@
 1. [做一个高一致性、高性能的 Flutter 动态渲染，真的很难么？](https://weekly.manong.io/bounce?nid=285&aid=18065&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FR6IxJqawwbmlWvlwb3ZXww)
 1. [Flutter 如何优雅的解决依赖版本冲突](https://weekly.manong.io/bounce?nid=287&aid=18201&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCEKsz8GFEhLDoxQ0Yc8Cow)
 1. [wechat_flutter：Flutter 版本微信](https://weekly.manong.io/bounce?nid=287&aid=18193&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz81rtqe)
+1. [怎样的 Flutter Engine 定制流程，才能实现真正 “开箱即用”？](https://weekly.manong.io/bounce?nid=288&aid=18239&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSB6p4fZuKCOvwtKvSzV1DA)

@@ -463,3 +463,5 @@
 1. [万亿级消息背后: 小米消息队列的实践](https://weekly.manong.io/bounce?nid=287&aid=18161&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuHDa5e3HUEwyMFcsbbwKWQ)
 1. [爱恨交织的红黑树](https://weekly.manong.io/bounce?nid=287&aid=18179&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoisJz1vz6z3N8G8xyJWI7Q)
 1. [基于 Redis 实现的延迟消息队列](https://weekly.manong.io/bounce?nid=287&aid=18191&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwww9xod)
+1. [微信看一看实时 Look-alike 推荐算法](https://weekly.manong.io/bounce?nid=288&aid=18269&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ_L4Ix1fe8q7audK6gmceA)
+1. [千万级延时任务队列如何实现，看美图开源的 LMSTFY](https://weekly.manong.io/bounce?nid=288&aid=18275&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F79z5LQ5EE9pu3r7Qz5UrBg)

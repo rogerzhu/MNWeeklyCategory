@@ -755,3 +755,4 @@
 1. [Gbox：基于 Litho 的 Android 高性能动态业务容器，解决首页动态化的痛点](https://weekly.manong.io/bounce?nid=286&aid=18135&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7t2itei)
 1. [Android 本地 SQL 注入的 dos 攻击方式](https://weekly.manong.io/bounce?nid=287&aid=18196&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNSFPopBrHuqN9gwOHcuDSQ)
 1. [这可能是最好的 Android/Kotlin 日志输出方法](https://weekly.manong.io/bounce?nid=287&aid=18197&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff0p78a7)
+1. [在 Android 中如何确定 App (Activity) 的启动者](https://weekly.manong.io/bounce?nid=288&aid=18236&url=https%3A%2F%2Ftoutiao.io%2Fk%2F73jy2hd)

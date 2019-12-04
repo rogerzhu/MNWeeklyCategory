@@ -638,3 +638,4 @@
 1. [基于 Redis 实现的延迟消息队列](https://weekly.manong.io/bounce?nid=287&aid=18191&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwww9xod)
 1. [MySQL DBA 好帮手：dbm](https://weekly.manong.io/bounce?nid=287&aid=18192&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcNIZ9H1YUqnRwbOYhMglkQ)
 1. [美图开源 SSD Redis KV 存储](https://weekly.manong.io/bounce?nid=287&aid=18194&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5sk7x41)
+1. [搞懂 Redis 到底快在哪里](https://weekly.manong.io/bounce?nid=288&aid=18265&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdpjsnem)

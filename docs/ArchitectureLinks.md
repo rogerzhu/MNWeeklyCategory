@@ -605,3 +605,4 @@
 1. [GitHub 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍](https://weekly.manong.io/bounce?nid=286&aid=18133&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffgw4pdm)
 1. [vivo web service：亿万级规模 web 服务引擎架构](https://weekly.manong.io/bounce?nid=287&aid=18159&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FovOS0l9U5svlUMfZoYFU9Q)
 1. [Apollo 在基础架构中的实践经验](https://weekly.manong.io/bounce?nid=287&aid=18188&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5heB5_mXXK4H0Uc9ERHTGA)
+1. [阿里巴巴架构师：十问业务中台和我的答案](https://weekly.manong.io/bounce?nid=288&aid=18227&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FiDM-1clgezsC8ry-gk9vCg)

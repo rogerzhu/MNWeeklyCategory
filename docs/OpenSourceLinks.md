@@ -548,3 +548,7 @@
 1. [红帽宣布发布企业容器仓库开源项目 Quay](https://weekly.manong.io/bounce?nid=286&aid=18132&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUl61I9vdCe2dv6-cJhYjNA)
 1. [一周 GitHub 开源项目推荐](https://weekly.manong.io/bounce?nid=287&aid=18163&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkxBHPoJaFsWGLuqGj1pgrA)
 1. [美图开源 SSD Redis KV 存储](https://weekly.manong.io/bounce?nid=287&aid=18194&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5sk7x41)
+1. [一日千星的机器学习系统设计指南，这个英伟达小姐姐的项目火了](https://weekly.manong.io/bounce?nid=288&aid=18231&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FX_LSll_u-KmD4Wd2Se9LWA)
+1. [一周 GitHub 开源项目推荐：微软、字节跳动、腾讯、阿里巴巴](https://weekly.manong.io/bounce?nid=288&aid=18247&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FInRM0JDbENnuekQMZfJmUw)
+1. [从黑客文化看区块链开源社区的自我组织与成功之道](https://weekly.manong.io/bounce?nid=288&aid=18250&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fxbgr2fd-Zhgbg6cz1CwNtw)
+1. [千万级延时任务队列如何实现，看美图开源的 LMSTFY](https://weekly.manong.io/bounce?nid=288&aid=18275&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F79z5LQ5EE9pu3r7Qz5UrBg)

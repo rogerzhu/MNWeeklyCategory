@@ -1216,3 +1216,4 @@
 1. [深度学习语音合成 2019 指南](https://weekly.manong.io/bounce?nid=287&aid=18211&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv1t05s2)
 1. [在 ARM 盒子上使用 IEF 和 Tensorflow Lite 运行边缘 AI](https://weekly.manong.io/bounce?nid=287&aid=18212&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPoT280Q_emFU9g8F5BjRsA)
 1. [微信小程序与 tensorflow.js 模型引入](https://weekly.manong.io/bounce?nid=287&aid=18213&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_9z4flQA5NESndX9La7VhA)
+1. [一日千星的机器学习系统设计指南，这个英伟达小姐姐的项目火了](https://weekly.manong.io/bounce?nid=288&aid=18231&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FX_LSll_u-KmD4Wd2Se9LWA)

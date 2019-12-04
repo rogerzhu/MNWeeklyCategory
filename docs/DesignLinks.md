@@ -569,3 +569,5 @@
 1. [2019 人工智能用户体验设计指南：技术、场景、设计](https://weekly.manong.io/bounce?nid=286&aid=18094&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FIdHZj4q3eKkpfOfEY13mHQ)
 1. [设计高性能高并发网络系统需考虑哪些因素](https://weekly.manong.io/bounce?nid=287&aid=18160&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaE0Q0syOO0mThn2_pBBKHw)
 1. [如何教会机器读懂设计 v1.1](https://weekly.manong.io/bounce?nid=287&aid=18209&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrUEF_TsrtfhMbMMnEeWN2w)
+1. [一日千星的机器学习系统设计指南，这个英伟达小姐姐的项目火了](https://weekly.manong.io/bounce?nid=288&aid=18231&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FX_LSll_u-KmD4Wd2Se9LWA)
+1. [谈 DevOps 平台设计：为什么部署后的包还是旧的包？](https://weekly.manong.io/bounce?nid=288&aid=18267&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEJ_Blf4hYZylJtKR50aVNw)

@@ -498,3 +498,5 @@
 1. [Java 线上故障排查全套路](https://weekly.manong.io/bounce?nid=286&aid=18137&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmczyjep)
 1. [[译] 10 个你必须知道的 Java 安全最佳实践](https://weekly.manong.io/bounce?nid=287&aid=18195&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOe71n5vSAyhJ1f3be7x7qA)
 1. [《Offer来了：Java面试核心知识点精讲（原理篇）》](https://weekly.manong.io/bounce?nid=287&aid=18162&url=https%3A%2F%2Fu.jd.com%2FFQ5z5i)
+1. [JDK 14 来了：9 大重磅特性解读，不容错过](https://weekly.manong.io/bounce?nid=288&aid=18234&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWjTz1-jSIeFd4c06NewxPg)
+1. [跑得好好的 Java 进程，怎么突然就瘫痪了？](https://weekly.manong.io/bounce?nid=288&aid=18235&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F23-S5tXTqi2LSe84OoQvvA)

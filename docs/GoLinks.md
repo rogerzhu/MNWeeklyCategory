@@ -871,3 +871,6 @@
 1. [走进 Golang 之编译器原理](https://weekly.manong.io/bounce?nid=286&aid=18144&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FObjACsCSbG0PK8xuF8mSjw)
 1. [Golang 限流器 time/rate 使用介绍](https://weekly.manong.io/bounce?nid=286&aid=18145&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9rn75qe)
 1. [Golang 生态：使用 viper 管理配置](https://weekly.manong.io/bounce?nid=287&aid=18205&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp-eFNb6VDSbnNXJxT8LgGA)
+1. [深入 Go Runtime，你能做到浅出吗？](https://weekly.manong.io/bounce?nid=288&aid=18242&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FivO-USpxiyrL-9BzgE8Vcg)
+1. [走进 Golang 之运行与 Plan9 汇编](https://weekly.manong.io/bounce?nid=288&aid=18243&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5x7OV47dfOwwVvQCPkvFKg)
+1. [Golang 实践之花椒直播总线系统](https://weekly.manong.io/bounce?nid=288&aid=18244&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrEJOQNDoNYr5iqIsUlx1sQ)

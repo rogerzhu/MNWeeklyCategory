@@ -395,3 +395,5 @@
 1. [前端的一些雕虫小技，从 100% 和滚动条说起](https://weekly.manong.io/bounce?nid=286&aid=18118&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgfeo1j0)
 1. [云前端](https://weekly.manong.io/bounce?nid=287&aid=18222&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F40889%23287)
 1. [蚂蚁前端研发最佳实践](https://weekly.manong.io/bounce?nid=287&aid=18171&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhZgZ-wa2OH50aYXSfjFAlw)
+1. [美团外卖前端容器化演进实践](https://weekly.manong.io/bounce?nid=288&aid=18262&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSAuKvlB0Bfj7dRIBzkhO8w)
+1. [前端部署演化史](https://weekly.manong.io/bounce?nid=288&aid=18268&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlUxL3i8ulD2Mb5igrdFwRg)
