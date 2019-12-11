@@ -88,3 +88,5 @@
 1. [Linux 日志切割神器 logrotate 原理介绍和配置详解](https://weekly.manong.io/bounce?nid=285&aid=18042&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fja37t9n)
 1. [将安卓手机打造成 Python 全栈开发利器](https://weekly.manong.io/bounce?nid=287&aid=18202&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0sFyUE4c1xQryCc9R1x-2A)
 1. [程序员开发效率神器汇总](https://weekly.manong.io/bounce?nid=288&aid=18252&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWjaHJHE7ZPbgo7QwIDwZzQ)
+1. [还在用 Win？教你从零把 Mac 打造成开发利器](https://weekly.manong.io/bounce?nid=289&aid=18291&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fr5rhx80)
+1. [Firefox Web Replay：前端开发者的未来利器](https://weekly.manong.io/bounce?nid=289&aid=18308&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsg37sd4)

@@ -311,3 +311,7 @@
 1. [为什么 TCP 建立连接需要三次握手](https://weekly.manong.io/bounce?nid=285&aid=18035&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx2j5ax3)
 1. [图神经网络库 DGL 零基础上手指南（一）](https://weekly.manong.io/bounce?nid=288&aid=18232&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb1u820n)
 1. [全球 IPv4 地址耗尽，IPv6 来了](https://weekly.manong.io/bounce?nid=288&aid=18253&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwMdDiu0o4JfUiqD8hAB75w)
+1. [Go Http Client 连接优化](https://weekly.manong.io/bounce?nid=289&aid=18343&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp9w7gok)
+1. [还在用 Python 自带的 httpserver？快开感受下更炫酷的 Vip 版功能吧](https://weekly.manong.io/bounce?nid=289&aid=18345&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjjguq2z)
+1. [HTTPS 证书认证原理分析](https://weekly.manong.io/bounce?nid=289&aid=18306&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4oayj8r)
+1. [漫话：全球 IPv4 地址正式耗尽？是时候说说到底什么是 IPv4 和 IPv6 了](https://weekly.manong.io/bounce?nid=289&aid=18314&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvovzsqy)

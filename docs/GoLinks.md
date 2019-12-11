@@ -874,3 +874,6 @@
 1. [深入 Go Runtime，你能做到浅出吗？](https://weekly.manong.io/bounce?nid=288&aid=18242&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FivO-USpxiyrL-9BzgE8Vcg)
 1. [走进 Golang 之运行与 Plan9 汇编](https://weekly.manong.io/bounce?nid=288&aid=18243&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5x7OV47dfOwwVvQCPkvFKg)
 1. [Golang 实践之花椒直播总线系统](https://weekly.manong.io/bounce?nid=288&aid=18244&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrEJOQNDoNYr5iqIsUlx1sQ)
+1. [万字长文带你深入浅出 Golang Runtime](https://weekly.manong.io/bounce?nid=289&aid=18341&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg98jey9)
+1. [[译] Go 语言的协程，系统线程以及 CPU 管理](https://weekly.manong.io/bounce?nid=289&aid=18342&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0naj8n2)
+1. [Go Http Client 连接优化](https://weekly.manong.io/bounce?nid=289&aid=18343&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp9w7gok)

@@ -500,3 +500,5 @@
 1. [《Offer来了：Java面试核心知识点精讲（原理篇）》](https://weekly.manong.io/bounce?nid=287&aid=18162&url=https%3A%2F%2Fu.jd.com%2FFQ5z5i)
 1. [JDK 14 来了：9 大重磅特性解读，不容错过](https://weekly.manong.io/bounce?nid=288&aid=18234&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWjTz1-jSIeFd4c06NewxPg)
 1. [跑得好好的 Java 进程，怎么突然就瘫痪了？](https://weekly.manong.io/bounce?nid=288&aid=18235&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F23-S5tXTqi2LSe84OoQvvA)
+1. [甲小蛙战记：PHP2Java 排雷指南](https://weekly.manong.io/bounce?nid=289&aid=18332&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbq3qmom)
+1. [Stack Overflow 上 370 万浏览量的一个问题：如何比较 Java 的字符串？](https://weekly.manong.io/bounce?nid=289&aid=18333&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhta5xrl)

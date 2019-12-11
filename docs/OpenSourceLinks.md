@@ -552,3 +552,5 @@
 1. [一周 GitHub 开源项目推荐：微软、字节跳动、腾讯、阿里巴巴](https://weekly.manong.io/bounce?nid=288&aid=18247&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FInRM0JDbENnuekQMZfJmUw)
 1. [从黑客文化看区块链开源社区的自我组织与成功之道](https://weekly.manong.io/bounce?nid=288&aid=18250&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fxbgr2fd-Zhgbg6cz1CwNtw)
 1. [千万级延时任务队列如何实现，看美图开源的 LMSTFY](https://weekly.manong.io/bounce?nid=288&aid=18275&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F79z5LQ5EE9pu3r7Qz5UrBg)
+1. [一周 GitHub 开源项目推荐：字节跳动、阿里巴巴、百度、饿了么](https://weekly.manong.io/bounce?nid=289&aid=18290&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvuBqb8vlenBSEQrNoIqxJQ)
+1. [Swoft 开源推荐之 Swoft-Xadmin](https://weekly.manong.io/bounce?nid=289&aid=18322&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2kz0782)

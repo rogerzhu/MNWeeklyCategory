@@ -1690,3 +1690,6 @@
 1. [[译] 通过 GASP 让 Vue 实现动态效果](https://weekly.manong.io/bounce?nid=287&aid=18206&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgyd8b5c)
 1. [[译] Swift 5.1 极简参考手册](https://weekly.manong.io/bounce?nid=288&aid=18238&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKzlQXNgG5sQRrA_rGfq2lw)
 1. [[译] V 神：加密货币的难题，五年之后的回顾](https://weekly.manong.io/bounce?nid=288&aid=18251&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9gqlgqs)
+1. [[译] 上车！带你一文了解 GPT-2 模型（transformer 语言模型可视化）](https://weekly.manong.io/bounce?nid=289&aid=18330&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2s828at)
+1. [[译] Go 语言的协程，系统线程以及 CPU 管理](https://weekly.manong.io/bounce?nid=289&aid=18342&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0naj8n2)
+1. [[译] 一文看懂这些年比特币技术栈中的创新](https://weekly.manong.io/bounce?nid=289&aid=18304&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu0pko8e)

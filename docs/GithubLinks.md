@@ -117,3 +117,4 @@
 1. [GitHub 行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍](https://weekly.manong.io/bounce?nid=286&aid=18133&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffgw4pdm)
 1. [一周 GitHub 开源项目推荐](https://weekly.manong.io/bounce?nid=287&aid=18163&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkxBHPoJaFsWGLuqGj1pgrA)
 1. [一周 GitHub 开源项目推荐：微软、字节跳动、腾讯、阿里巴巴](https://weekly.manong.io/bounce?nid=288&aid=18247&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FInRM0JDbENnuekQMZfJmUw)
+1. [一周 GitHub 开源项目推荐：字节跳动、阿里巴巴、百度、饿了么](https://weekly.manong.io/bounce?nid=289&aid=18290&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvuBqb8vlenBSEQrNoIqxJQ)

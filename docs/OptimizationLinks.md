@@ -355,3 +355,6 @@
 1. [如何回答性能优化的问题，才能打动阿里面试官？](https://weekly.manong.io/bounce?nid=287&aid=18185&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsnQ3T86usv4rXz0MMQvFfQ)
 1. [Spark SQL 在字节跳动的核心优化实践](https://weekly.manong.io/bounce?nid=287&aid=18189&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHbUnZcVwusEQQsq8LveeuA)
 1. [ElasticSearch 亿级数据检索深度优化](https://weekly.manong.io/bounce?nid=288&aid=18257&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfU3TbYgFi964505-x46FjQ)
+1. [Android App 启动优化全记录](https://weekly.manong.io/bounce?nid=289&aid=18334&url=https%3A%2F%2Ftoutiao.io%2Fk%2F17ufy1j)
+1. [探索 Android 内存优化方法](https://weekly.manong.io/bounce?nid=289&aid=18335&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7pp0sff)
+1. [Go Http Client 连接优化](https://weekly.manong.io/bounce?nid=289&aid=18343&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp9w7gok)

@@ -606,3 +606,6 @@
 1. [vivo web service：亿万级规模 web 服务引擎架构](https://weekly.manong.io/bounce?nid=287&aid=18159&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FovOS0l9U5svlUMfZoYFU9Q)
 1. [Apollo 在基础架构中的实践经验](https://weekly.manong.io/bounce?nid=287&aid=18188&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5heB5_mXXK4H0Uc9ERHTGA)
 1. [阿里巴巴架构师：十问业务中台和我的答案](https://weekly.manong.io/bounce?nid=288&aid=18227&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FiDM-1clgezsC8ry-gk9vCg)
+1. [Serverless Kubernetes 场景和架构剖析](https://weekly.manong.io/bounce?nid=289&aid=18285&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjfca9tq)
+1. [跨平台技术趋势及字节跳动 Flutter 架构实践](https://weekly.manong.io/bounce?nid=289&aid=18339&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7nnm226)
+1. [跨界架构师](https://weekly.manong.io/bounce?nid=289&aid=18352&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F268968%23289)

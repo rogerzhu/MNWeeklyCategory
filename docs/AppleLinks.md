@@ -675,3 +675,6 @@
 1. [多线程原理：GCD 源码分析（iOS）](https://weekly.manong.io/bounce?nid=286&aid=18141&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7t5nzhm)
 1. [iOS 双摄像头在直播中的应用](https://weekly.manong.io/bounce?nid=287&aid=18199&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbrjuA5CYqSXvBcYCIJOX5Q)
 1. [iOS 内存管理之开发（实战篇）](https://weekly.manong.io/bounce?nid=288&aid=18237&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdoZ_k-LBl_r5xgR_qkSrWg)
+1. [Fastlane 打包 iOS ](https://weekly.manong.io/bounce?nid=289&aid=18337&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjorza94)
+1. [深入了解 iOS 的初始化](https://weekly.manong.io/bounce?nid=289&aid=18338&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuq1so02)
+1. [还在用 Win？教你从零把 Mac 打造成开发利器](https://weekly.manong.io/bounce?nid=289&aid=18291&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fr5rhx80)

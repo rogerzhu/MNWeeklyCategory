@@ -420,3 +420,6 @@
 1. [Kubernetes 中最有趣的趋势是什么？](https://weekly.manong.io/bounce?nid=288&aid=18266&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmTxQIc2NTB2Xop0G1x67Yg)
 1. [关于 Kafka 的一些面试题目](https://weekly.manong.io/bounce?nid=288&aid=18270&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAJ45e4TgLDRLJT2ODoQNpw)
 1. [Kubernetes 学习必备 (awesome-kubernetes-notes)](https://weekly.manong.io/bounce?nid=288&aid=18274&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fperqw6y)
+1. [Serverless Kubernetes 场景和架构剖析](https://weekly.manong.io/bounce?nid=289&aid=18285&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjfca9tq)
+1. [利用 Clojure 与 Kubernetes 部署视频流录制服务器](https://weekly.manong.io/bounce?nid=289&aid=18340&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxbn4s2i)
+1. [设置 kubernetes Pod 的 shared memory](https://weekly.manong.io/bounce?nid=289&aid=18307&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftdvrrwe)

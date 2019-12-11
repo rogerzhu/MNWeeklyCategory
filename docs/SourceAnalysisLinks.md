@@ -214,3 +214,4 @@
 1. [学习 sentry 源码整体架构，打造属于自己的前端异常监控 SDK](https://weekly.manong.io/bounce?nid=285&aid=18039&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjkkJMkApuw_uKtG81QWw_Q)
 1. [多线程原理：GCD 源码分析（iOS）](https://weekly.manong.io/bounce?nid=286&aid=18141&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7t5nzhm)
 1. [从 libuv 源码中学习最小二叉堆](https://weekly.manong.io/bounce?nid=286&aid=18119&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxan6nma)
+1. [高德 App 全链路源码依赖分析工程](https://weekly.manong.io/bounce?nid=289&aid=18294&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fboi1dwr)

@@ -1217,3 +1217,7 @@
 1. [在 ARM 盒子上使用 IEF 和 Tensorflow Lite 运行边缘 AI](https://weekly.manong.io/bounce?nid=287&aid=18212&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPoT280Q_emFU9g8F5BjRsA)
 1. [微信小程序与 tensorflow.js 模型引入](https://weekly.manong.io/bounce?nid=287&aid=18213&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_9z4flQA5NESndX9La7VhA)
 1. [一日千星的机器学习系统设计指南，这个英伟达小姐姐的项目火了](https://weekly.manong.io/bounce?nid=288&aid=18231&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FX_LSll_u-KmD4Wd2Se9LWA)
+1. [王坚终于坐不住了，关于 AI 我们都想错了](https://weekly.manong.io/bounce?nid=289&aid=18324&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftseaq05)
+1. [广告场景中的机器学习应用](https://weekly.manong.io/bounce?nid=289&aid=18326&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzy3iucr)
+1. [深度学习的 JavaScript 基础：从 callbacks 到 sync/await](https://weekly.manong.io/bounce?nid=289&aid=18327&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuxi4whl)
+1. [基于 TensorFlow.js 的迁移学习图像分类器](https://weekly.manong.io/bounce?nid=289&aid=18328&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgd75k5v)

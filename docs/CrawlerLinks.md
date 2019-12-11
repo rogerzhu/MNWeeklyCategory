@@ -54,3 +54,4 @@
 1. [如何实现一个 Python 爬虫框架](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_bVFefXd_X1JJAgch-po9Q&aid=15683&nid=254)
 1. [Java 通用爬虫框架中多线程的使用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frvahsx&aid=16307&nid=262)
 1. [基于 ZooKeeper 实现爬虫集群的监控](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpg9epb&aid=16465&nid=264)
+1. [一只爬虫（一）](https://weekly.manong.io/bounce?nid=289&aid=18303&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9bbq8db)

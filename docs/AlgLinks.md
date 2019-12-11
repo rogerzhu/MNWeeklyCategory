@@ -465,3 +465,6 @@
 1. [基于 Redis 实现的延迟消息队列](https://weekly.manong.io/bounce?nid=287&aid=18191&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwww9xod)
 1. [微信看一看实时 Look-alike 推荐算法](https://weekly.manong.io/bounce?nid=288&aid=18269&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ_L4Ix1fe8q7audK6gmceA)
 1. [千万级延时任务队列如何实现，看美图开源的 LMSTFY](https://weekly.manong.io/bounce?nid=288&aid=18275&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F79z5LQ5EE9pu3r7Qz5UrBg)
+1. [面经：业务开发中你用到了哪些算法？](https://weekly.manong.io/bounce?nid=289&aid=18298&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbreh507)
+1. [图解一致性哈希算法](https://weekly.manong.io/bounce?nid=289&aid=18301&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0zri9om)
+1. [图解 Redis 五种数据结构底层实现](https://weekly.manong.io/bounce?nid=289&aid=18316&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs614gsy)

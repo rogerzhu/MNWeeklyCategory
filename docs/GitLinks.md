@@ -170,3 +170,4 @@
 1. [GitBook 简明使用教程](https://weekly.manong.io/bounce?nid=283&aid=17930&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdmsox6k)
 1. [为什么你应该使用 Git 进行版本控制](https://weekly.manong.io/bounce?nid=286&aid=18106&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0cr5pgx)
 1. [我们随手做的 git stash，究竟干了什么？](https://weekly.manong.io/bounce?nid=288&aid=18258&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8ZPrbjBPpmmuJWWiUTMlNg)
+1. [Git 常见问题及解决办法](https://weekly.manong.io/bounce?nid=289&aid=18292&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe0q028e)

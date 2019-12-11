@@ -639,3 +639,6 @@
 1. [MySQL DBA 好帮手：dbm](https://weekly.manong.io/bounce?nid=287&aid=18192&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcNIZ9H1YUqnRwbOYhMglkQ)
 1. [美图开源 SSD Redis KV 存储](https://weekly.manong.io/bounce?nid=287&aid=18194&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5sk7x41)
 1. [搞懂 Redis 到底快在哪里](https://weekly.manong.io/bounce?nid=288&aid=18265&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdpjsnem)
+1. [2G 的 Redis 实例如何支撑千万级左右的延迟任务量？](https://weekly.manong.io/bounce?nid=289&aid=18286&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhxidcpc)
+1. [Hbase 初识](https://weekly.manong.io/bounce?nid=289&aid=18313&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6qf3wf7)
+1. [图解 Redis 五种数据结构底层实现](https://weekly.manong.io/bounce?nid=289&aid=18316&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs614gsy)

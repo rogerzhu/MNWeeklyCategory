@@ -756,3 +756,5 @@
 1. [Android 本地 SQL 注入的 dos 攻击方式](https://weekly.manong.io/bounce?nid=287&aid=18196&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNSFPopBrHuqN9gwOHcuDSQ)
 1. [这可能是最好的 Android/Kotlin 日志输出方法](https://weekly.manong.io/bounce?nid=287&aid=18197&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff0p78a7)
 1. [在 Android 中如何确定 App (Activity) 的启动者](https://weekly.manong.io/bounce?nid=288&aid=18236&url=https%3A%2F%2Ftoutiao.io%2Fk%2F73jy2hd)
+1. [Android App 启动优化全记录](https://weekly.manong.io/bounce?nid=289&aid=18334&url=https%3A%2F%2Ftoutiao.io%2Fk%2F17ufy1j)
+1. [探索 Android 内存优化方法](https://weekly.manong.io/bounce?nid=289&aid=18335&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7pp0sff)
