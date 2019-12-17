@@ -456,6 +456,13 @@
             "categoryL1":"应用"
         },
         {
+            "keywords":"金融科技",
+            "filters":["金融","量化","股票"],
+            "rejecters":["向量化"],
+            "fileName":"FinTechLinks.md",
+            "categoryL1":"应用"
+        },
+        {
             "keywords":"GitHub",
             "filters":["github"],
             "rejecters":[],
