@@ -45,3 +45,4 @@
 1. [对微软的敌视何时休？ 从一篇语言评论文章对 C# 的评价说起](https://weekly.manong.io/bounce?nid=276&aid=17436&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7UBqWAAFgeR4dn6CBcxNjw)
 1. [微软小冰首席科学家武威解读 EMNLP 论文：聊天机器人的深度学习模型](https://weekly.manong.io/bounce?nid=283&aid=17899&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFSVYt-rauuCcqm9y7eTDfg)
 1. [关于 Scrum 起源，读这一篇论文就足够啦](https://weekly.manong.io/bounce?nid=288&aid=18264&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLBwLFQ_IcyP41uukMj465g)
+1. [贝叶斯网络之父 Judea Pearl 力荐、LeCun 点赞，这篇长论文全面解读机器学习中的因果关系](https://weekly.manong.io/bounce?nid=290&aid=18364&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3d0298o)

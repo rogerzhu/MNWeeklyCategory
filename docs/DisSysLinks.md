@@ -339,3 +339,6 @@
 1. [解耦并不难：分布式系统中的解耦](https://weekly.manong.io/bounce?nid=287&aid=18180&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FArR2qtSy9lYBwXrAv4VGcA)
 1. [深入了解分布式事务组件 Seata：AT 模式（二）](https://weekly.manong.io/bounce?nid=288&aid=18256&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh43jzqq)
 1. [在分布式链路下，蚂蚁金服如何快速构建低成本、高可用联调环境？](https://weekly.manong.io/bounce?nid=289&aid=18284&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjuvljt6)
+1. [[译] Zookeeper vs Etcd](https://weekly.manong.io/bounce?nid=290&aid=18374&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm3z91qm)
+1. [中间件底层实现的分布式协议之 Raft](https://weekly.manong.io/bounce?nid=290&aid=18384&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fycdzigb)
+1. [如果有人再问你怎么实现分布式延时消息，这篇文章丢给他](https://weekly.manong.io/bounce?nid=290&aid=18395&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1aco4t1)

@@ -550,3 +550,4 @@
 1. [微信小程序与 tensorflow.js 模型引入](https://weekly.manong.io/bounce?nid=287&aid=18213&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_9z4flQA5NESndX9La7VhA)
 1. [深度学习的 JavaScript 基础：从 callbacks 到 sync/await](https://weekly.manong.io/bounce?nid=289&aid=18327&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuxi4whl)
 1. [基于 TensorFlow.js 的迁移学习图像分类器](https://weekly.manong.io/bounce?nid=289&aid=18328&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgd75k5v)
+1. [深度学习的 JavaScript 基础：从浏览器中提取数据](https://weekly.manong.io/bounce?nid=290&aid=18368&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1a4my4d)

@@ -609,3 +609,7 @@
 1. [Serverless Kubernetes 场景和架构剖析](https://weekly.manong.io/bounce?nid=289&aid=18285&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjfca9tq)
 1. [跨平台技术趋势及字节跳动 Flutter 架构实践](https://weekly.manong.io/bounce?nid=289&aid=18339&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7nnm226)
 1. [跨界架构师](https://weekly.manong.io/bounce?nid=289&aid=18352&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F268968%23289)
+1. [下一代音视频实时传输 SDK 的架构设计](https://weekly.manong.io/bounce?nid=290&aid=18360&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fowfi147)
+1. [余额宝背后的服务治理架构](https://weekly.manong.io/bounce?nid=290&aid=18362&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwsek9ag)
+1. [漫谈大数据平台架构](https://weekly.manong.io/bounce?nid=290&aid=18372&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp03yz5o)
+1. [你的分层架构还好吗？](https://weekly.manong.io/bounce?nid=290&aid=18396&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6zlwi68)

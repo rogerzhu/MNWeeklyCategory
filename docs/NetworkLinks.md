@@ -315,3 +315,6 @@
 1. [还在用 Python 自带的 httpserver？快开感受下更炫酷的 Vip 版功能吧](https://weekly.manong.io/bounce?nid=289&aid=18345&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjjguq2z)
 1. [HTTPS 证书认证原理分析](https://weekly.manong.io/bounce?nid=289&aid=18306&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4oayj8r)
 1. [漫话：全球 IPv4 地址正式耗尽？是时候说说到底什么是 IPv4 和 IPv6 了](https://weekly.manong.io/bounce?nid=289&aid=18314&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvovzsqy)
+1. [贝叶斯网络之父 Judea Pearl 力荐、LeCun 点赞，这篇长论文全面解读机器学习中的因果关系](https://weekly.manong.io/bounce?nid=290&aid=18364&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3d0298o)
+1. [还没搞懂 NodeJS 的 HTTP 服务器？看这一篇就够了](https://weekly.manong.io/bounce?nid=290&aid=18418&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx547wlr)
+1. [中间件底层实现的分布式协议之 Raft](https://weekly.manong.io/bounce?nid=290&aid=18384&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fycdzigb)

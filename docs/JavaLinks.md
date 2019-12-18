@@ -502,3 +502,6 @@
 1. [跑得好好的 Java 进程，怎么突然就瘫痪了？](https://weekly.manong.io/bounce?nid=288&aid=18235&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F23-S5tXTqi2LSe84OoQvvA)
 1. [甲小蛙战记：PHP2Java 排雷指南](https://weekly.manong.io/bounce?nid=289&aid=18332&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbq3qmom)
 1. [Stack Overflow 上 370 万浏览量的一个问题：如何比较 Java 的字符串？](https://weekly.manong.io/bounce?nid=289&aid=18333&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhta5xrl)
+1. [Java 异常有效实践](https://weekly.manong.io/bounce?nid=290&aid=18405&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxhulg65)
+1. [[译] Java 8 接口改变：静态方法与默认方法](https://weekly.manong.io/bounce?nid=290&aid=18406&url=https%3A%2F%2Ftoutiao.io%2Fk%2F285omzl)
+1. [《深入理解Java虚拟机：JVM高级特性与最佳实践（第3版）》](https://weekly.manong.io/bounce?nid=290&aid=18425&url=https%3A%2F%2Fitem.jd.com%2F12607299.html%3Fdist%3Djd)

@@ -101,3 +101,5 @@
 1. [Kotlin 重载个方法，还有两幅面孔，省代码的同时也带来一个深坑](https://weekly.manong.io/bounce?nid=285&aid=18061&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXaN-Nd6_adLL2ZKfEuMvtw)
 1. [这可能是最好的 Android/Kotlin 日志输出方法](https://weekly.manong.io/bounce?nid=287&aid=18197&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff0p78a7)
 1. [这可能是最好的 Android/Kotlin 日志输出方法](https://weekly.manong.io/bounce?nid=287&aid=18197&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff0p78a7)
+1. [Kotlin 1.4 及以后，我们可以期待什么？](https://weekly.manong.io/bounce?nid=290&aid=18409&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh5lq9hr)
+1. [Kotlin 1.4 及以后，我们可以期待什么？](https://weekly.manong.io/bounce?nid=290&aid=18409&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh5lq9hr)

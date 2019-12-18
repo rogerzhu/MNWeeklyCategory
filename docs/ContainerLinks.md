@@ -423,3 +423,8 @@
 1. [Serverless Kubernetes 场景和架构剖析](https://weekly.manong.io/bounce?nid=289&aid=18285&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjfca9tq)
 1. [利用 Clojure 与 Kubernetes 部署视频流录制服务器](https://weekly.manong.io/bounce?nid=289&aid=18340&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxbn4s2i)
 1. [设置 kubernetes Pod 的 shared memory](https://weekly.manong.io/bounce?nid=289&aid=18307&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftdvrrwe)
+1. [Docker 容器安全性分析](https://weekly.manong.io/bounce?nid=290&aid=18370&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9lb8rnt)
+1. [[译] Zookeeper vs Etcd](https://weekly.manong.io/bounce?nid=290&aid=18374&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm3z91qm)
+1. [Docker 的镜像签名](https://weekly.manong.io/bounce?nid=290&aid=18381&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcr0oc0q)
+1. [[译] Kubernetes Deployment 故障排查常见方法](https://weekly.manong.io/bounce?nid=290&aid=18392&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1qicyt5)
+1. [大数据组件 All-in-One 的 Docker 镜像](https://weekly.manong.io/bounce?nid=290&aid=18402&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffhrjx8w)

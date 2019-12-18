@@ -204,3 +204,4 @@
 1. [Swift 里的 String 为什么这么难用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnesfc1u&aid=17871&nid=282)
 1. [Swift 在 GAIA 平台云端一体化的探索](https://weekly.manong.io/bounce?nid=287&aid=18200&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7B2FDBZ_vnvswiYWjLih4Q)
 1. [[译] Swift 5.1 极简参考手册](https://weekly.manong.io/bounce?nid=288&aid=18238&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKzlQXNgG5sQRrA_rGfq2lw)
+1. [SwiftUI 和 Flutter 开发对比](https://weekly.manong.io/bounce?nid=290&aid=18411&url=https%3A%2F%2Ftoutiao.io%2Fk%2F69zpaqp)

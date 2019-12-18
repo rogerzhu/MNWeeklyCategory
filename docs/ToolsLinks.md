@@ -383,3 +383,5 @@
 1. [一份可以令 Python 变快的工具清单](https://weekly.manong.io/bounce?nid=288&aid=18241&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0l4mjXdodDMJ52_MceGDXA)
 1. [istioctl 中的一些小工具](https://weekly.manong.io/bounce?nid=289&aid=18320&url=https%3A%2F%2Ftoutiao.io%2Fk%2Faq32i0m)
 1. [lubjs（鲁班）：快速开发并使用你的命令行工具](https://weekly.manong.io/bounce?nid=289&aid=18323&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk6a6i6j)
+1. [现代化 C++ 开发工具 CLion 从入门到精通](https://weekly.manong.io/bounce?nid=290&aid=18404&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkk070is)
+1. [dba+ 开源工具：面向开发的 MySQL 图形可视化监控](https://weekly.manong.io/bounce?nid=290&aid=18401&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwh70m3q)

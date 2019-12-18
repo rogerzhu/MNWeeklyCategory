@@ -468,3 +468,8 @@
 1. [面经：业务开发中你用到了哪些算法？](https://weekly.manong.io/bounce?nid=289&aid=18298&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbreh507)
 1. [图解一致性哈希算法](https://weekly.manong.io/bounce?nid=289&aid=18301&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0zri9om)
 1. [图解 Redis 五种数据结构底层实现](https://weekly.manong.io/bounce?nid=289&aid=18316&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs614gsy)
+1. [PBFT 算法流程](https://weekly.manong.io/bounce?nid=290&aid=18371&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9gqccp8)
+1. [详解操作系统内核对线程的调度算法](https://weekly.manong.io/bounce?nid=290&aid=18383&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl03uai1)
+1. [搜索中的处理流程和涉及的算法，和大家分享一下](https://weekly.manong.io/bounce?nid=290&aid=18385&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm2hvu7v)
+1. [AES 加密算法工作原理](https://weekly.manong.io/bounce?nid=290&aid=18390&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhhp2bx0)
+1. [业务开发中你用到了哪些算法（续）？](https://weekly.manong.io/bounce?nid=290&aid=18399&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcyiix6v)

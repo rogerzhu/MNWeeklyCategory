@@ -678,3 +678,4 @@
 1. [Fastlane 打包 iOS ](https://weekly.manong.io/bounce?nid=289&aid=18337&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjorza94)
 1. [深入了解 iOS 的初始化](https://weekly.manong.io/bounce?nid=289&aid=18338&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuq1so02)
 1. [还在用 Win？教你从零把 Mac 打造成开发利器](https://weekly.manong.io/bounce?nid=289&aid=18291&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fr5rhx80)
+1. [如何对 iOS 启动阶段耗时进行分析](https://weekly.manong.io/bounce?nid=290&aid=18410&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fa8kbd9b)

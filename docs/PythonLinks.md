@@ -595,3 +595,5 @@
 1. [关于 Kafka 的一些面试题目](https://weekly.manong.io/bounce?nid=288&aid=18270&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAJ45e4TgLDRLJT2ODoQNpw)
 1. [Python metaclass 的原理和应用](https://weekly.manong.io/bounce?nid=289&aid=18344&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fr9k13fo)
 1. [还在用 Python 自带的 httpserver？快开感受下更炫酷的 Vip 版功能吧](https://weekly.manong.io/bounce?nid=289&aid=18345&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjjguq2z)
+1. [[译] 如何使用生成器减少内存占用，并让 Python 代码运行更快？](https://weekly.manong.io/bounce?nid=290&aid=18413&url=https%3A%2F%2Ftoutiao.io%2Fk%2Folpfpym)
+1. [Python 中如何实现参数化测试？](https://weekly.manong.io/bounce?nid=290&aid=18414&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft1lvb50)

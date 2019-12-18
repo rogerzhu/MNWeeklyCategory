@@ -171,3 +171,4 @@
 1. [为什么你应该使用 Git 进行版本控制](https://weekly.manong.io/bounce?nid=286&aid=18106&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0cr5pgx)
 1. [我们随手做的 git stash，究竟干了什么？](https://weekly.manong.io/bounce?nid=288&aid=18258&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8ZPrbjBPpmmuJWWiUTMlNg)
 1. [Git 常见问题及解决办法](https://weekly.manong.io/bounce?nid=289&aid=18292&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe0q028e)
+1. [[译] 当你敲完 git commit 命令后，究竟发生了什么？](https://weekly.manong.io/bounce?nid=290&aid=18380&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9byxzye)

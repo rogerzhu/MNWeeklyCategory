@@ -229,3 +229,4 @@
 1. [Linux 内核初探：进程与线程](https://weekly.manong.io/bounce?nid=287&aid=18178&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fyrf_QRFCsEvf-hXr9gmIDg)
 1. [程序员，别再迷恋多线程工作了](https://weekly.manong.io/bounce?nid=287&aid=18157&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNsgaVJekQqG1uM2ioIFrtg)
 1. [[译] Go 语言的协程，系统线程以及 CPU 管理](https://weekly.manong.io/bounce?nid=289&aid=18342&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0naj8n2)
+1. [详解操作系统内核对线程的调度算法](https://weekly.manong.io/bounce?nid=290&aid=18383&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl03uai1)

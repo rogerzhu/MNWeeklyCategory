@@ -877,3 +877,7 @@
 1. [万字长文带你深入浅出 Golang Runtime](https://weekly.manong.io/bounce?nid=289&aid=18341&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg98jey9)
 1. [[译] Go 语言的协程，系统线程以及 CPU 管理](https://weekly.manong.io/bounce?nid=289&aid=18342&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0naj8n2)
 1. [Go Http Client 连接优化](https://weekly.manong.io/bounce?nid=289&aid=18343&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp9w7gok)
+1. [Golang 在 runtime 中的一些骚东西](https://weekly.manong.io/bounce?nid=290&aid=18415&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnypl52e)
+1. [[译] 提升 Go 磁盘 IO 性能的尝试](https://weekly.manong.io/bounce?nid=290&aid=18416&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz1q6xrl)
+1. [Golang 的 "omitempty" 关键字略解](https://weekly.manong.io/bounce?nid=290&aid=18417&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frhwc6n0)
+1. [Golang 写的即时通讯服务器 gim](https://weekly.manong.io/bounce?nid=290&aid=18400&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbtzwpcf)

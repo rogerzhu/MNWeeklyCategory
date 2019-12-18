@@ -213,3 +213,5 @@
 1. [如何回答性能优化的问题，才能打动阿里面试官？](https://weekly.manong.io/bounce?nid=287&aid=18185&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsnQ3T86usv4rXz0MMQvFfQ)
 1. [《Offer来了：Java面试核心知识点精讲（原理篇）》](https://weekly.manong.io/bounce?nid=287&aid=18162&url=https%3A%2F%2Fu.jd.com%2FFQ5z5i)
 1. [关于 Kafka 的一些面试题目](https://weekly.manong.io/bounce?nid=288&aid=18270&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAJ45e4TgLDRLJT2ODoQNpw)
+1. [用 Markdown 写简历和 PPT](https://weekly.manong.io/bounce?nid=290&aid=18398&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdsdhkht)
+1. [通过用户思维，告诉你怎样写好简历](https://weekly.manong.io/bounce?nid=290&aid=18358&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwbyb4sv)

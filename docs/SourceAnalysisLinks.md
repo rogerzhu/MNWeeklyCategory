@@ -215,3 +215,4 @@
 1. [多线程原理：GCD 源码分析（iOS）](https://weekly.manong.io/bounce?nid=286&aid=18141&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7t5nzhm)
 1. [从 libuv 源码中学习最小二叉堆](https://weekly.manong.io/bounce?nid=286&aid=18119&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxan6nma)
 1. [高德 App 全链路源码依赖分析工程](https://weekly.manong.io/bounce?nid=289&aid=18294&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fboi1dwr)
+1. [Dubbo 一致性哈希负载均衡的源码和 Bug，了解一下？](https://weekly.manong.io/bounce?nid=290&aid=18393&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh2wb7th)

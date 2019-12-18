@@ -237,3 +237,6 @@
 1. [Apache Flink 初探](https://weekly.manong.io/bounce?nid=287&aid=18177&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe2641va)
 1. [选方向？大数据的职位你了解多少](https://weekly.manong.io/bounce?nid=287&aid=18187&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FIyqusl3ctmMBTv2mkgeQBw)
 1. [Spark SQL 在字节跳动的核心优化实践](https://weekly.manong.io/bounce?nid=287&aid=18189&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHbUnZcVwusEQQsq8LveeuA)
+1. [漫谈大数据平台架构](https://weekly.manong.io/bounce?nid=290&aid=18372&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp03yz5o)
+1. [[译] Hadoop 霸主地位不保？看看大数据领域的六年巨变](https://weekly.manong.io/bounce?nid=290&aid=18375&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwc5vmxc)
+1. [大数据组件 All-in-One 的 Docker 镜像](https://weekly.manong.io/bounce?nid=290&aid=18402&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffhrjx8w)

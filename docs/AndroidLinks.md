@@ -758,3 +758,5 @@
 1. [在 Android 中如何确定 App (Activity) 的启动者](https://weekly.manong.io/bounce?nid=288&aid=18236&url=https%3A%2F%2Ftoutiao.io%2Fk%2F73jy2hd)
 1. [Android App 启动优化全记录](https://weekly.manong.io/bounce?nid=289&aid=18334&url=https%3A%2F%2Ftoutiao.io%2Fk%2F17ufy1j)
 1. [探索 Android 内存优化方法](https://weekly.manong.io/bounce?nid=289&aid=18335&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7pp0sff)
+1. [Android 音视频：Libyuv 使用实战](https://weekly.manong.io/bounce?nid=290&aid=18407&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fch8d3o4)
+1. [Android 进程保活：基础理论篇](https://weekly.manong.io/bounce?nid=290&aid=18408&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffufb348)
