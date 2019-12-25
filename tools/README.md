@@ -208,8 +208,3 @@ Options:
 
 我是mac和linux上跑的这个程序，如果在windows上可能需要改一下GetAllTitles.py 中one_list_with_url后面的换行符。
 
-### 结尾
-如果看到这里，说明你真是对我写的这些多少还有点兴趣，如果你对我的展(chui)望(niu)也是饶有兴趣的话，我是不反对接受直接打款这种暴力形式的支持的。
-
-![$$$](https://i.loli.net/2019/11/02/hXiOwdKT5eSFqgs.jpg)
-
