@@ -49,3 +49,4 @@
 1. [[译] 支付核心系统设计：Airbnb 的分布式事务方案简介](https://weekly.manong.io/bounce?nid=280&aid=17684&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMWy9LjWtC9d7mrBxh745Jw)
 1. [九个月，我如何转型后端进入支付宝](https://weekly.manong.io/bounce?nid=283&aid=17890&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz6mktgm)
 1. [超越 “双十一”：ebay 百万 TPS 支付账务系统的设计与实现](https://weekly.manong.io/bounce?nid=285&aid=18029&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsbHPxzIqv_dRn555XzE5mw)
+1. [Apple 开发者账号福音，用支付宝也可以注册了](https://weekly.manong.io/bounce?nid=291&aid=18462&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fair47of)

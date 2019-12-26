@@ -643,3 +643,6 @@
 1. [Hbase 初识](https://weekly.manong.io/bounce?nid=289&aid=18313&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6qf3wf7)
 1. [图解 Redis 五种数据结构底层实现](https://weekly.manong.io/bounce?nid=289&aid=18316&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs614gsy)
 1. [dba+ 开源工具：面向开发的 MySQL 图形可视化监控](https://weekly.manong.io/bounce?nid=290&aid=18401&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwh70m3q)
+1. [为什么 MySQL 使用 B+ 树](https://weekly.manong.io/bounce?nid=291&aid=18430&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq8qm3w2)
+1. [小米 Kylin 平滑迁移 HBase 实践](https://weekly.manong.io/bounce?nid=291&aid=18433&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcb1oeie)
+1. [Redis 崩了，我成功把锅甩给了隔壁组](https://weekly.manong.io/bounce?nid=291&aid=18450&url=https%3A%2F%2Ftoutiao.io%2Fk%2F028lnz5)

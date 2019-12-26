@@ -473,3 +473,7 @@
 1. [搜索中的处理流程和涉及的算法，和大家分享一下](https://weekly.manong.io/bounce?nid=290&aid=18385&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm2hvu7v)
 1. [AES 加密算法工作原理](https://weekly.manong.io/bounce?nid=290&aid=18390&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhhp2bx0)
 1. [业务开发中你用到了哪些算法（续）？](https://weekly.manong.io/bounce?nid=290&aid=18399&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcyiix6v)
+1. [为什么 MySQL 使用 B+ 树](https://weekly.manong.io/bounce?nid=291&aid=18430&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq8qm3w2)
+1. [天猫精灵萌宠大机密：这款算法让十亿只猫都惊呆了](https://weekly.manong.io/bounce?nid=291&aid=18488&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkz0gyfi)
+1. [Flink 如何生成 ExecutionGraph](https://weekly.manong.io/bounce?nid=291&aid=18436&url=https%3A%2F%2Ftoutiao.io%2Fk%2F64ofgqw)
+1. [区块链实用型技能树](https://weekly.manong.io/bounce?nid=291&aid=18452&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz8bujdr)

@@ -760,3 +760,4 @@
 1. [探索 Android 内存优化方法](https://weekly.manong.io/bounce?nid=289&aid=18335&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7pp0sff)
 1. [Android 音视频：Libyuv 使用实战](https://weekly.manong.io/bounce?nid=290&aid=18407&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fch8d3o4)
 1. [Android 进程保活：基础理论篇](https://weekly.manong.io/bounce?nid=290&aid=18408&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffufb348)
+1. [Android APK 资源分析之 Python 实现](https://weekly.manong.io/bounce?nid=291&aid=18461&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxh9ht7q)

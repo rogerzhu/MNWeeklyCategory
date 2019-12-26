@@ -357,3 +357,4 @@
 1. [Laravel 参数验证的疑与惑](https://weekly.manong.io/bounce?nid=287&aid=18204&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuyNTBlWrIIqEGjK1XWdt1g)
 1. [PHP urlencode 不得不说的秘密](https://weekly.manong.io/bounce?nid=288&aid=18240&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flxapeor)
 1. [甲小蛙战记：PHP2Java 排雷指南](https://weekly.manong.io/bounce?nid=289&aid=18332&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbq3qmom)
+1. [一文让你知道为什么学了 PHP 的都要转学 Go 语言](https://weekly.manong.io/bounce?nid=291&aid=18472&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5c1nb4k)

@@ -19,3 +19,4 @@
 1. [2019 JSConf China《面向传统，Serverless 进化之路》分享文字版](https://weekly.manong.io/bounce?nid=283&aid=17931&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6sngx4f)
 1. [闲鱼前端基于 Serverless 的一种多端开发解决方案](https://weekly.manong.io/bounce?nid=284&aid=17987&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVLsVTe4ZyOJ9rNyVf5aXyg)
 1. [Serverless Kubernetes 场景和架构剖析](https://weekly.manong.io/bounce?nid=289&aid=18285&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjfca9tq)
+1. [Flutter + Serverless 端到端研发架构实践](https://weekly.manong.io/bounce?nid=291&aid=18468&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0en7s4n)

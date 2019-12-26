@@ -119,3 +119,6 @@
 1. [跨平台技术趋势及字节跳动 Flutter 架构实践](https://weekly.manong.io/bounce?nid=289&aid=18339&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7nnm226)
 1. [SwiftUI 和 Flutter 开发对比](https://weekly.manong.io/bounce?nid=290&aid=18411&url=https%3A%2F%2Ftoutiao.io%2Fk%2F69zpaqp)
 1. [Flutter | ConstrainedBox & UnconstrainedBox 组件 ](https://weekly.manong.io/bounce?nid=290&aid=18412&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8k1x8ub)
+1. [Flutter 开发体验汇报](https://weekly.manong.io/bounce?nid=291&aid=18467&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo83d2s3)
+1. [Flutter + Serverless 端到端研发架构实践](https://weekly.manong.io/bounce?nid=291&aid=18468&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0en7s4n)
+1. [FLUI：Flutter 的组件扩展集](https://weekly.manong.io/bounce?nid=291&aid=18456&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8oyvn00)

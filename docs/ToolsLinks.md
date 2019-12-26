@@ -385,3 +385,4 @@
 1. [lubjs（鲁班）：快速开发并使用你的命令行工具](https://weekly.manong.io/bounce?nid=289&aid=18323&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk6a6i6j)
 1. [现代化 C++ 开发工具 CLion 从入门到精通](https://weekly.manong.io/bounce?nid=290&aid=18404&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkk070is)
 1. [dba+ 开源工具：面向开发的 MySQL 图形可视化监控](https://weekly.manong.io/bounce?nid=290&aid=18401&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwh70m3q)
+1. [一个小巧但功能强大的跨平台命令行工具库 Crossline](https://weekly.manong.io/bounce?nid=291&aid=18458&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxjhb3wm)

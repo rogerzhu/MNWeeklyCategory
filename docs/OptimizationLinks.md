@@ -358,3 +358,4 @@
 1. [Android App 启动优化全记录](https://weekly.manong.io/bounce?nid=289&aid=18334&url=https%3A%2F%2Ftoutiao.io%2Fk%2F17ufy1j)
 1. [探索 Android 内存优化方法](https://weekly.manong.io/bounce?nid=289&aid=18335&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7pp0sff)
 1. [Go Http Client 连接优化](https://weekly.manong.io/bounce?nid=289&aid=18343&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp9w7gok)
+1. [iOS 微信编译速度优化分享](https://weekly.manong.io/bounce?nid=291&aid=18465&url=https%3A%2F%2Ftoutiao.io%2Fk%2F25z6jnl)

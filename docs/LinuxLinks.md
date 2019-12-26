@@ -153,3 +153,4 @@
 1. [Linux 内核初探：进程与线程](https://weekly.manong.io/bounce?nid=287&aid=18178&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fyrf_QRFCsEvf-hXr9gmIDg)
 1. [《Linux 哲学》](https://weekly.manong.io/bounce?nid=289&aid=18355&url=https%3A%2F%2Fitem.jd.com%2F12711136.html)
 1. [Linux 后台运行任务 nohup 结合 & 用法以及如何精准查找进程并 kill 后台任务实践](https://weekly.manong.io/bounce?nid=290&aid=18388&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4wc8cqn)
+1. [Windows、WSL 与 Linux 的性能对比](https://weekly.manong.io/bounce?nid=291&aid=18446&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2p0muvh)

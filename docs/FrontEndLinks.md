@@ -398,3 +398,5 @@
 1. [美团外卖前端容器化演进实践](https://weekly.manong.io/bounce?nid=288&aid=18262&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSAuKvlB0Bfj7dRIBzkhO8w)
 1. [前端部署演化史](https://weekly.manong.io/bounce?nid=288&aid=18268&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlUxL3i8ulD2Mb5igrdFwRg)
 1. [Firefox Web Replay：前端开发者的未来利器](https://weekly.manong.io/bounce?nid=289&aid=18308&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsg37sd4)
+1. [一个前端er](https://weekly.manong.io/bounce?nid=291&aid=18483&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F117900%23291)
+1. [身为前端，你不得不懂的一些 HTTP 知识](https://weekly.manong.io/bounce?nid=291&aid=18444&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fif8aeob)

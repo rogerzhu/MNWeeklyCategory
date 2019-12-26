@@ -679,3 +679,6 @@
 1. [深入了解 iOS 的初始化](https://weekly.manong.io/bounce?nid=289&aid=18338&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuq1so02)
 1. [还在用 Win？教你从零把 Mac 打造成开发利器](https://weekly.manong.io/bounce?nid=289&aid=18291&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fr5rhx80)
 1. [如何对 iOS 启动阶段耗时进行分析](https://weekly.manong.io/bounce?nid=290&aid=18410&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fa8kbd9b)
+1. [iOS 组件化方案的思考与尝试](https://weekly.manong.io/bounce?nid=291&aid=18463&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9uj87j0)
+1. [干货！京东商城 iOS App 瘦身实践](https://weekly.manong.io/bounce?nid=291&aid=18464&url=https%3A%2F%2Ftoutiao.io%2Fk%2Foxyl5zh)
+1. [iOS 微信编译速度优化分享](https://weekly.manong.io/bounce?nid=291&aid=18465&url=https%3A%2F%2Ftoutiao.io%2Fk%2F25z6jnl)

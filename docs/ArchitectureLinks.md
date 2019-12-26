@@ -613,3 +613,5 @@
 1. [余额宝背后的服务治理架构](https://weekly.manong.io/bounce?nid=290&aid=18362&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwsek9ag)
 1. [漫谈大数据平台架构](https://weekly.manong.io/bounce?nid=290&aid=18372&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp03yz5o)
 1. [你的分层架构还好吗？](https://weekly.manong.io/bounce?nid=290&aid=18396&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6zlwi68)
+1. [Flutter + Serverless 端到端研发架构实践](https://weekly.manong.io/bounce?nid=291&aid=18468&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0en7s4n)
+1. [[译] 不容错过的 Node.js 项目架构](https://weekly.manong.io/bounce?nid=291&aid=18478&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxaazxb8)

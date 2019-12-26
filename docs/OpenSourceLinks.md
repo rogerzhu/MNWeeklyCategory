@@ -555,3 +555,6 @@
 1. [一周 GitHub 开源项目推荐：字节跳动、阿里巴巴、百度、饿了么](https://weekly.manong.io/bounce?nid=289&aid=18290&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvuBqb8vlenBSEQrNoIqxJQ)
 1. [Swoft 开源推荐之 Swoft-Xadmin](https://weekly.manong.io/bounce?nid=289&aid=18322&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2kz0782)
 1. [dba+ 开源工具：面向开发的 MySQL 图形可视化监控](https://weekly.manong.io/bounce?nid=290&aid=18401&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwh70m3q)
+1. [Go 1.13 标准库的 http 包爆出重大 bug，你的项目中招了吗？](https://weekly.manong.io/bounce?nid=291&aid=18474&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdnamvft)
+1. [[译] 不容错过的 Node.js 项目架构](https://weekly.manong.io/bounce?nid=291&aid=18478&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxaazxb8)
+1. [Sculptor Boot：项目思维化的《代码生成器》体系](https://weekly.manong.io/bounce?nid=291&aid=18457&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqr959cv)

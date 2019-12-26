@@ -572,3 +572,4 @@
 1. [一日千星的机器学习系统设计指南，这个英伟达小姐姐的项目火了](https://weekly.manong.io/bounce?nid=288&aid=18231&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FX_LSll_u-KmD4Wd2Se9LWA)
 1. [谈 DevOps 平台设计：为什么部署后的包还是旧的包？](https://weekly.manong.io/bounce?nid=288&aid=18267&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEJ_Blf4hYZylJtKR50aVNw)
 1. [下一代音视频实时传输 SDK 的架构设计](https://weekly.manong.io/bounce?nid=290&aid=18360&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fowfi147)
+1. [如何为信息流内容中心设计一个高效的处理链路，简单聊聊 QQ 看点在这方面的演进过程](https://weekly.manong.io/bounce?nid=291&aid=18445&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq8evfn9)

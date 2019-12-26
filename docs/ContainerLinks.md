@@ -428,3 +428,4 @@
 1. [Docker 的镜像签名](https://weekly.manong.io/bounce?nid=290&aid=18381&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcr0oc0q)
 1. [[译] Kubernetes Deployment 故障排查常见方法](https://weekly.manong.io/bounce?nid=290&aid=18392&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1qicyt5)
 1. [大数据组件 All-in-One 的 Docker 镜像](https://weekly.manong.io/bounce?nid=290&aid=18402&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffhrjx8w)
+1. [我如何通过 K8S 开发认证 (CKAD) 考试](https://weekly.manong.io/bounce?nid=291&aid=18449&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3sh9sv3)

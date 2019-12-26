@@ -881,3 +881,6 @@
 1. [[译] 提升 Go 磁盘 IO 性能的尝试](https://weekly.manong.io/bounce?nid=290&aid=18416&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz1q6xrl)
 1. [Golang 的 "omitempty" 关键字略解](https://weekly.manong.io/bounce?nid=290&aid=18417&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frhwc6n0)
 1. [Golang 写的即时通讯服务器 gim](https://weekly.manong.io/bounce?nid=290&aid=18400&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbtzwpcf)
+1. [一文让你知道为什么学了 PHP 的都要转学 Go 语言](https://weekly.manong.io/bounce?nid=291&aid=18472&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5c1nb4k)
+1. [Go 1.13 标准库的 http 包爆出重大 bug，你的项目中招了吗？](https://weekly.manong.io/bounce?nid=291&aid=18474&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdnamvft)
+1. [Golang 在电商即时通讯服务建设中的实践](https://weekly.manong.io/bounce?nid=291&aid=18475&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkyhwi6c)

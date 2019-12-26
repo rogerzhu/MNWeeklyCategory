@@ -342,3 +342,4 @@
 1. [[译] Zookeeper vs Etcd](https://weekly.manong.io/bounce?nid=290&aid=18374&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm3z91qm)
 1. [中间件底层实现的分布式协议之 Raft](https://weekly.manong.io/bounce?nid=290&aid=18384&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fycdzigb)
 1. [如果有人再问你怎么实现分布式延时消息，这篇文章丢给他](https://weekly.manong.io/bounce?nid=290&aid=18395&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1aco4t1)
+1. [SOSP19' Ceph 的十年经验总结：文件系统是否适合做分布式文件系统的后端](https://weekly.manong.io/bounce?nid=291&aid=18431&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flyt9n91)

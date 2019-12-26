@@ -168,3 +168,4 @@
 1. [以比特币为例，解析区块链的经济学原理](https://weekly.manong.io/bounce?nid=288&aid=18249&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr_n86-5Wp541Ds6of6WR1g)
 1. [从黑客文化看区块链开源社区的自我组织与成功之道](https://weekly.manong.io/bounce?nid=288&aid=18250&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fxbgr2fd-Zhgbg6cz1CwNtw)
 1. [区块链安全](https://weekly.manong.io/bounce?nid=289&aid=18351&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F342578%23289)
+1. [区块链实用型技能树](https://weekly.manong.io/bounce?nid=291&aid=18452&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz8bujdr)
