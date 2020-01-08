@@ -600,3 +600,6 @@
 1. [Android APK 资源分析之 Python 实现](https://weekly.manong.io/bounce?nid=291&aid=18461&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxh9ht7q)
 1. [加一行注释，让你的 Python 程序提速 10+ 倍](https://weekly.manong.io/bounce?nid=291&aid=18470&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fupj39qy)
 1. [用 Python 对哈利波特系列小说进行情感分析](https://weekly.manong.io/bounce?nid=291&aid=18471&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1jxrf14)
+1. [Python 2 的最后版本将于 4 月发布，但它确实是在 1 月 1 日就寿命终止了](https://weekly.manong.io/bounce?nid=292&aid=18517&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxbyhusz)
+1. [2019 年度 Python 榜单](https://weekly.manong.io/bounce?nid=292&aid=18518&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmi0uhly)
+1. [Nginx vs Enovy vs Mosn 平滑升级原理解析](https://weekly.manong.io/bounce?nid=292&aid=18548&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1zg45de)

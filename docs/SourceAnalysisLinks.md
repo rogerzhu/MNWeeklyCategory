@@ -217,3 +217,5 @@
 1. [高德 App 全链路源码依赖分析工程](https://weekly.manong.io/bounce?nid=289&aid=18294&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fboi1dwr)
 1. [Dubbo 一致性哈希负载均衡的源码和 Bug，了解一下？](https://weekly.manong.io/bounce?nid=290&aid=18393&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh2wb7th)
 1. [微软 VSCode IDE 源码分析揭秘](https://weekly.manong.io/bounce?nid=291&aid=18439&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4ytjihy)
+1. [从源码说一说 Zookeeper 的 watcher 机制](https://weekly.manong.io/bounce?nid=292&aid=18545&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyyct9lt)
+1. [学习 ZooKeeper 源码，就从这篇开始](https://weekly.manong.io/bounce?nid=292&aid=18546&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0qmifsl)

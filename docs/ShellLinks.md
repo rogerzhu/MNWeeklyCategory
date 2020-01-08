@@ -37,3 +37,4 @@
 1. [掌握这些常用 HBase shell 命令，工作更轻松](https://weekly.manong.io/bounce?nid=246&aid=15121&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft9n9gh)
 1. [Powershell 最佳安全实践](https://weekly.manong.io/bounce?nid=261&aid=16196&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzU4NzU4MDg0Mw%3D%3D%26mid%3D2247484570%26idx%3D1%26sn%3Dcdd7a2703a1c12debd67a991f6685ee7)
 1. [基于 Bash Shell 脚本制定灵活的 trimlog 日志清理策略](https://weekly.manong.io/bounce?nid=281&aid=17783&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb8vvbb8)
+1. [HBase Shell 命令](https://weekly.manong.io/bounce?nid=292&aid=18550&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy47uum1)

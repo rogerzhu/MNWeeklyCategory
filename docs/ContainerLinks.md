@@ -429,3 +429,5 @@
 1. [[译] Kubernetes Deployment 故障排查常见方法](https://weekly.manong.io/bounce?nid=290&aid=18392&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1qicyt5)
 1. [大数据组件 All-in-One 的 Docker 镜像](https://weekly.manong.io/bounce?nid=290&aid=18402&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffhrjx8w)
 1. [我如何通过 K8S 开发认证 (CKAD) 考试](https://weekly.manong.io/bounce?nid=291&aid=18449&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3sh9sv3)
+1. [从源码说一说 Zookeeper 的 watcher 机制](https://weekly.manong.io/bounce?nid=292&aid=18545&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyyct9lt)
+1. [学习 ZooKeeper 源码，就从这篇开始](https://weekly.manong.io/bounce?nid=292&aid=18546&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0qmifsl)

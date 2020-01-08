@@ -154,3 +154,4 @@
 1. [《Linux 哲学》](https://weekly.manong.io/bounce?nid=289&aid=18355&url=https%3A%2F%2Fitem.jd.com%2F12711136.html)
 1. [Linux 后台运行任务 nohup 结合 & 用法以及如何精准查找进程并 kill 后台任务实践](https://weekly.manong.io/bounce?nid=290&aid=18388&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4wc8cqn)
 1. [Windows、WSL 与 Linux 的性能对比](https://weekly.manong.io/bounce?nid=291&aid=18446&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2p0muvh)
+1. [学习 Linux 命令，看这篇 2w 多字的命令详解就够了](https://weekly.manong.io/bounce?nid=292&aid=18549&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq8x4vcp)

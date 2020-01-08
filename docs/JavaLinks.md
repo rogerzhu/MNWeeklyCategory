@@ -507,3 +507,4 @@
 1. [《深入理解Java虚拟机：JVM高级特性与最佳实践（第3版）》](https://weekly.manong.io/bounce?nid=290&aid=18425&url=https%3A%2F%2Fitem.jd.com%2F12607299.html%3Fdist%3Djd)
 1. [Java 工程师该如何编写高效代码？](https://weekly.manong.io/bounce?nid=291&aid=18459&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjl0ynud)
 1. [ Java 9 对类加载器的改动](https://weekly.manong.io/bounce?nid=291&aid=18460&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5dapecy)
+1. [Java爱好者社区](https://weekly.manong.io/bounce?nid=292&aid=18525&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F327515%23292)

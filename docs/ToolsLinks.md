@@ -386,3 +386,6 @@
 1. [现代化 C++ 开发工具 CLion 从入门到精通](https://weekly.manong.io/bounce?nid=290&aid=18404&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkk070is)
 1. [dba+ 开源工具：面向开发的 MySQL 图形可视化监控](https://weekly.manong.io/bounce?nid=290&aid=18401&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwh70m3q)
 1. [一个小巧但功能强大的跨平台命令行工具库 Crossline](https://weekly.manong.io/bounce?nid=291&aid=18458&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxjhb3wm)
+1. [微软开源自动机器学习工具 NNI 概览及新功能详解](https://weekly.manong.io/bounce?nid=292&aid=18502&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq2ciytx)
+1. [[译] 60 分钟入门深度学习工具：PyTorch](https://weekly.manong.io/bounce?nid=292&aid=18503&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffidrgks)
+1. [2019 年终黑客工具盘点（推荐篇）](https://weekly.manong.io/bounce?nid=292&aid=18536&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkx08gnd)

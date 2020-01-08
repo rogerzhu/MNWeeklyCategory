@@ -359,3 +359,8 @@
 1. [探索 Android 内存优化方法](https://weekly.manong.io/bounce?nid=289&aid=18335&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7pp0sff)
 1. [Go Http Client 连接优化](https://weekly.manong.io/bounce?nid=289&aid=18343&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp9w7gok)
 1. [iOS 微信编译速度优化分享](https://weekly.manong.io/bounce?nid=291&aid=18465&url=https%3A%2F%2Ftoutiao.io%2Fk%2F25z6jnl)
+1. [Android 性能优化：内存优化实战秘籍](https://weekly.manong.io/bounce?nid=292&aid=18509&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fprfmf8h)
+1. [iOS 基于静态库插桩的⼆进制重排启动优化](https://weekly.manong.io/bounce?nid=292&aid=18512&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnnmw2x1)
+1. [Go 标准库的一次优化](https://weekly.manong.io/bounce?nid=292&aid=18514&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhq93dr7)
+1. [性能优化 = 改改代码？](https://weekly.manong.io/bounce?nid=292&aid=18538&url=https%3A%2F%2Ftoutiao.io%2Fk%2F65s3lvc)
+1. [再也不用看图片优化指南啦：v-img 介绍](https://weekly.manong.io/bounce?nid=292&aid=18553&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo0jyxu2)

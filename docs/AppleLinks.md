@@ -682,3 +682,5 @@
 1. [iOS 组件化方案的思考与尝试](https://weekly.manong.io/bounce?nid=291&aid=18463&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9uj87j0)
 1. [干货！京东商城 iOS App 瘦身实践](https://weekly.manong.io/bounce?nid=291&aid=18464&url=https%3A%2F%2Ftoutiao.io%2Fk%2Foxyl5zh)
 1. [iOS 微信编译速度优化分享](https://weekly.manong.io/bounce?nid=291&aid=18465&url=https%3A%2F%2Ftoutiao.io%2Fk%2F25z6jnl)
+1. [iOS 基于静态库插桩的⼆进制重排启动优化](https://weekly.manong.io/bounce?nid=292&aid=18512&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnnmw2x1)
+1. [iOS 面试小记](https://weekly.manong.io/bounce?nid=292&aid=18513&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqc37fp0)

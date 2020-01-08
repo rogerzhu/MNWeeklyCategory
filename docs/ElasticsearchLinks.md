@@ -82,3 +82,4 @@
 1. [Elasticsearch 从入门到放弃：文档 CRUD 要牢记](https://weekly.manong.io/bounce?nid=287&aid=18176&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaOZnZpAC4c_dYkVW8DfNPg)
 1. [ElasticSearch 亿级数据检索深度优化](https://weekly.manong.io/bounce?nid=288&aid=18257&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfU3TbYgFi964505-x46FjQ)
 1. [Elasticsearch 集群规模和容量规划的底层逻辑](https://weekly.manong.io/bounce?nid=291&aid=18454&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9shvyui)
+1. [腾讯万亿级 Elasticsearch 技术解密](https://weekly.manong.io/bounce?nid=292&aid=18556&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flzigaqt)

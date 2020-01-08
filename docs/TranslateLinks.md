@@ -1708,3 +1708,7 @@
 1. [[译] 比特币操作系统](https://weekly.manong.io/bounce?nid=291&aid=18434&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcvl56dn)
 1. [[译] W3C 带来了一个新的语言](https://weekly.manong.io/bounce?nid=291&aid=18451&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp0r6vdl)
 1. [[译] 2020 年 Service Mesh：三大发展方向](https://weekly.manong.io/bounce?nid=291&aid=18453&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnink3fw)
+1. [[译] 60 分钟入门深度学习工具：PyTorch](https://weekly.manong.io/bounce?nid=292&aid=18503&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffidrgks)
+1. [[译] Go 不通过标准 C 库进行系统调用的一些原因](https://weekly.manong.io/bounce?nid=292&aid=18516&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6otuvgk)
+1. [[译] 2020 年软件开发趋势](https://weekly.manong.io/bounce?nid=292&aid=18528&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9eltrwf)
+1. [[译] 去中心化交易所 (DEX) 协议整理](https://weekly.manong.io/bounce?nid=292&aid=18542&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj3ux74s)

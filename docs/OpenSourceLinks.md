@@ -558,3 +558,7 @@
 1. [Go 1.13 标准库的 http 包爆出重大 bug，你的项目中招了吗？](https://weekly.manong.io/bounce?nid=291&aid=18474&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdnamvft)
 1. [[译] 不容错过的 Node.js 项目架构](https://weekly.manong.io/bounce?nid=291&aid=18478&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxaazxb8)
 1. [Sculptor Boot：项目思维化的《代码生成器》体系](https://weekly.manong.io/bounce?nid=291&aid=18457&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqr959cv)
+1. [微软开源自动机器学习工具 NNI 概览及新功能详解](https://weekly.manong.io/bounce?nid=292&aid=18502&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq2ciytx)
+1. [一周 GitHub 开源项目推荐：12306、腾讯、美团点评、陌陌](https://weekly.manong.io/bounce?nid=292&aid=18527&url=https%3A%2F%2Ftoutiao.io%2Fk%2Framqm0s)
+1. [程序员 “转行” 项目经理的二三事](https://weekly.manong.io/bounce?nid=292&aid=18547&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbuuqeo8)
+1. [99 行代码的《冰雪奇缘》，已开源](https://weekly.manong.io/bounce?nid=292&aid=18552&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1iapv4e)

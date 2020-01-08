@@ -884,3 +884,7 @@
 1. [一文让你知道为什么学了 PHP 的都要转学 Go 语言](https://weekly.manong.io/bounce?nid=291&aid=18472&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5c1nb4k)
 1. [Go 1.13 标准库的 http 包爆出重大 bug，你的项目中招了吗？](https://weekly.manong.io/bounce?nid=291&aid=18474&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdnamvft)
 1. [Golang 在电商即时通讯服务建设中的实践](https://weekly.manong.io/bounce?nid=291&aid=18475&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkyhwi6c)
+1. [Go 标准库的一次优化](https://weekly.manong.io/bounce?nid=292&aid=18514&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhq93dr7)
+1. [浅谈 Go 类型转换之间的那些事](https://weekly.manong.io/bounce?nid=292&aid=18515&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9wdqwwh)
+1. [[译] Go 不通过标准 C 库进行系统调用的一些原因](https://weekly.manong.io/bounce?nid=292&aid=18516&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6otuvgk)
+1. [为什么 MongoDB 使用 B 树](https://weekly.manong.io/bounce?nid=292&aid=18535&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7t91zrn)

@@ -615,3 +615,6 @@
 1. [你的分层架构还好吗？](https://weekly.manong.io/bounce?nid=290&aid=18396&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6zlwi68)
 1. [Flutter + Serverless 端到端研发架构实践](https://weekly.manong.io/bounce?nid=291&aid=18468&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0en7s4n)
 1. [[译] 不容错过的 Node.js 项目架构](https://weekly.manong.io/bounce?nid=291&aid=18478&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxaazxb8)
+1. [大数据平台架构设计探究](https://weekly.manong.io/bounce?nid=292&aid=18557&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpqs9wa4)
+1. [Gartner：影响 2020 年基础架构和运营的十大趋势](https://weekly.manong.io/bounce?nid=292&aid=18529&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm8p9fgv)
+1. [AWS 专家级解决方案架构师认证 (SAP) 备考指北](https://weekly.manong.io/bounce?nid=292&aid=18533&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjwscsc5)

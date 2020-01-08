@@ -646,3 +646,5 @@
 1. [为什么 MySQL 使用 B+ 树](https://weekly.manong.io/bounce?nid=291&aid=18430&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq8qm3w2)
 1. [小米 Kylin 平滑迁移 HBase 实践](https://weekly.manong.io/bounce?nid=291&aid=18433&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcb1oeie)
 1. [Redis 崩了，我成功把锅甩给了隔壁组](https://weekly.manong.io/bounce?nid=291&aid=18450&url=https%3A%2F%2Ftoutiao.io%2Fk%2F028lnz5)
+1. [头条高级面试题：请谈谈 Redis 9 种数据结构以及它们的内部编码实现](https://weekly.manong.io/bounce?nid=292&aid=18531&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp2s9fdq)
+1. [HBase Shell 命令](https://weekly.manong.io/bounce?nid=292&aid=18550&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy47uum1)

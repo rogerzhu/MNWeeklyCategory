@@ -241,3 +241,5 @@
 1. [[译] Hadoop 霸主地位不保？看看大数据领域的六年巨变](https://weekly.manong.io/bounce?nid=290&aid=18375&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwc5vmxc)
 1. [大数据组件 All-in-One 的 Docker 镜像](https://weekly.manong.io/bounce?nid=290&aid=18402&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffhrjx8w)
 1. [Flink 如何生成 ExecutionGraph](https://weekly.manong.io/bounce?nid=291&aid=18436&url=https%3A%2F%2Ftoutiao.io%2Fk%2F64ofgqw)
+1. [大数据平台架构设计探究](https://weekly.manong.io/bounce?nid=292&aid=18557&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpqs9wa4)
+1. [智能威胁检测：基于 Spark 的 SOC 机器学习检测平台](https://weekly.manong.io/bounce?nid=292&aid=18504&url=https%3A%2F%2Ftoutiao.io%2Fk%2F239jfr0)

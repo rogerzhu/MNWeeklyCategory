@@ -477,3 +477,7 @@
 1. [天猫精灵萌宠大机密：这款算法让十亿只猫都惊呆了](https://weekly.manong.io/bounce?nid=291&aid=18488&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkz0gyfi)
 1. [Flink 如何生成 ExecutionGraph](https://weekly.manong.io/bounce?nid=291&aid=18436&url=https%3A%2F%2Ftoutiao.io%2Fk%2F64ofgqw)
 1. [区块链实用型技能树](https://weekly.manong.io/bounce?nid=291&aid=18452&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz8bujdr)
+1. [头条高级面试题：请谈谈 Redis 9 种数据结构以及它们的内部编码实现](https://weekly.manong.io/bounce?nid=292&aid=18531&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp2s9fdq)
+1. [为什么 MongoDB 使用 B 树](https://weekly.manong.io/bounce?nid=292&aid=18535&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7t91zrn)
+1. [这几个缓存淘汰算法你知道吗？](https://weekly.manong.io/bounce?nid=292&aid=18551&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fiqo1vzg)
+1. [wukongqueue：轻量且易于使用的跨进程队列服务](https://weekly.manong.io/bounce?nid=292&aid=18555&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnkvnfhs)

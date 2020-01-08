@@ -761,3 +761,6 @@
 1. [Android 音视频：Libyuv 使用实战](https://weekly.manong.io/bounce?nid=290&aid=18407&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fch8d3o4)
 1. [Android 进程保活：基础理论篇](https://weekly.manong.io/bounce?nid=290&aid=18408&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffufb348)
 1. [Android APK 资源分析之 Python 实现](https://weekly.manong.io/bounce?nid=291&aid=18461&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxh9ht7q)
+1. [Android Q 强制黑暗 (ForceDark) 模式实践](https://weekly.manong.io/bounce?nid=292&aid=18508&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnudipuy)
+1. [Android 性能优化：内存优化实战秘籍](https://weekly.manong.io/bounce?nid=292&aid=18509&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fprfmf8h)
+1. [58 同城 Android 端实现外部调起的关键技术解析](https://weekly.manong.io/bounce?nid=292&aid=18510&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpyj724m)

@@ -215,3 +215,6 @@
 1. [关于 Kafka 的一些面试题目](https://weekly.manong.io/bounce?nid=288&aid=18270&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAJ45e4TgLDRLJT2ODoQNpw)
 1. [用 Markdown 写简历和 PPT](https://weekly.manong.io/bounce?nid=290&aid=18398&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdsdhkht)
 1. [通过用户思维，告诉你怎样写好简历](https://weekly.manong.io/bounce?nid=290&aid=18358&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwbyb4sv)
+1. [iOS 面试小记](https://weekly.manong.io/bounce?nid=292&aid=18513&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqc37fp0)
+1. [头条高级面试题：请谈谈 Redis 9 种数据结构以及它们的内部编码实现](https://weekly.manong.io/bounce?nid=292&aid=18531&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp2s9fdq)
+1. [看完跳槽少说涨 5k，前端面试从准备到谈薪完全指南](https://weekly.manong.io/bounce?nid=292&aid=18537&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhsm5jns)

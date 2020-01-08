@@ -326,3 +326,5 @@
 1. [身为前端，你不得不懂的一些 HTTP 知识](https://weekly.manong.io/bounce?nid=291&aid=18444&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fif8aeob)
 1. [4000 字详解 TCP 超时与重传，看完没收获算我输](https://weekly.manong.io/bounce?nid=291&aid=18448&url=https%3A%2F%2Ftoutiao.io%2Fk%2Feyy5675)
 1. [《移动平台深度神经网络实战》](https://weekly.manong.io/bounce?nid=291&aid=18495&url=https%3A%2F%2Fitem.jd.com%2F12764172.html)
+1. [llhttp 是如何使 Node.js 性能翻倍的？](https://weekly.manong.io/bounce?nid=292&aid=18520&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fby0pyiy)
+1. [[译] 去中心化交易所 (DEX) 协议整理](https://weekly.manong.io/bounce?nid=292&aid=18542&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj3ux74s)
