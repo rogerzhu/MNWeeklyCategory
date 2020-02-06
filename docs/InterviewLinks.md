@@ -218,3 +218,5 @@
 1. [iOS 面试小记](https://weekly.manong.io/bounce?nid=292&aid=18513&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqc37fp0)
 1. [头条高级面试题：请谈谈 Redis 9 种数据结构以及它们的内部编码实现](https://weekly.manong.io/bounce?nid=292&aid=18531&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp2s9fdq)
 1. [看完跳槽少说涨 5k，前端面试从准备到谈薪完全指南](https://weekly.manong.io/bounce?nid=292&aid=18537&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhsm5jns)
+1. [高级 Java 面试必问的三大 IO 模型，你 get 了吗？](https://weekly.manong.io/bounce?nid=293&aid=18572&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpg2gucx)
+1. [萌妹子裸辞留学，零基础自学编程，拿到 Google、微软 Offer](https://weekly.manong.io/bounce?nid=293&aid=18560&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffzfv8cg)

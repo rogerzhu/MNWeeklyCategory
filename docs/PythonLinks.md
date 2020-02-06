@@ -603,3 +603,8 @@
 1. [Python 2 的最后版本将于 4 月发布，但它确实是在 1 月 1 日就寿命终止了](https://weekly.manong.io/bounce?nid=292&aid=18517&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxbyhusz)
 1. [2019 年度 Python 榜单](https://weekly.manong.io/bounce?nid=292&aid=18518&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmi0uhly)
 1. [Nginx vs Enovy vs Mosn 平滑升级原理解析](https://weekly.manong.io/bounce?nid=292&aid=18548&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1zg45de)
+1. [你必须掌握的 Python 数据分析工具之 Numpy](https://weekly.manong.io/bounce?nid=293&aid=18570&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fiktpm9y)
+1. [[译] Python 2 已终结，入手 Python 3，你需要这 30 个技巧](https://weekly.manong.io/bounce?nid=293&aid=18575&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbvrl0gh)
+1. [[译] 你可能不知道的 Python 技巧](https://weekly.manong.io/bounce?nid=293&aid=18576&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftv2y3qe)
+1. [为什么选择 Pulsar 而非 Kafka？](https://weekly.manong.io/bounce?nid=293&aid=18581&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftgg2pc3)
+1. [Filebeat + Kafka + ELK 分布式日志收集](https://weekly.manong.io/bounce?nid=293&aid=18597&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgz54sz8)

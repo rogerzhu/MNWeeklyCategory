@@ -888,3 +888,4 @@
 1. [浅谈 Go 类型转换之间的那些事](https://weekly.manong.io/bounce?nid=292&aid=18515&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9wdqwwh)
 1. [[译] Go 不通过标准 C 库进行系统调用的一些原因](https://weekly.manong.io/bounce?nid=292&aid=18516&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6otuvgk)
 1. [为什么 MongoDB 使用 B 树](https://weekly.manong.io/bounce?nid=292&aid=18535&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7t91zrn)
+1. [为什么 Go 语言没有泛型？](https://weekly.manong.io/bounce?nid=293&aid=18573&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3gok4ys)

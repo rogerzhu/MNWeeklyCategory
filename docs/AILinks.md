@@ -1240,3 +1240,6 @@
 1. [智能威胁检测：基于 Spark 的 SOC 机器学习检测平台](https://weekly.manong.io/bounce?nid=292&aid=18504&url=https%3A%2F%2Ftoutiao.io%2Fk%2F239jfr0)
 1. [2020 前端智能化趋势：TensorFlow.js 生态](https://weekly.manong.io/bounce?nid=292&aid=18505&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5npj9hn)
 1. [手把手教你开发人工智能微信小程序（三）：加载数据](https://weekly.manong.io/bounce?nid=292&aid=18506&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftzf4kit)
+1. [深度学习在花椒直播中的应用：排序算法篇](https://weekly.manong.io/bounce?nid=293&aid=18566&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2tik451)
+1. [使用 PyTorch 简单实现图像分割网络 FCN](https://weekly.manong.io/bounce?nid=293&aid=18569&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkrhn65p)
+1. [DDD：识别限界上下文以及理解上下文映射](https://weekly.manong.io/bounce?nid=293&aid=18600&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fc36ruqo)

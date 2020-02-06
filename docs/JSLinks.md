@@ -559,3 +559,5 @@
 1. [深入研究 JavaScript 全局变量](https://weekly.manong.io/bounce?nid=291&aid=18480&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fteqgvl2)
 1. [2020 前端智能化趋势：TensorFlow.js 生态](https://weekly.manong.io/bounce?nid=292&aid=18505&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5npj9hn)
 1. [llhttp 是如何使 Node.js 性能翻倍的？](https://weekly.manong.io/bounce?nid=292&aid=18520&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fby0pyiy)
+1. [掌握 JavaScript 中的 this, call, apply 的原理](https://weekly.manong.io/bounce?nid=293&aid=18577&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq1v8osb)
+1. [不容错过的 Node.js 资源集](https://weekly.manong.io/bounce?nid=293&aid=18604&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkojbx9y)

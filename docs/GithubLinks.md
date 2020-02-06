@@ -119,3 +119,4 @@
 1. [一周 GitHub 开源项目推荐：微软、字节跳动、腾讯、阿里巴巴](https://weekly.manong.io/bounce?nid=288&aid=18247&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FInRM0JDbENnuekQMZfJmUw)
 1. [一周 GitHub 开源项目推荐：字节跳动、阿里巴巴、百度、饿了么](https://weekly.manong.io/bounce?nid=289&aid=18290&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvuBqb8vlenBSEQrNoIqxJQ)
 1. [一周 GitHub 开源项目推荐：12306、腾讯、美团点评、陌陌](https://weekly.manong.io/bounce?nid=292&aid=18527&url=https%3A%2F%2Ftoutiao.io%2Fk%2Framqm0s)
+1. [解决百度爬虫无法爬取 GitHub Pages 个人博客的问题](https://weekly.manong.io/bounce?nid=293&aid=18593&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4yimh2w)

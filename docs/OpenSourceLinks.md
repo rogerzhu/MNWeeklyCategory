@@ -562,3 +562,4 @@
 1. [一周 GitHub 开源项目推荐：12306、腾讯、美团点评、陌陌](https://weekly.manong.io/bounce?nid=292&aid=18527&url=https%3A%2F%2Ftoutiao.io%2Fk%2Framqm0s)
 1. [程序员 “转行” 项目经理的二三事](https://weekly.manong.io/bounce?nid=292&aid=18547&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbuuqeo8)
 1. [99 行代码的《冰雪奇缘》，已开源](https://weekly.manong.io/bounce?nid=292&aid=18552&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1iapv4e)
+1. [京东占领首页项目架构揭密](https://weekly.manong.io/bounce?nid=293&aid=18578&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkzgdyy1)

@@ -575,3 +575,5 @@
 1. [如何为信息流内容中心设计一个高效的处理链路，简单聊聊 QQ 看点在这方面的演进过程](https://weekly.manong.io/bounce?nid=291&aid=18445&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq8evfn9)
 1. [大数据平台架构设计探究](https://weekly.manong.io/bounce?nid=292&aid=18557&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpqs9wa4)
 1. [之家经销商技术部日志系统设计实现](https://weekly.manong.io/bounce?nid=292&aid=18558&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkf8hz2q)
+1. [[译] ​专为初学者设计：最小的神经网络](https://weekly.manong.io/bounce?nid=293&aid=18568&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6ey8bjp)
+1. [MySQL 的 InnoDB 存储引擎是怎么设计的？](https://weekly.manong.io/bounce?nid=293&aid=18586&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffqy21if)

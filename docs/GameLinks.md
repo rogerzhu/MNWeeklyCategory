@@ -202,3 +202,4 @@
 1. [vivo web service：亿万级规模 web 服务引擎架构](https://weekly.manong.io/bounce?nid=287&aid=18159&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FovOS0l9U5svlUMfZoYFU9Q)
 1. [蚂蚁金服 AntV 空间数据可视化引擎 L7 2.0 发布](https://weekly.manong.io/bounce?nid=289&aid=18319&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjykvchu)
 1. [JavaScript 引擎 V8 执行流程概述](https://weekly.manong.io/bounce?nid=291&aid=18479&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fepbg4p5)
+1. [MySQL 的 InnoDB 存储引擎是怎么设计的？](https://weekly.manong.io/bounce?nid=293&aid=18586&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffqy21if)

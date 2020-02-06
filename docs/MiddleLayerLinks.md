@@ -18,3 +18,6 @@
 1. [阿里巴巴架构师：十问业务中台和我的答案](https://weekly.manong.io/bounce?nid=288&aid=18227&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FiDM-1clgezsC8ry-gk9vCg)
 1. [有别于 BATJ，滴滴的中台数据体系建设怎么另辟蹊径？](https://weekly.manong.io/bounce?nid=288&aid=18228&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOunubq5J0U5ijQsFgQZU0A)
 1. [有赞数据中台建设实践](https://weekly.manong.io/bounce?nid=290&aid=18361&url=https%3A%2F%2Ftoutiao.io%2Fk%2Foiqtmhr)
+1. [不是你需要中台，而是一名合格的架构师](https://weekly.manong.io/bounce?nid=293&aid=18563&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl175pv3)
+1. [面向数据中台的数据治理七把利剑](https://weekly.manong.io/bounce?nid=293&aid=18565&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frqfk5b7)
+1. [如果中台是药，那么一定是中药](https://weekly.manong.io/bounce?nid=293&aid=18599&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg189bsx)

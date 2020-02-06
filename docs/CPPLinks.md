@@ -120,3 +120,4 @@
 1. [对比 C++ 和 Python，谈谈指针与引用](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fk0VNL6uyvBHT7PWdzEPROQ&aid=17068&nid=271)
 1. [Julia 编程基础（一）：初识 Julia，除了性能堪比 C 语言还有哪些特性？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5pn9g3o&aid=17368&nid=275)
 1. [简单的 C++ 结构体字段反射](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxPLvCvXFlg0ZPbG8ozKwjw&aid=17865&nid=282)
+1. [C++11 新特性总结](https://weekly.manong.io/bounce?nid=293&aid=18571&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8280ie4)

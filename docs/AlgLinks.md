@@ -481,3 +481,7 @@
 1. [为什么 MongoDB 使用 B 树](https://weekly.manong.io/bounce?nid=292&aid=18535&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7t91zrn)
 1. [这几个缓存淘汰算法你知道吗？](https://weekly.manong.io/bounce?nid=292&aid=18551&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fiqo1vzg)
 1. [wukongqueue：轻量且易于使用的跨进程队列服务](https://weekly.manong.io/bounce?nid=292&aid=18555&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnkvnfhs)
+1. [深度学习在花椒直播中的应用：排序算法篇](https://weekly.manong.io/bounce?nid=293&aid=18566&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2tik451)
+1. [机器视觉与算法建模](https://weekly.manong.io/bounce?nid=293&aid=18605&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F345107%23293)
+1. [一文学会链表解题](https://weekly.manong.io/bounce?nid=293&aid=18583&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxbew1n3)
+1. [区块链时代的拜占庭将军（下）：区块链共识算法的发展趋势](https://weekly.manong.io/bounce?nid=293&aid=18590&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbfecy3u)

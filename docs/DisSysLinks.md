@@ -345,3 +345,5 @@
 1. [SOSP19' Ceph 的十年经验总结：文件系统是否适合做分布式文件系统的后端](https://weekly.manong.io/bounce?nid=291&aid=18431&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flyt9n91)
 1. [从源码说一说 Zookeeper 的 watcher 机制](https://weekly.manong.io/bounce?nid=292&aid=18545&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyyct9lt)
 1. [学习 ZooKeeper 源码，就从这篇开始](https://weekly.manong.io/bounce?nid=292&aid=18546&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0qmifsl)
+1. [[译] 一切系统都是分布式的 (OReilly, 2015)](https://weekly.manong.io/bounce?nid=293&aid=18580&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ferplffd)
+1. [Filebeat + Kafka + ELK 分布式日志收集](https://weekly.manong.io/bounce?nid=293&aid=18597&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgz54sz8)

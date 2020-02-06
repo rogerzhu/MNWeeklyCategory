@@ -125,3 +125,4 @@
 1. [还没搞懂 NodeJS 的 HTTP 服务器？看这一篇就够了](https://weekly.manong.io/bounce?nid=290&aid=18418&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx547wlr)
 1. [[译] 不容错过的 Node.js 项目架构](https://weekly.manong.io/bounce?nid=291&aid=18478&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxaazxb8)
 1. [llhttp 是如何使 Node.js 性能翻倍的？](https://weekly.manong.io/bounce?nid=292&aid=18520&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fby0pyiy)
+1. [不容错过的 Node.js 资源集](https://weekly.manong.io/bounce?nid=293&aid=18604&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkojbx9y)

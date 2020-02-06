@@ -431,3 +431,6 @@
 1. [我如何通过 K8S 开发认证 (CKAD) 考试](https://weekly.manong.io/bounce?nid=291&aid=18449&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3sh9sv3)
 1. [从源码说一说 Zookeeper 的 watcher 机制](https://weekly.manong.io/bounce?nid=292&aid=18545&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyyct9lt)
 1. [学习 ZooKeeper 源码，就从这篇开始](https://weekly.manong.io/bounce?nid=292&aid=18546&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0qmifsl)
+1. [为什么选择 Pulsar 而非 Kafka？](https://weekly.manong.io/bounce?nid=293&aid=18581&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftgg2pc3)
+1. [[译] Tinder 迁移至 Kubernetes 之路](https://weekly.manong.io/bounce?nid=293&aid=18592&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg7knq5a)
+1. [Filebeat + Kafka + ELK 分布式日志收集](https://weekly.manong.io/bounce?nid=293&aid=18597&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgz54sz8)

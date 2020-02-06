@@ -618,3 +618,6 @@
 1. [大数据平台架构设计探究](https://weekly.manong.io/bounce?nid=292&aid=18557&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpqs9wa4)
 1. [Gartner：影响 2020 年基础架构和运营的十大趋势](https://weekly.manong.io/bounce?nid=292&aid=18529&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm8p9fgv)
 1. [AWS 专家级解决方案架构师认证 (SAP) 备考指北](https://weekly.manong.io/bounce?nid=292&aid=18533&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjwscsc5)
+1. [不是你需要中台，而是一名合格的架构师](https://weekly.manong.io/bounce?nid=293&aid=18563&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl175pv3)
+1. [[译] 软件架构师之路](https://weekly.manong.io/bounce?nid=293&aid=18564&url=https%3A%2F%2Ftoutiao.io%2Fk%2F17pbqna)
+1. [京东占领首页项目架构揭密](https://weekly.manong.io/bounce?nid=293&aid=18578&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkzgdyy1)

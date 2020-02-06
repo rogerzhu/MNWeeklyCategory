@@ -328,3 +328,5 @@
 1. [《移动平台深度神经网络实战》](https://weekly.manong.io/bounce?nid=291&aid=18495&url=https%3A%2F%2Fitem.jd.com%2F12764172.html)
 1. [llhttp 是如何使 Node.js 性能翻倍的？](https://weekly.manong.io/bounce?nid=292&aid=18520&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fby0pyiy)
 1. [[译] 去中心化交易所 (DEX) 协议整理](https://weekly.manong.io/bounce?nid=292&aid=18542&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj3ux74s)
+1. [[译] ​专为初学者设计：最小的神经网络](https://weekly.manong.io/bounce?nid=293&aid=18568&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6ey8bjp)
+1. [使用 PyTorch 简单实现图像分割网络 FCN](https://weekly.manong.io/bounce?nid=293&aid=18569&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkrhn65p)
