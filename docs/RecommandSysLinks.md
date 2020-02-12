@@ -58,3 +58,5 @@
 1. [微信看一看实时 Look-alike 推荐算法](https://weekly.manong.io/bounce?nid=288&aid=18269&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ_L4Ix1fe8q7audK6gmceA)
 1. [混合推荐系统介绍](https://weekly.manong.io/bounce?nid=290&aid=18391&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fptui4y4)
 1. [推荐系统的 UI 交互与视觉展示](https://weekly.manong.io/bounce?nid=293&aid=18582&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fks51nh0)
+1. [[译] 如何使用深度学习模型构建推荐系统？](https://weekly.manong.io/bounce?nid=294&aid=18622&url=https%3A%2F%2Ftoutiao.io%2Fk%2F30g1g4n)
+1. [推荐算法团队介绍](https://weekly.manong.io/bounce?nid=294&aid=18625&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhtlu867)

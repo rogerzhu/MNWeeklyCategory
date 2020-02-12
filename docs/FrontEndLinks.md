@@ -405,3 +405,5 @@
 1. [寒冬下 Scott 的 31 岁前端年终总结](https://weekly.manong.io/bounce?nid=292&aid=18500&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb8xz6e2)
 1. [解密百度前端技术体系](https://weekly.manong.io/bounce?nid=293&aid=18579&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdbyikco)
 1. [高质量前端快照方案：来自页面的 “自拍”](https://weekly.manong.io/bounce?nid=293&aid=18584&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flvtm5kv)
+1. [前端小君](https://weekly.manong.io/bounce?nid=294&aid=18667&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F375566%23294)
+1. [网易严选前端工程化实践](https://weekly.manong.io/bounce?nid=294&aid=18626&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuceaayl)

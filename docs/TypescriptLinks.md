@@ -16,3 +16,4 @@
 1. [面向对象不是银弹，DDD 也不是，TypeScript 才是](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0hqcr8&aid=17143&nid=272)
 1. [TypeScript 疑难杂症](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff0tjqxc&aid=17743&nid=280)
 1. [漫谈 Typescript 研发体系建设](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffdriq4q&aid=17882&nid=282)
+1. [Effective Typescript：使用 Typescript 的 N 个技巧](https://weekly.manong.io/bounce?nid=294&aid=18664&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsz7qzjm)

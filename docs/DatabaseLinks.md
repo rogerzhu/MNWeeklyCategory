@@ -649,3 +649,4 @@
 1. [头条高级面试题：请谈谈 Redis 9 种数据结构以及它们的内部编码实现](https://weekly.manong.io/bounce?nid=292&aid=18531&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp2s9fdq)
 1. [HBase Shell 命令](https://weekly.manong.io/bounce?nid=292&aid=18550&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy47uum1)
 1. [MySQL 的 InnoDB 存储引擎是怎么设计的？](https://weekly.manong.io/bounce?nid=293&aid=18586&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffqy21if)
+1. [读过本文才算真正了解 Cassandra 数据库](https://weekly.manong.io/bounce?nid=294&aid=18633&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffieefhs)

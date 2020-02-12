@@ -621,3 +621,6 @@
 1. [不是你需要中台，而是一名合格的架构师](https://weekly.manong.io/bounce?nid=293&aid=18563&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl175pv3)
 1. [[译] 软件架构师之路](https://weekly.manong.io/bounce?nid=293&aid=18564&url=https%3A%2F%2Ftoutiao.io%2Fk%2F17pbqna)
 1. [京东占领首页项目架构揭密](https://weekly.manong.io/bounce?nid=293&aid=18578&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkzgdyy1)
+1. [CODING 微服务架构演进之路](https://weekly.manong.io/bounce?nid=294&aid=18612&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9st5xky)
+1. [业务安全架构思维](https://weekly.manong.io/bounce?nid=294&aid=18613&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxt7wvcy)
+1. [架构师那些不能碰的禁忌](https://weekly.manong.io/bounce?nid=294&aid=18644&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fja06bqt)

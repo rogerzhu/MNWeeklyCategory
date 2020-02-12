@@ -608,3 +608,7 @@
 1. [[译] 你可能不知道的 Python 技巧](https://weekly.manong.io/bounce?nid=293&aid=18576&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftv2y3qe)
 1. [为什么选择 Pulsar 而非 Kafka？](https://weekly.manong.io/bounce?nid=293&aid=18581&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftgg2pc3)
 1. [Filebeat + Kafka + ELK 分布式日志收集](https://weekly.manong.io/bounce?nid=293&aid=18597&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgz54sz8)
+1. [[译] 30 个 Python 最佳实践和技巧](https://weekly.manong.io/bounce?nid=294&aid=18659&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fytzunrf)
+1. [柱状图、堆叠柱状图、瀑布图有什么区别？怎样用 Python 绘制？](https://weekly.manong.io/bounce?nid=294&aid=18660&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ficn3gg6)
+1. [你必须掌握的 Python 数据分析工具之 Pandas](https://weekly.manong.io/bounce?nid=294&aid=18661&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fufn1fww)
+1. [《机器学习算法的数学解析与 Python 实现》](https://weekly.manong.io/bounce?nid=294&aid=18670&url=https%3A%2F%2Fitem.jd.com%2F64187509524.html)

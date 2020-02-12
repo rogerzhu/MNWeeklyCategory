@@ -390,3 +390,5 @@
 1. [[译] 60 分钟入门深度学习工具：PyTorch](https://weekly.manong.io/bounce?nid=292&aid=18503&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffidrgks)
 1. [2019 年终黑客工具盘点（推荐篇）](https://weekly.manong.io/bounce?nid=292&aid=18536&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkx08gnd)
 1. [你必须掌握的 Python 数据分析工具之 Numpy](https://weekly.manong.io/bounce?nid=293&aid=18570&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fiktpm9y)
+1. [你必须掌握的 Python 数据分析工具之 Pandas](https://weekly.manong.io/bounce?nid=294&aid=18661&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fufn1fww)
+1. [作为程序员的你，常用的工具软件有哪些？](https://weekly.manong.io/bounce?nid=294&aid=18617&url=https%3A%2F%2Ftoutiao.io%2Fk%2Faq6pm6n)

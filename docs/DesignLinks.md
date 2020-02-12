@@ -577,3 +577,5 @@
 1. [之家经销商技术部日志系统设计实现](https://weekly.manong.io/bounce?nid=292&aid=18558&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkf8hz2q)
 1. [[译] ​专为初学者设计：最小的神经网络](https://weekly.manong.io/bounce?nid=293&aid=18568&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6ey8bjp)
 1. [MySQL 的 InnoDB 存储引擎是怎么设计的？](https://weekly.manong.io/bounce?nid=293&aid=18586&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffqy21if)
+1. [DDD 中的战略设计是个啥？](https://weekly.manong.io/bounce?nid=294&aid=18614&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv7ai95p)
+1. [Elasticsearch 索引设计实战指南](https://weekly.manong.io/bounce?nid=294&aid=18627&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq2zay9j)

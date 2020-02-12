@@ -485,3 +485,6 @@
 1. [机器视觉与算法建模](https://weekly.manong.io/bounce?nid=293&aid=18605&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F345107%23293)
 1. [一文学会链表解题](https://weekly.manong.io/bounce?nid=293&aid=18583&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxbew1n3)
 1. [区块链时代的拜占庭将军（下）：区块链共识算法的发展趋势](https://weekly.manong.io/bounce?nid=293&aid=18590&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbfecy3u)
+1. [经典机器学习系列之：决策树详解](https://weekly.manong.io/bounce?nid=294&aid=18621&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6m4imfl)
+1. [推荐算法团队介绍](https://weekly.manong.io/bounce?nid=294&aid=18625&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhtlu867)
+1. [《机器学习算法的数学解析与 Python 实现》](https://weekly.manong.io/bounce?nid=294&aid=18670&url=https%3A%2F%2Fitem.jd.com%2F64187509524.html)

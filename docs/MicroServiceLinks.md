@@ -170,3 +170,7 @@
 1. [微服务架构之网关层 Zuul 剖析](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQpzjAuPAtlwVpn58FAcZKQ&aid=17782&nid=281)
 1. [腾讯微服务框架 Tars 的 Go 性能提升之路](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FU-YVvA6W3EJ-g7FF9Y5Mug&aid=17875&nid=282)
 1. [探探如何三个月完成微服务改造，以及踩过的 “坑”](https://weekly.manong.io/bounce?nid=291&aid=18432&url=https%3A%2F%2Ftoutiao.io%2Fk%2F940ata9)
+1. [CODING 微服务架构演进之路](https://weekly.manong.io/bounce?nid=294&aid=18612&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9st5xky)
+1. [Spring Boot 与微服务从 0 到 1 的实践](https://weekly.manong.io/bounce?nid=294&aid=18651&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frbfhyll)
+1. [不是银弹：关于微服务的一点思考](https://weekly.manong.io/bounce?nid=294&aid=18635&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbtws1rn)
+1. [微服务统一认证与授权的 Go 语言实现（上）](https://weekly.manong.io/bounce?nid=294&aid=18636&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2tc96jt)

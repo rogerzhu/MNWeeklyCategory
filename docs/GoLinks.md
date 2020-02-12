@@ -889,3 +889,7 @@
 1. [[译] Go 不通过标准 C 库进行系统调用的一些原因](https://weekly.manong.io/bounce?nid=292&aid=18516&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6otuvgk)
 1. [为什么 MongoDB 使用 B 树](https://weekly.manong.io/bounce?nid=292&aid=18535&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7t91zrn)
 1. [为什么 Go 语言没有泛型？](https://weekly.manong.io/bounce?nid=293&aid=18573&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3gok4ys)
+1. [理解 Go 语言的 Goroutine 和协程](https://weekly.manong.io/bounce?nid=294&aid=18657&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftzoiigf)
+1. [[译] 我们应该怎么样编写 Go 语言库，有哪些标准可以参考？](https://weekly.manong.io/bounce?nid=294&aid=18658&url=https%3A%2F%2Ftoutiao.io%2Fk%2F459r97a)
+1. [微服务统一认证与授权的 Go 语言实现（上）](https://weekly.manong.io/bounce?nid=294&aid=18636&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2tc96jt)
+1. [apollo：开源的 Go 原生社交系统](https://weekly.manong.io/bounce?nid=294&aid=18646&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3ei266u)

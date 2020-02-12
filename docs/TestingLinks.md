@@ -229,3 +229,4 @@
 1. [交易所安全测试：输入输出安全](https://weekly.manong.io/bounce?nid=287&aid=18173&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUu-_RzygemG5o9aJ87yHbw)
 1. [Python 中如何实现参数化测试？](https://weekly.manong.io/bounce?nid=290&aid=18414&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft1lvb50)
 1. [[译] 什么？70 位顶尖测试工程师被 AI 击败](https://weekly.manong.io/bounce?nid=291&aid=18487&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbtewucm)
+1. [花椒 Android 端自动化测试实践](https://weekly.manong.io/bounce?nid=294&aid=18652&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fomaqswr)

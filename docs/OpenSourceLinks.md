@@ -563,3 +563,4 @@
 1. [程序员 “转行” 项目经理的二三事](https://weekly.manong.io/bounce?nid=292&aid=18547&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbuuqeo8)
 1. [99 行代码的《冰雪奇缘》，已开源](https://weekly.manong.io/bounce?nid=292&aid=18552&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1iapv4e)
 1. [京东占领首页项目架构揭密](https://weekly.manong.io/bounce?nid=293&aid=18578&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkzgdyy1)
+1. [apollo：开源的 Go 原生社交系统](https://weekly.manong.io/bounce?nid=294&aid=18646&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3ei266u)

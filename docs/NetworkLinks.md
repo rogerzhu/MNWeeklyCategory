@@ -330,3 +330,5 @@
 1. [[译] 去中心化交易所 (DEX) 协议整理](https://weekly.manong.io/bounce?nid=292&aid=18542&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj3ux74s)
 1. [[译] ​专为初学者设计：最小的神经网络](https://weekly.manong.io/bounce?nid=293&aid=18568&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6ey8bjp)
 1. [使用 PyTorch 简单实现图像分割网络 FCN](https://weekly.manong.io/bounce?nid=293&aid=18569&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkrhn65p)
+1. [PyTorch 实现经典分类网络](https://weekly.manong.io/bounce?nid=294&aid=18623&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9qwfjjt)
+1. [awesome-systemtap-cn：采集网络上优秀的 systemtap 学习资源](https://weekly.manong.io/bounce?nid=294&aid=18647&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjqmwprb)

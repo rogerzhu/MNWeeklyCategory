@@ -434,3 +434,5 @@
 1. [为什么选择 Pulsar 而非 Kafka？](https://weekly.manong.io/bounce?nid=293&aid=18581&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftgg2pc3)
 1. [[译] Tinder 迁移至 Kubernetes 之路](https://weekly.manong.io/bounce?nid=293&aid=18592&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg7knq5a)
 1. [Filebeat + Kafka + ELK 分布式日志收集](https://weekly.manong.io/bounce?nid=293&aid=18597&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgz54sz8)
+1. [Kubernetes ApiServer 并发安全机制](https://weekly.manong.io/bounce?nid=294&aid=18641&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7l7p1ky)
+1. [[译] 浅谈 Kubernetes 中的服务发现](https://weekly.manong.io/bounce?nid=294&aid=18643&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbfv4ppu)

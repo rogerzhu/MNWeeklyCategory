@@ -156,3 +156,4 @@
 1. [Windows、WSL 与 Linux 的性能对比](https://weekly.manong.io/bounce?nid=291&aid=18446&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2p0muvh)
 1. [学习 Linux 命令，看这篇 2w 多字的命令详解就够了](https://weekly.manong.io/bounce?nid=292&aid=18549&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq8x4vcp)
 1. [Linux 后台服务启动方式 systemd、daemon、nohup 大比拼](https://weekly.manong.io/bounce?nid=293&aid=18587&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhn761x0)
+1. [应急响应笔记之 Linux 篇](https://weekly.manong.io/bounce?nid=294&aid=18642&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5nbz4d9)
