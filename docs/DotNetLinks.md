@@ -53,3 +53,4 @@
 1. [深入研究 .NET Core 的本地化机制](https://weekly.manong.io/bounce?nid=284&aid=18016&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FpKuhKqG0NhxXrmfKzPWNkA)
 1. [C# 异步编程看这篇就够了](https://weekly.manong.io/bounce?nid=291&aid=18476&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5se2gt7)
 1. [ASP.NET Core 跨平台技术内幕](https://weekly.manong.io/bounce?nid=292&aid=18519&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnwhor8a)
+1. [ASP.NET Core 日志模型](https://weekly.manong.io/bounce?nid=295&aid=18728&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq51p6xo)

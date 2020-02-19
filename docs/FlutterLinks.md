@@ -122,3 +122,5 @@
 1. [Flutter 开发体验汇报](https://weekly.manong.io/bounce?nid=291&aid=18467&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo83d2s3)
 1. [Flutter + Serverless 端到端研发架构实践](https://weekly.manong.io/bounce?nid=291&aid=18468&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0en7s4n)
 1. [FLUI：Flutter 的组件扩展集](https://weekly.manong.io/bounce?nid=291&aid=18456&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8oyvn00)
+1. [全面理解 Flutter](https://weekly.manong.io/bounce?nid=295&aid=18720&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0ruedrl)
+1. [谁告诉你 Flutter 会干掉原生开发？](https://weekly.manong.io/bounce?nid=295&aid=18721&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz6klrdx)

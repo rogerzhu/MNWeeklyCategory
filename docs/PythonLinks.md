@@ -612,3 +612,6 @@
 1. [柱状图、堆叠柱状图、瀑布图有什么区别？怎样用 Python 绘制？](https://weekly.manong.io/bounce?nid=294&aid=18660&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ficn3gg6)
 1. [你必须掌握的 Python 数据分析工具之 Pandas](https://weekly.manong.io/bounce?nid=294&aid=18661&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fufn1fww)
 1. [《机器学习算法的数学解析与 Python 实现》](https://weekly.manong.io/bounce?nid=294&aid=18670&url=https%3A%2F%2Fitem.jd.com%2F64187509524.html)
+1. [[译] Python 3.8 官方 Logging 文档：高级部分](https://weekly.manong.io/bounce?nid=295&aid=18722&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1642hh9)
+1. [强大的 Python 任务自动化工具！invoke 十分钟入门指南](https://weekly.manong.io/bounce?nid=295&aid=18723&url=https%3A%2F%2Ftoutiao.io%2Fk%2F41utdd5)
+1. [Python 3 爬虫：状态码 521 网页的爬取](https://weekly.manong.io/bounce?nid=295&aid=18724&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvwb2zuo)

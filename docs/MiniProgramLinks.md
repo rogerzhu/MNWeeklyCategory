@@ -117,3 +117,4 @@
 1. [微信小程序与 tensorflow.js 模型引入](https://weekly.manong.io/bounce?nid=287&aid=18213&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_9z4flQA5NESndX9La7VhA)
 1. [小程序开发的几个好的实践](https://weekly.manong.io/bounce?nid=288&aid=18260&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRay6r8YO0ZWT5hPGzw3UdQ)
 1. [手把手教你开发人工智能微信小程序（三）：加载数据](https://weekly.manong.io/bounce?nid=292&aid=18506&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftzf4kit)
+1. [TensorFlow.js 微信小程序插件开始支持模型缓存](https://weekly.manong.io/bounce?nid=295&aid=18710&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjg3rviw)

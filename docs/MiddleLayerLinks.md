@@ -21,3 +21,4 @@
 1. [不是你需要中台，而是一名合格的架构师](https://weekly.manong.io/bounce?nid=293&aid=18563&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl175pv3)
 1. [面向数据中台的数据治理七把利剑](https://weekly.manong.io/bounce?nid=293&aid=18565&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frqfk5b7)
 1. [如果中台是药，那么一定是中药](https://weekly.manong.io/bounce?nid=293&aid=18599&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg189bsx)
+1. [中台辨析：架构的演进趋势](https://weekly.manong.io/bounce?nid=295&aid=18711&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fywww217)

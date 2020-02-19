@@ -433,3 +433,4 @@
 1. [Frida 框架在 Fuzzing 中的应用](https://weekly.manong.io/bounce?nid=288&aid=18254&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FojoKmjkNSG_rdSUpyYG_3g)
 1. [2020 新春流行的 RPC 框架性能大比拼](https://weekly.manong.io/bounce?nid=293&aid=18574&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frjg51bx)
 1. [过去 10 年最重要的 10 个 JavaScript 框架](https://weekly.manong.io/bounce?nid=294&aid=18662&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxtgv8fh)
+1. [深度强化学习中实验环境：开源平台框架汇总](https://weekly.manong.io/bounce?nid=295&aid=18708&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu6i70og)

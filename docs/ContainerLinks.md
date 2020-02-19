@@ -436,3 +436,4 @@
 1. [Filebeat + Kafka + ELK 分布式日志收集](https://weekly.manong.io/bounce?nid=293&aid=18597&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgz54sz8)
 1. [Kubernetes ApiServer 并发安全机制](https://weekly.manong.io/bounce?nid=294&aid=18641&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7l7p1ky)
 1. [[译] 浅谈 Kubernetes 中的服务发现](https://weekly.manong.io/bounce?nid=294&aid=18643&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbfv4ppu)
+1. [[译] 十大 Docker 反模式](https://weekly.manong.io/bounce?nid=295&aid=18679&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4gpae3m)

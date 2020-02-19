@@ -174,3 +174,4 @@
 1. [Spring Boot 与微服务从 0 到 1 的实践](https://weekly.manong.io/bounce?nid=294&aid=18651&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frbfhyll)
 1. [不是银弹：关于微服务的一点思考](https://weekly.manong.io/bounce?nid=294&aid=18635&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbtws1rn)
 1. [微服务统一认证与授权的 Go 语言实现（上）](https://weekly.manong.io/bounce?nid=294&aid=18636&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2tc96jt)
+1. [企业级微服务解决方案 v3.2.0 发布](https://weekly.manong.io/bounce?nid=295&aid=18702&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6pkbspo)

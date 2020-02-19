@@ -563,3 +563,5 @@
 1. [不容错过的 Node.js 资源集](https://weekly.manong.io/bounce?nid=293&aid=18604&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkojbx9y)
 1. [过去 10 年最重要的 10 个 JavaScript 框架](https://weekly.manong.io/bounce?nid=294&aid=18662&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxtgv8fh)
 1. [[译] 为何要对生产环境的 Node.js 使用反向代理？](https://weekly.manong.io/bounce?nid=294&aid=18663&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0tuki8f)
+1. [TensorFlow.js 微信小程序插件开始支持模型缓存](https://weekly.manong.io/bounce?nid=295&aid=18710&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjg3rviw)
+1. [JavaScript 异步之路](https://weekly.manong.io/bounce?nid=295&aid=18729&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv9l7vbs)

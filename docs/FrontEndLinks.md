@@ -407,3 +407,6 @@
 1. [高质量前端快照方案：来自页面的 “自拍”](https://weekly.manong.io/bounce?nid=293&aid=18584&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flvtm5kv)
 1. [前端小君](https://weekly.manong.io/bounce?nid=294&aid=18667&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F375566%23294)
 1. [网易严选前端工程化实践](https://weekly.manong.io/bounce?nid=294&aid=18626&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuceaayl)
+1. [web前端开发知识](https://weekly.manong.io/bounce?nid=295&aid=18736&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F7315%23295)
+1. [花椒前端用 WebAssembly 提升前端应用解压缩性能的尝试](https://weekly.manong.io/bounce?nid=295&aid=18687&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft410gtj)
+1. [关于前端学习路线的一些建议](https://weekly.manong.io/bounce?nid=295&aid=18694&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftdahnew)

@@ -893,3 +893,8 @@
 1. [[译] 我们应该怎么样编写 Go 语言库，有哪些标准可以参考？](https://weekly.manong.io/bounce?nid=294&aid=18658&url=https%3A%2F%2Ftoutiao.io%2Fk%2F459r97a)
 1. [微服务统一认证与授权的 Go 语言实现（上）](https://weekly.manong.io/bounce?nid=294&aid=18636&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2tc96jt)
 1. [apollo：开源的 Go 原生社交系统](https://weekly.manong.io/bounce?nid=294&aid=18646&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3ei266u)
+1. [基于 Agora SDK 实现 Android 一对一音视频聊天应用](https://weekly.manong.io/bounce?nid=295&aid=18718&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe77ndki)
+1. [[译] Go 之禅：Dave Cheney 大神告诉你编写简单、可读、可维护 Go 代码的十个工程经验](https://weekly.manong.io/bounce?nid=295&aid=18725&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3z2aorb)
+1. [Golang channel 源码深度剖析](https://weekly.manong.io/bounce?nid=295&aid=18726&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3b8lqdg)
+1. [[译] Go 1.14 将内联 defer 提高性能](https://weekly.manong.io/bounce?nid=295&aid=18727&url=https%3A%2F%2Ftoutiao.io%2Fk%2F120evmh)
+1. [Go 语言编写的一个轻量、高性能的 HTTP Router](https://weekly.manong.io/bounce?nid=295&aid=18701&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh5eo8ok)

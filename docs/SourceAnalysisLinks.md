@@ -219,3 +219,4 @@
 1. [微软 VSCode IDE 源码分析揭秘](https://weekly.manong.io/bounce?nid=291&aid=18439&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4ytjihy)
 1. [从源码说一说 Zookeeper 的 watcher 机制](https://weekly.manong.io/bounce?nid=292&aid=18545&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyyct9lt)
 1. [学习 ZooKeeper 源码，就从这篇开始](https://weekly.manong.io/bounce?nid=292&aid=18546&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0qmifsl)
+1. [Golang channel 源码深度剖析](https://weekly.manong.io/bounce?nid=295&aid=18726&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3b8lqdg)

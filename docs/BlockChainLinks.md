@@ -171,3 +171,4 @@
 1. [区块链实用型技能树](https://weekly.manong.io/bounce?nid=291&aid=18452&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz8bujdr)
 1. [区块链时代的拜占庭将军（下）：区块链共识算法的发展趋势](https://weekly.manong.io/bounce?nid=293&aid=18590&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbfecy3u)
 1. [区块链的应用：安全威胁与解决策略](https://weekly.manong.io/bounce?nid=294&aid=18637&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fszfwel2)
+1. [[译] EOS 的 BM：为什么区块链是更好的应用服务器/数据库架构？](https://weekly.manong.io/bounce?nid=295&aid=18684&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5ynbn24)

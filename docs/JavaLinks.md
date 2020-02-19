@@ -510,3 +510,4 @@
 1. [Java爱好者社区](https://weekly.manong.io/bounce?nid=292&aid=18525&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F327515%23292)
 1. [高级 Java 面试必问的三大 IO 模型，你 get 了吗？](https://weekly.manong.io/bounce?nid=293&aid=18572&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpg2gucx)
 1. [Java 数据持久化系列之池化技术](https://weekly.manong.io/bounce?nid=294&aid=18650&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8hv2ulb)
+1. [Java 无可匹敌的变身装备，钢铁侠客的绝密味道](https://weekly.manong.io/bounce?nid=295&aid=18714&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgbbkjnh)

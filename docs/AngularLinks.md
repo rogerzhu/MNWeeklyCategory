@@ -30,3 +30,4 @@
 1. [Angular 工程之美](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2hi1jm&aid=13214&nid=217)
 1. [给 Java 程序员的 Angular 快速指南](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fok2jxf&aid=13746&nid=225)
 1. [反思录：Angular 实现 svg 和 png 图片下载](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F790l3t&aid=16101&nid=260)
+1. [[译] Angular 9.0 发布！Ivy 正式抵达](https://weekly.manong.io/bounce?nid=295&aid=18731&url=https%3A%2F%2Ftoutiao.io%2Fk%2F855egv8)

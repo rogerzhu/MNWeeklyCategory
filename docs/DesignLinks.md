@@ -579,3 +579,4 @@
 1. [MySQL 的 InnoDB 存储引擎是怎么设计的？](https://weekly.manong.io/bounce?nid=293&aid=18586&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffqy21if)
 1. [DDD 中的战略设计是个啥？](https://weekly.manong.io/bounce?nid=294&aid=18614&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv7ai95p)
 1. [Elasticsearch 索引设计实战指南](https://weekly.manong.io/bounce?nid=294&aid=18627&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq2zay9j)
+1. [[译] 2020 UI/UX 设计趋势](https://weekly.manong.io/bounce?nid=295&aid=18682&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fka20vhp)

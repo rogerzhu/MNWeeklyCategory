@@ -332,3 +332,6 @@
 1. [使用 PyTorch 简单实现图像分割网络 FCN](https://weekly.manong.io/bounce?nid=293&aid=18569&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkrhn65p)
 1. [PyTorch 实现经典分类网络](https://weekly.manong.io/bounce?nid=294&aid=18623&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9qwfjjt)
 1. [awesome-systemtap-cn：采集网络上优秀的 systemtap 学习资源](https://weekly.manong.io/bounce?nid=294&aid=18647&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjqmwprb)
+1. [TCP 为啥要三次握手？](https://weekly.manong.io/bounce?nid=295&aid=18686&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flxdgvxv)
+1. [HTTP 缓存机制详解](https://weekly.manong.io/bounce?nid=295&aid=18693&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvz71lue)
+1. [Go 语言编写的一个轻量、高性能的 HTTP Router](https://weekly.manong.io/bounce?nid=295&aid=18701&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh5eo8ok)

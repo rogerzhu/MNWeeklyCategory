@@ -220,3 +220,5 @@
 1. [看完跳槽少说涨 5k，前端面试从准备到谈薪完全指南](https://weekly.manong.io/bounce?nid=292&aid=18537&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhsm5jns)
 1. [高级 Java 面试必问的三大 IO 模型，你 get 了吗？](https://weekly.manong.io/bounce?nid=293&aid=18572&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpg2gucx)
 1. [萌妹子裸辞留学，零基础自学编程，拿到 Google、微软 Offer](https://weekly.manong.io/bounce?nid=293&aid=18560&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffzfv8cg)
+1. [三分钟玩转堆排序原理及面试题](https://weekly.manong.io/bounce?nid=295&aid=18699&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fr6r4c3e)
+1. [面试时，我们聊什么？](https://weekly.manong.io/bounce?nid=295&aid=18673&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcc9ya09)

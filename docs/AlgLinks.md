@@ -488,3 +488,7 @@
 1. [经典机器学习系列之：决策树详解](https://weekly.manong.io/bounce?nid=294&aid=18621&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6m4imfl)
 1. [推荐算法团队介绍](https://weekly.manong.io/bounce?nid=294&aid=18625&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhtlu867)
 1. [《机器学习算法的数学解析与 Python 实现》](https://weekly.manong.io/bounce?nid=294&aid=18670&url=https%3A%2F%2Fitem.jd.com%2F64187509524.html)
+1. [Loki Stack：乞丐版 EFK](https://weekly.manong.io/bounce?nid=295&aid=18685&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fld8u9zo)
+1. [[译] 图解默克尔树](https://weekly.manong.io/bounce?nid=295&aid=18689&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv7nsa34)
+1. [GraphQL 从入门到实践](https://weekly.manong.io/bounce?nid=295&aid=18690&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm016wg4)
+1. [一文读懂 MD5 算法](https://weekly.manong.io/bounce?nid=295&aid=18700&url=https%3A%2F%2Ftoutiao.io%2Fk%2Foae4s58)
