@@ -85,3 +85,5 @@
 1. [腾讯万亿级 Elasticsearch 技术解密](https://weekly.manong.io/bounce?nid=292&aid=18556&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flzigaqt)
 1. [Elasticsearch 索引设计实战指南](https://weekly.manong.io/bounce?nid=294&aid=18627&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq2zay9j)
 1. [Elastic 认证工程师之路](https://weekly.manong.io/bounce?nid=295&aid=18683&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7k20oet)
+1. [Elastic 认证工程师之路](https://weekly.manong.io/bounce?nid=295&aid=18683&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7k20oet)
+1. [Elastic 认证工程师之路](https://weekly.manong.io/bounce?nid=295&aid=18683&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7k20oet)

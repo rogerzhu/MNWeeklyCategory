@@ -364,3 +364,5 @@
 1. [Go 标准库的一次优化](https://weekly.manong.io/bounce?nid=292&aid=18514&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhq93dr7)
 1. [性能优化 = 改改代码？](https://weekly.manong.io/bounce?nid=292&aid=18538&url=https%3A%2F%2Ftoutiao.io%2Fk%2F65s3lvc)
 1. [再也不用看图片优化指南啦：v-img 介绍](https://weekly.manong.io/bounce?nid=292&aid=18553&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo0jyxu2)
+1. [智能配送系统的运筹优化实战](https://weekly.manong.io/bounce?nid=296&aid=18773&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkgi7ao4)
+1. [Swoole Server 中 master 进程投递数据到 worker 进程的性能优化](https://weekly.manong.io/bounce?nid=296&aid=18786&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg416olo)

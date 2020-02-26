@@ -685,3 +685,4 @@
 1. [iOS 基于静态库插桩的⼆进制重排启动优化](https://weekly.manong.io/bounce?nid=292&aid=18512&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnnmw2x1)
 1. [iOS 面试小记](https://weekly.manong.io/bounce?nid=292&aid=18513&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqc37fp0)
 1. [一次让刷新控件好玩起来的尝试 (iOS)](https://weekly.manong.io/bounce?nid=294&aid=18655&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn3l2eme)
+1. [Emacs 中的游戏与乐趣](https://weekly.manong.io/bounce?nid=296&aid=18747&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz7pvfd2)

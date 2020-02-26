@@ -565,3 +565,7 @@
 1. [[译] 为何要对生产环境的 Node.js 使用反向代理？](https://weekly.manong.io/bounce?nid=294&aid=18663&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0tuki8f)
 1. [TensorFlow.js 微信小程序插件开始支持模型缓存](https://weekly.manong.io/bounce?nid=295&aid=18710&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjg3rviw)
 1. [JavaScript 异步之路](https://weekly.manong.io/bounce?nid=295&aid=18729&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv9l7vbs)
+1. [TensorFlow.js 微信小程序插件开始支持模型缓存](https://weekly.manong.io/bounce?nid=295&aid=18710&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjg3rviw)
+1. [JavaScript 异步之路](https://weekly.manong.io/bounce?nid=295&aid=18729&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv9l7vbs)
+1. [TensorFlow.js 微信小程序插件开始支持模型缓存](https://weekly.manong.io/bounce?nid=295&aid=18710&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjg3rviw)
+1. [JavaScript 异步之路](https://weekly.manong.io/bounce?nid=295&aid=18729&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv9l7vbs)

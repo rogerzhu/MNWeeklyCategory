@@ -54,3 +54,6 @@
 1. [C# 异步编程看这篇就够了](https://weekly.manong.io/bounce?nid=291&aid=18476&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5se2gt7)
 1. [ASP.NET Core 跨平台技术内幕](https://weekly.manong.io/bounce?nid=292&aid=18519&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnwhor8a)
 1. [ASP.NET Core 日志模型](https://weekly.manong.io/bounce?nid=295&aid=18728&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq51p6xo)
+1. [ASP.NET Core 日志模型](https://weekly.manong.io/bounce?nid=295&aid=18728&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq51p6xo)
+1. [ASP.NET Core 日志模型](https://weekly.manong.io/bounce?nid=295&aid=18728&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq51p6xo)
+1. [ASP.NET Core 日志框架：Serilog](https://weekly.manong.io/bounce?nid=296&aid=18791&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fryhq52i)

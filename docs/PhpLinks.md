@@ -359,3 +359,4 @@
 1. [甲小蛙战记：PHP2Java 排雷指南](https://weekly.manong.io/bounce?nid=289&aid=18332&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbq3qmom)
 1. [一文让你知道为什么学了 PHP 的都要转学 Go 语言](https://weekly.manong.io/bounce?nid=291&aid=18472&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5c1nb4k)
 1. [论 PHP 环境加固的知识](https://weekly.manong.io/bounce?nid=294&aid=18656&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzqx3hoi)
+1. [Swoole Server 中 master 进程投递数据到 worker 进程的性能优化](https://weekly.manong.io/bounce?nid=296&aid=18786&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg416olo)

@@ -173,3 +173,6 @@
 1. [Git 常见问题及解决办法](https://weekly.manong.io/bounce?nid=289&aid=18292&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe0q028e)
 1. [[译] 当你敲完 git commit 命令后，究竟发生了什么？](https://weekly.manong.io/bounce?nid=290&aid=18380&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9byxzye)
 1. [[译] Git 工作流程](https://weekly.manong.io/bounce?nid=295&aid=18676&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fksl6mhw)
+1. [[译] Git 工作流程](https://weekly.manong.io/bounce?nid=295&aid=18676&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fksl6mhw)
+1. [[译] Git 工作流程](https://weekly.manong.io/bounce?nid=295&aid=18676&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fksl6mhw)
+1. [[译] Git 高级用法小抄](https://weekly.manong.io/bounce?nid=296&aid=18768&url=https%3A%2F%2Ftoutiao.io%2Fk%2F09gmfrl)

@@ -580,3 +580,8 @@
 1. [DDD 中的战略设计是个啥？](https://weekly.manong.io/bounce?nid=294&aid=18614&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv7ai95p)
 1. [Elasticsearch 索引设计实战指南](https://weekly.manong.io/bounce?nid=294&aid=18627&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq2zay9j)
 1. [[译] 2020 UI/UX 设计趋势](https://weekly.manong.io/bounce?nid=295&aid=18682&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fka20vhp)
+1. [[译] 2020 UI/UX 设计趋势](https://weekly.manong.io/bounce?nid=295&aid=18682&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fka20vhp)
+1. [[译] 2020 UI/UX 设计趋势](https://weekly.manong.io/bounce?nid=295&aid=18682&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fka20vhp)
+1. [智能设计 v3.0](https://weekly.manong.io/bounce?nid=296&aid=18772&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6mzpv34)
+1. [高效神经网络设计（一）](https://weekly.manong.io/bounce?nid=296&aid=18775&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuy7bkzk)
+1. [API 接口设计规范](https://weekly.manong.io/bounce?nid=296&aid=18758&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnriso2y)

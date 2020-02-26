@@ -245,3 +245,5 @@
 1. [智能威胁检测：基于 Spark 的 SOC 机器学习检测平台](https://weekly.manong.io/bounce?nid=292&aid=18504&url=https%3A%2F%2Ftoutiao.io%2Fk%2F239jfr0)
 1. [Flink 中的一把锁](https://weekly.manong.io/bounce?nid=293&aid=18589&url=https%3A%2F%2Ftoutiao.io%2Fk%2Foclb2x3)
 1. [Spark Streaming 数据限流简述](https://weekly.manong.io/bounce?nid=293&aid=18602&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fi3gcnlz)
+1. [大数据生态](https://weekly.manong.io/bounce?nid=296&aid=18796&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F136176%23296)
+1. [[译] Flink 1.10 重磅发布](https://weekly.manong.io/bounce?nid=296&aid=18757&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy8fid98)

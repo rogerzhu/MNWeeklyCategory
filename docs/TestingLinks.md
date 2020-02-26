@@ -230,3 +230,5 @@
 1. [Python 中如何实现参数化测试？](https://weekly.manong.io/bounce?nid=290&aid=18414&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft1lvb50)
 1. [[译] 什么？70 位顶尖测试工程师被 AI 击败](https://weekly.manong.io/bounce?nid=291&aid=18487&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbtewucm)
 1. [花椒 Android 端自动化测试实践](https://weekly.manong.io/bounce?nid=294&aid=18652&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fomaqswr)
+1. [HBase 性能测试之读写 P999 延时压测实践](https://weekly.manong.io/bounce?nid=296&aid=18748&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff33zau7)
+1. [浅谈自动化测试](https://weekly.manong.io/bounce?nid=296&aid=18763&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fziy2z71)

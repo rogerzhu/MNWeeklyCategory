@@ -652,3 +652,8 @@
 1. [读过本文才算真正了解 Cassandra 数据库](https://weekly.manong.io/bounce?nid=294&aid=18633&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffieefhs)
 1. [[译] EOS 的 BM：为什么区块链是更好的应用服务器/数据库架构？](https://weekly.manong.io/bounce?nid=295&aid=18684&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5ynbn24)
 1. [全方位解读 MySQL 日志实现内幕（二）](https://weekly.manong.io/bounce?nid=295&aid=18688&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw59c419)
+1. [[译] EOS 的 BM：为什么区块链是更好的应用服务器/数据库架构？](https://weekly.manong.io/bounce?nid=295&aid=18684&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5ynbn24)
+1. [全方位解读 MySQL 日志实现内幕（二）](https://weekly.manong.io/bounce?nid=295&aid=18688&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw59c419)
+1. [[译] EOS 的 BM：为什么区块链是更好的应用服务器/数据库架构？](https://weekly.manong.io/bounce?nid=295&aid=18684&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5ynbn24)
+1. [全方位解读 MySQL 日志实现内幕（二）](https://weekly.manong.io/bounce?nid=295&aid=18688&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw59c419)
+1. [HBase 性能测试之读写 P999 延时压测实践](https://weekly.manong.io/bounce?nid=296&aid=18748&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff33zau7)

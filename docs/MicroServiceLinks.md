@@ -175,3 +175,6 @@
 1. [不是银弹：关于微服务的一点思考](https://weekly.manong.io/bounce?nid=294&aid=18635&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbtws1rn)
 1. [微服务统一认证与授权的 Go 语言实现（上）](https://weekly.manong.io/bounce?nid=294&aid=18636&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2tc96jt)
 1. [企业级微服务解决方案 v3.2.0 发布](https://weekly.manong.io/bounce?nid=295&aid=18702&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6pkbspo)
+1. [企业级微服务解决方案 v3.2.0 发布](https://weekly.manong.io/bounce?nid=295&aid=18702&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6pkbspo)
+1. [企业级微服务解决方案 v3.2.0 发布](https://weekly.manong.io/bounce?nid=295&aid=18702&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6pkbspo)
+1. [微服务杂谈](https://weekly.manong.io/bounce?nid=296&aid=18752&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fctuh4xl)

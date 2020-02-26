@@ -511,3 +511,8 @@
 1. [高级 Java 面试必问的三大 IO 模型，你 get 了吗？](https://weekly.manong.io/bounce?nid=293&aid=18572&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpg2gucx)
 1. [Java 数据持久化系列之池化技术](https://weekly.manong.io/bounce?nid=294&aid=18650&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8hv2ulb)
 1. [Java 无可匹敌的变身装备，钢铁侠客的绝密味道](https://weekly.manong.io/bounce?nid=295&aid=18714&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgbbkjnh)
+1. [Java 无可匹敌的变身装备，钢铁侠客的绝密味道](https://weekly.manong.io/bounce?nid=295&aid=18714&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgbbkjnh)
+1. [Java 无可匹敌的变身装备，钢铁侠客的绝密味道](https://weekly.manong.io/bounce?nid=295&aid=18714&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgbbkjnh)
+1. [JDK 14 都要出了，JDK 9 的新特性还不了解一下？](https://weekly.manong.io/bounce?nid=296&aid=18778&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkrb4d70)
+1. [《深入理解 Java 虚拟机》第 2 版挖的坑终于在第 3 版中被 R 大填平了](https://weekly.manong.io/bounce?nid=296&aid=18779&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1f6feve)
+1. [记录年前 Java 岗整个历程](https://weekly.manong.io/bounce?nid=296&aid=18769&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcapk6vo)

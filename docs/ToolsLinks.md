@@ -393,3 +393,6 @@
 1. [你必须掌握的 Python 数据分析工具之 Pandas](https://weekly.manong.io/bounce?nid=294&aid=18661&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fufn1fww)
 1. [作为程序员的你，常用的工具软件有哪些？](https://weekly.manong.io/bounce?nid=294&aid=18617&url=https%3A%2F%2Ftoutiao.io%2Fk%2Faq6pm6n)
 1. [强大的 Python 任务自动化工具！invoke 十分钟入门指南](https://weekly.manong.io/bounce?nid=295&aid=18723&url=https%3A%2F%2Ftoutiao.io%2Fk%2F41utdd5)
+1. [强大的 Python 任务自动化工具！invoke 十分钟入门指南](https://weekly.manong.io/bounce?nid=295&aid=18723&url=https%3A%2F%2Ftoutiao.io%2Fk%2F41utdd5)
+1. [强大的 Python 任务自动化工具！invoke 十分钟入门指南](https://weekly.manong.io/bounce?nid=295&aid=18723&url=https%3A%2F%2Ftoutiao.io%2Fk%2F41utdd5)
+1. [重磅 | GitHub 正式开源命令行工具 GitHub CLI](https://weekly.manong.io/bounce?nid=296&aid=18746&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4blz5od)

@@ -127,3 +127,4 @@
 1. [llhttp 是如何使 Node.js 性能翻倍的？](https://weekly.manong.io/bounce?nid=292&aid=18520&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fby0pyiy)
 1. [不容错过的 Node.js 资源集](https://weekly.manong.io/bounce?nid=293&aid=18604&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkojbx9y)
 1. [[译] 为何要对生产环境的 Node.js 使用反向代理？](https://weekly.manong.io/bounce?nid=294&aid=18663&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0tuki8f)
+1. [几则 NodeJS 的安全问题](https://weekly.manong.io/bounce?nid=296&aid=18790&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6pzmc3c)
