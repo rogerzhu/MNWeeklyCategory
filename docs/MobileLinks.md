@@ -58,3 +58,4 @@
 1. [移动端 Web 最佳实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwr1t2l1&aid=17478&nid=277)
 1. [移动端滚动穿透的 6 种解决方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F3-M1wAtw6xYmsPlg768NOQ&aid=17566&nid=278)
 1. [花椒移动端基础框架架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQMhMSJ95Kl0tdE-jb1Jvgw&aid=17731&nid=280)
+1. [理解循环网络及其在移动端的趣味应用：AI 诗人](https://weekly.manong.io/bounce?nid=297&aid=18811&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fc2mxqfw)

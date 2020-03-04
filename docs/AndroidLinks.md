@@ -777,3 +777,5 @@
 1. [Android Webview 后台播放音视频实现](https://weekly.manong.io/bounce?nid=296&aid=18781&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4ses9gd)
 1. [手撕一个让人 “欲罢不能” 的水波纹选中控件 (Android)](https://weekly.manong.io/bounce?nid=296&aid=18782&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqevk0p3)
 1. [深入浅出讲解丝滑般动画特效实现原理 (Android)](https://weekly.manong.io/bounce?nid=296&aid=18783&url=https%3A%2F%2Ftoutiao.io%2Fk%2F33rioc4)
+1. [动态下发 so 库在 Android APK 安装包瘦身方面的应用](https://weekly.manong.io/bounce?nid=297&aid=18850&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvc15z7j)
+1. [Android Studio 3.6 正式版终于发布了](https://weekly.manong.io/bounce?nid=297&aid=18851&url=https%3A%2F%2Ftoutiao.io%2Fk%2F50qorlr)

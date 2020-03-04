@@ -516,3 +516,6 @@
 1. [JDK 14 都要出了，JDK 9 的新特性还不了解一下？](https://weekly.manong.io/bounce?nid=296&aid=18778&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkrb4d70)
 1. [《深入理解 Java 虚拟机》第 2 版挖的坑终于在第 3 版中被 R 大填平了](https://weekly.manong.io/bounce?nid=296&aid=18779&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1f6feve)
 1. [记录年前 Java 岗整个历程](https://weekly.manong.io/bounce?nid=296&aid=18769&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcapk6vo)
+1. [最通俗易懂的 Java 10 新特性讲解](https://weekly.manong.io/bounce?nid=297&aid=18847&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqoazqq2)
+1. [面试官：你说你熟悉 JVM ？那你讲一下并发的可达性分析](https://weekly.manong.io/bounce?nid=297&aid=18848&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvtxz1rd)
+1. [为什么给 Java 代码加个空行，class 文件就翻脸不认人了？](https://weekly.manong.io/bounce?nid=297&aid=18849&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy0eaurx)

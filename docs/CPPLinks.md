@@ -124,3 +124,4 @@
 1. [C++ 日期和时间编程](https://weekly.manong.io/bounce?nid=294&aid=18648&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgs177f0)
 1. [C++11 中的内存模型（上）：内存模型基础](https://weekly.manong.io/bounce?nid=294&aid=18649&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvxw8bjl)
 1. [[译] C++20 完成了](https://weekly.manong.io/bounce?nid=296&aid=18777&url=https%3A%2F%2Ftoutiao.io%2Fk%2F61rlc4x)
+1. [[译] C++20：四巨头](https://weekly.manong.io/bounce?nid=297&aid=18846&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwcqevyz)

@@ -36,3 +36,4 @@
 1. [Rust 入坑指南：千人千构](https://weekly.manong.io/bounce?nid=284&aid=18017&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fj8B9HnHbYf1cjiUtD-HcKQ)
 1. [Rust mio 库源码情景分析](https://weekly.manong.io/bounce?nid=285&aid=18070&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdfcmyrp)
 1. [深入浅出 Rust 异步编程之 Tokio](https://weekly.manong.io/bounce?nid=296&aid=18792&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fysdntxj)
+1. [[译] 教你用 16 个小时从 0 构建一个 Rust 应用](https://weekly.manong.io/bounce?nid=297&aid=18861&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9rh0r01)

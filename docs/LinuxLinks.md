@@ -157,3 +157,5 @@
 1. [学习 Linux 命令，看这篇 2w 多字的命令详解就够了](https://weekly.manong.io/bounce?nid=292&aid=18549&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq8x4vcp)
 1. [Linux 后台服务启动方式 systemd、daemon、nohup 大比拼](https://weekly.manong.io/bounce?nid=293&aid=18587&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhn761x0)
 1. [应急响应笔记之 Linux 篇](https://weekly.manong.io/bounce?nid=294&aid=18642&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5nbz4d9)
+1. [一个故事看懂 Linux 文件权限管理](https://weekly.manong.io/bounce?nid=297&aid=18835&url=https%3A%2F%2Ftoutiao.io%2Fk%2F788kl2y)
+1. [谈一谈 Linux 与 suid 提权](https://weekly.manong.io/bounce?nid=297&aid=18844&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fiaaivbm)

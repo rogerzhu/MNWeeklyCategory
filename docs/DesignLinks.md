@@ -585,3 +585,6 @@
 1. [智能设计 v3.0](https://weekly.manong.io/bounce?nid=296&aid=18772&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6mzpv34)
 1. [高效神经网络设计（一）](https://weekly.manong.io/bounce?nid=296&aid=18775&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuy7bkzk)
 1. [API 接口设计规范](https://weekly.manong.io/bounce?nid=296&aid=18758&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnriso2y)
+1. [领域驱动设计 (DDD) 实践之路](https://weekly.manong.io/bounce?nid=297&aid=18803&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5gxk4ss)
+1. [GraphQL + Space Cloud 简化你的 API 设计](https://weekly.manong.io/bounce?nid=297&aid=18836&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxmbmu23)
+1. [Git 分支设计规范](https://weekly.manong.io/bounce?nid=297&aid=18837&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fplu0ohe)

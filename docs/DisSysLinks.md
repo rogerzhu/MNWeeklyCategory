@@ -350,3 +350,5 @@
 1. [Etcd Raft 库解析](https://weekly.manong.io/bounce?nid=295&aid=18696&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7877cyn)
 1. [Etcd Raft 库解析](https://weekly.manong.io/bounce?nid=295&aid=18696&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7877cyn)
 1. [Etcd Raft 库解析](https://weekly.manong.io/bounce?nid=295&aid=18696&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7877cyn)
+1. [分布式 ID 生成方案](https://weekly.manong.io/bounce?nid=297&aid=18816&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fypxzkfo)
+1. [2019 我的技术之路：分布式系统到分布式制造](https://weekly.manong.io/bounce?nid=297&aid=18817&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4n3knao)

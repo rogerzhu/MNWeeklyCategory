@@ -228,3 +228,5 @@
 1. [面试时，我们聊什么？](https://weekly.manong.io/bounce?nid=295&aid=18673&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcc9ya09)
 1. [面试官：“看你简历上写熟悉 Handler 机制，那聊聊 IdleHandler 吧？”](https://weekly.manong.io/bounce?nid=296&aid=18780&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo8r3uq8)
 1. [今年困难模式，你跳槽还只是靠大量投简历吗？](https://weekly.manong.io/bounce?nid=296&aid=18739&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fax027la)
+1. [面试官：你说你熟悉 JVM ？那你讲一下并发的可达性分析](https://weekly.manong.io/bounce?nid=297&aid=18848&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvtxz1rd)
+1. [Redis 面试全攻略](https://weekly.manong.io/bounce?nid=297&aid=18815&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpidhjfk)

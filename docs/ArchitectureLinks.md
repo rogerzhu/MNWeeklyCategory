@@ -631,3 +631,5 @@
 1. [中台辨析：架构的演进趋势](https://weekly.manong.io/bounce?nid=295&aid=18711&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fywww217)
 1. [[译] EOS 的 BM：为什么区块链是更好的应用服务器/数据库架构？](https://weekly.manong.io/bounce?nid=295&aid=18684&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5ynbn24)
 1. [OPPO 自研数据采集系统 ESA DataFlow 架构与实践](https://weekly.manong.io/bounce?nid=296&aid=18743&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvg0zugk)
+1. [Data Lake 架构揭秘](https://weekly.manong.io/bounce?nid=297&aid=18804&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg0xaal7)
+1. [爱奇艺号微前端架构实践](https://weekly.manong.io/bounce?nid=297&aid=18805&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnwog8cj)

@@ -1275,3 +1275,7 @@
 1. [智能配送系统的运筹优化实战](https://weekly.manong.io/bounce?nid=296&aid=18773&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkgi7ao4)
 1. [Kerrigan：配置中心管理 UI 的实现思路和技术细节](https://weekly.manong.io/bounce?nid=296&aid=18764&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fskzdzx7)
 1. [贝叶斯公式的通俗讲解](https://weekly.manong.io/bounce?nid=296&aid=18765&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8xsccwa)
+1. [基于 SOC 机器学习检测平台的时间序列建模：可疑登录检测](https://weekly.manong.io/bounce?nid=297&aid=18806&url=https%3A%2F%2Ftoutiao.io%2Fk%2F88vv3ne)
+1. [[译] LSTM 之父发文：2010-2020，我眼中的深度学习十年简史](https://weekly.manong.io/bounce?nid=297&aid=18807&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg3t4eci)
+1. [理解循环网络及其在移动端的趣味应用：AI 诗人](https://weekly.manong.io/bounce?nid=297&aid=18811&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fc2mxqfw)
+1. [《大数据智能：数据驱动的自然语言处理技术》](https://weekly.manong.io/bounce?nid=297&aid=18867&url=https%3A%2F%2Fitem.jd.com%2F12603411.html)

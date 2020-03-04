@@ -501,3 +501,5 @@
 1. [GraphQL 从入门到实践](https://weekly.manong.io/bounce?nid=295&aid=18690&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm016wg4)
 1. [一文读懂 MD5 算法](https://weekly.manong.io/bounce?nid=295&aid=18700&url=https%3A%2F%2Ftoutiao.io%2Fk%2Foae4s58)
 1. [图解算法：动态规划系列](https://weekly.manong.io/bounce?nid=296&aid=18756&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8skkd36)
+1. [GraphQL + Space Cloud 简化你的 API 设计](https://weekly.manong.io/bounce?nid=297&aid=18836&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxmbmu23)
+1. [k8s 调度器核心数据结构与算法分析（一）](https://weekly.manong.io/bounce?nid=297&aid=18838&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fffi41yc)

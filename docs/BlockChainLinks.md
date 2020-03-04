@@ -174,3 +174,4 @@
 1. [[译] EOS 的 BM：为什么区块链是更好的应用服务器/数据库架构？](https://weekly.manong.io/bounce?nid=295&aid=18684&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5ynbn24)
 1. [[译] EOS 的 BM：为什么区块链是更好的应用服务器/数据库架构？](https://weekly.manong.io/bounce?nid=295&aid=18684&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5ynbn24)
 1. [[译] EOS 的 BM：为什么区块链是更好的应用服务器/数据库架构？](https://weekly.manong.io/bounce?nid=295&aid=18684&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5ynbn24)
+1. [[译] Go 实现区块链（七）：网络](https://weekly.manong.io/bounce?nid=297&aid=18859&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqzhe9fz)

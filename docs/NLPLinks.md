@@ -57,3 +57,5 @@
 1. [微软小冰首席科学家武威解读 EMNLP 论文：聊天机器人的深度学习模型](https://weekly.manong.io/bounce?nid=283&aid=17899&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFSVYt-rauuCcqm9y7eTDfg)
 1. [最强中文 NLP 预训练模型艾尼 ERNIE 官方揭秘](https://weekly.manong.io/bounce?nid=285&aid=18078&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMfSkL02URUD2gFZZ_lnFow)
 1. [NLP 实战之基于 TFIDF 的文本相似度计算](https://weekly.manong.io/bounce?nid=289&aid=18329&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsuot9ho)
+1. [元学习与自然语言处理](https://weekly.manong.io/bounce?nid=297&aid=18809&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffv4mjpp)
+1. [《大数据智能：数据驱动的自然语言处理技术》](https://weekly.manong.io/bounce?nid=297&aid=18867&url=https%3A%2F%2Fitem.jd.com%2F12603411.html)

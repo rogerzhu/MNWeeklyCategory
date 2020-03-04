@@ -621,3 +621,5 @@
 1. [[译] Python 3.8 官方 Logging 文档：高级部分](https://weekly.manong.io/bounce?nid=295&aid=18722&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1642hh9)
 1. [强大的 Python 任务自动化工具！invoke 十分钟入门指南](https://weekly.manong.io/bounce?nid=295&aid=18723&url=https%3A%2F%2Ftoutiao.io%2Fk%2F41utdd5)
 1. [Python 3 爬虫：状态码 521 网页的爬取](https://weekly.manong.io/bounce?nid=295&aid=18724&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvwb2zuo)
+1. [如何用 Python 在京东上抢口罩](https://weekly.manong.io/bounce?nid=297&aid=18856&url=https%3A%2F%2Ftoutiao.io%2Fk%2F25mo830)
+1. [[译] ​5 个原因告诉你，为什么说 Julia 比 Python 要好？](https://weekly.manong.io/bounce?nid=297&aid=18857&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8vbpk4c)

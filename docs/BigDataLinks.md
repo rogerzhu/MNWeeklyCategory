@@ -247,3 +247,6 @@
 1. [Spark Streaming 数据限流简述](https://weekly.manong.io/bounce?nid=293&aid=18602&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fi3gcnlz)
 1. [大数据生态](https://weekly.manong.io/bounce?nid=296&aid=18796&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F136176%23296)
 1. [[译] Flink 1.10 重磅发布](https://weekly.manong.io/bounce?nid=296&aid=18757&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy8fid98)
+1. [首次公开！廖雪峰的大数据开发精品视频 + Xmind 学习路径图](https://weekly.manong.io/bounce?nid=297&aid=18802&url=https%3A%2F%2Fdatayi.cn%2Fw%2FnoqwDDVR)
+1. [首次公开！廖雪峰的大数据开发精品视频 + Xmind 学习路径图](https://weekly.manong.io/bounce?nid=297&aid=18802&url=https%3A%2F%2Fdatayi.cn%2Fw%2FnoqwDDVR)
+1. [《大数据智能：数据驱动的自然语言处理技术》](https://weekly.manong.io/bounce?nid=297&aid=18867&url=https%3A%2F%2Fitem.jd.com%2F12603411.html)

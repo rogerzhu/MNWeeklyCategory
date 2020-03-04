@@ -575,3 +575,4 @@
 1. [推荐一个很棒的开源工作流 elsa-core](https://weekly.manong.io/bounce?nid=295&aid=18704&url=https%3A%2F%2Ftoutiao.io%2Fk%2F01dmuzc)
 1. [重磅 | GitHub 正式开源命令行工具 GitHub CLI](https://weekly.manong.io/bounce?nid=296&aid=18746&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4blz5od)
 1. [2020 前端开源领域技术展望](https://weekly.manong.io/bounce?nid=296&aid=18755&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fc4ndpga)
+1. [通过开源项目获取 GoLand 免费开源授权](https://weekly.manong.io/bounce?nid=297&aid=18840&url=https%3A%2F%2Ftoutiao.io%2Fk%2F28rl7bh)
