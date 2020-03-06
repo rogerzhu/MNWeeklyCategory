@@ -282,7 +282,7 @@
         },
         {
             "keywords":"HTML",
-            "filters":["html"],
+            "filters":["html","H5"],
             "rejecters":[],
             "fileName":"HtmlLinks.md",
             "categoryL1":"前端"
@@ -366,7 +366,7 @@
         },
         {
             "keywords":"大数据",
-            "filters":["大数据","big data","spark","hadoop","flink"],
+            "filters":["大数据","big data","spark","hadoop","flink","数据分析"],
             "rejecters":[],
             "fileName":"BigDataLinks.md",
             "categoryL1":"应用"
@@ -538,6 +538,13 @@
             "rejecters":[],
             "fileName":"AutoTestLinks.md",
             "categoryL1":"测试"
+        },
+        {
+            "keywords":"运维",
+            "filters":["运维"],
+            "rejecters":[],
+            "fileName":"MaintainLinks.md",
+            "categoryL1":"运维"
         }
     ]
 }
