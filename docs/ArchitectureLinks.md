@@ -633,3 +633,5 @@
 1. [OPPO 自研数据采集系统 ESA DataFlow 架构与实践](https://weekly.manong.io/bounce?nid=296&aid=18743&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvg0zugk)
 1. [Data Lake 架构揭秘](https://weekly.manong.io/bounce?nid=297&aid=18804&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg0xaal7)
 1. [爱奇艺号微前端架构实践](https://weekly.manong.io/bounce?nid=297&aid=18805&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnwog8cj)
+1. [携程 Hadoop 跨机房架构实践](https://weekly.manong.io/bounce?nid=298&aid=18873&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgnj80et)
+1. [面向开发者的工程化 CLI 中台：分层插件架构](https://weekly.manong.io/bounce?nid=298&aid=18874&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpus99xj)

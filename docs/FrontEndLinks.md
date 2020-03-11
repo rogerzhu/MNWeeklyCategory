@@ -421,3 +421,4 @@
 1. [2020 前端开源领域技术展望](https://weekly.manong.io/bounce?nid=296&aid=18755&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fc4ndpga)
 1. [爱奇艺号微前端架构实践](https://weekly.manong.io/bounce?nid=297&aid=18805&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnwog8cj)
 1. [前端缓存](https://weekly.manong.io/bounce?nid=297&aid=18823&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fc0uh46g)
+1. [微前端在美团外卖的实践](https://weekly.manong.io/bounce?nid=298&aid=18902&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fc47hswf)

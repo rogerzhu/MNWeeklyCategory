@@ -90,3 +90,4 @@
 1. [程序员开发效率神器汇总](https://weekly.manong.io/bounce?nid=288&aid=18252&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWjaHJHE7ZPbgo7QwIDwZzQ)
 1. [还在用 Win？教你从零把 Mac 打造成开发利器](https://weekly.manong.io/bounce?nid=289&aid=18291&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fr5rhx80)
 1. [Firefox Web Replay：前端开发者的未来利器](https://weekly.manong.io/bounce?nid=289&aid=18308&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsg37sd4)
+1. [10 款 VS Code 插件神器](https://weekly.manong.io/bounce?nid=298&aid=18876&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fibodub2)

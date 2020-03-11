@@ -588,3 +588,5 @@
 1. [领域驱动设计 (DDD) 实践之路](https://weekly.manong.io/bounce?nid=297&aid=18803&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5gxk4ss)
 1. [GraphQL + Space Cloud 简化你的 API 设计](https://weekly.manong.io/bounce?nid=297&aid=18836&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxmbmu23)
 1. [Git 分支设计规范](https://weekly.manong.io/bounce?nid=297&aid=18837&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fplu0ohe)
+1. [如何设计一个高可用、高并发秒杀系统](https://weekly.manong.io/bounce?nid=298&aid=18872&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffljrk2w)
+1. [Go 之读懂 interface 的底层设计](https://weekly.manong.io/bounce?nid=298&aid=18912&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmkty8vx)

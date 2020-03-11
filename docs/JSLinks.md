@@ -570,3 +570,6 @@
 1. [TensorFlow.js 微信小程序插件开始支持模型缓存](https://weekly.manong.io/bounce?nid=295&aid=18710&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjg3rviw)
 1. [JavaScript 异步之路](https://weekly.manong.io/bounce?nid=295&aid=18729&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv9l7vbs)
 1. [吊打 JavaScript 之从原型到原型链](https://weekly.manong.io/bounce?nid=297&aid=18860&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm94uo50)
+1. [在 JavaScript 中交换变量的 4 种方法](https://weekly.manong.io/bounce?nid=298&aid=18915&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1wrs3yo)
+1. [[译] 5 分钟搭建 Node.js 微服务原型](https://weekly.manong.io/bounce?nid=298&aid=18916&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxiqy4d6)
+1. [《狼书（卷2）：Node.js Web 应用开发》](https://weekly.manong.io/bounce?nid=298&aid=18924&url=https%3A%2F%2Fitem.jd.com%2F12614927.html)

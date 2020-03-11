@@ -1774,3 +1774,8 @@
 1. [[译] Go 语言之禅](https://weekly.manong.io/bounce?nid=297&aid=18858&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgfw5529)
 1. [[译] Go 实现区块链（七）：网络](https://weekly.manong.io/bounce?nid=297&aid=18859&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqzhe9fz)
 1. [[译] 教你用 16 个小时从 0 构建一个 Rust 应用](https://weekly.manong.io/bounce?nid=297&aid=18861&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9rh0r01)
+1. [[译] 2020 Java 技术趋势](https://weekly.manong.io/bounce?nid=298&aid=18907&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fakaiei2)
+1. [[译] PHP 框架 CodeIgniter 4 正式版发布了](https://weekly.manong.io/bounce?nid=298&aid=18910&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwjup2gi)
+1. [[译] 5 分钟搭建 Node.js 微服务原型](https://weekly.manong.io/bounce?nid=298&aid=18916&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxiqy4d6)
+1. [[译] 云原生时代，是否还需要 VPC 做应用安全？](https://weekly.manong.io/bounce?nid=298&aid=18898&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp2j0rbp)
+1. [[译] ​程序员如何挣外快？](https://weekly.manong.io/bounce?nid=298&aid=18870&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4aejh5o)

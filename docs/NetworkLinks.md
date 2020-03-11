@@ -350,3 +350,4 @@
 1. [Golang：你真的了解 HTTPS 吗？](https://weekly.manong.io/bounce?nid=297&aid=18826&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzqnhno3)
 1. [五分钟自学编程：怎么学计算机网络](https://weekly.manong.io/bounce?nid=297&aid=18843&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs4fpa0o)
 1. [一个给程序员用的自定义网络数据监控 Chrome 扩展](https://weekly.manong.io/bounce?nid=297&aid=18845&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvooeplf)
+1. [TCP 协议可靠性是如何保证：滑动窗口，超时重发，序列号确认应答信号](https://weekly.manong.io/bounce?nid=298&aid=18900&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fun6dvkk)

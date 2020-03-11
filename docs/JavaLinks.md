@@ -519,3 +519,5 @@
 1. [最通俗易懂的 Java 10 新特性讲解](https://weekly.manong.io/bounce?nid=297&aid=18847&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqoazqq2)
 1. [面试官：你说你熟悉 JVM ？那你讲一下并发的可达性分析](https://weekly.manong.io/bounce?nid=297&aid=18848&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvtxz1rd)
 1. [为什么给 Java 代码加个空行，class 文件就翻脸不认人了？](https://weekly.manong.io/bounce?nid=297&aid=18849&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy0eaurx)
+1. [Java 缓存规范中文版](https://weekly.manong.io/bounce?nid=298&aid=18906&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk0giadq)
+1. [[译] 2020 Java 技术趋势](https://weekly.manong.io/bounce?nid=298&aid=18907&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fakaiei2)

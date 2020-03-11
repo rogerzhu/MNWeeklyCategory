@@ -122,3 +122,4 @@
 1. [解决百度爬虫无法爬取 GitHub Pages 个人博客的问题](https://weekly.manong.io/bounce?nid=293&aid=18593&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4yimh2w)
 1. [重磅 | GitHub 正式开源命令行工具 GitHub CLI](https://weekly.manong.io/bounce?nid=296&aid=18746&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4blz5od)
 1. [爱了爱了，这个 GitHub 的 Chrome 神仙插件把我整的服服帖帖的](https://weekly.manong.io/bounce?nid=297&aid=18814&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnuphd6o)
+1. [GitHub 火热的 FastAPI 库，站在了这些知名库的肩膀上](https://weekly.manong.io/bounce?nid=298&aid=18903&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvjrpogx)

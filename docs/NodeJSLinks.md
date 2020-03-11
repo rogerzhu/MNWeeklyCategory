@@ -128,3 +128,5 @@
 1. [不容错过的 Node.js 资源集](https://weekly.manong.io/bounce?nid=293&aid=18604&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkojbx9y)
 1. [[译] 为何要对生产环境的 Node.js 使用反向代理？](https://weekly.manong.io/bounce?nid=294&aid=18663&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0tuki8f)
 1. [几则 NodeJS 的安全问题](https://weekly.manong.io/bounce?nid=296&aid=18790&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6pzmc3c)
+1. [[译] 5 分钟搭建 Node.js 微服务原型](https://weekly.manong.io/bounce?nid=298&aid=18916&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxiqy4d6)
+1. [《狼书（卷2）：Node.js Web 应用开发》](https://weekly.manong.io/bounce?nid=298&aid=18924&url=https%3A%2F%2Fitem.jd.com%2F12614927.html)

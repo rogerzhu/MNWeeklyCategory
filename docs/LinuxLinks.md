@@ -159,3 +159,4 @@
 1. [应急响应笔记之 Linux 篇](https://weekly.manong.io/bounce?nid=294&aid=18642&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5nbz4d9)
 1. [一个故事看懂 Linux 文件权限管理](https://weekly.manong.io/bounce?nid=297&aid=18835&url=https%3A%2F%2Ftoutiao.io%2Fk%2F788kl2y)
 1. [谈一谈 Linux 与 suid 提权](https://weekly.manong.io/bounce?nid=297&aid=18844&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fiaaivbm)
+1. [一文彻底搞懂 Linux Cgroup 如何限制容器资源](https://weekly.manong.io/bounce?nid=298&aid=18890&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjao4yx6)

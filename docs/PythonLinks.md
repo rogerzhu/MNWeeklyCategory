@@ -623,3 +623,4 @@
 1. [Python 3 爬虫：状态码 521 网页的爬取](https://weekly.manong.io/bounce?nid=295&aid=18724&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvwb2zuo)
 1. [如何用 Python 在京东上抢口罩](https://weekly.manong.io/bounce?nid=297&aid=18856&url=https%3A%2F%2Ftoutiao.io%2Fk%2F25mo830)
 1. [[译] ​5 个原因告诉你，为什么说 Julia 比 Python 要好？](https://weekly.manong.io/bounce?nid=297&aid=18857&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8vbpk4c)
+1. [如何快速全面掌握 Kafka？5000 字吐血整理](https://weekly.manong.io/bounce?nid=298&aid=18881&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftu4hjet)

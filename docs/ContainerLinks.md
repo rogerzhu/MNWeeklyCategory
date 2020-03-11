@@ -446,3 +446,5 @@
 1. [Docker 的镜像基本原理和概念](https://weekly.manong.io/bounce?nid=297&aid=18834&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fabqv82p)
 1. [k8s 调度器核心数据结构与算法分析（一）](https://weekly.manong.io/bounce?nid=297&aid=18838&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fffi41yc)
 1. [从 Kubernetes 资源控制到开放应用模型，控制器的进化之旅](https://weekly.manong.io/bounce?nid=297&aid=18841&url=https%3A%2F%2Ftoutiao.io%2Fk%2Foaca40l)
+1. [如何快速全面掌握 Kafka？5000 字吐血整理](https://weekly.manong.io/bounce?nid=298&aid=18881&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftu4hjet)
+1. [一文彻底搞懂 Linux Cgroup 如何限制容器资源](https://weekly.manong.io/bounce?nid=298&aid=18890&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjao4yx6)

@@ -41,3 +41,4 @@
 1. [细说 API：重新认识 RESTful](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaUdndmJ9evYOMIxTwVdSrg&aid=15274&nid=248)
 1. [我对 RESTful API、GraphQL、RPC API 的思考](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkcyu4w&aid=16264&nid=262)
 1. [前端要知道的 RESTful API 架构风格](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FomCNbnMXQSXNsaDUZRfMJQ&aid=17135&nid=272)
+1. [AWS Lambda + API Gateway 搭建 Restful API 折腾记录](https://weekly.manong.io/bounce?nid=298&aid=18891&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyn5bf6x)

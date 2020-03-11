@@ -232,3 +232,4 @@
 1. [花椒 Android 端自动化测试实践](https://weekly.manong.io/bounce?nid=294&aid=18652&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fomaqswr)
 1. [HBase 性能测试之读写 P999 延时压测实践](https://weekly.manong.io/bounce?nid=296&aid=18748&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff33zau7)
 1. [浅谈自动化测试](https://weekly.manong.io/bounce?nid=296&aid=18763&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fziy2z71)
+1. [搭建国密 SSL 开发测试环境](https://weekly.manong.io/bounce?nid=298&aid=18882&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftftrn3v)

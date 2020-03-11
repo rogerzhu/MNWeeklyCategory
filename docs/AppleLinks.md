@@ -686,3 +686,5 @@
 1. [iOS 面试小记](https://weekly.manong.io/bounce?nid=292&aid=18513&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqc37fp0)
 1. [一次让刷新控件好玩起来的尝试 (iOS)](https://weekly.manong.io/bounce?nid=294&aid=18655&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn3l2eme)
 1. [Emacs 中的游戏与乐趣](https://weekly.manong.io/bounce?nid=296&aid=18747&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz7pvfd2)
+1. [阿里、字节：一套高效的 iOS 面试题 ](https://weekly.manong.io/bounce?nid=298&aid=18909&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0xqe4el)
+1. [Mac 软件推荐](https://weekly.manong.io/bounce?nid=298&aid=18875&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fa21mnqr)

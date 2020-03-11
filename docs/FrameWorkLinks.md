@@ -437,3 +437,4 @@
 1. [深度强化学习中实验环境：开源平台框架汇总](https://weekly.manong.io/bounce?nid=295&aid=18708&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu6i70og)
 1. [深度强化学习中实验环境：开源平台框架汇总](https://weekly.manong.io/bounce?nid=295&aid=18708&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu6i70og)
 1. [ASP.NET Core 日志框架：Serilog](https://weekly.manong.io/bounce?nid=296&aid=18791&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fryhq52i)
+1. [[译] PHP 框架 CodeIgniter 4 正式版发布了](https://weekly.manong.io/bounce?nid=298&aid=18910&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwjup2gi)
