@@ -231,3 +231,7 @@
 1. [面试官：你说你熟悉 JVM ？那你讲一下并发的可达性分析](https://weekly.manong.io/bounce?nid=297&aid=18848&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvtxz1rd)
 1. [Redis 面试全攻略](https://weekly.manong.io/bounce?nid=297&aid=18815&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpidhjfk)
 1. [阿里、字节：一套高效的 iOS 面试题 ](https://weekly.manong.io/bounce?nid=298&aid=18909&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0xqe4el)
+1. [32 个 Java 面试必考点](https://weekly.manong.io/bounce?nid=299&aid=18959&url=https%3A%2F%2Ft.lagou.com%2F3R46RnRyRU7C4)
+1. [12 步通关求职面试](https://weekly.manong.io/bounce?nid=299&aid=18928&url=https%3A%2F%2Ft.lagou.com%2F3R82RmR8RUE88)
+1. [毕业 2020：令人心碎的 offer](https://weekly.manong.io/bounce?nid=299&aid=18929&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flm0zqul)
+1. [简历要怎么写](https://weekly.manong.io/bounce?nid=299&aid=18930&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw1ii3bo)

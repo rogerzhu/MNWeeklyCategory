@@ -131,3 +131,4 @@
 1. [Flutter 异步编程：Futures](https://weekly.manong.io/bounce?nid=296&aid=18785&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjoky4ec)
 1. [flutter_xupdate：一键实现 Flutter 应用版本更新](https://weekly.manong.io/bounce?nid=296&aid=18770&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe7cbtme)
 1. [打破重重阻碍，Flutter 和 Web 生态如何对接？](https://weekly.manong.io/bounce?nid=297&aid=18854&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fstz4z8v)
+1. [Flutter 混合开发探索与实践](https://weekly.manong.io/bounce?nid=299&aid=18964&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fi39do1i)

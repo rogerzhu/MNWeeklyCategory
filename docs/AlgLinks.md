@@ -505,3 +505,5 @@
 1. [k8s 调度器核心数据结构与算法分析（一）](https://weekly.manong.io/bounce?nid=297&aid=18838&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fffi41yc)
 1. [算法工程师的数学基础：线性代数中的矩阵](https://weekly.manong.io/bounce?nid=298&aid=18892&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw6czktm)
 1. [从本质上搞懂困惑你多年的 KMP 匹配算法](https://weekly.manong.io/bounce?nid=298&aid=18896&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm7hi6j4)
+1. [初识国密算法](https://weekly.manong.io/bounce?nid=299&aid=18952&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwkfkyl7)
+1. [算法工程师的数学基础：线性代数中的向量和向量空间](https://weekly.manong.io/bounce?nid=299&aid=18954&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft052gh0)

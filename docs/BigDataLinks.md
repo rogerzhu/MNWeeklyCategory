@@ -318,3 +318,5 @@
 1. [首次公开！廖雪峰的大数据开发精品视频 + Xmind 学习路径图](https://weekly.manong.io/bounce?nid=297&aid=18802&url=https%3A%2F%2Fdatayi.cn%2Fw%2FnoqwDDVR)
 1. [《大数据智能：数据驱动的自然语言处理技术》](https://weekly.manong.io/bounce?nid=297&aid=18867&url=https%3A%2F%2Fitem.jd.com%2F12603411.html)
 1. [携程 Hadoop 跨机房架构实践](https://weekly.manong.io/bounce?nid=298&aid=18873&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgnj80et)
+1. [OPPO 基于 Apache Flink 的实时数仓实践](https://weekly.manong.io/bounce?nid=299&aid=18927&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft5wx0z5)
+1. [Spark 3.0 终于支持 event logs 滚动了](https://weekly.manong.io/bounce?nid=299&aid=18945&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxx7yl9h)

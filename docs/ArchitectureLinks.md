@@ -635,3 +635,5 @@
 1. [爱奇艺号微前端架构实践](https://weekly.manong.io/bounce?nid=297&aid=18805&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnwog8cj)
 1. [携程 Hadoop 跨机房架构实践](https://weekly.manong.io/bounce?nid=298&aid=18873&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgnj80et)
 1. [面向开发者的工程化 CLI 中台：分层插件架构](https://weekly.manong.io/bounce?nid=298&aid=18874&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpus99xj)
+1. [架构师的 36 项修炼](https://weekly.manong.io/bounce?nid=299&aid=18925&url=https%3A%2F%2Ft.lagou.com%2F3REERZR8RU435)
+1. [零信任架构远程办公实战](https://weekly.manong.io/bounce?nid=299&aid=18926&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhqv7u2i)

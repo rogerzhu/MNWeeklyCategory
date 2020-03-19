@@ -88,3 +88,4 @@
 1. [Elastic 认证工程师之路](https://weekly.manong.io/bounce?nid=295&aid=18683&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7k20oet)
 1. [Elastic 认证工程师之路](https://weekly.manong.io/bounce?nid=295&aid=18683&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7k20oet)
 1. [你用过 Elasticsearch Percolate 反向检索吗？](https://weekly.manong.io/bounce?nid=298&aid=18901&url=https%3A%2F%2Ftoutiao.io%2Fk%2F69rmiux)
+1. [Elasticsearch 平滑下线节点实践指南](https://weekly.manong.io/bounce?nid=299&aid=18949&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0t27pgz)

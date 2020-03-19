@@ -921,3 +921,6 @@
 1. [Go 语言内存分配的实现原理](https://weekly.manong.io/bounce?nid=298&aid=18913&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqs6dtku)
 1. [Go 1.14 实现高性能内存分配器](https://weekly.manong.io/bounce?nid=298&aid=18914&url=https%3A%2F%2Ftoutiao.io%2Fk%2Finltn1q)
 1. [GoHackers](https://weekly.manong.io/bounce?nid=298&aid=18923&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F1385%23297)
+1. [深入学习 Go 语言的高性能 HTTP 服务器](https://weekly.manong.io/bounce?nid=299&aid=18966&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fegghxx8)
+1. [一文掌握 Go 语言 Select 的四大用法](https://weekly.manong.io/bounce?nid=299&aid=18967&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyxad22p)
+1. [Go Base64 验证码管理器](https://weekly.manong.io/bounce?nid=299&aid=18958&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fksvkx6c)

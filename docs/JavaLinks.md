@@ -521,3 +521,5 @@
 1. [为什么给 Java 代码加个空行，class 文件就翻脸不认人了？](https://weekly.manong.io/bounce?nid=297&aid=18849&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy0eaurx)
 1. [Java 缓存规范中文版](https://weekly.manong.io/bounce?nid=298&aid=18906&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk0giadq)
 1. [[译] 2020 Java 技术趋势](https://weekly.manong.io/bounce?nid=298&aid=18907&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fakaiei2)
+1. [32 个 Java 面试必考点](https://weekly.manong.io/bounce?nid=299&aid=18959&url=https%3A%2F%2Ft.lagou.com%2F3R46RnRyRU7C4)
+1. [Java 8 Optional 最佳指南](https://weekly.manong.io/bounce?nid=299&aid=18960&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fueqg1mg)

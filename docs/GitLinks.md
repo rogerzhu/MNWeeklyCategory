@@ -178,3 +178,4 @@
 1. [[译] Git 高级用法小抄](https://weekly.manong.io/bounce?nid=296&aid=18768&url=https%3A%2F%2Ftoutiao.io%2Fk%2F09gmfrl)
 1. [Git 分支设计规范](https://weekly.manong.io/bounce?nid=297&aid=18837&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fplu0ohe)
 1. [签名你的每个 Git Commit](https://weekly.manong.io/bounce?nid=298&aid=18897&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1l19n4d)
+1. [阿捷外传之 Git 代码统计：DotNetCore + PowerBI 实现 Git 仓库日志分析](https://weekly.manong.io/bounce?nid=299&aid=18944&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fihp37qb)

@@ -353,3 +353,4 @@
 1. [分布式 ID 生成方案](https://weekly.manong.io/bounce?nid=297&aid=18816&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fypxzkfo)
 1. [2019 我的技术之路：分布式系统到分布式制造](https://weekly.manong.io/bounce?nid=297&aid=18817&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4n3knao)
 1. [MIT 6.824 分布式系统课程第一课：介绍笔记](https://weekly.manong.io/bounce?nid=298&aid=18889&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhuo7gu5)
+1. [分布式定时任务调度框架实践](https://weekly.manong.io/bounce?nid=299&aid=18948&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnecfb59)

@@ -1779,3 +1779,5 @@
 1. [[译] 5 分钟搭建 Node.js 微服务原型](https://weekly.manong.io/bounce?nid=298&aid=18916&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxiqy4d6)
 1. [[译] 云原生时代，是否还需要 VPC 做应用安全？](https://weekly.manong.io/bounce?nid=298&aid=18898&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp2j0rbp)
 1. [[译] ​程序员如何挣外快？](https://weekly.manong.io/bounce?nid=298&aid=18870&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4aejh5o)
+1. [[译] Rust 半小时教程](https://weekly.manong.io/bounce?nid=299&aid=18969&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhehz13x)
+1. [[译] V 神眼中的以太坊 2020](https://weekly.manong.io/bounce?nid=299&aid=18943&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fukzgjbq)

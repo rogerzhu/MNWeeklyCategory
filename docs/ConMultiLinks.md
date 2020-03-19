@@ -233,3 +233,4 @@
 1. [Kubernetes ApiServer 并发安全机制](https://weekly.manong.io/bounce?nid=294&aid=18641&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7l7p1ky)
 1. [面试官：你说你熟悉 JVM ？那你讲一下并发的可达性分析](https://weekly.manong.io/bounce?nid=297&aid=18848&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvtxz1rd)
 1. [如何设计一个高可用、高并发秒杀系统](https://weekly.manong.io/bounce?nid=298&aid=18872&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffljrk2w)
+1. [聊聊 ab、wrk、JMeter、Locust 这些压测工具的并发模型差别](https://weekly.manong.io/bounce?nid=299&aid=18934&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsogmzan)

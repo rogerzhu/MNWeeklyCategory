@@ -659,3 +659,5 @@
 1. [HBase 性能测试之读写 P999 延时压测实践](https://weekly.manong.io/bounce?nid=296&aid=18748&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff33zau7)
 1. [Redis 面试全攻略](https://weekly.manong.io/bounce?nid=297&aid=18815&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpidhjfk)
 1. [一本彻底搞懂 MySQL 索引优化 EXPLAIN 百科全书](https://weekly.manong.io/bounce?nid=297&aid=18842&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhh6xndq)
+1. [亿级数据从 MySQL 到 Hbase 的三种同步方案与实践](https://weekly.manong.io/bounce?nid=299&aid=18938&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftejyiaj)
+1. [RedisTemplate：我不背锅，是你用错了](https://weekly.manong.io/bounce?nid=299&aid=18940&url=https%3A%2F%2Ftoutiao.io%2Fk%2F75anctu)

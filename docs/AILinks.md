@@ -1280,3 +1280,4 @@
 1. [理解循环网络及其在移动端的趣味应用：AI 诗人](https://weekly.manong.io/bounce?nid=297&aid=18811&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fc2mxqfw)
 1. [《大数据智能：数据驱动的自然语言处理技术》](https://weekly.manong.io/bounce?nid=297&aid=18867&url=https%3A%2F%2Fitem.jd.com%2F12603411.html)
 1. [人工智能和IT技术](https://weekly.manong.io/bounce?nid=298&aid=18921&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F216854%23297)
+1. [Rust 入坑指南：智能指针](https://weekly.manong.io/bounce?nid=299&aid=18970&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhecd9cb)

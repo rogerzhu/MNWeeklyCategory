@@ -624,3 +624,5 @@
 1. [如何用 Python 在京东上抢口罩](https://weekly.manong.io/bounce?nid=297&aid=18856&url=https%3A%2F%2Ftoutiao.io%2Fk%2F25mo830)
 1. [[译] ​5 个原因告诉你，为什么说 Julia 比 Python 要好？](https://weekly.manong.io/bounce?nid=297&aid=18857&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8vbpk4c)
 1. [如何快速全面掌握 Kafka？5000 字吐血整理](https://weekly.manong.io/bounce?nid=298&aid=18881&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftu4hjet)
+1. [Python 工匠：写好面向对象代码的原则（下）](https://weekly.manong.io/bounce?nid=299&aid=18965&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2t3e8yd)
+1. [将 Vim 配置成适用于 Python 开发的 IDE 环境](https://weekly.manong.io/bounce?nid=299&aid=18941&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0v80uav)
