@@ -354,3 +354,6 @@
 1. [2019 我的技术之路：分布式系统到分布式制造](https://weekly.manong.io/bounce?nid=297&aid=18817&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4n3knao)
 1. [MIT 6.824 分布式系统课程第一课：介绍笔记](https://weekly.manong.io/bounce?nid=298&aid=18889&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhuo7gu5)
 1. [分布式定时任务调度框架实践](https://weekly.manong.io/bounce?nid=299&aid=18948&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnecfb59)
+1. [面试被问分布式事务（2PC、3PC、TCC），这样解释没毛病](https://weekly.manong.io/bounce?nid=300&aid=19004&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fseazusu)
+1. [MIT 6.824 分布式系统课程第三课：GFS](https://weekly.manong.io/bounce?nid=300&aid=19008&url=https%3A%2F%2Ftoutiao.io%2Fk%2Faitt0pc)
+1. [蚂蚁金服分布式事务实践解析](https://weekly.manong.io/bounce?nid=300&aid=19011&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw563i3s)

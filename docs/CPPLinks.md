@@ -127,3 +127,4 @@
 1. [[译] C++20：四巨头](https://weekly.manong.io/bounce?nid=297&aid=18846&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwcqevyz)
 1. [C++ 那些事](https://weekly.manong.io/bounce?nid=298&aid=18905&url=https%3A%2F%2Ftoutiao.io%2Fk%2F90v8ly3)
 1. [那些主流编程语言的知识：C 语言（一）](https://weekly.manong.io/bounce?nid=299&aid=18962&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6u539gw)
+1. [C++ 与 正则表达式](https://weekly.manong.io/bounce?nid=300&aid=19027&url=https%3A%2F%2Ftoutiao.io%2Fk%2Feqkwkmu)

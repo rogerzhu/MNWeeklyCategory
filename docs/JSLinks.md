@@ -574,3 +574,4 @@
 1. [[译] 5 分钟搭建 Node.js 微服务原型](https://weekly.manong.io/bounce?nid=298&aid=18916&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxiqy4d6)
 1. [《狼书（卷2）：Node.js Web 应用开发》](https://weekly.manong.io/bounce?nid=298&aid=18924&url=https%3A%2F%2Fitem.jd.com%2F12614927.html)
 1. [JavaScript 中的浅拷贝 vs 深拷贝](https://weekly.manong.io/bounce?nid=299&aid=18968&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq2pab7y)
+1. [[译] 7 个简单但棘手的 JavaScript 面试问题](https://weekly.manong.io/bounce?nid=300&aid=19038&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0cinbno)

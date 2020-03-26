@@ -422,3 +422,5 @@
 1. [爱奇艺号微前端架构实践](https://weekly.manong.io/bounce?nid=297&aid=18805&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnwog8cj)
 1. [前端缓存](https://weekly.manong.io/bounce?nid=297&aid=18823&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fc0uh46g)
 1. [微前端在美团外卖的实践](https://weekly.manong.io/bounce?nid=298&aid=18902&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fc47hswf)
+1. [前端自习课](https://weekly.manong.io/bounce?nid=300&aid=19043&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F412310%23300)
+1. [前端首屏耗时测量方法](https://weekly.manong.io/bounce?nid=300&aid=19013&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2ejwqaj)

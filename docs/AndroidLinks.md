@@ -779,3 +779,4 @@
 1. [深入浅出讲解丝滑般动画特效实现原理 (Android)](https://weekly.manong.io/bounce?nid=296&aid=18783&url=https%3A%2F%2Ftoutiao.io%2Fk%2F33rioc4)
 1. [动态下发 so 库在 Android APK 安装包瘦身方面的应用](https://weekly.manong.io/bounce?nid=297&aid=18850&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvc15z7j)
 1. [Android Studio 3.6 正式版终于发布了](https://weekly.manong.io/bounce?nid=297&aid=18851&url=https%3A%2F%2Ftoutiao.io%2Fk%2F50qorlr)
+1. [深入探索 Android 启动速度优化](https://weekly.manong.io/bounce?nid=300&aid=19032&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk6cz2z1)

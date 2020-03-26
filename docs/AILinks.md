@@ -1281,3 +1281,7 @@
 1. [《大数据智能：数据驱动的自然语言处理技术》](https://weekly.manong.io/bounce?nid=297&aid=18867&url=https%3A%2F%2Fitem.jd.com%2F12603411.html)
 1. [人工智能和IT技术](https://weekly.manong.io/bounce?nid=298&aid=18921&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F216854%23297)
 1. [Rust 入坑指南：智能指针](https://weekly.manong.io/bounce?nid=299&aid=18970&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhecd9cb)
+1. [机器学习入门 21 讲](https://weekly.manong.io/bounce?nid=300&aid=18982&url=https%3A%2F%2Ft.lagou.com%2F3RADRPRuRU7B5)
+1. [面向程序员的深度学习](https://weekly.manong.io/bounce?nid=300&aid=18983&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzuf0b2w)
+1. [让 AI “读懂” 短视频，爱奇艺内容标签技术解析](https://weekly.manong.io/bounce?nid=300&aid=18984&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1o2rloq)
+1. [Manjaro 计算机视觉开发环境配置](https://weekly.manong.io/bounce?nid=300&aid=18988&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu5k7j6p)

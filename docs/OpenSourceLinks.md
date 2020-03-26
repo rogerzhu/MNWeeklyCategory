@@ -577,3 +577,5 @@
 1. [2020 前端开源领域技术展望](https://weekly.manong.io/bounce?nid=296&aid=18755&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fc4ndpga)
 1. [通过开源项目获取 GoLand 免费开源授权](https://weekly.manong.io/bounce?nid=297&aid=18840&url=https%3A%2F%2Ftoutiao.io%2Fk%2F28rl7bh)
 1. [Spring Cloud 微服务：阿里开源组件 Nacos，服务和配置管理](https://weekly.manong.io/bounce?nid=299&aid=18961&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmgrqr95)
+1. [[译] 高效的文本生成方法：LaserTagger 现已开源](https://weekly.manong.io/bounce?nid=300&aid=18989&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0a4kzve)
+1. [Service Mesh 最火项目 Istio 是怎么做流量管理的？](https://weekly.manong.io/bounce?nid=300&aid=19020&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4r5b7qy)

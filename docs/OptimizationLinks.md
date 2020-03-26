@@ -367,3 +367,4 @@
 1. [智能配送系统的运筹优化实战](https://weekly.manong.io/bounce?nid=296&aid=18773&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkgi7ao4)
 1. [Swoole Server 中 master 进程投递数据到 worker 进程的性能优化](https://weekly.manong.io/bounce?nid=296&aid=18786&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg416olo)
 1. [一本彻底搞懂 MySQL 索引优化 EXPLAIN 百科全书](https://weekly.manong.io/bounce?nid=297&aid=18842&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhh6xndq)
+1. [深入探索 Android 启动速度优化](https://weekly.manong.io/bounce?nid=300&aid=19032&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk6cz2z1)

@@ -661,3 +661,4 @@
 1. [一本彻底搞懂 MySQL 索引优化 EXPLAIN 百科全书](https://weekly.manong.io/bounce?nid=297&aid=18842&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhh6xndq)
 1. [亿级数据从 MySQL 到 Hbase 的三种同步方案与实践](https://weekly.manong.io/bounce?nid=299&aid=18938&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftejyiaj)
 1. [RedisTemplate：我不背锅，是你用错了](https://weekly.manong.io/bounce?nid=299&aid=18940&url=https%3A%2F%2Ftoutiao.io%2Fk%2F75anctu)
+1. [高性能 MySQL 实战](https://weekly.manong.io/bounce?nid=300&aid=18990&url=https%3A%2F%2Ft.lagou.com%2F3R77RRRZRU8B5)

@@ -85,3 +85,5 @@
 1. [这可能就是你苦苦寻找免费、高颜值、功能强大的 Markdown 编辑器](https://weekly.manong.io/bounce?nid=283&aid=17935&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYV2PC8INw8yEyPURCYtdCw)
 1. [通过开源项目获取 GoLand 免费开源授权](https://weekly.manong.io/bounce?nid=297&aid=18840&url=https%3A%2F%2Ftoutiao.io%2Fk%2F28rl7bh)
 1. [手把手教你用免费代理 ip 爬数据](https://weekly.manong.io/bounce?nid=299&aid=18936&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4c1dj1r)
+1. [原价 9680 元，廖雪峰 Java 进阶教程免费领取](https://weekly.manong.io/bounce?nid=300&aid=19046&url=https%3A%2F%2Fdatayi.cn%2Fw%2Fj9y6nwyR)
+1. [原价 9680 元，廖雪峰 Java 进阶教程免费领取](https://weekly.manong.io/bounce?nid=300&aid=19046&url=https%3A%2F%2Fdatayi.cn%2Fw%2Fj9y6nwyR)

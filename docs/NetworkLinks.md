@@ -354,3 +354,4 @@
 1. [深入学习 Go 语言的高性能 HTTP 服务器](https://weekly.manong.io/bounce?nid=299&aid=18966&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fegghxx8)
 1. [52 讲轻松搞定网络爬虫](https://weekly.manong.io/bounce?nid=299&aid=18932&url=https%3A%2F%2Ft.lagou.com%2F3R2FR%3DRHRUD90)
 1. [话说 Kubernetes 网络疑难杂症](https://weekly.manong.io/bounce?nid=299&aid=18946&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqaylxpl)
+1. [看完这篇 HTTPS，和面试官扯皮就没问题了](https://weekly.manong.io/bounce?nid=300&aid=18999&url=https%3A%2F%2Ftoutiao.io%2Fk%2F350kxl3)

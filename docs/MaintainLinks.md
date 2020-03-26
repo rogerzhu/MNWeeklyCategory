@@ -88,3 +88,4 @@
 1. [摆脱无效报警？十年运维监控报警优化经验总结](https://weekly.manong.io/bounce?nid=282&aid=17843&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5doI7blFVfczdi52b9VINg)
 1. [一篇文章带你解读从初级运维工程师到资深运维专家的学习路线](https://weekly.manong.io/bounce?nid=288&aid=18272&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJdwhYi0OG53IT_nqLCJHVg)
 1. [金融行业 IT 运维监控体系的建设内幕](https://weekly.manong.io/bounce?nid=296&aid=18744&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs15r8vc)
+1. [前阿里巴巴运维专家的 36 个运维面试 & 工作常见问题，都在这了](https://weekly.manong.io/bounce?nid=300&aid=18995&url=https%3A%2F%2Ft.lagou.com%2F3R05RgRHRUB82)

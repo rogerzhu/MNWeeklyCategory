@@ -22,3 +22,4 @@
 1. [Flutter + Serverless 端到端研发架构实践](https://weekly.manong.io/bounce?nid=291&aid=18468&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0en7s4n)
 1. [千万级流量业务的 Serverless 实践，看 FaaS 给前端带来的变化](https://weekly.manong.io/bounce?nid=296&aid=18742&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftzo9lwk)
 1. [如何开发自己的第一个 Serverless Component](https://weekly.manong.io/bounce?nid=296&aid=18761&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmkekcxu)
+1. [[译] Serverless 可观察性的最佳实践](https://weekly.manong.io/bounce?nid=300&aid=19018&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq64qd4h)

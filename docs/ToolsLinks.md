@@ -398,3 +398,5 @@
 1. [重磅 | GitHub 正式开源命令行工具 GitHub CLI](https://weekly.manong.io/bounce?nid=296&aid=18746&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4blz5od)
 1. [拥有这些工具，还怕干不出好活？](https://weekly.manong.io/bounce?nid=299&aid=18933&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjlh1v51)
 1. [聊聊 ab、wrk、JMeter、Locust 这些压测工具的并发模型差别](https://weekly.manong.io/bounce?nid=299&aid=18934&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsogmzan)
+1. [一个 PHP 从业者的常用开发工具和习惯分享](https://weekly.manong.io/bounce?nid=300&aid=19033&url=https%3A%2F%2Ftoutiao.io%2Fk%2Femrayvt)
+1. [跨平台的浏览器自动化工具 Playwright 简析](https://weekly.manong.io/bounce?nid=300&aid=19010&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq7331op)

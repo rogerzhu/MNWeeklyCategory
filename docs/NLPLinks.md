@@ -59,3 +59,4 @@
 1. [NLP 实战之基于 TFIDF 的文本相似度计算](https://weekly.manong.io/bounce?nid=289&aid=18329&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsuot9ho)
 1. [元学习与自然语言处理](https://weekly.manong.io/bounce?nid=297&aid=18809&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffv4mjpp)
 1. [《大数据智能：数据驱动的自然语言处理技术》](https://weekly.manong.io/bounce?nid=297&aid=18867&url=https%3A%2F%2Fitem.jd.com%2F12603411.html)
+1. [NLP 系列课（二）：词向量 Word Vectors](https://weekly.manong.io/bounce?nid=300&aid=18985&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzy6g84d)

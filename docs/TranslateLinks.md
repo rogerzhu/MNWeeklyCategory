@@ -1781,3 +1781,7 @@
 1. [[译] ​程序员如何挣外快？](https://weekly.manong.io/bounce?nid=298&aid=18870&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4aejh5o)
 1. [[译] Rust 半小时教程](https://weekly.manong.io/bounce?nid=299&aid=18969&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhehz13x)
 1. [[译] V 神眼中的以太坊 2020](https://weekly.manong.io/bounce?nid=299&aid=18943&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fukzgjbq)
+1. [[译] 高效的文本生成方法：LaserTagger 现已开源](https://weekly.manong.io/bounce?nid=300&aid=18989&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0a4kzve)
+1. [[译] 7 个简单但棘手的 JavaScript 面试问题](https://weekly.manong.io/bounce?nid=300&aid=19038&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0cinbno)
+1. [[译] Serverless 可观察性的最佳实践](https://weekly.manong.io/bounce?nid=300&aid=19018&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq64qd4h)
+1. [[译] 推荐你使用 Vim 的三个半理由](https://weekly.manong.io/bounce?nid=300&aid=19021&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffjmcqij)

@@ -363,3 +363,4 @@
 1. [深入理解 PHP 7 内核之 HashTable](https://weekly.manong.io/bounce?nid=297&aid=18855&url=https%3A%2F%2Ftoutiao.io%2Fk%2F18ps2kc)
 1. [php饭米粒](https://weekly.manong.io/bounce?nid=297&aid=18866&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F56197%23297)
 1. [[译] PHP 框架 CodeIgniter 4 正式版发布了](https://weekly.manong.io/bounce?nid=298&aid=18910&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwjup2gi)
+1. [一个 PHP 从业者的常用开发工具和习惯分享](https://weekly.manong.io/bounce?nid=300&aid=19033&url=https%3A%2F%2Ftoutiao.io%2Fk%2Femrayvt)

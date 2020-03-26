@@ -224,3 +224,4 @@
 1. [Golang channel 源码深度剖析](https://weekly.manong.io/bounce?nid=295&aid=18726&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3b8lqdg)
 1. [Go 源码阅读之 flag 包](https://weekly.manong.io/bounce?nid=296&aid=18788&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fd4vmxz0)
 1. [比 SharedPreferences 更高效？微信 MMKV 源码解析](https://weekly.manong.io/bounce?nid=299&aid=18963&url=https%3A%2F%2Ftoutiao.io%2Fk%2Faloekat)
+1. [掌握 BAT 面试真题以及背后的源码剖析，看这个就够了](https://weekly.manong.io/bounce?nid=300&aid=19026&url=https%3A%2F%2Ft.lagou.com%2F3RB0R%3DRIRUFF8)
