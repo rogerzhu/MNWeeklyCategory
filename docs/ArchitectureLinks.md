@@ -637,3 +637,6 @@
 1. [面向开发者的工程化 CLI 中台：分层插件架构](https://weekly.manong.io/bounce?nid=298&aid=18874&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpus99xj)
 1. [架构师的 36 项修炼](https://weekly.manong.io/bounce?nid=299&aid=18925&url=https%3A%2F%2Ft.lagou.com%2F3REERZR8RU435)
 1. [零信任架构远程办公实战](https://weekly.manong.io/bounce?nid=299&aid=18926&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhqv7u2i)
+1. [架构师的 36 项修炼](https://weekly.manong.io/bounce?nid=301&aid=19047&url=https%3A%2F%2Ft.lagou.com%2F3REERZR8RU435%23301)
+1. [微信 10 亿日活场景下，后台系统微服务架构实践](https://weekly.manong.io/bounce?nid=301&aid=19048&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftr32h3p)
+1. [一文道尽软件架构及前端架构演进](https://weekly.manong.io/bounce?nid=301&aid=19049&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4c5x4fc)

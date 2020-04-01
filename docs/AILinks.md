@@ -1285,3 +1285,6 @@
 1. [面向程序员的深度学习](https://weekly.manong.io/bounce?nid=300&aid=18983&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzuf0b2w)
 1. [让 AI “读懂” 短视频，爱奇艺内容标签技术解析](https://weekly.manong.io/bounce?nid=300&aid=18984&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1o2rloq)
 1. [Manjaro 计算机视觉开发环境配置](https://weekly.manong.io/bounce?nid=300&aid=18988&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu5k7j6p)
+1. [机器学习入门 21 讲](https://weekly.manong.io/bounce?nid=301&aid=19070&url=https%3A%2F%2Ft.lagou.com%2F3RADRPRuRU7B5%23301)
+1. [浅谈 DDoS 攻防对抗中的 AI 实践](https://weekly.manong.io/bounce?nid=301&aid=19071&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fd2s6n8i)
+1. [ElasticSearch 实战：如何从数千万手机号中识别出情侣号？](https://weekly.manong.io/bounce?nid=301&aid=19093&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp19xth9)

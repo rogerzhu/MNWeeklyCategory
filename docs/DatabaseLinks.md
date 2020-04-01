@@ -662,3 +662,6 @@
 1. [亿级数据从 MySQL 到 Hbase 的三种同步方案与实践](https://weekly.manong.io/bounce?nid=299&aid=18938&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftejyiaj)
 1. [RedisTemplate：我不背锅，是你用错了](https://weekly.manong.io/bounce?nid=299&aid=18940&url=https%3A%2F%2Ftoutiao.io%2Fk%2F75anctu)
 1. [高性能 MySQL 实战](https://weekly.manong.io/bounce?nid=300&aid=18990&url=https%3A%2F%2Ft.lagou.com%2F3R77RRRZRU8B5)
+1. [SQL 开发任务超 50%！滴滴实时计算的演进与优化](https://weekly.manong.io/bounce?nid=301&aid=19050&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fweyok91)
+1. [大厂 Redis 性能优化的 13 条军规！](https://weekly.manong.io/bounce?nid=301&aid=19083&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnqt0qa9)
+1. [书写高质量 SQL 的 30 条建议](https://weekly.manong.io/bounce?nid=301&aid=19096&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjkt5l7f)

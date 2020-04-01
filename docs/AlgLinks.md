@@ -509,3 +509,7 @@
 1. [算法工程师的数学基础：线性代数中的向量和向量空间](https://weekly.manong.io/bounce?nid=299&aid=18954&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft052gh0)
 1. [一代传奇 SIFT 算法专利到期](https://weekly.manong.io/bounce?nid=300&aid=18987&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4yow9xg)
 1. [LeetCode 官方国内唯一合作课程：300 分钟搞定数据结构与算法](https://weekly.manong.io/bounce?nid=300&aid=18994&url=https%3A%2F%2Ft.lagou.com%2F3R84R7RIRUA39)
+1. [一文读懂图注意力模型：Graph Attention](https://weekly.manong.io/bounce?nid=301&aid=19072&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzqegeic)
+1. [谈谈几种算法岗的区别和体验](https://weekly.manong.io/bounce?nid=301&aid=19073&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1zlvcc1)
+1. [算法工程师的数学基础：微积分之微分](https://weekly.manong.io/bounce?nid=301&aid=19074&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3v0cohm)
+1. [Google 资深工程师带你玩转数据结构](https://weekly.manong.io/bounce?nid=301&aid=19075&url=https%3A%2F%2Ft.lagou.com%2F3R42RuRyRUB51%23301)

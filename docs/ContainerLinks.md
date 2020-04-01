@@ -450,3 +450,5 @@
 1. [一文彻底搞懂 Linux Cgroup 如何限制容器资源](https://weekly.manong.io/bounce?nid=298&aid=18890&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjao4yx6)
 1. [话说 Kubernetes 网络疑难杂症](https://weekly.manong.io/bounce?nid=299&aid=18946&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqaylxpl)
 1. [分析 Kubernetes 中的事件机制](https://weekly.manong.io/bounce?nid=299&aid=18953&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5zyjdz2)
+1. [.NET Core + Kubernetes：快速体验](https://weekly.manong.io/bounce?nid=301&aid=19063&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnriahxw)
+1. [Kafka Producer 干货篇](https://weekly.manong.io/bounce?nid=301&aid=19090&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8qbulow)

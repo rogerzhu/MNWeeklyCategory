@@ -91,3 +91,4 @@
 1. [Elasticsearch 平滑下线节点实践指南](https://weekly.manong.io/bounce?nid=299&aid=18949&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0t27pgz)
 1. [Elasticsearch 学习：入门篇](https://weekly.manong.io/bounce?nid=300&aid=19009&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpvqmcrr)
 1. [Elasticsearch 自定义评分的 N 种方法](https://weekly.manong.io/bounce?nid=300&aid=19023&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fa08zrqb)
+1. [ElasticSearch 实战：如何从数千万手机号中识别出情侣号？](https://weekly.manong.io/bounce?nid=301&aid=19093&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp19xth9)

@@ -180,3 +180,4 @@
 1. [微服务杂谈](https://weekly.manong.io/bounce?nid=296&aid=18752&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fctuh4xl)
 1. [[译] 5 分钟搭建 Node.js 微服务原型](https://weekly.manong.io/bounce?nid=298&aid=18916&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxiqy4d6)
 1. [Spring Cloud 微服务：阿里开源组件 Nacos，服务和配置管理](https://weekly.manong.io/bounce?nid=299&aid=18961&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmgrqr95)
+1. [微信 10 亿日活场景下，后台系统微服务架构实践](https://weekly.manong.io/bounce?nid=301&aid=19048&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftr32h3p)

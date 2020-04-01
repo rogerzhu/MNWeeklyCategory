@@ -590,3 +590,5 @@
 1. [Git 分支设计规范](https://weekly.manong.io/bounce?nid=297&aid=18837&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fplu0ohe)
 1. [如何设计一个高可用、高并发秒杀系统](https://weekly.manong.io/bounce?nid=298&aid=18872&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffljrk2w)
 1. [Go 之读懂 interface 的底层设计](https://weekly.manong.io/bounce?nid=298&aid=18912&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmkty8vx)
+1. [用面向对象设计原则理解 Go 中 interface](https://weekly.manong.io/bounce?nid=301&aid=19066&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhvx37gp)
+1. [BFF 接口设计规范：一个互联网 10 年老兵的思考](https://weekly.manong.io/bounce?nid=301&aid=19081&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsz1aet5)

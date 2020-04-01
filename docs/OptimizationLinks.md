@@ -368,3 +368,6 @@
 1. [Swoole Server 中 master 进程投递数据到 worker 进程的性能优化](https://weekly.manong.io/bounce?nid=296&aid=18786&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg416olo)
 1. [一本彻底搞懂 MySQL 索引优化 EXPLAIN 百科全书](https://weekly.manong.io/bounce?nid=297&aid=18842&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhh6xndq)
 1. [深入探索 Android 启动速度优化](https://weekly.manong.io/bounce?nid=300&aid=19032&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk6cz2z1)
+1. [SQL 开发任务超 50%！滴滴实时计算的演进与优化](https://weekly.manong.io/bounce?nid=301&aid=19050&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fweyok91)
+1. [Java 程序该怎么优化？](https://weekly.manong.io/bounce?nid=301&aid=19057&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwuqas9r)
+1. [大厂 Redis 性能优化的 13 条军规！](https://weekly.manong.io/bounce?nid=301&aid=19083&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnqt0qa9)

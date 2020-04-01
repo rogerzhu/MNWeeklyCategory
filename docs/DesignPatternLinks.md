@@ -38,3 +38,4 @@
 1. [Golang 设计模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9mzp3bf&aid=17715&nid=280)
 1. [业务复杂 = if else？刚来的大神竟然用策略 + 工厂彻底干掉了他们](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRG-h7r69JyKUlBZylJJIFQ&aid=17851&nid=282)
 1. [App 工厂理论及其在 58 同城 App 中的应用实践](https://weekly.manong.io/bounce?nid=291&aid=18466&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzv51bst)
+1. [设计模式在外卖营销业务中的实践](https://weekly.manong.io/bounce?nid=301&aid=19089&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6gqgvf1)

@@ -243,3 +243,8 @@
 1. [面试被问分布式事务（2PC、3PC、TCC），这样解释没毛病](https://weekly.manong.io/bounce?nid=300&aid=19004&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fseazusu)
 1. [面试如何谈到高薪？](https://weekly.manong.io/bounce?nid=300&aid=18978&url=https%3A%2F%2Ft.lagou.com%2F3R82RmR8RUE88%23300)
 1. [从写简历，到面试、谈薪酬的那些技巧和防坑指南](https://weekly.manong.io/bounce?nid=300&aid=18980&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl84p9le)
+1. [Java 并发面试 78 讲](https://weekly.manong.io/bounce?nid=301&aid=19058&url=https%3A%2F%2Ft.lagou.com%2F3RB0RYR8RU003%23301)
+1. [《吊打面试官》系列 Node.js 全栈秒杀系统](https://weekly.manong.io/bounce?nid=301&aid=19068&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsjeip79)
+1. [一份来自亚马逊工程师的 Google 面试指南：GitHub 10w+ Star，中文版](https://weekly.manong.io/bounce?nid=301&aid=19077&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7qxkysk)
+1. [从一道真实的面试题聊聊消息机制](https://weekly.manong.io/bounce?nid=301&aid=19087&url=https%3A%2F%2Ftoutiao.io%2Fk%2F35dchf0)
+1. [聊聊面试的事](https://weekly.manong.io/bounce?nid=301&aid=19053&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnhhsxvd)

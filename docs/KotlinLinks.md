@@ -115,3 +115,5 @@
 1. [Kotlin Coroutines Flow 系列（三）：异常处理](https://weekly.manong.io/bounce?nid=295&aid=18719&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6pwxbqd)
 1. [基于 Kotlin 特性开发的有限状态机](https://weekly.manong.io/bounce?nid=297&aid=18852&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffvhtzfh)
 1. [基于 Kotlin 特性开发的有限状态机](https://weekly.manong.io/bounce?nid=297&aid=18852&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffvhtzfh)
+1. [KotlinTips：getValueSafely 安全取值](https://weekly.manong.io/bounce?nid=301&aid=19061&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1fws9v6)
+1. [KotlinTips：getValueSafely 安全取值](https://weekly.manong.io/bounce?nid=301&aid=19061&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1fws9v6)

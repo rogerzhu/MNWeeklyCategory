@@ -355,3 +355,6 @@
 1. [52 讲轻松搞定网络爬虫](https://weekly.manong.io/bounce?nid=299&aid=18932&url=https%3A%2F%2Ft.lagou.com%2F3R2FR%3DRHRUD90)
 1. [话说 Kubernetes 网络疑难杂症](https://weekly.manong.io/bounce?nid=299&aid=18946&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqaylxpl)
 1. [看完这篇 HTTPS，和面试官扯皮就没问题了](https://weekly.manong.io/bounce?nid=300&aid=18999&url=https%3A%2F%2Ftoutiao.io%2Fk%2F350kxl3)
+1. [深入理解 HTTPS](https://weekly.manong.io/bounce?nid=301&aid=19086&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx394edl)
+1. [什么是 WebSocket，它与 HTTP 有何不同？](https://weekly.manong.io/bounce?nid=301&aid=19100&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0b3blaf)
+1. [聊聊 OkHttp 实现 WebSocket 细节，包括鉴权和长连接保活及其原理](https://weekly.manong.io/bounce?nid=301&aid=19104&url=https%3A%2F%2Ftoutiao.io%2Fk%2F04yknsu)

@@ -123,3 +123,4 @@
 1. [重磅 | GitHub 正式开源命令行工具 GitHub CLI](https://weekly.manong.io/bounce?nid=296&aid=18746&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4blz5od)
 1. [爱了爱了，这个 GitHub 的 Chrome 神仙插件把我整的服服帖帖的](https://weekly.manong.io/bounce?nid=297&aid=18814&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnuphd6o)
 1. [GitHub 火热的 FastAPI 库，站在了这些知名库的肩膀上](https://weekly.manong.io/bounce?nid=298&aid=18903&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvjrpogx)
+1. [一份来自亚马逊工程师的 Google 面试指南：GitHub 10w+ Star，中文版](https://weekly.manong.io/bounce?nid=301&aid=19077&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7qxkysk)

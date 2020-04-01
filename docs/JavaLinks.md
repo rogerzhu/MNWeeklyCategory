@@ -531,3 +531,8 @@
 1. [Unsafe 穿透 Java 层到 JVM 层，提供 CPU 级别和操作系统级别的操作](https://weekly.manong.io/bounce?nid=300&aid=19030&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh30c3un)
 1. [从校招和社招的角度说说如何准备大厂 Java 后端面试？](https://weekly.manong.io/bounce?nid=300&aid=19031&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp5zgxs3)
 1. [原价 9680 元，廖雪峰 Java 进阶教程免费领取](https://weekly.manong.io/bounce?nid=300&aid=19046&url=https%3A%2F%2Fdatayi.cn%2Fw%2Fj9y6nwyR)
+1. [Java 14 GA 版本正式发布](https://weekly.manong.io/bounce?nid=301&aid=19055&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn55h023)
+1. [深入浅出 Java 虚拟机](https://weekly.manong.io/bounce?nid=301&aid=19056&url=https%3A%2F%2Ft.lagou.com%2F3R88RlRHRU4D5%23301)
+1. [Java 程序该怎么优化？](https://weekly.manong.io/bounce?nid=301&aid=19057&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwuqas9r)
+1. [Java 并发面试 78 讲](https://weekly.manong.io/bounce?nid=301&aid=19058&url=https%3A%2F%2Ft.lagou.com%2F3RB0RYR8RU003%23301)
+1. [JAVA干货](https://weekly.manong.io/bounce?nid=301&aid=19111&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F51515%23301)

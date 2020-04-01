@@ -626,3 +626,5 @@
 1. [如何快速全面掌握 Kafka？5000 字吐血整理](https://weekly.manong.io/bounce?nid=298&aid=18881&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftu4hjet)
 1. [Python 工匠：写好面向对象代码的原则（下）](https://weekly.manong.io/bounce?nid=299&aid=18965&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2t3e8yd)
 1. [将 Vim 配置成适用于 Python 开发的 IDE 环境](https://weekly.manong.io/bounce?nid=299&aid=18941&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0v80uav)
+1. [Python 3.9 新特性：任意表达式可作为装饰器](https://weekly.manong.io/bounce?nid=301&aid=19062&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7d8usj0)
+1. [Kafka Producer 干货篇](https://weekly.manong.io/bounce?nid=301&aid=19090&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8qbulow)

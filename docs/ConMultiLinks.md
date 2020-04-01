@@ -234,3 +234,5 @@
 1. [面试官：你说你熟悉 JVM ？那你讲一下并发的可达性分析](https://weekly.manong.io/bounce?nid=297&aid=18848&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvtxz1rd)
 1. [如何设计一个高可用、高并发秒杀系统](https://weekly.manong.io/bounce?nid=298&aid=18872&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffljrk2w)
 1. [聊聊 ab、wrk、JMeter、Locust 这些压测工具的并发模型差别](https://weekly.manong.io/bounce?nid=299&aid=18934&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsogmzan)
+1. [Java 并发面试 78 讲](https://weekly.manong.io/bounce?nid=301&aid=19058&url=https%3A%2F%2Ft.lagou.com%2F3RB0RYR8RU003%23301)
+1. [那些常见的并发模型相关知识](https://weekly.manong.io/bounce?nid=301&aid=19079&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fybgjp82)

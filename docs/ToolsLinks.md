@@ -400,3 +400,4 @@
 1. [聊聊 ab、wrk、JMeter、Locust 这些压测工具的并发模型差别](https://weekly.manong.io/bounce?nid=299&aid=18934&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsogmzan)
 1. [一个 PHP 从业者的常用开发工具和习惯分享](https://weekly.manong.io/bounce?nid=300&aid=19033&url=https%3A%2F%2Ftoutiao.io%2Fk%2Femrayvt)
 1. [跨平台的浏览器自动化工具 Playwright 简析](https://weekly.manong.io/bounce?nid=300&aid=19010&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq7331op)
+1. [书到用时方恨少，一大波 JS 开发工具函数来了](https://weekly.manong.io/bounce?nid=301&aid=19105&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftd8gywd)

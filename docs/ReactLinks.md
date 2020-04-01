@@ -270,3 +270,4 @@
 1. [在追寻极致体验的康庄大道上，React 玩出了花](https://weekly.manong.io/bounce?nid=288&aid=18246&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMw0Wq20mEmKPyzWDL6ZtlQ)
 1. [高阶：腾讯新闻构建高性能的 react 同构直出方案](https://weekly.manong.io/bounce?nid=290&aid=18419&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvl3r40o)
 1. [React Native 在美团外卖客户端的实践](https://weekly.manong.io/bounce?nid=291&aid=18469&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcbac67k)
+1. [[译] 改善 React 应用性能的 5 个建议](https://weekly.manong.io/bounce?nid=301&aid=19067&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu1uzfby)

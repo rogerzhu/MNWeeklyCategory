@@ -579,3 +579,5 @@
 1. [Spring Cloud 微服务：阿里开源组件 Nacos，服务和配置管理](https://weekly.manong.io/bounce?nid=299&aid=18961&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmgrqr95)
 1. [[译] 高效的文本生成方法：LaserTagger 现已开源](https://weekly.manong.io/bounce?nid=300&aid=18989&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0a4kzve)
 1. [Service Mesh 最火项目 Istio 是怎么做流量管理的？](https://weekly.manong.io/bounce?nid=300&aid=19020&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4r5b7qy)
+1. [看完这篇，别人的开源项目结构应该能看懂了](https://weekly.manong.io/bounce?nid=301&aid=19095&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb6p39ot)
+1. [分析开源项目源码，我们该如何入手分析？](https://weekly.manong.io/bounce?nid=301&aid=19097&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fugemdaa)
