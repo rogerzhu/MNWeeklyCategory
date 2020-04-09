@@ -149,3 +149,5 @@
 1. [[译] React VS Vue：2020 年应该选哪个？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FynIZyDl9jWEgBwwJrC0tKQ&aid=17881&nid=282)
 1. [[译] 通过 GASP 让 Vue 实现动态效果](https://weekly.manong.io/bounce?nid=287&aid=18206&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgyd8b5c)
 1. [[译] Vue + Node + WebRTC 构建一个高逼格的视频应用](https://weekly.manong.io/bounce?nid=301&aid=19106&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgd2vuac)
+1. [[译] Vue + Node + WebRTC 构建一个高逼格的视频应用](https://weekly.manong.io/bounce?nid=301&aid=19106&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgd2vuac)
+1. [一个清爽的 VUE UI 组件库](https://weekly.manong.io/bounce?nid=302&aid=19139&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpyfso0p)

@@ -640,3 +640,7 @@
 1. [架构师的 36 项修炼](https://weekly.manong.io/bounce?nid=301&aid=19047&url=https%3A%2F%2Ft.lagou.com%2F3REERZR8RU435%23301)
 1. [微信 10 亿日活场景下，后台系统微服务架构实践](https://weekly.manong.io/bounce?nid=301&aid=19048&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftr32h3p)
 1. [一文道尽软件架构及前端架构演进](https://weekly.manong.io/bounce?nid=301&aid=19049&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4c5x4fc)
+1. [架构师的 36 项修炼](https://weekly.manong.io/bounce?nid=301&aid=19047&url=https%3A%2F%2Ft.lagou.com%2F3REERZR8RU435%23301)
+1. [微信 10 亿日活场景下，后台系统微服务架构实践](https://weekly.manong.io/bounce?nid=301&aid=19048&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftr32h3p)
+1. [一文道尽软件架构及前端架构演进](https://weekly.manong.io/bounce?nid=301&aid=19049&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4c5x4fc)
+1. [《Serverless 架构：从原理、设计到项目实战》](https://weekly.manong.io/bounce?nid=302&aid=19141&url=https%3A%2F%2Fitem.jd.com%2F12592747.html)

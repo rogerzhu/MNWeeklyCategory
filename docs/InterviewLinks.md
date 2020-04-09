@@ -248,3 +248,8 @@
 1. [一份来自亚马逊工程师的 Google 面试指南：GitHub 10w+ Star，中文版](https://weekly.manong.io/bounce?nid=301&aid=19077&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7qxkysk)
 1. [从一道真实的面试题聊聊消息机制](https://weekly.manong.io/bounce?nid=301&aid=19087&url=https%3A%2F%2Ftoutiao.io%2Fk%2F35dchf0)
 1. [聊聊面试的事](https://weekly.manong.io/bounce?nid=301&aid=19053&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnhhsxvd)
+1. [Java 并发面试 78 讲](https://weekly.manong.io/bounce?nid=301&aid=19058&url=https%3A%2F%2Ft.lagou.com%2F3RB0RYR8RU003%23301)
+1. [《吊打面试官》系列 Node.js 全栈秒杀系统](https://weekly.manong.io/bounce?nid=301&aid=19068&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsjeip79)
+1. [一份来自亚马逊工程师的 Google 面试指南：GitHub 10w+ Star，中文版](https://weekly.manong.io/bounce?nid=301&aid=19077&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7qxkysk)
+1. [从一道真实的面试题聊聊消息机制](https://weekly.manong.io/bounce?nid=301&aid=19087&url=https%3A%2F%2Ftoutiao.io%2Fk%2F35dchf0)
+1. [聊聊面试的事](https://weekly.manong.io/bounce?nid=301&aid=19053&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnhhsxvd)

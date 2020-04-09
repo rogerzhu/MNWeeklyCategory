@@ -59,3 +59,4 @@
 1. [ASP.NET Core 日志框架：Serilog](https://weekly.manong.io/bounce?nid=296&aid=18791&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fryhq52i)
 1. [2020 年中国 .NET 开发者调查报告](https://weekly.manong.io/bounce?nid=297&aid=18853&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fa9susq0)
 1. [.NET Core + Kubernetes：快速体验](https://weekly.manong.io/bounce?nid=301&aid=19063&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnriahxw)
+1. [.NET Core + Kubernetes：快速体验](https://weekly.manong.io/bounce?nid=301&aid=19063&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnriahxw)

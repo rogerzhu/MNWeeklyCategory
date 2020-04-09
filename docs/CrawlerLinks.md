@@ -60,3 +60,4 @@
 1. [Python 3 爬虫：状态码 521 网页的爬取](https://weekly.manong.io/bounce?nid=295&aid=18724&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvwb2zuo)
 1. [Python 3 爬虫：状态码 521 网页的爬取](https://weekly.manong.io/bounce?nid=295&aid=18724&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvwb2zuo)
 1. [52 讲轻松搞定网络爬虫](https://weekly.manong.io/bounce?nid=299&aid=18932&url=https%3A%2F%2Ft.lagou.com%2F3R2FR%3DRHRUD90)
+1. [如何设计一款暗度陈仓的反爬虫](https://weekly.manong.io/bounce?nid=302&aid=19134&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqcb56b2)

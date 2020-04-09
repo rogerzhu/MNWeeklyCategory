@@ -581,3 +581,7 @@
 1. [Service Mesh 最火项目 Istio 是怎么做流量管理的？](https://weekly.manong.io/bounce?nid=300&aid=19020&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4r5b7qy)
 1. [看完这篇，别人的开源项目结构应该能看懂了](https://weekly.manong.io/bounce?nid=301&aid=19095&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb6p39ot)
 1. [分析开源项目源码，我们该如何入手分析？](https://weekly.manong.io/bounce?nid=301&aid=19097&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fugemdaa)
+1. [看完这篇，别人的开源项目结构应该能看懂了](https://weekly.manong.io/bounce?nid=301&aid=19095&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb6p39ot)
+1. [分析开源项目源码，我们该如何入手分析？](https://weekly.manong.io/bounce?nid=301&aid=19097&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fugemdaa)
+1. [亿级前端项目中的 3D 技术：支付宝 2020 年新春活动的背后](https://weekly.manong.io/bounce?nid=302&aid=19116&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft55e17k)
+1. [《Serverless 架构：从原理、设计到项目实战》](https://weekly.manong.io/bounce?nid=302&aid=19141&url=https%3A%2F%2Fitem.jd.com%2F12592747.html)

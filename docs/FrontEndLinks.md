@@ -427,3 +427,7 @@
 1. [一文道尽软件架构及前端架构演进](https://weekly.manong.io/bounce?nid=301&aid=19049&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4c5x4fc)
 1. [冷星前端圈](https://weekly.manong.io/bounce?nid=301&aid=19109&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F380054%23301)
 1. [前端为什么要关注 Serverless?](https://weekly.manong.io/bounce?nid=301&aid=19099&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1mbvwoz)
+1. [一文道尽软件架构及前端架构演进](https://weekly.manong.io/bounce?nid=301&aid=19049&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4c5x4fc)
+1. [冷星前端圈](https://weekly.manong.io/bounce?nid=301&aid=19109&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F380054%23301)
+1. [前端为什么要关注 Serverless?](https://weekly.manong.io/bounce?nid=301&aid=19099&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1mbvwoz)
+1. [亿级前端项目中的 3D 技术：支付宝 2020 年新春活动的背后](https://weekly.manong.io/bounce?nid=302&aid=19116&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft55e17k)

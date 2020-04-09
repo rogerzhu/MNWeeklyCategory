@@ -1788,3 +1788,7 @@
 1. [[译] Go 语言如何实现 stop the world?](https://weekly.manong.io/bounce?nid=301&aid=19065&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fun9r9d2)
 1. [[译] 改善 React 应用性能的 5 个建议](https://weekly.manong.io/bounce?nid=301&aid=19067&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu1uzfby)
 1. [[译] Vue + Node + WebRTC 构建一个高逼格的视频应用](https://weekly.manong.io/bounce?nid=301&aid=19106&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgd2vuac)
+1. [[译] Go 语言如何实现 stop the world?](https://weekly.manong.io/bounce?nid=301&aid=19065&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fun9r9d2)
+1. [[译] 改善 React 应用性能的 5 个建议](https://weekly.manong.io/bounce?nid=301&aid=19067&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu1uzfby)
+1. [[译] Vue + Node + WebRTC 构建一个高逼格的视频应用](https://weekly.manong.io/bounce?nid=301&aid=19106&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgd2vuac)
+1. [[译] Go 语言之父带你重新认识字符串、字节、rune 和字符](https://weekly.manong.io/bounce?nid=302&aid=19123&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1seirv5)

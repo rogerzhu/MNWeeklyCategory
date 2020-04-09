@@ -782,3 +782,6 @@
 1. [深入探索 Android 启动速度优化](https://weekly.manong.io/bounce?nid=300&aid=19032&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk6cz2z1)
 1. [搭建 Android 内核环境](https://weekly.manong.io/bounce?nid=301&aid=19059&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft1bkhnf)
 1. [Android 工程师进阶 34 讲](https://weekly.manong.io/bounce?nid=301&aid=19060&url=https%3A%2F%2Ft.lagou.com%2FmR22RxRvRkF65%23301)
+1. [搭建 Android 内核环境](https://weekly.manong.io/bounce?nid=301&aid=19059&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft1bkhnf)
+1. [Android 工程师进阶 34 讲](https://weekly.manong.io/bounce?nid=301&aid=19060&url=https%3A%2F%2Ft.lagou.com%2FmR22RxRvRkF65%23301)
+1. [BAT 大神都在用的 Android Studio 插件](https://weekly.manong.io/bounce?nid=302&aid=19121&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7dywg1g)

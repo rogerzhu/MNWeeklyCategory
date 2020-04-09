@@ -236,3 +236,5 @@
 1. [聊聊 ab、wrk、JMeter、Locust 这些压测工具的并发模型差别](https://weekly.manong.io/bounce?nid=299&aid=18934&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsogmzan)
 1. [Java 并发面试 78 讲](https://weekly.manong.io/bounce?nid=301&aid=19058&url=https%3A%2F%2Ft.lagou.com%2F3RB0RYR8RU003%23301)
 1. [那些常见的并发模型相关知识](https://weekly.manong.io/bounce?nid=301&aid=19079&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fybgjp82)
+1. [Java 并发面试 78 讲](https://weekly.manong.io/bounce?nid=301&aid=19058&url=https%3A%2F%2Ft.lagou.com%2F3RB0RYR8RU003%23301)
+1. [那些常见的并发模型相关知识](https://weekly.manong.io/bounce?nid=301&aid=19079&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fybgjp82)

@@ -665,3 +665,8 @@
 1. [SQL 开发任务超 50%！滴滴实时计算的演进与优化](https://weekly.manong.io/bounce?nid=301&aid=19050&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fweyok91)
 1. [大厂 Redis 性能优化的 13 条军规！](https://weekly.manong.io/bounce?nid=301&aid=19083&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnqt0qa9)
 1. [书写高质量 SQL 的 30 条建议](https://weekly.manong.io/bounce?nid=301&aid=19096&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjkt5l7f)
+1. [SQL 开发任务超 50%！滴滴实时计算的演进与优化](https://weekly.manong.io/bounce?nid=301&aid=19050&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fweyok91)
+1. [大厂 Redis 性能优化的 13 条军规！](https://weekly.manong.io/bounce?nid=301&aid=19083&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnqt0qa9)
+1. [书写高质量 SQL 的 30 条建议](https://weekly.manong.io/bounce?nid=301&aid=19096&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjkt5l7f)
+1. [或许你不知道的 12 条 SQL 技巧](https://weekly.manong.io/bounce?nid=302&aid=19132&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpii5uxa)
+1. [深入理解 MySQL 索引](https://weekly.manong.io/bounce?nid=302&aid=19136&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj02wtn8)

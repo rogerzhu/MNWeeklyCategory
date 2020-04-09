@@ -131,3 +131,4 @@
 1. [[译] 5 分钟搭建 Node.js 微服务原型](https://weekly.manong.io/bounce?nid=298&aid=18916&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxiqy4d6)
 1. [《狼书（卷2）：Node.js Web 应用开发》](https://weekly.manong.io/bounce?nid=298&aid=18924&url=https%3A%2F%2Fitem.jd.com%2F12614927.html)
 1. [《吊打面试官》系列 Node.js 全栈秒杀系统](https://weekly.manong.io/bounce?nid=301&aid=19068&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsjeip79)
+1. [《吊打面试官》系列 Node.js 全栈秒杀系统](https://weekly.manong.io/bounce?nid=301&aid=19068&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsjeip79)

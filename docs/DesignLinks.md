@@ -592,3 +592,8 @@
 1. [Go 之读懂 interface 的底层设计](https://weekly.manong.io/bounce?nid=298&aid=18912&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmkty8vx)
 1. [用面向对象设计原则理解 Go 中 interface](https://weekly.manong.io/bounce?nid=301&aid=19066&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhvx37gp)
 1. [BFF 接口设计规范：一个互联网 10 年老兵的思考](https://weekly.manong.io/bounce?nid=301&aid=19081&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsz1aet5)
+1. [用面向对象设计原则理解 Go 中 interface](https://weekly.manong.io/bounce?nid=301&aid=19066&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhvx37gp)
+1. [BFF 接口设计规范：一个互联网 10 年老兵的思考](https://weekly.manong.io/bounce?nid=301&aid=19081&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsz1aet5)
+1. [微服务超全的设计选型参考](https://weekly.manong.io/bounce?nid=302&aid=19127&url=https%3A%2F%2Ftoutiao.io%2Fk%2F08ex0sl)
+1. [如何设计一款暗度陈仓的反爬虫](https://weekly.manong.io/bounce?nid=302&aid=19134&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqcb56b2)
+1. [《Serverless 架构：从原理、设计到项目实战》](https://weekly.manong.io/bounce?nid=302&aid=19141&url=https%3A%2F%2Fitem.jd.com%2F12592747.html)

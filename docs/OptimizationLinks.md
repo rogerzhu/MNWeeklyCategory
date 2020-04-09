@@ -371,3 +371,7 @@
 1. [SQL 开发任务超 50%！滴滴实时计算的演进与优化](https://weekly.manong.io/bounce?nid=301&aid=19050&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fweyok91)
 1. [Java 程序该怎么优化？](https://weekly.manong.io/bounce?nid=301&aid=19057&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwuqas9r)
 1. [大厂 Redis 性能优化的 13 条军规！](https://weekly.manong.io/bounce?nid=301&aid=19083&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnqt0qa9)
+1. [SQL 开发任务超 50%！滴滴实时计算的演进与优化](https://weekly.manong.io/bounce?nid=301&aid=19050&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fweyok91)
+1. [Java 程序该怎么优化？](https://weekly.manong.io/bounce?nid=301&aid=19057&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwuqas9r)
+1. [大厂 Redis 性能优化的 13 条军规！](https://weekly.manong.io/bounce?nid=301&aid=19083&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnqt0qa9)
+1. [Java 程序该怎么优化？（实战篇）](https://weekly.manong.io/bounce?nid=302&aid=19120&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsc85ef3)

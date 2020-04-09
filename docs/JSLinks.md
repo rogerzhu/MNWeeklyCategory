@@ -576,3 +576,4 @@
 1. [JavaScript 中的浅拷贝 vs 深拷贝](https://weekly.manong.io/bounce?nid=299&aid=18968&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq2pab7y)
 1. [[译] 7 个简单但棘手的 JavaScript 面试问题](https://weekly.manong.io/bounce?nid=300&aid=19038&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0cinbno)
 1. [《吊打面试官》系列 Node.js 全栈秒杀系统](https://weekly.manong.io/bounce?nid=301&aid=19068&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsjeip79)
+1. [《吊打面试官》系列 Node.js 全栈秒杀系统](https://weekly.manong.io/bounce?nid=301&aid=19068&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsjeip79)

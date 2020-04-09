@@ -358,3 +358,8 @@
 1. [深入理解 HTTPS](https://weekly.manong.io/bounce?nid=301&aid=19086&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx394edl)
 1. [什么是 WebSocket，它与 HTTP 有何不同？](https://weekly.manong.io/bounce?nid=301&aid=19100&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0b3blaf)
 1. [聊聊 OkHttp 实现 WebSocket 细节，包括鉴权和长连接保活及其原理](https://weekly.manong.io/bounce?nid=301&aid=19104&url=https%3A%2F%2Ftoutiao.io%2Fk%2F04yknsu)
+1. [深入理解 HTTPS](https://weekly.manong.io/bounce?nid=301&aid=19086&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx394edl)
+1. [什么是 WebSocket，它与 HTTP 有何不同？](https://weekly.manong.io/bounce?nid=301&aid=19100&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0b3blaf)
+1. [聊聊 OkHttp 实现 WebSocket 细节，包括鉴权和长连接保活及其原理](https://weekly.manong.io/bounce?nid=301&aid=19104&url=https%3A%2F%2Ftoutiao.io%2Fk%2F04yknsu)
+1. [Golang HTTP 服务平滑重启及升级](https://weekly.manong.io/bounce?nid=302&aid=19125&url=https%3A%2F%2Ftoutiao.io%2Fk%2Forx42xm)
+1. [抓包神器：tcpdump](https://weekly.manong.io/bounce?nid=302&aid=19128&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs2xj8sg)

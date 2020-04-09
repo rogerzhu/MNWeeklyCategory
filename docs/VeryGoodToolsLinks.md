@@ -92,3 +92,5 @@
 1. [Firefox Web Replay：前端开发者的未来利器](https://weekly.manong.io/bounce?nid=289&aid=18308&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsg37sd4)
 1. [10 款 VS Code 插件神器](https://weekly.manong.io/bounce?nid=298&aid=18876&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fibodub2)
 1. [那些你可能用得上的在线办公神器](https://weekly.manong.io/bounce?nid=301&aid=19094&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw3x0d9h)
+1. [那些你可能用得上的在线办公神器](https://weekly.manong.io/bounce?nid=301&aid=19094&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw3x0d9h)
+1. [抓包神器：tcpdump](https://weekly.manong.io/bounce?nid=302&aid=19128&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs2xj8sg)

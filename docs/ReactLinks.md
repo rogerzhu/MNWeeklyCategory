@@ -271,3 +271,5 @@
 1. [高阶：腾讯新闻构建高性能的 react 同构直出方案](https://weekly.manong.io/bounce?nid=290&aid=18419&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvl3r40o)
 1. [React Native 在美团外卖客户端的实践](https://weekly.manong.io/bounce?nid=291&aid=18469&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcbac67k)
 1. [[译] 改善 React 应用性能的 5 个建议](https://weekly.manong.io/bounce?nid=301&aid=19067&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu1uzfby)
+1. [[译] 改善 React 应用性能的 5 个建议](https://weekly.manong.io/bounce?nid=301&aid=19067&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu1uzfby)
+1. [React Native 在汽车人 App 上的应用与实践](https://weekly.manong.io/bounce?nid=302&aid=19126&url=https%3A%2F%2Ftoutiao.io%2Fk%2F43gzzya)

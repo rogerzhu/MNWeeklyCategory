@@ -628,3 +628,5 @@
 1. [将 Vim 配置成适用于 Python 开发的 IDE 环境](https://weekly.manong.io/bounce?nid=299&aid=18941&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0v80uav)
 1. [Python 3.9 新特性：任意表达式可作为装饰器](https://weekly.manong.io/bounce?nid=301&aid=19062&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7d8usj0)
 1. [Kafka Producer 干货篇](https://weekly.manong.io/bounce?nid=301&aid=19090&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8qbulow)
+1. [Python 3.9 新特性：任意表达式可作为装饰器](https://weekly.manong.io/bounce?nid=301&aid=19062&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7d8usj0)
+1. [Kafka Producer 干货篇](https://weekly.manong.io/bounce?nid=301&aid=19090&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8qbulow)

@@ -180,3 +180,4 @@
 1. [签名你的每个 Git Commit](https://weekly.manong.io/bounce?nid=298&aid=18897&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1l19n4d)
 1. [阿捷外传之 Git 代码统计：DotNetCore + PowerBI 实现 Git 仓库日志分析](https://weekly.manong.io/bounce?nid=299&aid=18944&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fihp37qb)
 1. [Git Commit Message 规范与模板](https://weekly.manong.io/bounce?nid=300&aid=19012&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuul3hpl)
+1. [规范化 git commit 信息](https://weekly.manong.io/bounce?nid=302&aid=19130&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7q7adba)

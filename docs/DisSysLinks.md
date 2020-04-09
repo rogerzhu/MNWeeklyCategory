@@ -358,3 +358,5 @@
 1. [MIT 6.824 分布式系统课程第三课：GFS](https://weekly.manong.io/bounce?nid=300&aid=19008&url=https%3A%2F%2Ftoutiao.io%2Fk%2Faitt0pc)
 1. [蚂蚁金服分布式事务实践解析](https://weekly.manong.io/bounce?nid=300&aid=19011&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw563i3s)
 1. [300 分钟吃透分布式缓存](https://weekly.manong.io/bounce?nid=301&aid=19076&url=https%3A%2F%2Ft.lagou.com%2F3RC0RcRuRUF42%23301)
+1. [300 分钟吃透分布式缓存](https://weekly.manong.io/bounce?nid=301&aid=19076&url=https%3A%2F%2Ft.lagou.com%2F3RC0RcRuRUF42%23301)
+1. [MIT 6.824 分布式系统课程第四课：主备复制](https://weekly.manong.io/bounce?nid=302&aid=19129&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fssa331p)

@@ -25,3 +25,4 @@
 1. [中台辨析：架构的演进趋势](https://weekly.manong.io/bounce?nid=295&aid=18711&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fywww217)
 1. [中台辨析：架构的演进趋势](https://weekly.manong.io/bounce?nid=295&aid=18711&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fywww217)
 1. [面向开发者的工程化 CLI 中台：分层插件架构](https://weekly.manong.io/bounce?nid=298&aid=18874&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpus99xj)
+1. [在一家独角兽公司做业务中台：打铁硬，不跟风](https://weekly.manong.io/bounce?nid=302&aid=19114&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcdljxpo)

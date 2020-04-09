@@ -452,3 +452,6 @@
 1. [分析 Kubernetes 中的事件机制](https://weekly.manong.io/bounce?nid=299&aid=18953&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5zyjdz2)
 1. [.NET Core + Kubernetes：快速体验](https://weekly.manong.io/bounce?nid=301&aid=19063&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnriahxw)
 1. [Kafka Producer 干货篇](https://weekly.manong.io/bounce?nid=301&aid=19090&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8qbulow)
+1. [.NET Core + Kubernetes：快速体验](https://weekly.manong.io/bounce?nid=301&aid=19063&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnriahxw)
+1. [Kafka Producer 干货篇](https://weekly.manong.io/bounce?nid=301&aid=19090&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8qbulow)
+1. [Kubernetes 集群规模杂谈](https://weekly.manong.io/bounce?nid=302&aid=19137&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyif8qnu)

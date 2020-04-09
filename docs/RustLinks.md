@@ -42,3 +42,4 @@
 1. [Rust 入坑指南：智能指针](https://weekly.manong.io/bounce?nid=299&aid=18970&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhecd9cb)
 1. [新手眼中的 Rust 所有权规则](https://weekly.manong.io/bounce?nid=300&aid=19039&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb15d4zj)
 1. [Rust 入坑指南：齐头并进（下）](https://weekly.manong.io/bounce?nid=301&aid=19069&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj3a2lrk)
+1. [Rust 入坑指南：齐头并进（下）](https://weekly.manong.io/bounce?nid=301&aid=19069&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj3a2lrk)
