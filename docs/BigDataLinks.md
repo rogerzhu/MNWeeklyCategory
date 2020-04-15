@@ -320,3 +320,6 @@
 1. [携程 Hadoop 跨机房架构实践](https://weekly.manong.io/bounce?nid=298&aid=18873&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgnj80et)
 1. [OPPO 基于 Apache Flink 的实时数仓实践](https://weekly.manong.io/bounce?nid=299&aid=18927&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft5wx0z5)
 1. [Spark 3.0 终于支持 event logs 滚动了](https://weekly.manong.io/bounce?nid=299&aid=18945&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxx7yl9h)
+1. [廖雪峰历时 3 个月打磨出价值 1980 的数据分析教程，终终终于免费啦！](https://weekly.manong.io/bounce?nid=303&aid=19184&url=https%3A%2F%2Fdatayi.cn%2Fw%2Fnomk0YMR)
+1. [廖雪峰历时 3 个月打磨出价值 1980 的数据分析教程，终终终于免费啦！](https://weekly.manong.io/bounce?nid=303&aid=19184&url=https%3A%2F%2Fdatayi.cn%2Fw%2Fnomk0YMR)
+1. [廖雪峰历时 3 个月打磨出价值 1980 的数据分析教程，终终终于免费啦！](https://weekly.manong.io/bounce?nid=303&aid=19184&url=https%3A%2F%2Fdatayi.cn%2Fw%2Fnomk0YMR)

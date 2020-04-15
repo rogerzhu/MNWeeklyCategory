@@ -543,3 +543,6 @@
 1. [JAVA干货](https://weekly.manong.io/bounce?nid=301&aid=19111&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F51515%23301)
 1. [Java 14 开箱，它真香香香香](https://weekly.manong.io/bounce?nid=302&aid=19119&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1tfglez)
 1. [Java 程序该怎么优化？（实战篇）](https://weekly.manong.io/bounce?nid=302&aid=19120&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsc85ef3)
+1. [细数 Java 项目中用过的配置文件（properties 篇）](https://weekly.manong.io/bounce?nid=303&aid=19150&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1u4b5f1)
+1. [Java 对象在虚拟机中到底是什么样子？](https://weekly.manong.io/bounce?nid=303&aid=19151&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvok6co1)
+1. [Java实战技术](https://weekly.manong.io/bounce?nid=303&aid=19183&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F22887%23303)

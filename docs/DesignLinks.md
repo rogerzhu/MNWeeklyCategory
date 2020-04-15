@@ -597,3 +597,4 @@
 1. [微服务超全的设计选型参考](https://weekly.manong.io/bounce?nid=302&aid=19127&url=https%3A%2F%2Ftoutiao.io%2Fk%2F08ex0sl)
 1. [如何设计一款暗度陈仓的反爬虫](https://weekly.manong.io/bounce?nid=302&aid=19134&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqcb56b2)
 1. [《Serverless 架构：从原理、设计到项目实战》](https://weekly.manong.io/bounce?nid=302&aid=19141&url=https%3A%2F%2Fitem.jd.com%2F12592747.html)
+1. [企业级业务架构的设计难点](https://weekly.manong.io/bounce?nid=303&aid=19148&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff2k82f6)

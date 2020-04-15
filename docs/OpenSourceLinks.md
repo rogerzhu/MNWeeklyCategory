@@ -585,3 +585,4 @@
 1. [分析开源项目源码，我们该如何入手分析？](https://weekly.manong.io/bounce?nid=301&aid=19097&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fugemdaa)
 1. [亿级前端项目中的 3D 技术：支付宝 2020 年新春活动的背后](https://weekly.manong.io/bounce?nid=302&aid=19116&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft55e17k)
 1. [《Serverless 架构：从原理、设计到项目实战》](https://weekly.manong.io/bounce?nid=302&aid=19141&url=https%3A%2F%2Fitem.jd.com%2F12592747.html)
+1. [细数 Java 项目中用过的配置文件（properties 篇）](https://weekly.manong.io/bounce?nid=303&aid=19150&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1u4b5f1)

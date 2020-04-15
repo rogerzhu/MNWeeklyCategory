@@ -43,3 +43,4 @@
 1. [新手眼中的 Rust 所有权规则](https://weekly.manong.io/bounce?nid=300&aid=19039&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb15d4zj)
 1. [Rust 入坑指南：齐头并进（下）](https://weekly.manong.io/bounce?nid=301&aid=19069&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj3a2lrk)
 1. [Rust 入坑指南：齐头并进（下）](https://weekly.manong.io/bounce?nid=301&aid=19069&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj3a2lrk)
+1. [Go 和 Rust 的优缺点；预测 Go 1.16-1.19 会支持泛型](https://weekly.manong.io/bounce?nid=303&aid=19158&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb8y9c8d)

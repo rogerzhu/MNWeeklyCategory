@@ -87,3 +87,7 @@
 1. [手把手教你用免费代理 ip 爬数据](https://weekly.manong.io/bounce?nid=299&aid=18936&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4c1dj1r)
 1. [原价 9680 元，廖雪峰 Java 进阶教程免费领取](https://weekly.manong.io/bounce?nid=300&aid=19046&url=https%3A%2F%2Fdatayi.cn%2Fw%2Fj9y6nwyR)
 1. [原价 9680 元，廖雪峰 Java 进阶教程免费领取](https://weekly.manong.io/bounce?nid=300&aid=19046&url=https%3A%2F%2Fdatayi.cn%2Fw%2Fj9y6nwyR)
+1. [廖雪峰历时 3 个月打磨出价值 1980 的数据分析教程，终终终于免费啦！](https://weekly.manong.io/bounce?nid=303&aid=19184&url=https%3A%2F%2Fdatayi.cn%2Fw%2Fnomk0YMR)
+1. [廖雪峰历时 3 个月打磨出价值 1980 的数据分析教程，终终终于免费啦！](https://weekly.manong.io/bounce?nid=303&aid=19184&url=https%3A%2F%2Fdatayi.cn%2Fw%2Fnomk0YMR)
+1. [廖雪峰历时 3 个月打磨出价值 1980 的数据分析教程，终终终于免费啦！](https://weekly.manong.io/bounce?nid=303&aid=19184&url=https%3A%2F%2Fdatayi.cn%2Fw%2Fnomk0YMR)
+1. [教你免费搭建一个技术博客](https://weekly.manong.io/bounce?nid=303&aid=19163&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwl7xc85)

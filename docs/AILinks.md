@@ -1291,3 +1291,4 @@
 1. [机器学习入门 21 讲](https://weekly.manong.io/bounce?nid=301&aid=19070&url=https%3A%2F%2Ft.lagou.com%2F3RADRPRuRU7B5%23301)
 1. [浅谈 DDoS 攻防对抗中的 AI 实践](https://weekly.manong.io/bounce?nid=301&aid=19071&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fd2s6n8i)
 1. [ElasticSearch 实战：如何从数千万手机号中识别出情侣号？](https://weekly.manong.io/bounce?nid=301&aid=19093&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp19xth9)
+1. [阿里云智能事业群 / 运维开发专家 | 哔哩哔哩 / 资深Golang开发工程师 / 25k-40k | 字节跳动广告数据平台 / 广告业务数据研发工程师](https://weekly.manong.io/bounce?nid=303&aid=19187&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FElYXsgUY4JSqsbtOu5J3cQ)

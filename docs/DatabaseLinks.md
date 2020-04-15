@@ -670,3 +670,5 @@
 1. [书写高质量 SQL 的 30 条建议](https://weekly.manong.io/bounce?nid=301&aid=19096&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjkt5l7f)
 1. [或许你不知道的 12 条 SQL 技巧](https://weekly.manong.io/bounce?nid=302&aid=19132&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpii5uxa)
 1. [深入理解 MySQL 索引](https://weekly.manong.io/bounce?nid=302&aid=19136&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj02wtn8)
+1. [使用 Golang 理解 MySQL 的两阶段提交](https://weekly.manong.io/bounce?nid=303&aid=19157&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhqd4451)
+1. [实战 MySQL 参数调优](https://weekly.manong.io/bounce?nid=303&aid=19164&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnas6eyi)

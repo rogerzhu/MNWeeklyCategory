@@ -253,3 +253,4 @@
 1. [一份来自亚马逊工程师的 Google 面试指南：GitHub 10w+ Star，中文版](https://weekly.manong.io/bounce?nid=301&aid=19077&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7qxkysk)
 1. [从一道真实的面试题聊聊消息机制](https://weekly.manong.io/bounce?nid=301&aid=19087&url=https%3A%2F%2Ftoutiao.io%2Fk%2F35dchf0)
 1. [聊聊面试的事](https://weekly.manong.io/bounce?nid=301&aid=19053&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnhhsxvd)
+1. [如何安全存储密码都不知道，难怪我被面试官吊打呢…… 学完这个一定打回去](https://weekly.manong.io/bounce?nid=303&aid=19162&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flq4sj7q)

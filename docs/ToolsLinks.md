@@ -402,3 +402,4 @@
 1. [跨平台的浏览器自动化工具 Playwright 简析](https://weekly.manong.io/bounce?nid=300&aid=19010&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq7331op)
 1. [书到用时方恨少，一大波 JS 开发工具函数来了](https://weekly.manong.io/bounce?nid=301&aid=19105&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftd8gywd)
 1. [书到用时方恨少，一大波 JS 开发工具函数来了](https://weekly.manong.io/bounce?nid=301&aid=19105&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftd8gywd)
+1. [Kbone 框架快速上手：把 Web 端代码直接移植到小程序的工具是否好用？](https://weekly.manong.io/bounce?nid=303&aid=19176&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzwnwmy5)

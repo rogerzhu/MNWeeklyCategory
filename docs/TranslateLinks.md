@@ -1792,3 +1792,5 @@
 1. [[译] 改善 React 应用性能的 5 个建议](https://weekly.manong.io/bounce?nid=301&aid=19067&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu1uzfby)
 1. [[译] Vue + Node + WebRTC 构建一个高逼格的视频应用](https://weekly.manong.io/bounce?nid=301&aid=19106&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgd2vuac)
 1. [[译] Go 语言之父带你重新认识字符串、字节、rune 和字符](https://weekly.manong.io/bounce?nid=302&aid=19123&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1seirv5)
+1. [[译] Golang vs Python：选哪个？](https://weekly.manong.io/bounce?nid=303&aid=19155&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhed5bdz)
+1. [[译] 人们不使用 CSS 新功能的 5 个原因](https://weekly.manong.io/bounce?nid=303&aid=19160&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl1oju4y)

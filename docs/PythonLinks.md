@@ -630,3 +630,4 @@
 1. [Kafka Producer 干货篇](https://weekly.manong.io/bounce?nid=301&aid=19090&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8qbulow)
 1. [Python 3.9 新特性：任意表达式可作为装饰器](https://weekly.manong.io/bounce?nid=301&aid=19062&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7d8usj0)
 1. [Kafka Producer 干货篇](https://weekly.manong.io/bounce?nid=301&aid=19090&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8qbulow)
+1. [[译] Golang vs Python：选哪个？](https://weekly.manong.io/bounce?nid=303&aid=19155&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhed5bdz)

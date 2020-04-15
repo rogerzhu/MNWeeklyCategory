@@ -227,3 +227,4 @@
 1. [掌握 BAT 面试真题以及背后的源码剖析，看这个就够了](https://weekly.manong.io/bounce?nid=300&aid=19026&url=https%3A%2F%2Ft.lagou.com%2F3RB0R%3DRIRUFF8)
 1. [分析开源项目源码，我们该如何入手分析？](https://weekly.manong.io/bounce?nid=301&aid=19097&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fugemdaa)
 1. [分析开源项目源码，我们该如何入手分析？](https://weekly.manong.io/bounce?nid=301&aid=19097&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fugemdaa)
+1. [源码笔记](https://weekly.manong.io/bounce?nid=303&aid=19179&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F438416%23303)

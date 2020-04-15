@@ -938,3 +938,8 @@
 1. [Golang 中的内置函数](https://weekly.manong.io/bounce?nid=302&aid=19124&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl68aih2)
 1. [Golang HTTP 服务平滑重启及升级](https://weekly.manong.io/bounce?nid=302&aid=19125&url=https%3A%2F%2Ftoutiao.io%2Fk%2Forx42xm)
 1. [Go 实现 LeetCode 全集](https://weekly.manong.io/bounce?nid=302&aid=19140&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1pre8xr)
+1. [阿里云智能事业群 / 运维开发专家 | 哔哩哔哩 / 资深Golang开发工程师 / 25k-40k | 字节跳动广告数据平台 / 广告业务数据研发工程师](https://weekly.manong.io/bounce?nid=303&aid=19187&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FElYXsgUY4JSqsbtOu5J3cQ)
+1. [[译] Golang vs Python：选哪个？](https://weekly.manong.io/bounce?nid=303&aid=19155&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhed5bdz)
+1. [Protobuf 生成 Go 代码指南](https://weekly.manong.io/bounce?nid=303&aid=19156&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuw2ojz9)
+1. [使用 Golang 理解 MySQL 的两阶段提交](https://weekly.manong.io/bounce?nid=303&aid=19157&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhqd4451)
+1. [Go 和 Rust 的优缺点；预测 Go 1.16-1.19 会支持泛型](https://weekly.manong.io/bounce?nid=303&aid=19158&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb8y9c8d)

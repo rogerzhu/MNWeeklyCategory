@@ -577,3 +577,4 @@
 1. [[译] 7 个简单但棘手的 JavaScript 面试问题](https://weekly.manong.io/bounce?nid=300&aid=19038&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0cinbno)
 1. [《吊打面试官》系列 Node.js 全栈秒杀系统](https://weekly.manong.io/bounce?nid=301&aid=19068&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsjeip79)
 1. [《吊打面试官》系列 Node.js 全栈秒杀系统](https://weekly.manong.io/bounce?nid=301&aid=19068&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsjeip79)
+1. [JavaScript 之选择控制语句及很重要的表达式真与假](https://weekly.manong.io/bounce?nid=303&aid=19159&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fel3b9hx)

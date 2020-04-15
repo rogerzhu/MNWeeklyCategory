@@ -234,3 +234,5 @@
 1. [浅谈自动化测试](https://weekly.manong.io/bounce?nid=296&aid=18763&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fziy2z71)
 1. [搭建国密 SSL 开发测试环境](https://weekly.manong.io/bounce?nid=298&aid=18882&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftftrn3v)
 1. [这是一篇 “不一样” 的真实渗透测试案例分析文章](https://weekly.manong.io/bounce?nid=300&aid=19000&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwsrn74r)
+1. [如何构建A/B测试系统，其核心功能有哪些？](https://weekly.manong.io/bounce?nid=303&aid=19161&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuucnvmc)
+1. [Web “性能测试” 知多少？](https://weekly.manong.io/bounce?nid=303&aid=19172&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxiki94u)

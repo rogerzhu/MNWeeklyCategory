@@ -204,3 +204,4 @@
 1. [JavaScript 引擎 V8 执行流程概述](https://weekly.manong.io/bounce?nid=291&aid=18479&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fepbg4p5)
 1. [MySQL 的 InnoDB 存储引擎是怎么设计的？](https://weekly.manong.io/bounce?nid=293&aid=18586&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffqy21if)
 1. [Emacs 中的游戏与乐趣](https://weekly.manong.io/bounce?nid=296&aid=18747&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz7pvfd2)
+1. [基于 Roslyn 实现一个简单的条件解析引擎](https://weekly.manong.io/bounce?nid=303&aid=19170&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxeyvv8t)

@@ -91,3 +91,4 @@
 1. [前阿里巴巴运维专家的 36 个运维面试 & 工作常见问题，都在这了](https://weekly.manong.io/bounce?nid=300&aid=18995&url=https%3A%2F%2Ft.lagou.com%2F3R05RgRHRUB82)
 1. [手把手教你搭建一套 ELK 日志搜索运维平台](https://weekly.manong.io/bounce?nid=301&aid=19101&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw78569c)
 1. [手把手教你搭建一套 ELK 日志搜索运维平台](https://weekly.manong.io/bounce?nid=301&aid=19101&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw78569c)
+1. [阿里云智能事业群 / 运维开发专家 | 哔哩哔哩 / 资深Golang开发工程师 / 25k-40k | 字节跳动广告数据平台 / 广告业务数据研发工程师](https://weekly.manong.io/bounce?nid=303&aid=19187&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FElYXsgUY4JSqsbtOu5J3cQ)

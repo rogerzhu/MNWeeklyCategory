@@ -644,3 +644,6 @@
 1. [微信 10 亿日活场景下，后台系统微服务架构实践](https://weekly.manong.io/bounce?nid=301&aid=19048&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftr32h3p)
 1. [一文道尽软件架构及前端架构演进](https://weekly.manong.io/bounce?nid=301&aid=19049&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4c5x4fc)
 1. [《Serverless 架构：从原理、设计到项目实战》](https://weekly.manong.io/bounce?nid=302&aid=19141&url=https%3A%2F%2Fitem.jd.com%2F12592747.html)
+1. [做了那么多架构，你真的懂 SOA 了吗？](https://weekly.manong.io/bounce?nid=303&aid=19147&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9zioqym)
+1. [企业级业务架构的设计难点](https://weekly.manong.io/bounce?nid=303&aid=19148&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff2k82f6)
+1. [《超大流量分布式系统架构解决方案：人人都是架构师2.0》](https://weekly.manong.io/bounce?nid=303&aid=19178&url=https%3A%2F%2Fitem.jd.com%2F12827026.html)
