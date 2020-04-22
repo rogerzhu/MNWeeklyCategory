@@ -1794,3 +1794,5 @@
 1. [[译] Go 语言之父带你重新认识字符串、字节、rune 和字符](https://weekly.manong.io/bounce?nid=302&aid=19123&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1seirv5)
 1. [[译] Golang vs Python：选哪个？](https://weekly.manong.io/bounce?nid=303&aid=19155&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhed5bdz)
 1. [[译] 人们不使用 CSS 新功能的 5 个原因](https://weekly.manong.io/bounce?nid=303&aid=19160&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl1oju4y)
+1. [[译] Spring 中的设计模式](https://weekly.manong.io/bounce?nid=304&aid=19193&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy5tucha)
+1. [[译] Go 的泛型真的要来了：如何使用以及它们是怎么工作的](https://weekly.manong.io/bounce?nid=304&aid=19199&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fup9tjfw)

@@ -688,3 +688,4 @@
 1. [Emacs 中的游戏与乐趣](https://weekly.manong.io/bounce?nid=296&aid=18747&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz7pvfd2)
 1. [阿里、字节：一套高效的 iOS 面试题 ](https://weekly.manong.io/bounce?nid=298&aid=18909&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0xqe4el)
 1. [Mac 软件推荐](https://weekly.manong.io/bounce?nid=298&aid=18875&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fa21mnqr)
+1. [checkra1n iOS 13.3.1 越狱 + ipa 脱壳](https://weekly.manong.io/bounce?nid=304&aid=19196&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo0528w3)

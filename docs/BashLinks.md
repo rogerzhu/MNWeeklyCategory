@@ -13,3 +13,4 @@
 1. [一次配置，每天受益的 Bash 命令补全技巧](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4oGNb30gq4fOAV9qQ_ZH-A&aid=17259&nid=274)
 1. [基于 Bash Shell 脚本制定灵活的 trimlog 日志清理策略](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb8vvbb8&aid=17783&nid=281)
 1. [Bash 常见特殊符号及含义](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fodf1v9x&aid=17788&nid=281)
+1. [大神阮一峰的《Bash 脚本教程》免费发布啦](https://weekly.manong.io/bounce?nid=304&aid=19210&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyqthvj0)

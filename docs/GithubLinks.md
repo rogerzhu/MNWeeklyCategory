@@ -125,3 +125,4 @@
 1. [GitHub 火热的 FastAPI 库，站在了这些知名库的肩膀上](https://weekly.manong.io/bounce?nid=298&aid=18903&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvjrpogx)
 1. [一份来自亚马逊工程师的 Google 面试指南：GitHub 10w+ Star，中文版](https://weekly.manong.io/bounce?nid=301&aid=19077&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7qxkysk)
 1. [一份来自亚马逊工程师的 Google 面试指南：GitHub 10w+ Star，中文版](https://weekly.manong.io/bounce?nid=301&aid=19077&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7qxkysk)
+1. [看不懂 00 后的黑话缩写？没事，这款上了 GitHub 热榜的开源工具来帮你](https://weekly.manong.io/bounce?nid=304&aid=19211&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8vc8bzc)

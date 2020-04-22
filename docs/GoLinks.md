@@ -943,3 +943,6 @@
 1. [Protobuf 生成 Go 代码指南](https://weekly.manong.io/bounce?nid=303&aid=19156&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuw2ojz9)
 1. [使用 Golang 理解 MySQL 的两阶段提交](https://weekly.manong.io/bounce?nid=303&aid=19157&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhqd4451)
 1. [Go 和 Rust 的优缺点；预测 Go 1.16-1.19 会支持泛型](https://weekly.manong.io/bounce?nid=303&aid=19158&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb8y9c8d)
+1. [[译] Go 的泛型真的要来了：如何使用以及它们是怎么工作的](https://weekly.manong.io/bounce?nid=304&aid=19199&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fup9tjfw)
+1. [用 Golang 构建 gRPC 服务](https://weekly.manong.io/bounce?nid=304&aid=19200&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw1ucq4k)
+1. [Go语言中文网](https://weekly.manong.io/bounce?nid=304&aid=19226&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F133906%23304)

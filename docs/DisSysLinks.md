@@ -361,3 +361,4 @@
 1. [300 分钟吃透分布式缓存](https://weekly.manong.io/bounce?nid=301&aid=19076&url=https%3A%2F%2Ft.lagou.com%2F3RC0RcRuRUF42%23301)
 1. [MIT 6.824 分布式系统课程第四课：主备复制](https://weekly.manong.io/bounce?nid=302&aid=19129&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fssa331p)
 1. [《超大流量分布式系统架构解决方案：人人都是架构师2.0》](https://weekly.manong.io/bounce?nid=303&aid=19178&url=https%3A%2F%2Fitem.jd.com%2F12827026.html)
+1. [用匠心精神，打造高可用分布式系统](https://weekly.manong.io/bounce?nid=304&aid=19206&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftmdintk)

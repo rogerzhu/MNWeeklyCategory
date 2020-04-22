@@ -273,3 +273,4 @@
 1. [[译] 改善 React 应用性能的 5 个建议](https://weekly.manong.io/bounce?nid=301&aid=19067&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu1uzfby)
 1. [[译] 改善 React 应用性能的 5 个建议](https://weekly.manong.io/bounce?nid=301&aid=19067&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu1uzfby)
 1. [React Native 在汽车人 App 上的应用与实践](https://weekly.manong.io/bounce?nid=302&aid=19126&url=https%3A%2F%2Ftoutiao.io%2Fk%2F43gzzya)
+1. [探索 Vue 和 React 中 key 的作用](https://weekly.manong.io/bounce?nid=304&aid=19205&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqxwf4o1)

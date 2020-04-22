@@ -40,3 +40,4 @@
 1. [App 工厂理论及其在 58 同城 App 中的应用实践](https://weekly.manong.io/bounce?nid=291&aid=18466&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzv51bst)
 1. [设计模式在外卖营销业务中的实践](https://weekly.manong.io/bounce?nid=301&aid=19089&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6gqgvf1)
 1. [设计模式在外卖营销业务中的实践](https://weekly.manong.io/bounce?nid=301&aid=19089&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6gqgvf1)
+1. [[译] Spring 中的设计模式](https://weekly.manong.io/bounce?nid=304&aid=19193&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy5tucha)

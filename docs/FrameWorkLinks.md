@@ -440,3 +440,4 @@
 1. [[译] PHP 框架 CodeIgniter 4 正式版发布了](https://weekly.manong.io/bounce?nid=298&aid=18910&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwjup2gi)
 1. [分布式定时任务调度框架实践](https://weekly.manong.io/bounce?nid=299&aid=18948&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnecfb59)
 1. [Kbone 框架快速上手：把 Web 端代码直接移植到小程序的工具是否好用？](https://weekly.manong.io/bounce?nid=303&aid=19176&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzwnwmy5)
+1. [Flutter Web 网站之主页框架搭建](https://weekly.manong.io/bounce?nid=304&aid=19197&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff6urf0l)

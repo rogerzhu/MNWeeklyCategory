@@ -546,3 +546,5 @@
 1. [细数 Java 项目中用过的配置文件（properties 篇）](https://weekly.manong.io/bounce?nid=303&aid=19150&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1u4b5f1)
 1. [Java 对象在虚拟机中到底是什么样子？](https://weekly.manong.io/bounce?nid=303&aid=19151&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvok6co1)
 1. [Java实战技术](https://weekly.manong.io/bounce?nid=303&aid=19183&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F22887%23303)
+1. [Java 14 新特性详细使用说明](https://weekly.manong.io/bounce?nid=304&aid=19192&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnuwhqj4)
+1. [1.2w+ Star，Java 资源大全中文版，你能想到的全都有](https://weekly.manong.io/bounce?nid=304&aid=19212&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff10mm19)

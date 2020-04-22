@@ -151,3 +151,5 @@
 1. [[译] Vue + Node + WebRTC 构建一个高逼格的视频应用](https://weekly.manong.io/bounce?nid=301&aid=19106&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgd2vuac)
 1. [[译] Vue + Node + WebRTC 构建一个高逼格的视频应用](https://weekly.manong.io/bounce?nid=301&aid=19106&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgd2vuac)
 1. [一个清爽的 VUE UI 组件库](https://weekly.manong.io/bounce?nid=302&aid=19139&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpyfso0p)
+1. [Vue.js 中编写更好的 v-for 循环的 6 种技巧](https://weekly.manong.io/bounce?nid=304&aid=19204&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3kynlxr)
+1. [探索 Vue 和 React 中 key 的作用](https://weekly.manong.io/bounce?nid=304&aid=19205&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqxwf4o1)

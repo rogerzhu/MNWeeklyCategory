@@ -647,3 +647,5 @@
 1. [做了那么多架构，你真的懂 SOA 了吗？](https://weekly.manong.io/bounce?nid=303&aid=19147&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9zioqym)
 1. [企业级业务架构的设计难点](https://weekly.manong.io/bounce?nid=303&aid=19148&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff2k82f6)
 1. [《超大流量分布式系统架构解决方案：人人都是架构师2.0》](https://weekly.manong.io/bounce?nid=303&aid=19178&url=https%3A%2F%2Fitem.jd.com%2F12827026.html)
+1. [领域驱动分层架构与对象模型](https://weekly.manong.io/bounce?nid=304&aid=19207&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy3l6bth)
+1. [架构师角色认知](https://weekly.manong.io/bounce?nid=304&aid=19208&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8g7wlqr)

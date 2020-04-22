@@ -38,3 +38,4 @@
 1. [Powershell 最佳安全实践](https://weekly.manong.io/bounce?nid=261&aid=16196&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzU4NzU4MDg0Mw%3D%3D%26mid%3D2247484570%26idx%3D1%26sn%3Dcdd7a2703a1c12debd67a991f6685ee7)
 1. [基于 Bash Shell 脚本制定灵活的 trimlog 日志清理策略](https://weekly.manong.io/bounce?nid=281&aid=17783&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb8vvbb8)
 1. [HBase Shell 命令](https://weekly.manong.io/bounce?nid=292&aid=18550&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy47uum1)
+1. [细数 Redis 的几种 Getshell 方法](https://weekly.manong.io/bounce?nid=304&aid=19215&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqdh8ae7)

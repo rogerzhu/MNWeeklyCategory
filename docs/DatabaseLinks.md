@@ -672,3 +672,6 @@
 1. [深入理解 MySQL 索引](https://weekly.manong.io/bounce?nid=302&aid=19136&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj02wtn8)
 1. [使用 Golang 理解 MySQL 的两阶段提交](https://weekly.manong.io/bounce?nid=303&aid=19157&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhqd4451)
 1. [实战 MySQL 参数调优](https://weekly.manong.io/bounce?nid=303&aid=19164&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnas6eyi)
+1. [细数 Redis 的几种 Getshell 方法](https://weekly.manong.io/bounce?nid=304&aid=19215&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqdh8ae7)
+1. [HBase 调优：写入阻塞问题与参数优化](https://weekly.manong.io/bounce?nid=304&aid=19216&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6gxe39f)
+1. [MySQL 的死锁系列：锁的类型以及加锁原理](https://weekly.manong.io/bounce?nid=304&aid=19222&url=https%3A%2F%2Ftoutiao.io%2Fk%2F399w46g)

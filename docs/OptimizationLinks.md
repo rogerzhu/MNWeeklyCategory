@@ -375,3 +375,5 @@
 1. [Java 程序该怎么优化？](https://weekly.manong.io/bounce?nid=301&aid=19057&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwuqas9r)
 1. [大厂 Redis 性能优化的 13 条军规！](https://weekly.manong.io/bounce?nid=301&aid=19083&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnqt0qa9)
 1. [Java 程序该怎么优化？（实战篇）](https://weekly.manong.io/bounce?nid=302&aid=19120&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsc85ef3)
+1. [Android Gradle 构建效率优化](https://weekly.manong.io/bounce?nid=304&aid=19195&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhpllr2t)
+1. [HBase 调优：写入阻塞问题与参数优化](https://weekly.manong.io/bounce?nid=304&aid=19216&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6gxe39f)

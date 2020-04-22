@@ -183,3 +183,4 @@
 1. [微信 10 亿日活场景下，后台系统微服务架构实践](https://weekly.manong.io/bounce?nid=301&aid=19048&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftr32h3p)
 1. [微信 10 亿日活场景下，后台系统微服务架构实践](https://weekly.manong.io/bounce?nid=301&aid=19048&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftr32h3p)
 1. [微服务超全的设计选型参考](https://weekly.manong.io/bounce?nid=302&aid=19127&url=https%3A%2F%2Ftoutiao.io%2Fk%2F08ex0sl)
+1. [微服务、DevOps…不是效率银弹，请同时升级你的管理方式](https://weekly.manong.io/bounce?nid=304&aid=19223&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fibh4mpc)

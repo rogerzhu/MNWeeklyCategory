@@ -403,3 +403,4 @@
 1. [书到用时方恨少，一大波 JS 开发工具函数来了](https://weekly.manong.io/bounce?nid=301&aid=19105&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftd8gywd)
 1. [书到用时方恨少，一大波 JS 开发工具函数来了](https://weekly.manong.io/bounce?nid=301&aid=19105&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftd8gywd)
 1. [Kbone 框架快速上手：把 Web 端代码直接移植到小程序的工具是否好用？](https://weekly.manong.io/bounce?nid=303&aid=19176&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzwnwmy5)
+1. [看不懂 00 后的黑话缩写？没事，这款上了 GitHub 热榜的开源工具来帮你](https://weekly.manong.io/bounce?nid=304&aid=19211&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8vc8bzc)

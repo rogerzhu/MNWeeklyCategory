@@ -431,3 +431,5 @@
 1. [冷星前端圈](https://weekly.manong.io/bounce?nid=301&aid=19109&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F380054%23301)
 1. [前端为什么要关注 Serverless?](https://weekly.manong.io/bounce?nid=301&aid=19099&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1mbvwoz)
 1. [亿级前端项目中的 3D 技术：支付宝 2020 年新春活动的背后](https://weekly.manong.io/bounce?nid=302&aid=19116&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft55e17k)
+1. [Web前端静轩苑](https://weekly.manong.io/bounce?nid=304&aid=19224&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F79906%23304)
+1. [冷星前端圈](https://weekly.manong.io/bounce?nid=304&aid=19227&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F380054%23304)
