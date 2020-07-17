@@ -205,3 +205,6 @@
 1. [MySQL 的 InnoDB 存储引擎是怎么设计的？](https://weekly.manong.io/bounce?nid=293&aid=18586&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffqy21if)
 1. [Emacs 中的游戏与乐趣](https://weekly.manong.io/bounce?nid=296&aid=18747&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz7pvfd2)
 1. [基于 Roslyn 实现一个简单的条件解析引擎](https://weekly.manong.io/bounce?nid=303&aid=19170&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxeyvv8t)
+1. [美团 OCTO 万亿级数据中心计算引擎技术解析](https://weekly.manong.io/bounce?nid=306&aid=19279&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm3b0mht)
+1. [复杂风控场景下，如何打造一款高效的规则引擎](https://weekly.manong.io/bounce?nid=307&aid=19324&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fane6e50)
+1. [查询耗时降低 2/3，携程度假搜索引擎架构优化](https://weekly.manong.io/bounce?nid=312&aid=19578&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxjxbd0u)

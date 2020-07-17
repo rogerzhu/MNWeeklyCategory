@@ -441,3 +441,7 @@
 1. [分布式定时任务调度框架实践](https://weekly.manong.io/bounce?nid=299&aid=18948&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnecfb59)
 1. [Kbone 框架快速上手：把 Web 端代码直接移植到小程序的工具是否好用？](https://weekly.manong.io/bounce?nid=303&aid=19176&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzwnwmy5)
 1. [Flutter Web 网站之主页框架搭建](https://weekly.manong.io/bounce?nid=304&aid=19197&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff6urf0l)
+1. [深度：从零编写一个微前端框架](https://weekly.manong.io/bounce?nid=307&aid=19356&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftjzh3p8)
+1. [笑话：大厂都在用的任务调度框架我能不知道吗？？？](https://weekly.manong.io/bounce?nid=307&aid=19362&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvay9bs8)
+1. [Java 并发编程那些事儿（六）：Executor 框架及线程池](https://weekly.manong.io/bounce?nid=309&aid=19426&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn4e3smu)
+1. [快速打造属于你的接口自动化测试框架](https://weekly.manong.io/bounce?nid=311&aid=19555&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5v0mnbm)

@@ -61,3 +61,4 @@
 1. [.NET Core + Kubernetes：快速体验](https://weekly.manong.io/bounce?nid=301&aid=19063&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnriahxw)
 1. [.NET Core + Kubernetes：快速体验](https://weekly.manong.io/bounce?nid=301&aid=19063&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnriahxw)
 1. [C# + Web = ？](https://weekly.manong.io/bounce?nid=304&aid=19201&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpgzukhr)
+1. [[译] 欢迎使用 C# 9.0](https://weekly.manong.io/bounce?nid=308&aid=19390&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fauwyk3t)

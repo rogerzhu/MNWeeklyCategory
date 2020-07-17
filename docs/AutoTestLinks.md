@@ -28,3 +28,4 @@
 1. [UI 自动化测试疑难点](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F13xdvi3&aid=17470&nid=277)
 1. [花椒 Android 端自动化测试实践](https://weekly.manong.io/bounce?nid=294&aid=18652&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fomaqswr)
 1. [浅谈自动化测试](https://weekly.manong.io/bounce?nid=296&aid=18763&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fziy2z71)
+1. [快速打造属于你的接口自动化测试框架](https://weekly.manong.io/bounce?nid=311&aid=19555&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5v0mnbm)

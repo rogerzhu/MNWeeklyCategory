@@ -579,3 +579,7 @@
 1. [《吊打面试官》系列 Node.js 全栈秒杀系统](https://weekly.manong.io/bounce?nid=301&aid=19068&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsjeip79)
 1. [JavaScript 之选择控制语句及很重要的表达式真与假](https://weekly.manong.io/bounce?nid=303&aid=19159&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fel3b9hx)
 1. [Vue.js 中编写更好的 v-for 循环的 6 种技巧](https://weekly.manong.io/bounce?nid=304&aid=19204&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3kynlxr)
+1. [史上最全的 JavaScript 模块化方案和工具](https://weekly.manong.io/bounce?nid=307&aid=19337&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhazuhod)
+1. [[译] Next.js 和 Nuxt.js 的语法比较，Vue 和 React 的两大 SSR 解决方案](https://weekly.manong.io/bounce?nid=307&aid=19338&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs9cx24y)
+1. [[译] JavaScript vs Dart 两者之间的比较](https://weekly.manong.io/bounce?nid=309&aid=19436&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fx6eum0aHeSQuUfi_Qfbzdw)
+1. [一文读懂 JavaScript 深拷贝与浅拷贝](https://weekly.manong.io/bounce?nid=311&aid=19538&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fbhyt-Cup_fTEejRWBsvsHA)

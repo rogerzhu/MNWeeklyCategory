@@ -94,3 +94,5 @@
 1. [那些你可能用得上的在线办公神器](https://weekly.manong.io/bounce?nid=301&aid=19094&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw3x0d9h)
 1. [那些你可能用得上的在线办公神器](https://weekly.manong.io/bounce?nid=301&aid=19094&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw3x0d9h)
 1. [抓包神器：tcpdump](https://weekly.manong.io/bounce?nid=302&aid=19128&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs2xj8sg)
+1. [自从用了这款神器，老板再也不担心我删库跑路了！](https://weekly.manong.io/bounce?nid=307&aid=19346&url=https%3A%2F%2Ftoutiao.io%2Fk%2F13aavdv)
+1. [性能调优利器：火焰图](https://weekly.manong.io/bounce?nid=312&aid=19597&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcyzz0t9)

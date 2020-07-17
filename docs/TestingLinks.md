@@ -236,3 +236,8 @@
 1. [这是一篇 “不一样” 的真实渗透测试案例分析文章](https://weekly.manong.io/bounce?nid=300&aid=19000&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwsrn74r)
 1. [如何构建A/B测试系统，其核心功能有哪些？](https://weekly.manong.io/bounce?nid=303&aid=19161&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuucnvmc)
 1. [Web “性能测试” 知多少？](https://weekly.manong.io/bounce?nid=303&aid=19172&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxiki94u)
+1. [Go 中的高级测试模式：集成测试如何做？](https://weekly.manong.io/bounce?nid=305&aid=19245&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8u7e71n)
+1. [Web 测试：为什么我选了 cypress，而不是 headless](https://weekly.manong.io/bounce?nid=310&aid=19510&url=https%3A%2F%2Ftoutiao.io%2Fk%2F55kky9t)
+1. [少年：究竟什么是单元测试啊？](https://weekly.manong.io/bounce?nid=311&aid=19549&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpw51ydz)
+1. [快速打造属于你的接口自动化测试框架](https://weekly.manong.io/bounce?nid=311&aid=19555&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5v0mnbm)
+1. [用单元测试读懂 Vue 3 中的 provide/inject](https://weekly.manong.io/bounce?nid=312&aid=19592&url=https%3A%2F%2Ftoutiao.io%2Fk%2F436zd0f)

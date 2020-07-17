@@ -92,3 +92,4 @@
 1. [廖雪峰历时 3 个月打磨出价值 1980 的数据分析教程，终终终于免费啦！](https://weekly.manong.io/bounce?nid=303&aid=19184&url=https%3A%2F%2Fdatayi.cn%2Fw%2Fnomk0YMR)
 1. [教你免费搭建一个技术博客](https://weekly.manong.io/bounce?nid=303&aid=19163&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwl7xc85)
 1. [大神阮一峰的《Bash 脚本教程》免费发布啦](https://weekly.manong.io/bounce?nid=304&aid=19210&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyqthvj0)
+1. [世界读书日，上百本免费计算机书籍，拿走不谢！](https://weekly.manong.io/bounce?nid=305&aid=19251&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjft8ezv)

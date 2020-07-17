@@ -62,3 +62,5 @@
 1. [推荐算法团队介绍](https://weekly.manong.io/bounce?nid=294&aid=18625&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhtlu867)
 1. [推荐系统提供 web 服务的 2 种方式](https://weekly.manong.io/bounce?nid=298&aid=18880&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjl9cfe6)
 1. [推荐系统的人工调控](https://weekly.manong.io/bounce?nid=300&aid=18992&url=https%3A%2F%2Ftoutiao.io%2Fk%2F806f4ts)
+1. [推荐系统中不得不说的 DSSM 双塔模型 ](https://weekly.manong.io/bounce?nid=307&aid=19354&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9v5muff)
+1. [基于 DNN 的推荐算法介绍](https://weekly.manong.io/bounce?nid=309&aid=19456&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F40CRPECu_-RTznZH5zkXhg)

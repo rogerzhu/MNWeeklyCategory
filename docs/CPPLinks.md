@@ -128,3 +128,6 @@
 1. [C++ 那些事](https://weekly.manong.io/bounce?nid=298&aid=18905&url=https%3A%2F%2Ftoutiao.io%2Fk%2F90v8ly3)
 1. [那些主流编程语言的知识：C 语言（一）](https://weekly.manong.io/bounce?nid=299&aid=18962&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6u539gw)
 1. [C++ 与 正则表达式](https://weekly.manong.io/bounce?nid=300&aid=19027&url=https%3A%2F%2Ftoutiao.io%2Fk%2Feqkwkmu)
+1. [在 Kubernetes 上用 Krustlet 调度 WASM](https://weekly.manong.io/bounce?nid=305&aid=19260&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fjx7ALC5kAsUXCYxIcUko0g)
+1. [C++ 模板编程](https://weekly.manong.io/bounce?nid=310&aid=19479&url=https%3A%2F%2Ftoutiao.io%2Fk%2Furkx9wp)
+1. [C++ 探索之旅（一）：什么是 C++](https://weekly.manong.io/bounce?nid=312&aid=19580&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxq9mlaj)

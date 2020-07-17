@@ -42,3 +42,4 @@
 1. [大数据分析工程师面试集锦（二）：Scala](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F11vry9estQtQmQnRnbTksQ&aid=17184&nid=273)
 1. [Scala 函数式编程（一）：什么是函数式编程？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTpL1kQE9VfkcjL88P3Ru9Q&aid=17442&nid=276)
 1. [从 30 分钟到 1 分钟：一个 Scala 项目的编译速度优化](https://weekly.manong.io/bounce?nid=283&aid=17919&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FKC_my3H4big7eH2zWqb2lA)
+1. [Scala 类型层次结构](https://weekly.manong.io/bounce?nid=306&aid=19287&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fi8uticy)

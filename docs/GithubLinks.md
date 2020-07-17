@@ -126,3 +126,6 @@
 1. [一份来自亚马逊工程师的 Google 面试指南：GitHub 10w+ Star，中文版](https://weekly.manong.io/bounce?nid=301&aid=19077&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7qxkysk)
 1. [一份来自亚马逊工程师的 Google 面试指南：GitHub 10w+ Star，中文版](https://weekly.manong.io/bounce?nid=301&aid=19077&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7qxkysk)
 1. [看不懂 00 后的黑话缩写？没事，这款上了 GitHub 热榜的开源工具来帮你](https://weekly.manong.io/bounce?nid=304&aid=19211&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8vc8bzc)
+1. [「架构师技术图谱」上 GitHub 热榜了，助你早日成为架构师！](https://weekly.manong.io/bounce?nid=305&aid=19247&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvu7z6rh)
+1. [PanDownload 不能用了，可是我发现它们上了 GitHub 热榜](https://weekly.manong.io/bounce?nid=305&aid=19254&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm21guzt)
+1. [一款 GitHub 代码泄露监控系统，为企业安全保驾护航！](https://weekly.manong.io/bounce?nid=312&aid=19617&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3ua6tyb)

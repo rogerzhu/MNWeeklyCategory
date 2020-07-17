@@ -26,3 +26,5 @@
 1. [前端为什么要关注 Serverless?](https://weekly.manong.io/bounce?nid=301&aid=19099&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1mbvwoz)
 1. [前端为什么要关注 Serverless?](https://weekly.manong.io/bounce?nid=301&aid=19099&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1mbvwoz)
 1. [《Serverless 架构：从原理、设计到项目实战》](https://weekly.manong.io/bounce?nid=302&aid=19141&url=https%3A%2F%2Fitem.jd.com%2F12592747.html)
+1. [重写 500 Lines or Less 项目：Web Server](https://weekly.manong.io/bounce?nid=308&aid=19411&url=https%3A%2F%2Fshuhari.dev%2Fblog%2F2020%2F5%2F500lines-rewrite-web-server)
+1. [Web 测试：为什么我选了 cypress，而不是 headless](https://weekly.manong.io/bounce?nid=310&aid=19510&url=https%3A%2F%2Ftoutiao.io%2Fk%2F55kky9t)

@@ -364,3 +364,6 @@
 1. [php饭米粒](https://weekly.manong.io/bounce?nid=297&aid=18866&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F56197%23297)
 1. [[译] PHP 框架 CodeIgniter 4 正式版发布了](https://weekly.manong.io/bounce?nid=298&aid=18910&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwjup2gi)
 1. [一个 PHP 从业者的常用开发工具和习惯分享](https://weekly.manong.io/bounce?nid=300&aid=19033&url=https%3A%2F%2Ftoutiao.io%2Fk%2Femrayvt)
+1. [PHP 8 正式版将于年底发布](https://weekly.manong.io/bounce?nid=305&aid=19243&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvnyp4dt)
+1. [写PHP的老王](https://weekly.manong.io/bounce?nid=308&aid=19415&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F133872%23308)
+1. [写在 PHP 8 发布之前的话](https://weekly.manong.io/bounce?nid=311&aid=19534&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe1e0xpt)

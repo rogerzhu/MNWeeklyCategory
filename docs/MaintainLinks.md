@@ -92,3 +92,7 @@
 1. [手把手教你搭建一套 ELK 日志搜索运维平台](https://weekly.manong.io/bounce?nid=301&aid=19101&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw78569c)
 1. [手把手教你搭建一套 ELK 日志搜索运维平台](https://weekly.manong.io/bounce?nid=301&aid=19101&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw78569c)
 1. [阿里云智能事业群 / 运维开发专家 | 哔哩哔哩 / 资深Golang开发工程师 / 25k-40k | 字节跳动广告数据平台 / 广告业务数据研发工程师](https://weekly.manong.io/bounce?nid=303&aid=19187&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FElYXsgUY4JSqsbtOu5J3cQ)
+1. [让天下没有苦逼的运维！试试这个工具吧！](https://weekly.manong.io/bounce?nid=306&aid=19292&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7MV3jc3U6ZfXsnm7USgzgg)
+1. [让天下没有苦逼的运维！试试这个工具吧！](https://weekly.manong.io/bounce?nid=307&aid=19348&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7x43jp7)
+1. [ClickHouse 之 DBA 运维宝典](https://weekly.manong.io/bounce?nid=311&aid=19551&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp7qsho3)
+1. [Kafka 消费线程模型在中通消息服务运维平台的应用](https://weekly.manong.io/bounce?nid=312&aid=19601&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frmebfk6)

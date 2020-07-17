@@ -93,3 +93,6 @@
 1. [Elasticsearch 自定义评分的 N 种方法](https://weekly.manong.io/bounce?nid=300&aid=19023&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fa08zrqb)
 1. [ElasticSearch 实战：如何从数千万手机号中识别出情侣号？](https://weekly.manong.io/bounce?nid=301&aid=19093&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp19xth9)
 1. [ElasticSearch 实战：如何从数千万手机号中识别出情侣号？](https://weekly.manong.io/bounce?nid=301&aid=19093&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp19xth9)
+1. [Elasticsearch 支持拼音自动补全](https://weekly.manong.io/bounce?nid=306&aid=19301&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwry1y1q)
+1. [今天面试问到一个 Elasticsearch 问题，给我问懵逼了......](https://weekly.manong.io/bounce?nid=310&aid=19501&url=https%3A%2F%2Ftoutiao.io%2Fk%2F01iu0jk)
+1. [你的 Elasticsearch 难题，官方文档早就有了答案](https://weekly.manong.io/bounce?nid=311&aid=19550&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw984lub)

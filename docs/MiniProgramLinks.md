@@ -121,3 +121,4 @@
 1. [TensorFlow.js 微信小程序插件开始支持模型缓存](https://weekly.manong.io/bounce?nid=295&aid=18710&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjg3rviw)
 1. [TensorFlow.js 微信小程序插件开始支持模型缓存](https://weekly.manong.io/bounce?nid=295&aid=18710&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjg3rviw)
 1. [Kbone 框架快速上手：把 Web 端代码直接移植到小程序的工具是否好用？](https://weekly.manong.io/bounce?nid=303&aid=19176&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzwnwmy5)
+1. [为 PC 端设计小程序](https://weekly.manong.io/bounce?nid=312&aid=19608&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5o62drr)

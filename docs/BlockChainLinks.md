@@ -175,3 +175,5 @@
 1. [[译] EOS 的 BM：为什么区块链是更好的应用服务器/数据库架构？](https://weekly.manong.io/bounce?nid=295&aid=18684&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5ynbn24)
 1. [[译] EOS 的 BM：为什么区块链是更好的应用服务器/数据库架构？](https://weekly.manong.io/bounce?nid=295&aid=18684&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5ynbn24)
 1. [[译] Go 实现区块链（七）：网络](https://weekly.manong.io/bounce?nid=297&aid=18859&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqzhe9fz)
+1. [挖矿 = 求解一个合适的 nonce 整数，区块链与加密数字货币知识科普](https://weekly.manong.io/bounce?nid=306&aid=19309&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7qbpk18)
+1. [何谓区块链的应用价值？](https://weekly.manong.io/bounce?nid=312&aid=19599&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhedsnnu)

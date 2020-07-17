@@ -228,3 +228,6 @@
 1. [分析开源项目源码，我们该如何入手分析？](https://weekly.manong.io/bounce?nid=301&aid=19097&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fugemdaa)
 1. [分析开源项目源码，我们该如何入手分析？](https://weekly.manong.io/bounce?nid=301&aid=19097&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fugemdaa)
 1. [源码笔记](https://weekly.manong.io/bounce?nid=303&aid=19179&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F438416%23303)
+1. [如何阅读源码？](https://weekly.manong.io/bounce?nid=306&aid=19299&url=https%3A%2F%2Ftoutiao.io%2Fk%2F36tbvna)
+1. [彻底搞懂 React 源码调度原理（Concurrent 模式）](https://weekly.manong.io/bounce?nid=308&aid=19394&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5hghlsi)
+1. [《Kubernetes源码剖析》](https://weekly.manong.io/bounce?nid=311&aid=19540&url=https%3A%2F%2Fu.jd.com%2FIkFMNs)

@@ -119,3 +119,7 @@
 1. [KotlinTips：getValueSafely 安全取值](https://weekly.manong.io/bounce?nid=301&aid=19061&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1fws9v6)
 1. [KotlinTips：getValueSafely 安全取值](https://weekly.manong.io/bounce?nid=301&aid=19061&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1fws9v6)
 1. [KotlinTips：getValueSafely 安全取值](https://weekly.manong.io/bounce?nid=301&aid=19061&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1fws9v6)
+1. [Kotlin 多态和扩展学习笔记（五）](https://weekly.manong.io/bounce?nid=306&aid=19284&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fagg8vrk)
+1. [Kotlin 多态和扩展学习笔记（五）](https://weekly.manong.io/bounce?nid=306&aid=19284&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fagg8vrk)
+1. [巧用 Kotlin 反射实现按值取名，调试做到多快好省](https://weekly.manong.io/bounce?nid=309&aid=19428&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftpcg5l4)
+1. [巧用 Kotlin 反射实现按值取名，调试做到多快好省](https://weekly.manong.io/bounce?nid=309&aid=19428&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftpcg5l4)
