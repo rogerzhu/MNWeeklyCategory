@@ -792,3 +792,4 @@
 1. [GreenDao 在 Android 项目中的实践总结](https://weekly.manong.io/bounce?nid=309&aid=19430&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FArsYcUJKikL08_ik9TgWgQ)
 1. [Android 自定义滚动条](https://weekly.manong.io/bounce?nid=310&aid=19482&url=https%3A%2F%2Fwww.jackpu.com%2Fandroid-zi-ding-yi-gun-dong-tiao%2F)
 1. [使用 Android Studio Profiler 工具解析应用的内存和 CPU 使用数据](https://weekly.manong.io/bounce?nid=311&aid=19532&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMIuSi85lnrETqq3rl0Hc6A)
+1. [11 Weeks of Android：联系人与身份](https://weekly.manong.io/bounce?nid=313&aid=19629&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEUxI9ewLxLTWC_W8T0Qw9w)

@@ -608,3 +608,6 @@
 1. [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?nid=312&aid=19568&url=https%3A%2F%2Fvip.manong.io%2F%3F3121%23buy)
 1. [架构设计：分布式服务，库表拆分模式详解](https://weekly.manong.io/bounce?nid=312&aid=19579&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgbxl2rq)
 1. [为 PC 端设计小程序](https://weekly.manong.io/bounce?nid=312&aid=19608&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5o62drr)
+1. [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?nid=313&aid=19568&url=https%3A%2F%2Fvip.manong.io%2F%3F3141%23buy)
+1. [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?nid=314&aid=19568&url=https%3A%2F%2Fvip.manong.io%2F%3F3141%23buy)
+1. [读李老课程引发的思考之 JS 设计思想篇](https://weekly.manong.io/bounce?nid=314&aid=19677&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpspyama)

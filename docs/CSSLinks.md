@@ -106,3 +106,4 @@
 1. [17 个场景，带你入门 CSS 布局](https://weekly.manong.io/bounce?nid=298&aid=18917&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuiq7r5p)
 1. [kube-scan 和 KCCSS](https://weekly.manong.io/bounce?nid=299&aid=18950&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftwia12y)
 1. [[译] 人们不使用 CSS 新功能的 5 个原因](https://weekly.manong.io/bounce?nid=303&aid=19160&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl1oju4y)
+1. [[译] 使用 CSS Paint API 动态创建与分辨率无关的可变背景](https://weekly.manong.io/bounce?nid=313&aid=19636&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9lpjvzn)

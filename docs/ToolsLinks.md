@@ -427,3 +427,7 @@
 1. [零门槛使用机器学习？试试阿里巴巴开源的这个工具集！ ](https://weekly.manong.io/bounce?nid=312&aid=19618&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtsimI_-HBNoQobjM1UPVDQ)
 1. [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?nid=312&aid=19569&url=https%3A%2F%2Fvip.manong.io%2F%3F3122%23buy)
 1. [MySQL 8 查询优化新工具 Explain Analyze](https://weekly.manong.io/bounce?nid=312&aid=19593&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq4ns8p3)
+1. [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?nid=313&aid=19569&url=https%3A%2F%2Fvip.manong.io%2F%3F3142%23buy)
+1. [工具 | 一站式的开源企业级持续测试平台 ](https://weekly.manong.io/bounce?nid=314&aid=19706&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgR3yRPbgL3XKosg6E_Xmfg)
+1. [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?nid=314&aid=19569&url=https%3A%2F%2Fvip.manong.io%2F%3F3142%23buy)
+1. [快应用开发工具入门介绍](https://weekly.manong.io/bounce?nid=314&aid=19695&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg6y8b1m)

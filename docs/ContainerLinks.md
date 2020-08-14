@@ -477,3 +477,7 @@
 1. [[译] Kubernetes 安全风险以及 29 个最佳实践](https://weekly.manong.io/bounce?nid=312&aid=19596&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnjcgo05)
 1. [Kafka 消费线程模型在中通消息服务运维平台的应用](https://weekly.manong.io/bounce?nid=312&aid=19601&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frmebfk6)
 1. [Kubernetes 入门实践：部署运行 Go 项目](https://weekly.manong.io/bounce?nid=312&aid=19589&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fssge9hp)
+1. [Kubernetes 架构简介](https://weekly.manong.io/bounce?nid=313&aid=19623&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frteodo6)
+1. [面试官：说说 Kafka 处理请求的全流程](https://weekly.manong.io/bounce?nid=313&aid=19645&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjaqydhp)
+1. [Docker registry GC 原理分析](https://weekly.manong.io/bounce?nid=314&aid=19687&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsrnkhpz)
+1. [.Net Core in Docker 极简入门（下）](https://weekly.manong.io/bounce?nid=314&aid=19676&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx2tzzjf)

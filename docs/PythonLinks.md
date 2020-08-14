@@ -650,3 +650,5 @@
 1. [用 Pandas 分析招聘网 Python 岗位信息](https://weekly.manong.io/bounce?nid=312&aid=19586&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2rdbc9w)
 1. [[译] Home Assistant，基于 Python 的 IoT 中心](https://weekly.manong.io/bounce?nid=312&aid=19587&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0eo7hib)
 1. [使用 Nginx 同域名下部署多个 Vue 项目，并使用反向代理](https://weekly.manong.io/bounce?nid=312&aid=19591&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy9v46hb)
+1. [面试官：说说 Kafka 处理请求的全流程](https://weekly.manong.io/bounce?nid=313&aid=19645&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjaqydhp)
+1. [三分钟了解 Python 3 的异步 Web 框架 FastAPI](https://weekly.manong.io/bounce?nid=313&aid=19634&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs8agylw)

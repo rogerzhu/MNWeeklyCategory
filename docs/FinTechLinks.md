@@ -35,3 +35,4 @@
 1. [Loughran & McDonald 金融文本情感分析库](https://weekly.manong.io/bounce?nid=282&aid=17838&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6dpSPcDKKdZFGXPaSYY8ig)
 1. [蚂蚁金服有哪些金融特色的机器学习技术？](https://weekly.manong.io/bounce?nid=285&aid=18037&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHwGGOaIGysuPY404pRQ4-g)
 1. [金融行业 IT 运维监控体系的建设内幕](https://weekly.manong.io/bounce?nid=296&aid=18744&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs15r8vc)
+1. [java金融](https://weekly.manong.io/bounce?nid=314&aid=19679&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F446883%23314)

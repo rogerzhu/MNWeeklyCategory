@@ -963,3 +963,8 @@
 1. [为什么 Go 语言不允许循环引入？](https://weekly.manong.io/bounce?nid=312&aid=19588&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fa34jzg8)
 1. [Kubernetes 入门实践：部署运行 Go 项目](https://weekly.manong.io/bounce?nid=312&aid=19589&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fssge9hp)
 1. [Go学习之路](https://weekly.manong.io/bounce?nid=312&aid=19614&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F343446%23312)
+1. [[译] 从这些角度看 Go 是一门糟糕的语言](https://weekly.manong.io/bounce?nid=313&aid=19632&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsk6yal4)
+1. [Go 程序启动过程](https://weekly.manong.io/bounce?nid=313&aid=19633&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnn069d0)
+1. [Django 的 bug 分析记录：got multiple values for argument 'negate'](https://weekly.manong.io/bounce?nid=314&aid=19673&url=https%3A%2F%2Fwww.greenblog.cn%2F15)
+1. [[译] 哪个更快？对 gRPC 的 Rust 和 Go 版本进行基准测试](https://weekly.manong.io/bounce?nid=314&aid=19674&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqx5ccr9)
+1. [非对称加密 Rsa 数字签名 Go 实战](https://weekly.manong.io/bounce?nid=314&aid=19675&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpp47yg4)

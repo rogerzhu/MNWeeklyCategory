@@ -241,3 +241,5 @@
 1. [少年：究竟什么是单元测试啊？](https://weekly.manong.io/bounce?nid=311&aid=19549&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpw51ydz)
 1. [快速打造属于你的接口自动化测试框架](https://weekly.manong.io/bounce?nid=311&aid=19555&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5v0mnbm)
 1. [用单元测试读懂 Vue 3 中的 provide/inject](https://weekly.manong.io/bounce?nid=312&aid=19592&url=https%3A%2F%2Ftoutiao.io%2Fk%2F436zd0f)
+1. [工具 | 一站式的开源企业级持续测试平台 ](https://weekly.manong.io/bounce?nid=314&aid=19706&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgR3yRPbgL3XKosg6E_Xmfg)
+1. [[译] 哪个更快？对 gRPC 的 Rust 和 Go 版本进行基准测试](https://weekly.manong.io/bounce?nid=314&aid=19674&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqx5ccr9)

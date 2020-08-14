@@ -367,3 +367,4 @@
 1. [PHP 8 正式版将于年底发布](https://weekly.manong.io/bounce?nid=305&aid=19243&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvnyp4dt)
 1. [写PHP的老王](https://weekly.manong.io/bounce?nid=308&aid=19415&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F133872%23308)
 1. [写在 PHP 8 发布之前的话](https://weekly.manong.io/bounce?nid=311&aid=19534&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe1e0xpt)
+1. [PHP 代码混淆处理思路](https://weekly.manong.io/bounce?nid=313&aid=19631&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FIt9Thtz20rSQ3Z4u_3rl6g)

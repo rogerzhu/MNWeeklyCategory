@@ -246,3 +246,6 @@
 1. [并发题的解题思路以及 Go 语言调度器工作原理](https://weekly.manong.io/bounce?nid=310&aid=19487&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkxe830a)
 1. [高并发，你真的理解透彻了吗？](https://weekly.manong.io/bounce?nid=312&aid=19577&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8kcy1lf)
 1. [Kafka 消费线程模型在中通消息服务运维平台的应用](https://weekly.manong.io/bounce?nid=312&aid=19601&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frmebfk6)
+1. [Java 程序跑的快，全要靠线程带](https://weekly.manong.io/bounce?nid=313&aid=19627&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnwu0vpa)
+1. [Java 并发编程：Lock 机制下 API 用法详解](https://weekly.manong.io/bounce?nid=313&aid=19628&url=https%3A%2F%2Ftoutiao.io%2Fk%2F99fydrt)
+1. [彻底搞懂 Java 线程池，干啥都不再发憷](https://weekly.manong.io/bounce?nid=314&aid=19671&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwfepb4l)

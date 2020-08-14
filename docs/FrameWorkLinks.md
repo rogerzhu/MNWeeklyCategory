@@ -445,3 +445,4 @@
 1. [笑话：大厂都在用的任务调度框架我能不知道吗？？？](https://weekly.manong.io/bounce?nid=307&aid=19362&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvay9bs8)
 1. [Java 并发编程那些事儿（六）：Executor 框架及线程池](https://weekly.manong.io/bounce?nid=309&aid=19426&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn4e3smu)
 1. [快速打造属于你的接口自动化测试框架](https://weekly.manong.io/bounce?nid=311&aid=19555&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5v0mnbm)
+1. [三分钟了解 Python 3 的异步 Web 框架 FastAPI](https://weekly.manong.io/bounce?nid=313&aid=19634&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs8agylw)

@@ -96,3 +96,4 @@
 1. [Elasticsearch 支持拼音自动补全](https://weekly.manong.io/bounce?nid=306&aid=19301&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwry1y1q)
 1. [今天面试问到一个 Elasticsearch 问题，给我问懵逼了......](https://weekly.manong.io/bounce?nid=310&aid=19501&url=https%3A%2F%2Ftoutiao.io%2Fk%2F01iu0jk)
 1. [你的 Elasticsearch 难题，官方文档早就有了答案](https://weekly.manong.io/bounce?nid=311&aid=19550&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw984lub)
+1. [Elasticsearch 预处理没有奇技淫巧，请先用好这一招](https://weekly.manong.io/bounce?nid=313&aid=19646&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjr63z4i)

@@ -384,3 +384,8 @@
 1. [Android View 性能优化](https://weekly.manong.io/bounce?nid=309&aid=19429&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnlu6kl1)
 1. [查询耗时降低 2/3，携程度假搜索引擎架构优化](https://weekly.manong.io/bounce?nid=312&aid=19578&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxjxbd0u)
 1. [MySQL 8 查询优化新工具 Explain Analyze](https://weekly.manong.io/bounce?nid=312&aid=19593&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq4ns8p3)
+1. [MySQL：慢 SQL 优化方法论](https://weekly.manong.io/bounce?nid=313&aid=19638&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft00tz3i)
+1. [漫谈分布式系统 (20)：基于规则的优化](https://weekly.manong.io/bounce?nid=313&aid=19639&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx8e3o0q)
+1. [多应用项目开发架构和多进程间构建优化分析](https://weekly.manong.io/bounce?nid=314&aid=19668&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm13p7el)
+1. [携程 AI 应用的推理性能优化](https://weekly.manong.io/bounce?nid=314&aid=19692&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frahyvpm)
+1. [ES 优化看这几条就够了](https://weekly.manong.io/bounce?nid=314&aid=19694&url=https%3A%2F%2Ftoutiao.io%2Fk%2F194ehwo)

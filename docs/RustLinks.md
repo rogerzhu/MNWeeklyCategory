@@ -48,3 +48,4 @@
 1. [Rust 入坑指南：万物初始](https://weekly.manong.io/bounce?nid=304&aid=19203&url=https%3A%2F%2Ftoutiao.io%2Fk%2F56n6v0h)
 1. [在 Kubernetes 上用 Krustlet 调度 WASM](https://weekly.manong.io/bounce?nid=305&aid=19260&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fjx7ALC5kAsUXCYxIcUko0g)
 1. [自从尝了 Rust，Java 突然不香了](https://weekly.manong.io/bounce?nid=312&aid=19590&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs4b9vaz)
+1. [[译] 哪个更快？对 gRPC 的 Rust 和 Go 版本进行基准测试](https://weekly.manong.io/bounce?nid=314&aid=19674&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqx5ccr9)

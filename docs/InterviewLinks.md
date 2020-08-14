@@ -267,3 +267,6 @@
 1. [字节跳动面试题：用户在线波峰计算](https://weekly.manong.io/bounce?nid=309&aid=19465&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0bjeo45)
 1. [今天面试问到一个 Elasticsearch 问题，给我问懵逼了......](https://weekly.manong.io/bounce?nid=310&aid=19501&url=https%3A%2F%2Ftoutiao.io%2Fk%2F01iu0jk)
 1. [Java 面试题全梳理](https://weekly.manong.io/bounce?nid=310&aid=19480&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcdg6vt8)
+1. [面试官：说说 Kafka 处理请求的全流程](https://weekly.manong.io/bounce?nid=313&aid=19645&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjaqydhp)
+1. [表弟面试被虐，我教他缓存连招，借机蹭了波奈雪的茶](https://weekly.manong.io/bounce?nid=314&aid=19698&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuynwrw9)
+1. [阿里、字节：一套高效的 iOS 面试题之我整理的答案之 runtime 相关问题（一）](https://weekly.manong.io/bounce?nid=314&aid=19672&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg7kajja)

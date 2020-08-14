@@ -27,3 +27,5 @@
 1. [面向开发者的工程化 CLI 中台：分层插件架构](https://weekly.manong.io/bounce?nid=298&aid=18874&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpus99xj)
 1. [在一家独角兽公司做业务中台：打铁硬，不跟风](https://weekly.manong.io/bounce?nid=302&aid=19114&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcdljxpo)
 1. [悟空活动中台：微组件状态管理（上）](https://weekly.manong.io/bounce?nid=305&aid=19232&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqomitvk)
+1. [服务架构及中台](https://weekly.manong.io/bounce?nid=313&aid=19660&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F26578%23313)
+1. [服务架构及中台](https://weekly.manong.io/bounce?nid=314&aid=19683&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F26578%23314)

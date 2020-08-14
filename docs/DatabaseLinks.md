@@ -689,3 +689,6 @@
 1. [Spark SQL 小文件问题在 OPPO 的解决方案](https://weekly.manong.io/bounce?nid=312&aid=19602&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7hvdqxi)
 1. [Redis 数据结构：链表](https://weekly.manong.io/bounce?nid=312&aid=19604&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3vh60kl)
 1. [变化莫测的 mysqldump](https://weekly.manong.io/bounce?nid=312&aid=19605&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fonsmkua)
+1. [MySQL：慢 SQL 优化方法论](https://weekly.manong.io/bounce?nid=313&aid=19638&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft00tz3i)
+1. [缓存过期策略 + Redis 内存淘汰机制](https://weekly.manong.io/bounce?nid=313&aid=19652&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fti9riut)
+1. [Redis 数据迁移至 Codis 集群方案](https://weekly.manong.io/bounce?nid=314&aid=19688&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs3n5mwk)

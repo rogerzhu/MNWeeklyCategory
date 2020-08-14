@@ -1298,3 +1298,6 @@
 1. [《深度实践OCR：基于深度学习的文字识别 》](https://weekly.manong.io/bounce?nid=309&aid=19466&url=https%3A%2F%2Fitem.jd.com%2F12867800.html)
 1. [计算机视觉经典书籍推荐](https://weekly.manong.io/bounce?nid=310&aid=19506&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fne5wdik)
 1. [零门槛使用机器学习？试试阿里巴巴开源的这个工具集！ ](https://weekly.manong.io/bounce?nid=312&aid=19618&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtsimI_-HBNoQobjM1UPVDQ)
+1. [我爱计算机视觉](https://weekly.manong.io/bounce?nid=313&aid=19657&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F359575%23313)
+1. [携程 AI 应用的推理性能优化](https://weekly.manong.io/bounce?nid=314&aid=19692&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frahyvpm)
+1. [数据与广告（二十二）：智能化投放中扩量场景的技术实现策略](https://weekly.manong.io/bounce?nid=314&aid=19693&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft72nvce)

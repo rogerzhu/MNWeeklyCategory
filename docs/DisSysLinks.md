@@ -371,3 +371,6 @@
 1. [熬夜之作：一文带你了解 Cat 分布式监控](https://weekly.manong.io/bounce?nid=310&aid=19507&url=https%3A%2F%2Ftoutiao.io%2Fk%2Foswj2ss)
 1. [走出微服务误区：避免从单体到分布式单体](https://weekly.manong.io/bounce?nid=311&aid=19525&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fovtxful)
 1. [架构设计：分布式服务，库表拆分模式详解](https://weekly.manong.io/bounce?nid=312&aid=19579&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgbxl2rq)
+1. [网易开源的，高性能、高可用、高可靠的分布式存储系统 ](https://weekly.manong.io/bounce?nid=313&aid=19661&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FIfyIGuXqOnKRk9ndWer58w)
+1. [漫谈分布式系统 (20)：基于规则的优化](https://weekly.manong.io/bounce?nid=313&aid=19639&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx8e3o0q)
+1. [分布式架构链路追踪：SkyWalking 介绍](https://weekly.manong.io/bounce?nid=313&aid=19640&url=https%3A%2F%2Ftoutiao.io%2Fk%2F799b7ki)

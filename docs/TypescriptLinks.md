@@ -18,3 +18,5 @@
 1. [漫谈 Typescript 研发体系建设](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffdriq4q&aid=17882&nid=282)
 1. [Effective Typescript：使用 Typescript 的 N 个技巧](https://weekly.manong.io/bounce?nid=294&aid=18664&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsz7qzjm)
 1. [深入理解 Typescript 高级用法](https://weekly.manong.io/bounce?nid=308&aid=19395&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F136254808)
+1. [认识 TypeScript](https://weekly.manong.io/bounce?nid=313&aid=19635&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbdqk1c1)
+1. [TypeScript 语法糖](https://weekly.manong.io/bounce?nid=314&aid=19678&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj5cbztp)

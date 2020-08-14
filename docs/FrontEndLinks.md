@@ -443,3 +443,5 @@
 1. [微前端在小米 CRM 系统的实践](https://weekly.manong.io/bounce?nid=310&aid=19494&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0006wt0)
 1. [前端部署的发展历程](https://weekly.manong.io/bounce?nid=310&aid=19509&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2ko6nm3)
 1. [内推职位 | 京东数字科技 / Web 前端开发工程师](https://weekly.manong.io/bounce?nid=311&aid=19567&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBQXj9DGD-AOgUfre2wXGZA)
+1. [这可能是迄今为止对大前端最好的解释](https://weekly.manong.io/bounce?nid=313&aid=19651&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk0qtz9e)
+1. [从 0 到 1 开始前端异常监控](https://weekly.manong.io/bounce?nid=314&aid=19685&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftxe46k2)

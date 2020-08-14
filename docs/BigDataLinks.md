@@ -332,3 +332,5 @@
 1. [​基于 Kubernetes 实现的大数据采集与存储实践总结](https://weekly.manong.io/bounce?nid=309&aid=19449&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhwadb5v)
 1. [漫谈大数据](https://weekly.manong.io/bounce?nid=310&aid=19517&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F2842%23310)
 1. [Spark SQL 小文件问题在 OPPO 的解决方案](https://weekly.manong.io/bounce?nid=312&aid=19602&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7hvdqxi)
+1. [大数据生态](https://weekly.manong.io/bounce?nid=313&aid=19658&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F136176%23313)
+1. [过往记忆大数据](https://weekly.manong.io/bounce?nid=314&aid=19682&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F43182%23314)

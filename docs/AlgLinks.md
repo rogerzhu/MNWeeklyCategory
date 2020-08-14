@@ -536,3 +536,5 @@
 1. [走进 Golang 之 Channel 的数据结构](https://weekly.manong.io/bounce?nid=311&aid=19536&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm6tuje5)
 1. [浅入浅出消息队列](https://weekly.manong.io/bounce?nid=312&aid=19595&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzgc8ztu)
 1. [Redis 数据结构：链表](https://weekly.manong.io/bounce?nid=312&aid=19604&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3vh60kl)
+1. [资料 | 一部图解算法题典 ](https://weekly.manong.io/bounce?nid=314&aid=19705&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWHdzl_Gq4HlVz-_fg7ALtg)
+1. [浅谈常见数据结构和算法的应用系列（一）](https://weekly.manong.io/bounce?nid=314&aid=19701&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbulbsa4)
