@@ -968,3 +968,5 @@
 1. [Django 的 bug 分析记录：got multiple values for argument 'negate'](https://weekly.manong.io/bounce?nid=314&aid=19673&url=https%3A%2F%2Fwww.greenblog.cn%2F15)
 1. [[译] 哪个更快？对 gRPC 的 Rust 和 Go 版本进行基准测试](https://weekly.manong.io/bounce?nid=314&aid=19674&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqx5ccr9)
 1. [非对称加密 Rsa 数字签名 Go 实战](https://weekly.manong.io/bounce?nid=314&aid=19675&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpp47yg4)
+1. [常用高并发网络线程模型设计及 MongoDB 线程模型优化实践](https://weekly.manong.io/bounce?nid=315&aid=19711&url=https%3A%2F%2Ftoutiao.io%2Fk%2Faxmawis)
+1. [Go 调试分析的高阶技巧](https://weekly.manong.io/bounce?nid=315&aid=19718&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fonlqg3p)

@@ -431,3 +431,4 @@
 1. [工具 | 一站式的开源企业级持续测试平台 ](https://weekly.manong.io/bounce?nid=314&aid=19706&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgR3yRPbgL3XKosg6E_Xmfg)
 1. [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?nid=314&aid=19569&url=https%3A%2F%2Fvip.manong.io%2F%3F3142%23buy)
 1. [快应用开发工具入门介绍](https://weekly.manong.io/bounce?nid=314&aid=19695&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg6y8b1m)
+1. [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?nid=315&aid=19569&url=https%3A%2F%2Fvip.manong.io%2F%3F3152%23buy)

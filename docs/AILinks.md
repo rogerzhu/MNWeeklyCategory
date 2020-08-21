@@ -1301,3 +1301,5 @@
 1. [我爱计算机视觉](https://weekly.manong.io/bounce?nid=313&aid=19657&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F359575%23313)
 1. [携程 AI 应用的推理性能优化](https://weekly.manong.io/bounce?nid=314&aid=19692&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frahyvpm)
 1. [数据与广告（二十二）：智能化投放中扩量场景的技术实现策略](https://weekly.manong.io/bounce?nid=314&aid=19693&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft72nvce)
+1. [微博基于 Flink 的机器学习实践](https://weekly.manong.io/bounce?nid=315&aid=19733&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7or5x21)
+1. [深度学习炼丹](https://weekly.manong.io/bounce?nid=315&aid=19746&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F86779%23315)

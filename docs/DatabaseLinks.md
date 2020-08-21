@@ -692,3 +692,6 @@
 1. [MySQL：慢 SQL 优化方法论](https://weekly.manong.io/bounce?nid=313&aid=19638&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft00tz3i)
 1. [缓存过期策略 + Redis 内存淘汰机制](https://weekly.manong.io/bounce?nid=313&aid=19652&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fti9riut)
 1. [Redis 数据迁移至 Codis 集群方案](https://weekly.manong.io/bounce?nid=314&aid=19688&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs3n5mwk)
+1. [Redis 作者 Antirez 与 Contributor Mattsta 之间关于 CRC 的 Battle](https://weekly.manong.io/bounce?nid=315&aid=19723&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fc8gp8hk)
+1. [MySQL 事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://weekly.manong.io/bounce?nid=315&aid=19730&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flmtdqk1)
+1. [数据库系统设计概述](https://weekly.manong.io/bounce?nid=315&aid=19735&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3cyyk38)

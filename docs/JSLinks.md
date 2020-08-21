@@ -583,3 +583,4 @@
 1. [[译] Next.js 和 Nuxt.js 的语法比较，Vue 和 React 的两大 SSR 解决方案](https://weekly.manong.io/bounce?nid=307&aid=19338&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs9cx24y)
 1. [[译] JavaScript vs Dart 两者之间的比较](https://weekly.manong.io/bounce?nid=309&aid=19436&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fx6eum0aHeSQuUfi_Qfbzdw)
 1. [一文读懂 JavaScript 深拷贝与浅拷贝](https://weekly.manong.io/bounce?nid=311&aid=19538&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fbhyt-Cup_fTEejRWBsvsHA)
+1. [[译] JavaScript 中的缓存 API](https://weekly.manong.io/bounce?nid=315&aid=19722&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0kk1z5f)

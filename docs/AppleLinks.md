@@ -696,3 +696,4 @@
 1. [iOS 开源二进制使用插件使用教程](https://weekly.manong.io/bounce?nid=310&aid=19483&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2hq2h59)
 1. [iOS Crash 分析攻略](https://weekly.manong.io/bounce?nid=312&aid=19584&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhVj-j61Br3dox37SN79fDQ)
 1. [阿里、字节：一套高效的 iOS 面试题之我整理的答案之 runtime 相关问题（一）](https://weekly.manong.io/bounce?nid=314&aid=19672&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg7kajja)
+1. [修改休眠模式以节省 macOS 睡眠时的电池电量](https://weekly.manong.io/bounce?nid=315&aid=19717&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0070u8f)

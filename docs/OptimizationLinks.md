@@ -389,3 +389,5 @@
 1. [多应用项目开发架构和多进程间构建优化分析](https://weekly.manong.io/bounce?nid=314&aid=19668&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm13p7el)
 1. [携程 AI 应用的推理性能优化](https://weekly.manong.io/bounce?nid=314&aid=19692&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frahyvpm)
 1. [ES 优化看这几条就够了](https://weekly.manong.io/bounce?nid=314&aid=19694&url=https%3A%2F%2Ftoutiao.io%2Fk%2F194ehwo)
+1. [常用高并发网络线程模型设计及 MongoDB 线程模型优化实践](https://weekly.manong.io/bounce?nid=315&aid=19711&url=https%3A%2F%2Ftoutiao.io%2Fk%2Faxmawis)
+1. [代码优化实战：我又优化了一百个 if else](https://weekly.manong.io/bounce?nid=315&aid=19724&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyv0hdsj)

@@ -573,3 +573,5 @@
 1. [[译] GraalVM —下一代 JVM 介绍](https://weekly.manong.io/bounce?nid=314&aid=19670&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjah5do9)
 1. [彻底搞懂 Java 线程池，干啥都不再发憷](https://weekly.manong.io/bounce?nid=314&aid=19671&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwfepb4l)
 1. [java金融](https://weekly.manong.io/bounce?nid=314&aid=19679&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F446883%23314)
+1. [我还在生产玩 JDK 7，JDK 15 却要来了](https://weekly.manong.io/bounce?nid=315&aid=19713&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flzbgs8w)
+1. [大白话 Java 多线程](https://weekly.manong.io/bounce?nid=315&aid=19714&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb9pp8ci)

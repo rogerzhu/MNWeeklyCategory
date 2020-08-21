@@ -652,3 +652,5 @@
 1. [使用 Nginx 同域名下部署多个 Vue 项目，并使用反向代理](https://weekly.manong.io/bounce?nid=312&aid=19591&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy9v46hb)
 1. [面试官：说说 Kafka 处理请求的全流程](https://weekly.manong.io/bounce?nid=313&aid=19645&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjaqydhp)
 1. [三分钟了解 Python 3 的异步 Web 框架 FastAPI](https://weekly.manong.io/bounce?nid=313&aid=19634&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs8agylw)
+1. [Python 为什么能支持任意的真值判断？](https://weekly.manong.io/bounce?nid=315&aid=19719&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9z0vtmx)
+1. [用 Python 了解一下最炫国漫《雾山五行》](https://weekly.manong.io/bounce?nid=315&aid=19720&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbdpkwed)

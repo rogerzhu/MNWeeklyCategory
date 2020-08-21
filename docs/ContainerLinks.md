@@ -481,3 +481,5 @@
 1. [面试官：说说 Kafka 处理请求的全流程](https://weekly.manong.io/bounce?nid=313&aid=19645&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjaqydhp)
 1. [Docker registry GC 原理分析](https://weekly.manong.io/bounce?nid=314&aid=19687&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsrnkhpz)
 1. [.Net Core in Docker 极简入门（下）](https://weekly.manong.io/bounce?nid=314&aid=19676&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx2tzzjf)
+1. [[译] Kubernetes Egress 网络策略指南](https://weekly.manong.io/bounce?nid=315&aid=19737&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1yiomog)
+1. [Docker 容器的 “单进程模型”](https://weekly.manong.io/bounce?nid=315&aid=19738&url=https%3A%2F%2Ftoutiao.io%2Fk%2F80lqr81)

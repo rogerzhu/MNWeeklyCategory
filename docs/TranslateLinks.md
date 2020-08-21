@@ -1822,3 +1822,5 @@
 1. [[译] 如何使用 Istio 1.6 管理多集群中的微服务？](https://weekly.manong.io/bounce?nid=314&aid=19700&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2rkky98)
 1. [[译] GraalVM —下一代 JVM 介绍](https://weekly.manong.io/bounce?nid=314&aid=19670&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjah5do9)
 1. [[译] 哪个更快？对 gRPC 的 Rust 和 Go 版本进行基准测试](https://weekly.manong.io/bounce?nid=314&aid=19674&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqx5ccr9)
+1. [[译] Kubernetes Egress 网络策略指南](https://weekly.manong.io/bounce?nid=315&aid=19737&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1yiomog)
+1. [[译] JavaScript 中的缓存 API](https://weekly.manong.io/bounce?nid=315&aid=19722&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0kk1z5f)

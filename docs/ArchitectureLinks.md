@@ -671,3 +671,7 @@
 1. [架构师技术领导力成长之路](https://weekly.manong.io/bounce?nid=314&aid=19666&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9o5fri0)
 1. [多应用项目开发架构和多进程间构建优化分析](https://weekly.manong.io/bounce?nid=314&aid=19668&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm13p7el)
 1. [服务架构及中台](https://weekly.manong.io/bounce?nid=314&aid=19683&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F26578%23314)
+1. [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?nid=315&aid=19568&url=https%3A%2F%2Fvip.manong.io%2F%3F3151%23buy)
+1. [京东商城，超大型电商系统架构设计原则与实践](https://weekly.manong.io/bounce?nid=315&aid=19710&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwiujwft)
+1. [微服务如何对齐业务架构](https://weekly.manong.io/bounce?nid=315&aid=19712&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsew8qta)
+1. [跨界架构师](https://weekly.manong.io/bounce?nid=315&aid=19744&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F268968%23315)

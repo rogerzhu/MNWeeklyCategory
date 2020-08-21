@@ -60,3 +60,4 @@
 1. [元学习与自然语言处理](https://weekly.manong.io/bounce?nid=297&aid=18809&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffv4mjpp)
 1. [《大数据智能：数据驱动的自然语言处理技术》](https://weekly.manong.io/bounce?nid=297&aid=18867&url=https%3A%2F%2Fitem.jd.com%2F12603411.html)
 1. [NLP 系列课（二）：词向量 Word Vectors](https://weekly.manong.io/bounce?nid=300&aid=18985&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzy6g84d)
+1. [详解自然语言处理 5 大语义分析技术及 14 类应用](https://weekly.manong.io/bounce?nid=315&aid=19727&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftwgudj2)

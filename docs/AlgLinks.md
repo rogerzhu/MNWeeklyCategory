@@ -538,3 +538,7 @@
 1. [Redis 数据结构：链表](https://weekly.manong.io/bounce?nid=312&aid=19604&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3vh60kl)
 1. [资料 | 一部图解算法题典 ](https://weekly.manong.io/bounce?nid=314&aid=19705&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWHdzl_Gq4HlVz-_fg7ALtg)
 1. [浅谈常见数据结构和算法的应用系列（一）](https://weekly.manong.io/bounce?nid=314&aid=19701&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbulbsa4)
+1. [LeetCode 题解](https://weekly.manong.io/bounce?nid=315&aid=19748&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBep_0nwInQGuqxkIgtTxdg)
+1. [谷歌极速人脸、手、人体姿态分析 Blaze 算法家族](https://weekly.manong.io/bounce?nid=315&aid=19726&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpw7gu5l)
+1. [一文带你看懂二叉树的序列化](https://weekly.manong.io/bounce?nid=315&aid=19729&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7sq7da9)
+1. [《集成学习：基础与算法 》](https://weekly.manong.io/bounce?nid=315&aid=19742&url=https%3A%2F%2Fu.jd.com%2FW7aITx)

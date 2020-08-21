@@ -249,3 +249,5 @@
 1. [Java 程序跑的快，全要靠线程带](https://weekly.manong.io/bounce?nid=313&aid=19627&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnwu0vpa)
 1. [Java 并发编程：Lock 机制下 API 用法详解](https://weekly.manong.io/bounce?nid=313&aid=19628&url=https%3A%2F%2Ftoutiao.io%2Fk%2F99fydrt)
 1. [彻底搞懂 Java 线程池，干啥都不再发憷](https://weekly.manong.io/bounce?nid=314&aid=19671&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwfepb4l)
+1. [常用高并发网络线程模型设计及 MongoDB 线程模型优化实践](https://weekly.manong.io/bounce?nid=315&aid=19711&url=https%3A%2F%2Ftoutiao.io%2Fk%2Faxmawis)
+1. [大白话 Java 多线程](https://weekly.manong.io/bounce?nid=315&aid=19714&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb9pp8ci)

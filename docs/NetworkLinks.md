@@ -371,3 +371,6 @@
 1. [22 款设计和可视化神经网络的工具](https://weekly.manong.io/bounce?nid=310&aid=19505&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1i2yd4c)
 1. [我终于搞清了啥是 HTTPS 了](https://weekly.manong.io/bounce?nid=311&aid=19542&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frdxllye)
 1. [图神经网络表达能力的回顾和前沿](https://weekly.manong.io/bounce?nid=312&aid=19606&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff0tr3yb)
+1. [常用高并发网络线程模型设计及 MongoDB 线程模型优化实践](https://weekly.manong.io/bounce?nid=315&aid=19711&url=https%3A%2F%2Ftoutiao.io%2Fk%2Faxmawis)
+1. [[译] Kubernetes Egress 网络策略指南](https://weekly.manong.io/bounce?nid=315&aid=19737&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1yiomog)
+1. [优雅的处理 TCP 粘包](https://weekly.manong.io/bounce?nid=315&aid=19740&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fr1mab78)

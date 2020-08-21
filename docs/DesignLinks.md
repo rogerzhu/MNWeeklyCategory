@@ -611,3 +611,7 @@
 1. [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?nid=313&aid=19568&url=https%3A%2F%2Fvip.manong.io%2F%3F3141%23buy)
 1. [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?nid=314&aid=19568&url=https%3A%2F%2Fvip.manong.io%2F%3F3141%23buy)
 1. [读李老课程引发的思考之 JS 设计思想篇](https://weekly.manong.io/bounce?nid=314&aid=19677&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpspyama)
+1. [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?nid=315&aid=19568&url=https%3A%2F%2Fvip.manong.io%2F%3F3151%23buy)
+1. [京东商城，超大型电商系统架构设计原则与实践](https://weekly.manong.io/bounce?nid=315&aid=19710&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwiujwft)
+1. [常用高并发网络线程模型设计及 MongoDB 线程模型优化实践](https://weekly.manong.io/bounce?nid=315&aid=19711&url=https%3A%2F%2Ftoutiao.io%2Fk%2Faxmawis)
+1. [数据库系统设计概述](https://weekly.manong.io/bounce?nid=315&aid=19735&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3cyyk38)
