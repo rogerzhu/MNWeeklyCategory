@@ -96,3 +96,5 @@
 1. [抓包神器：tcpdump](https://weekly.manong.io/bounce?nid=302&aid=19128&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs2xj8sg)
 1. [自从用了这款神器，老板再也不担心我删库跑路了！](https://weekly.manong.io/bounce?nid=307&aid=19346&url=https%3A%2F%2Ftoutiao.io%2Fk%2F13aavdv)
 1. [性能调优利器：火焰图](https://weekly.manong.io/bounce?nid=312&aid=19597&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcyzz0t9)
+1. [打造 Mac OS 最强终端利器 iTerm2](https://weekly.manong.io/bounce?nid=316&aid=19765&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9ujm1ju)
+1. [高并发系统三大利器之限流](https://weekly.manong.io/bounce?nid=316&aid=19775&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1514ax3)

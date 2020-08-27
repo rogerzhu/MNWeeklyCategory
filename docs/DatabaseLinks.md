@@ -695,3 +695,5 @@
 1. [Redis 作者 Antirez 与 Contributor Mattsta 之间关于 CRC 的 Battle](https://weekly.manong.io/bounce?nid=315&aid=19723&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fc8gp8hk)
 1. [MySQL 事务熟练使用就够？和腾讯大佬的一席对话，原来考点都在这些方面](https://weekly.manong.io/bounce?nid=315&aid=19730&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flmtdqk1)
 1. [数据库系统设计概述](https://weekly.manong.io/bounce?nid=315&aid=19735&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3cyyk38)
+1. [数据源管理：分布式 NoSQL 系统，Cassandra 集群管理](https://weekly.manong.io/bounce?nid=316&aid=19774&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fct1wjj2)
+1. [Redis migrate 数据迁移工具](https://weekly.manong.io/bounce?nid=316&aid=19778&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffiv94h6)

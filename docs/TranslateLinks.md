@@ -1824,3 +1824,4 @@
 1. [[译] 哪个更快？对 gRPC 的 Rust 和 Go 版本进行基准测试](https://weekly.manong.io/bounce?nid=314&aid=19674&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqx5ccr9)
 1. [[译] Kubernetes Egress 网络策略指南](https://weekly.manong.io/bounce?nid=315&aid=19737&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1yiomog)
 1. [[译] JavaScript 中的缓存 API](https://weekly.manong.io/bounce?nid=315&aid=19722&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0kk1z5f)
+1. [[译] 使用 JavaScript 检测空闲的浏览器选项卡，可以做些什么？](https://weekly.manong.io/bounce?nid=316&aid=19763&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9KoPu5ZocpaP7umltn4B_g)

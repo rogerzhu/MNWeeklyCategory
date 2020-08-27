@@ -432,3 +432,5 @@
 1. [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?nid=314&aid=19569&url=https%3A%2F%2Fvip.manong.io%2F%3F3142%23buy)
 1. [快应用开发工具入门介绍](https://weekly.manong.io/bounce?nid=314&aid=19695&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg6y8b1m)
 1. [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?nid=315&aid=19569&url=https%3A%2F%2Fvip.manong.io%2F%3F3152%23buy)
+1. [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?nid=316&aid=19569&url=https%3A%2F%2Fvip.manong.io%2F%3F3162%23buy)
+1. [Redis migrate 数据迁移工具](https://weekly.manong.io/bounce?nid=316&aid=19778&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffiv94h6)

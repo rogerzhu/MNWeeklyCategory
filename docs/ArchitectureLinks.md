@@ -675,3 +675,5 @@
 1. [京东商城，超大型电商系统架构设计原则与实践](https://weekly.manong.io/bounce?nid=315&aid=19710&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwiujwft)
 1. [微服务如何对齐业务架构](https://weekly.manong.io/bounce?nid=315&aid=19712&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsew8qta)
 1. [跨界架构师](https://weekly.manong.io/bounce?nid=315&aid=19744&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F268968%23315)
+1. [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?nid=316&aid=19568&url=https%3A%2F%2Fvip.manong.io%2F%3F3161%23buy)
+1. [为什么说软件架构设计很重要？](https://weekly.manong.io/bounce?nid=316&aid=19751&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftbn2cum)

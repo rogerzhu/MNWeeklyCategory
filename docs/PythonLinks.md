@@ -654,3 +654,4 @@
 1. [三分钟了解 Python 3 的异步 Web 框架 FastAPI](https://weekly.manong.io/bounce?nid=313&aid=19634&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs8agylw)
 1. [Python 为什么能支持任意的真值判断？](https://weekly.manong.io/bounce?nid=315&aid=19719&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9z0vtmx)
 1. [用 Python 了解一下最炫国漫《雾山五行》](https://weekly.manong.io/bounce?nid=315&aid=19720&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbdpkwed)
+1. [Python 函数为什么会默认返回 None？](https://weekly.manong.io/bounce?nid=316&aid=19760&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5ldsr7i)

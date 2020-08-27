@@ -603,3 +603,6 @@
 1. [开源词云生成器 Cloudia](https://weekly.manong.io/bounce?nid=313&aid=19654&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fslme9h0)
 1. [多应用项目开发架构和多进程间构建优化分析](https://weekly.manong.io/bounce?nid=314&aid=19668&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm13p7el)
 1. [工具 | 一站式的开源企业级持续测试平台 ](https://weekly.manong.io/bounce?nid=314&aid=19706&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgR3yRPbgL3XKosg6E_Xmfg)
+1. [深度剖析 GitHub 上 15.1k Star 项目：redux-thunk](https://weekly.manong.io/bounce?nid=316&aid=19766&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpyja4h7)
+1. [记一次 Spring 项目打包问题排查](https://weekly.manong.io/bounce?nid=316&aid=19757&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv5nc8dk)
+1. [开源：如何实现一个 iOS AOP 框架？](https://weekly.manong.io/bounce?nid=316&aid=19758&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FY3bE_iywGzoxRe4xGMMb7A)

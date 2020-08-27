@@ -374,3 +374,5 @@
 1. [常用高并发网络线程模型设计及 MongoDB 线程模型优化实践](https://weekly.manong.io/bounce?nid=315&aid=19711&url=https%3A%2F%2Ftoutiao.io%2Fk%2Faxmawis)
 1. [[译] Kubernetes Egress 网络策略指南](https://weekly.manong.io/bounce?nid=315&aid=19737&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1yiomog)
 1. [优雅的处理 TCP 粘包](https://weekly.manong.io/bounce?nid=315&aid=19740&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fr1mab78)
+1. [Dubbo 协议解析与 ESA RPC 实践](https://weekly.manong.io/bounce?nid=316&aid=19756&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgsdn4sv)
+1. [美国如果把根域名服务器封了，中国会从网络上消失？](https://weekly.manong.io/bounce?nid=316&aid=19753&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyitvf34)

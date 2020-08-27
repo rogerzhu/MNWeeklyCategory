@@ -374,3 +374,5 @@
 1. [网易开源的，高性能、高可用、高可靠的分布式存储系统 ](https://weekly.manong.io/bounce?nid=313&aid=19661&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FIfyIGuXqOnKRk9ndWer58w)
 1. [漫谈分布式系统 (20)：基于规则的优化](https://weekly.manong.io/bounce?nid=313&aid=19639&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx8e3o0q)
 1. [分布式架构链路追踪：SkyWalking 介绍](https://weekly.manong.io/bounce?nid=313&aid=19640&url=https%3A%2F%2Ftoutiao.io%2Fk%2F799b7ki)
+1. [数据源管理：分布式 NoSQL 系统，Cassandra 集群管理](https://weekly.manong.io/bounce?nid=316&aid=19774&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fct1wjj2)
+1. [Volcano 1.0：分布式调度系统漫谈](https://weekly.manong.io/bounce?nid=316&aid=19776&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo1gs8d4)

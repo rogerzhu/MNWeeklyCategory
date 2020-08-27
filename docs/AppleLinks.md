@@ -697,3 +697,5 @@
 1. [iOS Crash 分析攻略](https://weekly.manong.io/bounce?nid=312&aid=19584&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhVj-j61Br3dox37SN79fDQ)
 1. [阿里、字节：一套高效的 iOS 面试题之我整理的答案之 runtime 相关问题（一）](https://weekly.manong.io/bounce?nid=314&aid=19672&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg7kajja)
 1. [修改休眠模式以节省 macOS 睡眠时的电池电量](https://weekly.manong.io/bounce?nid=315&aid=19717&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0070u8f)
+1. [打造 Mac OS 最强终端利器 iTerm2](https://weekly.manong.io/bounce?nid=316&aid=19765&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9ujm1ju)
+1. [开源：如何实现一个 iOS AOP 框架？](https://weekly.manong.io/bounce?nid=316&aid=19758&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FY3bE_iywGzoxRe4xGMMb7A)

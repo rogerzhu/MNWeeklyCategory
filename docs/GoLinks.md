@@ -970,3 +970,6 @@
 1. [非对称加密 Rsa 数字签名 Go 实战](https://weekly.manong.io/bounce?nid=314&aid=19675&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpp47yg4)
 1. [常用高并发网络线程模型设计及 MongoDB 线程模型优化实践](https://weekly.manong.io/bounce?nid=315&aid=19711&url=https%3A%2F%2Ftoutiao.io%2Fk%2Faxmawis)
 1. [Go 调试分析的高阶技巧](https://weekly.manong.io/bounce?nid=315&aid=19718&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fonlqg3p)
+1. [如何避免用动态语言的思维写 Go 代码](https://weekly.manong.io/bounce?nid=316&aid=19761&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flmt5cd6)
+1. [掌握这些 Go 语言特性，你的水平将提高 N 个档次（二）](https://weekly.manong.io/bounce?nid=316&aid=19762&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fr4z7515)
+1. [Go学习之路](https://weekly.manong.io/bounce?nid=316&aid=19781&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F343446%23315)

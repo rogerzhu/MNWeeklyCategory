@@ -96,3 +96,4 @@
 1. [让天下没有苦逼的运维！试试这个工具吧！](https://weekly.manong.io/bounce?nid=307&aid=19348&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7x43jp7)
 1. [ClickHouse 之 DBA 运维宝典](https://weekly.manong.io/bounce?nid=311&aid=19551&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp7qsho3)
 1. [Kafka 消费线程模型在中通消息服务运维平台的应用](https://weekly.manong.io/bounce?nid=312&aid=19601&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frmebfk6)
+1. [运维老司机](https://weekly.manong.io/bounce?nid=316&aid=19782&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F249324%23315)

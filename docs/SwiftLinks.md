@@ -207,3 +207,4 @@
 1. [SwiftUI 和 Flutter 开发对比](https://weekly.manong.io/bounce?nid=290&aid=18411&url=https%3A%2F%2Ftoutiao.io%2Fk%2F69zpaqp)
 1. [从探索到落地，手淘引入 Swift “历险记”](https://weekly.manong.io/bounce?nid=296&aid=18784&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6yp2zsc)
 1. [详解 WWDC 20 SwiftUI 的重大改变及核心优势 ](https://weekly.manong.io/bounce?nid=313&aid=19630&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fhp1nMopK_XBkFT7zp3gCfA)
+1. [京东商城订单模块 Swift 探索](https://weekly.manong.io/bounce?nid=316&aid=19759&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqezitnz)

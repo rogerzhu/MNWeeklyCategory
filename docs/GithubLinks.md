@@ -129,3 +129,5 @@
 1. [「架构师技术图谱」上 GitHub 热榜了，助你早日成为架构师！](https://weekly.manong.io/bounce?nid=305&aid=19247&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvu7z6rh)
 1. [PanDownload 不能用了，可是我发现它们上了 GitHub 热榜](https://weekly.manong.io/bounce?nid=305&aid=19254&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm21guzt)
 1. [一款 GitHub 代码泄露监控系统，为企业安全保驾护航！](https://weekly.manong.io/bounce?nid=312&aid=19617&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3ua6tyb)
+1. [深度剖析 GitHub 上 15.1k Star 项目：redux-thunk](https://weekly.manong.io/bounce?nid=316&aid=19766&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpyja4h7)
+1. [AutoUpdater 迁移到 GitHub](https://weekly.manong.io/bounce?nid=316&aid=19772&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkqq70of)

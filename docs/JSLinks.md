@@ -584,3 +584,4 @@
 1. [[译] JavaScript vs Dart 两者之间的比较](https://weekly.manong.io/bounce?nid=309&aid=19436&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fx6eum0aHeSQuUfi_Qfbzdw)
 1. [一文读懂 JavaScript 深拷贝与浅拷贝](https://weekly.manong.io/bounce?nid=311&aid=19538&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fbhyt-Cup_fTEejRWBsvsHA)
 1. [[译] JavaScript 中的缓存 API](https://weekly.manong.io/bounce?nid=315&aid=19722&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0kk1z5f)
+1. [[译] 使用 JavaScript 检测空闲的浏览器选项卡，可以做些什么？](https://weekly.manong.io/bounce?nid=316&aid=19763&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9KoPu5ZocpaP7umltn4B_g)
