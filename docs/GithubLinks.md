@@ -131,3 +131,6 @@
 1. [一款 GitHub 代码泄露监控系统，为企业安全保驾护航！](https://weekly.manong.io/bounce?nid=312&aid=19617&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3ua6tyb)
 1. [深度剖析 GitHub 上 15.1k Star 项目：redux-thunk](https://weekly.manong.io/bounce?nid=316&aid=19766&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpyja4h7)
 1. [AutoUpdater 迁移到 GitHub](https://weekly.manong.io/bounce?nid=316&aid=19772&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkqq70of)
+1. [深度剖析 GitHub 上 15.1k Star 项目：redux-thunk](https://weekly.manong.io/bounce?nid=316&aid=19766&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpyja4h7)
+1. [AutoUpdater 迁移到 GitHub](https://weekly.manong.io/bounce?nid=316&aid=19772&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkqq70of)
+1. [[译] 更有效使用 GitHub 的 4 个技巧](https://weekly.manong.io/bounce?nid=317&aid=19805&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3oswfvq)

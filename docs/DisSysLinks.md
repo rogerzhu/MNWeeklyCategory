@@ -376,3 +376,6 @@
 1. [分布式架构链路追踪：SkyWalking 介绍](https://weekly.manong.io/bounce?nid=313&aid=19640&url=https%3A%2F%2Ftoutiao.io%2Fk%2F799b7ki)
 1. [数据源管理：分布式 NoSQL 系统，Cassandra 集群管理](https://weekly.manong.io/bounce?nid=316&aid=19774&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fct1wjj2)
 1. [Volcano 1.0：分布式调度系统漫谈](https://weekly.manong.io/bounce?nid=316&aid=19776&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo1gs8d4)
+1. [数据源管理：分布式 NoSQL 系统，Cassandra 集群管理](https://weekly.manong.io/bounce?nid=316&aid=19774&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fct1wjj2)
+1. [Volcano 1.0：分布式调度系统漫谈](https://weekly.manong.io/bounce?nid=316&aid=19776&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo1gs8d4)
+1. [Raft 算法之集群成员变更](https://weekly.manong.io/bounce?nid=317&aid=19815&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl6me8fz)

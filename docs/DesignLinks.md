@@ -618,3 +618,8 @@
 1. [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?nid=316&aid=19568&url=https%3A%2F%2Fvip.manong.io%2F%3F3161%23buy)
 1. [为什么说软件架构设计很重要？](https://weekly.manong.io/bounce?nid=316&aid=19751&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftbn2cum)
 1. [MIT 6.824 学习笔记（二）：GFS 设计](https://weekly.manong.io/bounce?nid=316&aid=19767&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flxub979)
+1. [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?nid=316&aid=19568&url=https%3A%2F%2Fvip.manong.io%2F%3F3161%23buy)
+1. [为什么说软件架构设计很重要？](https://weekly.manong.io/bounce?nid=316&aid=19751&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftbn2cum)
+1. [MIT 6.824 学习笔记（二）：GFS 设计](https://weekly.manong.io/bounce?nid=316&aid=19767&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flxub979)
+1. [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?nid=317&aid=19568&url=https%3A%2F%2Fvip.manong.io%2F%3F3171%23buy)
+1. [[译] 设计一个 JavaScript 插件系统](https://weekly.manong.io/bounce?nid=317&aid=19801&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkps56d6)

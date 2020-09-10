@@ -40,3 +40,4 @@
 1. [HBase Shell 命令](https://weekly.manong.io/bounce?nid=292&aid=18550&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy47uum1)
 1. [细数 Redis 的几种 Getshell 方法](https://weekly.manong.io/bounce?nid=304&aid=19215&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqdh8ae7)
 1. [没想到 Shell 命令竟然还能这么玩？](https://weekly.manong.io/bounce?nid=316&aid=19769&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0ah1n1b)
+1. [没想到 Shell 命令竟然还能这么玩？](https://weekly.manong.io/bounce?nid=316&aid=19769&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0ah1n1b)

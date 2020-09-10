@@ -98,3 +98,6 @@
 1. [性能调优利器：火焰图](https://weekly.manong.io/bounce?nid=312&aid=19597&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcyzz0t9)
 1. [打造 Mac OS 最强终端利器 iTerm2](https://weekly.manong.io/bounce?nid=316&aid=19765&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9ujm1ju)
 1. [高并发系统三大利器之限流](https://weekly.manong.io/bounce?nid=316&aid=19775&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1514ax3)
+1. [打造 Mac OS 最强终端利器 iTerm2](https://weekly.manong.io/bounce?nid=316&aid=19765&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9ujm1ju)
+1. [高并发系统三大利器之限流](https://weekly.manong.io/bounce?nid=316&aid=19775&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1514ax3)
+1. [DBA 的福音，SQL 审核利器：goinception](https://weekly.manong.io/bounce?nid=317&aid=19821&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgatrxff)

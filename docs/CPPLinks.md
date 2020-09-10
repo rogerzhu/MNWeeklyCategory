@@ -132,3 +132,4 @@
 1. [C++ 模板编程](https://weekly.manong.io/bounce?nid=310&aid=19479&url=https%3A%2F%2Ftoutiao.io%2Fk%2Furkx9wp)
 1. [C++ 探索之旅（一）：什么是 C++](https://weekly.manong.io/bounce?nid=312&aid=19580&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxq9mlaj)
 1. [C++ 奇淫技巧之完美转发](https://weekly.manong.io/bounce?nid=314&aid=19669&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4safeue)
+1. [工具 | 搜狗公司 C++ 服务器引擎](https://weekly.manong.io/bounce?nid=317&aid=19833&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtjPSsWblRgnpINYP46JlPQ)

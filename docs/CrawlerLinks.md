@@ -62,3 +62,4 @@
 1. [52 讲轻松搞定网络爬虫](https://weekly.manong.io/bounce?nid=299&aid=18932&url=https%3A%2F%2Ft.lagou.com%2F3R2FR%3DRHRUD90)
 1. [如何设计一款暗度陈仓的反爬虫](https://weekly.manong.io/bounce?nid=302&aid=19134&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqcb56b2)
 1. [不会写爬虫咋办？8k Star 的 Python 爬虫例子拿去](https://weekly.manong.io/bounce?nid=305&aid=19252&url=https%3A%2F%2Ftoutiao.io%2Fk%2Focurgno)
+1. [强大精简的爬虫框架 Colly，能否取代 Scrapy？](https://weekly.manong.io/bounce?nid=317&aid=19822&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjjnj85i)

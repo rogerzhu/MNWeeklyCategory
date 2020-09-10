@@ -188,3 +188,5 @@
 1. [[译] 如何使用 Istio 1.6 管理多集群中的微服务？](https://weekly.manong.io/bounce?nid=314&aid=19700&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2rkky98)
 1. [微服务如何对齐业务架构](https://weekly.manong.io/bounce?nid=315&aid=19712&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsew8qta)
 1. [微服务的战争：按什么维度拆分服务](https://weekly.manong.io/bounce?nid=316&aid=19752&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3lp54k3)
+1. [微服务的战争：按什么维度拆分服务](https://weekly.manong.io/bounce?nid=316&aid=19752&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3lp54k3)
+1. [微服务技术栈：API 网关中心，落地实现方案](https://weekly.manong.io/bounce?nid=317&aid=19814&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5fjxacf)

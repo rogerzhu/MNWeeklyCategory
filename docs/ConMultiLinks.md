@@ -253,3 +253,5 @@
 1. [大白话 Java 多线程](https://weekly.manong.io/bounce?nid=315&aid=19714&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb9pp8ci)
 1. [高并发系统三大利器之限流](https://weekly.manong.io/bounce?nid=316&aid=19775&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1514ax3)
 1. [Tomcat 高并发之道原理拆解与性能调优](https://weekly.manong.io/bounce?nid=316&aid=19779&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhtijp2l)
+1. [高并发系统三大利器之限流](https://weekly.manong.io/bounce?nid=316&aid=19775&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1514ax3)
+1. [Tomcat 高并发之道原理拆解与性能调优](https://weekly.manong.io/bounce?nid=316&aid=19779&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhtijp2l)

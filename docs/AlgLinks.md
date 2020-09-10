@@ -542,3 +542,5 @@
 1. [谷歌极速人脸、手、人体姿态分析 Blaze 算法家族](https://weekly.manong.io/bounce?nid=315&aid=19726&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpw7gu5l)
 1. [一文带你看懂二叉树的序列化](https://weekly.manong.io/bounce?nid=315&aid=19729&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7sq7da9)
 1. [《集成学习：基础与算法 》](https://weekly.manong.io/bounce?nid=315&aid=19742&url=https%3A%2F%2Fu.jd.com%2FW7aITx)
+1. [消息队列之推还是拉，RocketMQ 和 Kafka 是如何做的？](https://weekly.manong.io/bounce?nid=317&aid=19811&url=https%3A%2F%2Ftoutiao.io%2Fk%2F749snp6)
+1. [Raft 算法之集群成员变更](https://weekly.manong.io/bounce?nid=317&aid=19815&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl6me8fz)

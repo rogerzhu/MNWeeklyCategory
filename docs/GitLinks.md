@@ -187,3 +187,4 @@
 1. [如何实现 git 命令行的联想功能](https://weekly.manong.io/bounce?nid=308&aid=19404&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnr8t1an)
 1. [Tech 与 Team：再聊 Git Flow](https://weekly.manong.io/bounce?nid=309&aid=19459&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fipxbdhd)
 1. [一文带你彻底学会 Git Hooks 配置](https://weekly.manong.io/bounce?nid=311&aid=19544&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy2tamtp)
+1. [资料 | Git 魔法.pdf](https://weekly.manong.io/bounce?nid=317&aid=19832&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ65_nKr-zYhkEflSSWTv1A)

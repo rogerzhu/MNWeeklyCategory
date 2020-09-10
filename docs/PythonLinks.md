@@ -655,3 +655,7 @@
 1. [Python 为什么能支持任意的真值判断？](https://weekly.manong.io/bounce?nid=315&aid=19719&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9z0vtmx)
 1. [用 Python 了解一下最炫国漫《雾山五行》](https://weekly.manong.io/bounce?nid=315&aid=19720&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbdpkwed)
 1. [Python 函数为什么会默认返回 None？](https://weekly.manong.io/bounce?nid=316&aid=19760&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5ldsr7i)
+1. [Python 函数为什么会默认返回 None？](https://weekly.manong.io/bounce?nid=316&aid=19760&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5ldsr7i)
+1. [Apache Kafka 2.6.0 有哪些值得关心的变化](https://weekly.manong.io/bounce?nid=317&aid=19809&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0lo61oa)
+1. [消息队列之推还是拉，RocketMQ 和 Kafka 是如何做的？](https://weekly.manong.io/bounce?nid=317&aid=19811&url=https%3A%2F%2Ftoutiao.io%2Fk%2F749snp6)
+1. [Python 到底是强类型语言，还是弱类型语言？](https://weekly.manong.io/bounce?nid=317&aid=19796&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fugzknje)

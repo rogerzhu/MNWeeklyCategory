@@ -447,3 +447,6 @@
 1. [快速打造属于你的接口自动化测试框架](https://weekly.manong.io/bounce?nid=311&aid=19555&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5v0mnbm)
 1. [三分钟了解 Python 3 的异步 Web 框架 FastAPI](https://weekly.manong.io/bounce?nid=313&aid=19634&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs8agylw)
 1. [开源：如何实现一个 iOS AOP 框架？](https://weekly.manong.io/bounce?nid=316&aid=19758&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FY3bE_iywGzoxRe4xGMMb7A)
+1. [开源：如何实现一个 iOS AOP 框架？](https://weekly.manong.io/bounce?nid=316&aid=19758&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FY3bE_iywGzoxRe4xGMMb7A)
+1. [数据同步一致性保障：OPPO 自研 JinS 数据同步框架实践](https://weekly.manong.io/bounce?nid=317&aid=19808&url=https%3A%2F%2Ftoutiao.io%2Fk%2F58qwcgl)
+1. [强大精简的爬虫框架 Colly，能否取代 Scrapy？](https://weekly.manong.io/bounce?nid=317&aid=19822&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjjnj85i)

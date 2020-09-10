@@ -606,3 +606,7 @@
 1. [深度剖析 GitHub 上 15.1k Star 项目：redux-thunk](https://weekly.manong.io/bounce?nid=316&aid=19766&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpyja4h7)
 1. [记一次 Spring 项目打包问题排查](https://weekly.manong.io/bounce?nid=316&aid=19757&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv5nc8dk)
 1. [开源：如何实现一个 iOS AOP 框架？](https://weekly.manong.io/bounce?nid=316&aid=19758&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FY3bE_iywGzoxRe4xGMMb7A)
+1. [深度剖析 GitHub 上 15.1k Star 项目：redux-thunk](https://weekly.manong.io/bounce?nid=316&aid=19766&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpyja4h7)
+1. [记一次 Spring 项目打包问题排查](https://weekly.manong.io/bounce?nid=316&aid=19757&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv5nc8dk)
+1. [开源：如何实现一个 iOS AOP 框架？](https://weekly.manong.io/bounce?nid=316&aid=19758&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FY3bE_iywGzoxRe4xGMMb7A)
+1. [Superset，基于 Web 的开源 BI 工具](https://weekly.manong.io/bounce?nid=317&aid=19819&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuyj2p7w)

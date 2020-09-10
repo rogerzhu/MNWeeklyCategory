@@ -1825,3 +1825,8 @@
 1. [[译] Kubernetes Egress 网络策略指南](https://weekly.manong.io/bounce?nid=315&aid=19737&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1yiomog)
 1. [[译] JavaScript 中的缓存 API](https://weekly.manong.io/bounce?nid=315&aid=19722&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0kk1z5f)
 1. [[译] 使用 JavaScript 检测空闲的浏览器选项卡，可以做些什么？](https://weekly.manong.io/bounce?nid=316&aid=19763&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9KoPu5ZocpaP7umltn4B_g)
+1. [[译] 使用 JavaScript 检测空闲的浏览器选项卡，可以做些什么？](https://weekly.manong.io/bounce?nid=316&aid=19763&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9KoPu5ZocpaP7umltn4B_g)
+1. [[译] 更有效使用 GitHub 的 4 个技巧](https://weekly.manong.io/bounce?nid=317&aid=19805&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3oswfvq)
+1. [[译] 图解 Go 内存管理与内存清理](https://weekly.manong.io/bounce?nid=317&aid=19798&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frfvpcag)
+1. [[译] Go：使用 pprof 收集样本数据](https://weekly.manong.io/bounce?nid=317&aid=19799&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5ng365f)
+1. [[译] 设计一个 JavaScript 插件系统](https://weekly.manong.io/bounce?nid=317&aid=19801&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkps56d6)

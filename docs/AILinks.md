@@ -1304,3 +1304,4 @@
 1. [微博基于 Flink 的机器学习实践](https://weekly.manong.io/bounce?nid=315&aid=19733&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7or5x21)
 1. [深度学习炼丹](https://weekly.manong.io/bounce?nid=315&aid=19746&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F86779%23315)
 1. [机器学习与系统](https://weekly.manong.io/bounce?nid=316&aid=19780&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F412364%23315)
+1. [机器学习与系统](https://weekly.manong.io/bounce?nid=316&aid=19780&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F412364%23315)

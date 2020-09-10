@@ -336,3 +336,5 @@
 1. [过往记忆大数据](https://weekly.manong.io/bounce?nid=314&aid=19682&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F43182%23314)
 1. [微博基于 Flink 的机器学习实践](https://weekly.manong.io/bounce?nid=315&aid=19733&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7or5x21)
 1. [王者荣耀背后的实时大数据平台用了什么黑科技？](https://weekly.manong.io/bounce?nid=316&aid=19750&url=https%3A%2F%2Ftoutiao.io%2Fk%2F22ay1p0)
+1. [王者荣耀背后的实时大数据平台用了什么黑科技？](https://weekly.manong.io/bounce?nid=316&aid=19750&url=https%3A%2F%2Ftoutiao.io%2Fk%2F22ay1p0)
+1. [基于 Spark 的大规模推荐系统特征工程](https://weekly.manong.io/bounce?nid=317&aid=19789&url=https%3A%2F%2Ftoutiao.io%2Fk%2F90jrxp6)

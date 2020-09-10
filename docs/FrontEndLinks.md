@@ -446,3 +446,5 @@
 1. [这可能是迄今为止对大前端最好的解释](https://weekly.manong.io/bounce?nid=313&aid=19651&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk0qtz9e)
 1. [从 0 到 1 开始前端异常监控](https://weekly.manong.io/bounce?nid=314&aid=19685&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftxe46k2)
 1. [内推职位 | 火币网 / 高级前端开发工程师](https://weekly.manong.io/bounce?nid=316&aid=19786&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fj2lWVu4gFNUVl_IW2BDg9A)
+1. [内推职位 | 火币网 / 高级前端开发工程师](https://weekly.manong.io/bounce?nid=316&aid=19786&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fj2lWVu4gFNUVl_IW2BDg9A)
+1. [内推职位 | 火币网 / 高级前端开发工程师](https://weekly.manong.io/bounce?nid=317&aid=19830&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhY6UIkgEmQwlc8J2jwPreg)

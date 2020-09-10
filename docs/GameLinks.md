@@ -208,3 +208,4 @@
 1. [美团 OCTO 万亿级数据中心计算引擎技术解析](https://weekly.manong.io/bounce?nid=306&aid=19279&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm3b0mht)
 1. [复杂风控场景下，如何打造一款高效的规则引擎](https://weekly.manong.io/bounce?nid=307&aid=19324&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fane6e50)
 1. [查询耗时降低 2/3，携程度假搜索引擎架构优化](https://weekly.manong.io/bounce?nid=312&aid=19578&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxjxbd0u)
+1. [工具 | 搜狗公司 C++ 服务器引擎](https://weekly.manong.io/bounce?nid=317&aid=19833&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtjPSsWblRgnpINYP46JlPQ)

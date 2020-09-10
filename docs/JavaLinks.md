@@ -575,3 +575,5 @@
 1. [java金融](https://weekly.manong.io/bounce?nid=314&aid=19679&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F446883%23314)
 1. [我还在生产玩 JDK 7，JDK 15 却要来了](https://weekly.manong.io/bounce?nid=315&aid=19713&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flzbgs8w)
 1. [大白话 Java 多线程](https://weekly.manong.io/bounce?nid=315&aid=19714&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb9pp8ci)
+1. [你用对锁了吗？浅谈 Java “锁” 事](https://weekly.manong.io/bounce?nid=317&aid=19793&url=https%3A%2F%2Ftoutiao.io%2Fk%2F76o97ha)
+1. [十个问题弄清 JVM & GC（二）](https://weekly.manong.io/bounce?nid=317&aid=19794&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv2dq9lz)

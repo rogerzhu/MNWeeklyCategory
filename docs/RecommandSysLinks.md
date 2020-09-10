@@ -64,3 +64,4 @@
 1. [推荐系统的人工调控](https://weekly.manong.io/bounce?nid=300&aid=18992&url=https%3A%2F%2Ftoutiao.io%2Fk%2F806f4ts)
 1. [推荐系统中不得不说的 DSSM 双塔模型 ](https://weekly.manong.io/bounce?nid=307&aid=19354&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9v5muff)
 1. [基于 DNN 的推荐算法介绍](https://weekly.manong.io/bounce?nid=309&aid=19456&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F40CRPECu_-RTznZH5zkXhg)
+1. [基于 Spark 的大规模推荐系统特征工程](https://weekly.manong.io/bounce?nid=317&aid=19789&url=https%3A%2F%2Ftoutiao.io%2Fk%2F90jrxp6)

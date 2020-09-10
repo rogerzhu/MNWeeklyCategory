@@ -63,3 +63,4 @@
 1. [C# + Web = ？](https://weekly.manong.io/bounce?nid=304&aid=19201&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpgzukhr)
 1. [[译] 欢迎使用 C# 9.0](https://weekly.manong.io/bounce?nid=308&aid=19390&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fauwyk3t)
 1. [.Net Core in Docker 极简入门（下）](https://weekly.manong.io/bounce?nid=314&aid=19676&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx2tzzjf)
+1. [快醒醒，C# 9 中又来了一堆关键词 init, record, with](https://weekly.manong.io/bounce?nid=317&aid=19800&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgqq6vrg)
