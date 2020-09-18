@@ -577,3 +577,5 @@
 1. [大白话 Java 多线程](https://weekly.manong.io/bounce?nid=315&aid=19714&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb9pp8ci)
 1. [你用对锁了吗？浅谈 Java “锁” 事](https://weekly.manong.io/bounce?nid=317&aid=19793&url=https%3A%2F%2Ftoutiao.io%2Fk%2F76o97ha)
 1. [十个问题弄清 JVM & GC（二）](https://weekly.manong.io/bounce?nid=317&aid=19794&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv2dq9lz)
+1. [多图教你掌握 JVM](https://weekly.manong.io/bounce?nid=318&aid=19859&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpz73jc0)
+1. [Java 异常体系](https://weekly.manong.io/bounce?nid=318&aid=19860&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0iadppl)

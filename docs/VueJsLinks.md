@@ -162,3 +162,4 @@
 1. [使用 Nginx 同域名下部署多个 Vue 项目，并使用反向代理](https://weekly.manong.io/bounce?nid=312&aid=19591&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy9v46hb)
 1. [用单元测试读懂 Vue 3 中的 provide/inject](https://weekly.manong.io/bounce?nid=312&aid=19592&url=https%3A%2F%2Ftoutiao.io%2Fk%2F436zd0f)
 1. [图解 Vue 响应式原理](https://weekly.manong.io/bounce?nid=315&aid=19721&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsia6td6)
+1. [[译] Vue.js 构建工具比较](https://weekly.manong.io/bounce?nid=318&aid=19868&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fza7y69r)

@@ -683,3 +683,5 @@
 1. [订单中心，1 亿数据架构，这次服了](https://weekly.manong.io/bounce?nid=317&aid=19787&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8r5oqql)
 1. [Ccww架构之旅](https://weekly.manong.io/bounce?nid=317&aid=19825&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F367406%23317)
 1. [跨界架构师](https://weekly.manong.io/bounce?nid=317&aid=19826&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F268968%23317)
+1. [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?nid=318&aid=19568&url=https%3A%2F%2Fvip.manong.io%2F%3F3181%23buy)
+1. [架构设计：基于电商交易流程，图解 TCC 事务分段提交](https://weekly.manong.io/bounce?nid=318&aid=19840&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx0ijapt)

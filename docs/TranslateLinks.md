@@ -1830,3 +1830,6 @@
 1. [[译] 图解 Go 内存管理与内存清理](https://weekly.manong.io/bounce?nid=317&aid=19798&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frfvpcag)
 1. [[译] Go：使用 pprof 收集样本数据](https://weekly.manong.io/bounce?nid=317&aid=19799&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5ng365f)
 1. [[译] 设计一个 JavaScript 插件系统](https://weekly.manong.io/bounce?nid=317&aid=19801&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkps56d6)
+1. [[译] 聚焦 Android 11：游戏开发新工具](https://weekly.manong.io/bounce?nid=318&aid=19861&url=https%3A%2F%2Ftoutiao.io%2Fk%2Feraqm5i)
+1. [[译] ​Python 中的数字到底是什么？](https://weekly.manong.io/bounce?nid=318&aid=19865&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh8f33ey)
+1. [[译] Vue.js 构建工具比较](https://weekly.manong.io/bounce?nid=318&aid=19868&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fza7y69r)

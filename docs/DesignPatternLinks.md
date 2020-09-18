@@ -43,3 +43,4 @@
 1. [[译] Spring 中的设计模式](https://weekly.manong.io/bounce?nid=304&aid=19193&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy5tucha)
 1. [设计模式太难了？看看这个 “说人话” 的版本再说！](https://weekly.manong.io/bounce?nid=306&aid=19293&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVM_IEmLWsK2cPuGRdLUXOA)
 1. [设计模式太难了？看看这个 “说人话” 的版本再说！](https://weekly.manong.io/bounce?nid=307&aid=19349&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8ofy33k)
+1. [Go 设计模式（五）：创建型模式总结](https://weekly.manong.io/bounce?nid=318&aid=19866&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frh2towx)

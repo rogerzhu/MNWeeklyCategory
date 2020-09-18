@@ -441,3 +441,7 @@
 1. [工具 | 一套网页录屏的解决方案](https://weekly.manong.io/bounce?nid=317&aid=19834&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHF-DW2eAivXq7jUYB3G0bQ)
 1. [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?nid=317&aid=19569&url=https%3A%2F%2Fvip.manong.io%2F%3F3172%23buy)
 1. [Superset，基于 Web 的开源 BI 工具](https://weekly.manong.io/bounce?nid=317&aid=19819&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuyj2p7w)
+1. [工具 | 企鹅电竞开发的，用于播放特效动画的实现方案](https://weekly.manong.io/bounce?nid=318&aid=19873&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fk-N3bw_jm-neR91R-h5vKg)
+1. [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?nid=318&aid=19569&url=https%3A%2F%2Fvip.manong.io%2F%3F3182%23buy)
+1. [[译] 聚焦 Android 11：游戏开发新工具](https://weekly.manong.io/bounce?nid=318&aid=19861&url=https%3A%2F%2Ftoutiao.io%2Fk%2Feraqm5i)
+1. [[译] Vue.js 构建工具比较](https://weekly.manong.io/bounce?nid=318&aid=19868&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fza7y69r)

@@ -231,3 +231,4 @@
 1. [如何阅读源码？](https://weekly.manong.io/bounce?nid=306&aid=19299&url=https%3A%2F%2Ftoutiao.io%2Fk%2F36tbvna)
 1. [彻底搞懂 React 源码调度原理（Concurrent 模式）](https://weekly.manong.io/bounce?nid=308&aid=19394&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5hghlsi)
 1. [《Kubernetes源码剖析》](https://weekly.manong.io/bounce?nid=311&aid=19540&url=https%3A%2F%2Fu.jd.com%2FIkFMNs)
+1. [Kotlin 源码里成吨的 noinline 和 crossinline 是干嘛的？](https://weekly.manong.io/bounce?nid=318&aid=19862&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxvi1d56)

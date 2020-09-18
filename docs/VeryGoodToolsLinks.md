@@ -101,3 +101,4 @@
 1. [打造 Mac OS 最强终端利器 iTerm2](https://weekly.manong.io/bounce?nid=316&aid=19765&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9ujm1ju)
 1. [高并发系统三大利器之限流](https://weekly.manong.io/bounce?nid=316&aid=19775&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1514ax3)
 1. [DBA 的福音，SQL 审核利器：goinception](https://weekly.manong.io/bounce?nid=317&aid=19821&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgatrxff)
+1. [提升开发效率 N 倍的 20+ 命令行神器](https://weekly.manong.io/bounce?nid=318&aid=19846&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnims2je)

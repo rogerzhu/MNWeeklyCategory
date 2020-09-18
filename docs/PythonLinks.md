@@ -659,3 +659,5 @@
 1. [Apache Kafka 2.6.0 有哪些值得关心的变化](https://weekly.manong.io/bounce?nid=317&aid=19809&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0lo61oa)
 1. [消息队列之推还是拉，RocketMQ 和 Kafka 是如何做的？](https://weekly.manong.io/bounce?nid=317&aid=19811&url=https%3A%2F%2Ftoutiao.io%2Fk%2F749snp6)
 1. [Python 到底是强类型语言，还是弱类型语言？](https://weekly.manong.io/bounce?nid=317&aid=19796&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fugzknje)
+1. [用 Python 实现朋友圈中的九宫格图片](https://weekly.manong.io/bounce?nid=318&aid=19864&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fao91r9a)
+1. [[译] ​Python 中的数字到底是什么？](https://weekly.manong.io/bounce?nid=318&aid=19865&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh8f33ey)

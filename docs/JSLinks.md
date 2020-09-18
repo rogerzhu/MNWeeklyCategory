@@ -587,3 +587,4 @@
 1. [[译] 使用 JavaScript 检测空闲的浏览器选项卡，可以做些什么？](https://weekly.manong.io/bounce?nid=316&aid=19763&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9KoPu5ZocpaP7umltn4B_g)
 1. [[译] 使用 JavaScript 检测空闲的浏览器选项卡，可以做些什么？](https://weekly.manong.io/bounce?nid=316&aid=19763&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9KoPu5ZocpaP7umltn4B_g)
 1. [[译] 设计一个 JavaScript 插件系统](https://weekly.manong.io/bounce?nid=317&aid=19801&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkps56d6)
+1. [[译] Vue.js 构建工具比较](https://weekly.manong.io/bounce?nid=318&aid=19868&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fza7y69r)

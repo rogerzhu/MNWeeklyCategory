@@ -623,3 +623,5 @@
 1. [MIT 6.824 学习笔记（二）：GFS 设计](https://weekly.manong.io/bounce?nid=316&aid=19767&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flxub979)
 1. [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?nid=317&aid=19568&url=https%3A%2F%2Fvip.manong.io%2F%3F3171%23buy)
 1. [[译] 设计一个 JavaScript 插件系统](https://weekly.manong.io/bounce?nid=317&aid=19801&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkps56d6)
+1. [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?nid=318&aid=19568&url=https%3A%2F%2Fvip.manong.io%2F%3F3181%23buy)
+1. [架构设计：基于电商交易流程，图解 TCC 事务分段提交](https://weekly.manong.io/bounce?nid=318&aid=19840&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx0ijapt)

@@ -270,3 +270,4 @@
 1. [面试官：说说 Kafka 处理请求的全流程](https://weekly.manong.io/bounce?nid=313&aid=19645&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjaqydhp)
 1. [表弟面试被虐，我教他缓存连招，借机蹭了波奈雪的茶](https://weekly.manong.io/bounce?nid=314&aid=19698&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuynwrw9)
 1. [阿里、字节：一套高效的 iOS 面试题之我整理的答案之 runtime 相关问题（一）](https://weekly.manong.io/bounce?nid=314&aid=19672&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg7kajja)
+1. [社招面试经历](https://weekly.manong.io/bounce?nid=318&aid=19844&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyvm0wbe)

@@ -448,3 +448,5 @@
 1. [内推职位 | 火币网 / 高级前端开发工程师](https://weekly.manong.io/bounce?nid=316&aid=19786&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fj2lWVu4gFNUVl_IW2BDg9A)
 1. [内推职位 | 火币网 / 高级前端开发工程师](https://weekly.manong.io/bounce?nid=316&aid=19786&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fj2lWVu4gFNUVl_IW2BDg9A)
 1. [内推职位 | 火币网 / 高级前端开发工程师](https://weekly.manong.io/bounce?nid=317&aid=19830&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhY6UIkgEmQwlc8J2jwPreg)
+1. [内推职位 | 火币网 / 高级前端开发工程师](https://weekly.manong.io/bounce?nid=318&aid=19830&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhY6UIkgEmQwlc8J2jwPreg)
+1. [web前端](https://weekly.manong.io/bounce?nid=318&aid=19855&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F95159%23318)

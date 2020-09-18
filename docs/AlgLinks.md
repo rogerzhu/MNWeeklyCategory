@@ -544,3 +544,5 @@
 1. [《集成学习：基础与算法 》](https://weekly.manong.io/bounce?nid=315&aid=19742&url=https%3A%2F%2Fu.jd.com%2FW7aITx)
 1. [消息队列之推还是拉，RocketMQ 和 Kafka 是如何做的？](https://weekly.manong.io/bounce?nid=317&aid=19811&url=https%3A%2F%2Ftoutiao.io%2Fk%2F749snp6)
 1. [Raft 算法之集群成员变更](https://weekly.manong.io/bounce?nid=317&aid=19815&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl6me8fz)
+1. [资料 | 各大互联网公司容易考察的高频 LeetCode 题](https://weekly.manong.io/bounce?nid=318&aid=19872&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGte6GQydDcnfn_1ZA3KYHQ)
+1. [《算法与数据中台：基于Google、Facebook与微博实践》](https://weekly.manong.io/bounce?nid=318&aid=19870&url=https%3A%2F%2Fu.jd.com%2FDpNS3m)

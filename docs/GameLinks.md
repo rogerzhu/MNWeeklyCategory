@@ -209,3 +209,4 @@
 1. [复杂风控场景下，如何打造一款高效的规则引擎](https://weekly.manong.io/bounce?nid=307&aid=19324&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fane6e50)
 1. [查询耗时降低 2/3，携程度假搜索引擎架构优化](https://weekly.manong.io/bounce?nid=312&aid=19578&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxjxbd0u)
 1. [工具 | 搜狗公司 C++ 服务器引擎](https://weekly.manong.io/bounce?nid=317&aid=19833&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FtjPSsWblRgnpINYP46JlPQ)
+1. [[译] 聚焦 Android 11：游戏开发新工具](https://weekly.manong.io/bounce?nid=318&aid=19861&url=https%3A%2F%2Ftoutiao.io%2Fk%2Feraqm5i)

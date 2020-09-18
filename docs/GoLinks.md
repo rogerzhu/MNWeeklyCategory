@@ -980,3 +980,5 @@
 1. [DBA 的福音，SQL 审核利器：goinception](https://weekly.manong.io/bounce?nid=317&aid=19821&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgatrxff)
 1. [[译] 图解 Go 内存管理与内存清理](https://weekly.manong.io/bounce?nid=317&aid=19798&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frfvpcag)
 1. [[译] Go：使用 pprof 收集样本数据](https://weekly.manong.io/bounce?nid=317&aid=19799&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5ng365f)
+1. [K8s 上的 Go 服务怎么扩容、发版更新、回滚、平滑重启？](https://weekly.manong.io/bounce?nid=318&aid=19853&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqbkjrv0)
+1. [Go 设计模式（五）：创建型模式总结](https://weekly.manong.io/bounce?nid=318&aid=19866&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frh2towx)
