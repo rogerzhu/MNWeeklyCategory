@@ -93,3 +93,4 @@
 1. [教你免费搭建一个技术博客](https://weekly.manong.io/bounce?nid=303&aid=19163&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwl7xc85)
 1. [大神阮一峰的《Bash 脚本教程》免费发布啦](https://weekly.manong.io/bounce?nid=304&aid=19210&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyqthvj0)
 1. [世界读书日，上百本免费计算机书籍，拿走不谢！](https://weekly.manong.io/bounce?nid=305&aid=19251&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjft8ezv)
+1. [工具 | 一款功能强大，开源免费的 H5 可视化页面配置解决方案 ](https://weekly.manong.io/bounce?nid=319&aid=19917&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F68ck3bDCF62fyy3wRDWFiA)

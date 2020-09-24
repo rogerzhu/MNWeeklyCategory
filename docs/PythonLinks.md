@@ -661,3 +661,5 @@
 1. [Python 到底是强类型语言，还是弱类型语言？](https://weekly.manong.io/bounce?nid=317&aid=19796&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fugzknje)
 1. [用 Python 实现朋友圈中的九宫格图片](https://weekly.manong.io/bounce?nid=318&aid=19864&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fao91r9a)
 1. [[译] ​Python 中的数字到底是什么？](https://weekly.manong.io/bounce?nid=318&aid=19865&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh8f33ey)
+1. [如何实现一个优雅的 Python 的 Json 序列化库](https://weekly.manong.io/bounce?nid=319&aid=19886&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6blou0m)
+1. [[译] 详解 Python 的二元算术运算，为什么说减法只是语法糖？](https://weekly.manong.io/bounce?nid=319&aid=19887&url=https%3A%2F%2Ftoutiao.io%2Fk%2F70cbu8s)

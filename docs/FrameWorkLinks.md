@@ -450,3 +450,4 @@
 1. [开源：如何实现一个 iOS AOP 框架？](https://weekly.manong.io/bounce?nid=316&aid=19758&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FY3bE_iywGzoxRe4xGMMb7A)
 1. [数据同步一致性保障：OPPO 自研 JinS 数据同步框架实践](https://weekly.manong.io/bounce?nid=317&aid=19808&url=https%3A%2F%2Ftoutiao.io%2Fk%2F58qwcgl)
 1. [强大精简的爬虫框架 Colly，能否取代 Scrapy？](https://weekly.manong.io/bounce?nid=317&aid=19822&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjjnj85i)
+1. [鸿蒙系统中的 JS 开发框架](https://weekly.manong.io/bounce?nid=319&aid=19891&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5o5cl7x)

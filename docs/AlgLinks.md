@@ -546,3 +546,6 @@
 1. [Raft 算法之集群成员变更](https://weekly.manong.io/bounce?nid=317&aid=19815&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl6me8fz)
 1. [资料 | 各大互联网公司容易考察的高频 LeetCode 题](https://weekly.manong.io/bounce?nid=318&aid=19872&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGte6GQydDcnfn_1ZA3KYHQ)
 1. [《算法与数据中台：基于Google、Facebook与微博实践》](https://weekly.manong.io/bounce?nid=318&aid=19870&url=https%3A%2F%2Fu.jd.com%2FDpNS3m)
+1. [大厂面试爱问的 “调度算法”，20 张图一举拿下](https://weekly.manong.io/bounce?nid=319&aid=19893&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzu9e79n)
+1. [字节跳动的算法面试题是什么难度？](https://weekly.manong.io/bounce?nid=319&aid=19907&url=https%3A%2F%2Ftoutiao.io%2Fk%2F81dw35x)
+1. [Rust 学习笔记：无栈协程](https://weekly.manong.io/bounce?nid=319&aid=19890&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb7shlzb)

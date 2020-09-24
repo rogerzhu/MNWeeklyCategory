@@ -445,3 +445,8 @@
 1. [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?nid=318&aid=19569&url=https%3A%2F%2Fvip.manong.io%2F%3F3182%23buy)
 1. [[译] 聚焦 Android 11：游戏开发新工具](https://weekly.manong.io/bounce?nid=318&aid=19861&url=https%3A%2F%2Ftoutiao.io%2Fk%2Feraqm5i)
 1. [[译] Vue.js 构建工具比较](https://weekly.manong.io/bounce?nid=318&aid=19868&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fza7y69r)
+1. [工具 | 一款功能强大，开源免费的 H5 可视化页面配置解决方案 ](https://weekly.manong.io/bounce?nid=319&aid=19917&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F68ck3bDCF62fyy3wRDWFiA)
+1. [工具 | 京东自研的联邦学习平台 ](https://weekly.manong.io/bounce?nid=319&aid=19915&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRislfPv4Hmg8TDA_GnHBnA)
+1. [工具 | 达摩院阿里小蜜孵化的对话式界面组件 ](https://weekly.manong.io/bounce?nid=319&aid=19916&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr7_Jf_Txn7fQcI7-w3mm6Q)
+1. [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?nid=319&aid=19569&url=https%3A%2F%2Fvip.manong.io%2F%3F3192%23buy)
+1. [elecV2P：一款不止于 MITM 的网络工具](https://weekly.manong.io/bounce?nid=319&aid=19908&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3dcr8pg)

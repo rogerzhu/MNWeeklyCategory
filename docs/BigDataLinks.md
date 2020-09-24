@@ -338,3 +338,6 @@
 1. [王者荣耀背后的实时大数据平台用了什么黑科技？](https://weekly.manong.io/bounce?nid=316&aid=19750&url=https%3A%2F%2Ftoutiao.io%2Fk%2F22ay1p0)
 1. [王者荣耀背后的实时大数据平台用了什么黑科技？](https://weekly.manong.io/bounce?nid=316&aid=19750&url=https%3A%2F%2Ftoutiao.io%2Fk%2F22ay1p0)
 1. [基于 Spark 的大规模推荐系统特征工程](https://weekly.manong.io/bounce?nid=317&aid=19789&url=https%3A%2F%2Ftoutiao.io%2Fk%2F90jrxp6)
+1. [网易大数据用户画像实践](https://weekly.manong.io/bounce?nid=319&aid=19877&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbqjhhe3)
+1. [从 0 到 1 实现一款轻量级大数据分析系统](https://weekly.manong.io/bounce?nid=319&aid=19879&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftyygn3e)
+1. [如何基于 Flink 生成在线机器学习的样本？](https://weekly.manong.io/bounce?nid=319&aid=19903&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzu6s46v)

@@ -271,3 +271,5 @@
 1. [表弟面试被虐，我教他缓存连招，借机蹭了波奈雪的茶](https://weekly.manong.io/bounce?nid=314&aid=19698&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuynwrw9)
 1. [阿里、字节：一套高效的 iOS 面试题之我整理的答案之 runtime 相关问题（一）](https://weekly.manong.io/bounce?nid=314&aid=19672&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg7kajja)
 1. [社招面试经历](https://weekly.manong.io/bounce?nid=318&aid=19844&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyvm0wbe)
+1. [大厂面试爱问的 “调度算法”，20 张图一举拿下](https://weekly.manong.io/bounce?nid=319&aid=19893&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzu9e79n)
+1. [字节跳动的算法面试题是什么难度？](https://weekly.manong.io/bounce?nid=319&aid=19907&url=https%3A%2F%2Ftoutiao.io%2Fk%2F81dw35x)

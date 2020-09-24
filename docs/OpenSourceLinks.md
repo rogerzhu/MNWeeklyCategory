@@ -610,3 +610,5 @@
 1. [记一次 Spring 项目打包问题排查](https://weekly.manong.io/bounce?nid=316&aid=19757&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv5nc8dk)
 1. [开源：如何实现一个 iOS AOP 框架？](https://weekly.manong.io/bounce?nid=316&aid=19758&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FY3bE_iywGzoxRe4xGMMb7A)
 1. [Superset，基于 Web 的开源 BI 工具](https://weekly.manong.io/bounce?nid=317&aid=19819&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuyj2p7w)
+1. [工具 | 一款功能强大，开源免费的 H5 可视化页面配置解决方案 ](https://weekly.manong.io/bounce?nid=319&aid=19917&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F68ck3bDCF62fyy3wRDWFiA)
+1. [如果项目的模型遇到瓶颈，用这些 Tricks 就对了](https://weekly.manong.io/bounce?nid=319&aid=19899&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fi3mgewz)

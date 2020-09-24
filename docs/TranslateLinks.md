@@ -1833,3 +1833,5 @@
 1. [[译] 聚焦 Android 11：游戏开发新工具](https://weekly.manong.io/bounce?nid=318&aid=19861&url=https%3A%2F%2Ftoutiao.io%2Fk%2Feraqm5i)
 1. [[译] ​Python 中的数字到底是什么？](https://weekly.manong.io/bounce?nid=318&aid=19865&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh8f33ey)
 1. [[译] Vue.js 构建工具比较](https://weekly.manong.io/bounce?nid=318&aid=19868&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fza7y69r)
+1. [[译] 容器编排的优势与特点](https://weekly.manong.io/bounce?nid=319&aid=19902&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe0jr37e)
+1. [[译] 详解 Python 的二元算术运算，为什么说减法只是语法糖？](https://weekly.manong.io/bounce?nid=319&aid=19887&url=https%3A%2F%2Ftoutiao.io%2Fk%2F70cbu8s)

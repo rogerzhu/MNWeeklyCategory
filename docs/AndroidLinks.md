@@ -795,3 +795,4 @@
 1. [11 Weeks of Android：联系人与身份](https://weekly.manong.io/bounce?nid=313&aid=19629&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEUxI9ewLxLTWC_W8T0Qw9w)
 1. [围观 SharedPreferences 不一样的写法 (Android)](https://weekly.manong.io/bounce?nid=315&aid=19715&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvvty6zl)
 1. [[译] 聚焦 Android 11：游戏开发新工具](https://weekly.manong.io/bounce?nid=318&aid=19861&url=https%3A%2F%2Ftoutiao.io%2Fk%2Feraqm5i)
+1. [聚焦 Android 11：开发语言](https://weekly.manong.io/bounce?nid=319&aid=19882&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9w4z4m2)

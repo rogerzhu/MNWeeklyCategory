@@ -982,3 +982,7 @@
 1. [[译] Go：使用 pprof 收集样本数据](https://weekly.manong.io/bounce?nid=317&aid=19799&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5ng365f)
 1. [K8s 上的 Go 服务怎么扩容、发版更新、回滚、平滑重启？](https://weekly.manong.io/bounce?nid=318&aid=19853&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqbkjrv0)
 1. [Go 设计模式（五）：创建型模式总结](https://weekly.manong.io/bounce?nid=318&aid=19866&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frh2towx)
+1. [迁到 K8s 后服务老莫名重启？把 Go 的运行时错误重定向到文件](https://weekly.manong.io/bounce?nid=319&aid=19897&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1k49r2m)
+1. [Go 设计模式（八）：装饰器模式](https://weekly.manong.io/bounce?nid=319&aid=19888&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv7d0lnr)
+1. [Go：A Documentary 发布](https://weekly.manong.io/bounce?nid=319&aid=19889&url=https%3A%2F%2Ftoutiao.io%2Fk%2F49m9qqf)
+1. [Go语言中文网](https://weekly.manong.io/bounce?nid=319&aid=19914&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F133906%23319)

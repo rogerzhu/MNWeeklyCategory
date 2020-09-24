@@ -579,3 +579,4 @@
 1. [十个问题弄清 JVM & GC（二）](https://weekly.manong.io/bounce?nid=317&aid=19794&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv2dq9lz)
 1. [多图教你掌握 JVM](https://weekly.manong.io/bounce?nid=318&aid=19859&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpz73jc0)
 1. [Java 异常体系](https://weekly.manong.io/bounce?nid=318&aid=19860&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0iadppl)
+1. [Java 后端开发常用的第三方服务 TOP 10](https://weekly.manong.io/bounce?nid=319&aid=19880&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1vfytv1)
