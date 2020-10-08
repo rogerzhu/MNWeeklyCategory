@@ -701,3 +701,5 @@
 1. [Redis migrate 数据迁移工具](https://weekly.manong.io/bounce?nid=316&aid=19778&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffiv94h6)
 1. [DBA 的福音，SQL 审核利器：goinception](https://weekly.manong.io/bounce?nid=317&aid=19821&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgatrxff)
 1. [Redis 和 Memcached 的恩怨情仇](https://weekly.manong.io/bounce?nid=318&aid=19841&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn2w1gfz)
+1. [Redis 核心原理和实践](https://weekly.manong.io/bounce?nid=320&aid=19936&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx7kg7sr)
+1. [Kotlin 协程和 Android SQLite API 中的线程模型](https://weekly.manong.io/bounce?nid=320&aid=19927&url=https%3A%2F%2Ftoutiao.io%2Fk%2F44j29de)

@@ -986,3 +986,8 @@
 1. [Go 设计模式（八）：装饰器模式](https://weekly.manong.io/bounce?nid=319&aid=19888&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv7d0lnr)
 1. [Go：A Documentary 发布](https://weekly.manong.io/bounce?nid=319&aid=19889&url=https%3A%2F%2Ftoutiao.io%2Fk%2F49m9qqf)
 1. [Go语言中文网](https://weekly.manong.io/bounce?nid=319&aid=19914&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F133906%23319)
+1. [还在担心服务挂掉？Sentinel Go 让服务稳如磐石](https://weekly.manong.io/bounce?nid=320&aid=19933&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsx4z39h)
+1. [我在暴躁同事小张的胁迫下学会了 Go 的交叉编译和条件编译](https://weekly.manong.io/bounce?nid=320&aid=19928&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fynorwke)
+1. [在 Go 语言中，我为什么使用接口](https://weekly.manong.io/bounce?nid=320&aid=19929&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4m37thx)
+1. [Golang语言开发栈](https://weekly.manong.io/bounce?nid=320&aid=19948&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F99181%23320)
+1. [《Go专家编程》](https://weekly.manong.io/bounce?nid=320&aid=19949&url=https%3A%2F%2Fitem.jd.com%2F12920392.html)

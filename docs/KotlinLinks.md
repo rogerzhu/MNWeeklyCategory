@@ -125,3 +125,5 @@
 1. [巧用 Kotlin 反射实现按值取名，调试做到多快好省](https://weekly.manong.io/bounce?nid=309&aid=19428&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftpcg5l4)
 1. [Kotlin 源码里成吨的 noinline 和 crossinline 是干嘛的？](https://weekly.manong.io/bounce?nid=318&aid=19862&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxvi1d56)
 1. [Kotlin 源码里成吨的 noinline 和 crossinline 是干嘛的？](https://weekly.manong.io/bounce?nid=318&aid=19862&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxvi1d56)
+1. [Kotlin 协程和 Android SQLite API 中的线程模型](https://weekly.manong.io/bounce?nid=320&aid=19927&url=https%3A%2F%2Ftoutiao.io%2Fk%2F44j29de)
+1. [Kotlin 协程和 Android SQLite API 中的线程模型](https://weekly.manong.io/bounce?nid=320&aid=19927&url=https%3A%2F%2Ftoutiao.io%2Fk%2F44j29de)

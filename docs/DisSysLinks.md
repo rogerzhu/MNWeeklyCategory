@@ -379,3 +379,6 @@
 1. [数据源管理：分布式 NoSQL 系统，Cassandra 集群管理](https://weekly.manong.io/bounce?nid=316&aid=19774&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fct1wjj2)
 1. [Volcano 1.0：分布式调度系统漫谈](https://weekly.manong.io/bounce?nid=316&aid=19776&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo1gs8d4)
 1. [Raft 算法之集群成员变更](https://weekly.manong.io/bounce?nid=317&aid=19815&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl6me8fz)
+1. [分布式事务精华总结篇](https://weekly.manong.io/bounce?nid=320&aid=19934&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxdryz90)
+1. [20 张图搞懂 “分布式事务”](https://weekly.manong.io/bounce?nid=320&aid=19938&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkeefsst)
+1. [分布式事务解决方案常见误区与实用建议](https://weekly.manong.io/bounce?nid=320&aid=19942&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh9nal21)

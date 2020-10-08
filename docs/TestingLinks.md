@@ -244,3 +244,4 @@
 1. [工具 | 一站式的开源企业级持续测试平台 ](https://weekly.manong.io/bounce?nid=314&aid=19706&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgR3yRPbgL3XKosg6E_Xmfg)
 1. [[译] 哪个更快？对 gRPC 的 Rust 和 Go 版本进行基准测试](https://weekly.manong.io/bounce?nid=314&aid=19674&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqx5ccr9)
 1. [软件测试人员的职业发展](https://weekly.manong.io/bounce?nid=319&aid=19894&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy3xrbca)
+1. [如何建立测试自动化策略？](https://weekly.manong.io/bounce?nid=320&aid=19939&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxtwnfoo)

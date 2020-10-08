@@ -687,3 +687,6 @@
 1. [架构设计：基于电商交易流程，图解 TCC 事务分段提交](https://weekly.manong.io/bounce?nid=318&aid=19840&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx0ijapt)
 1. [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?nid=319&aid=19568&url=https%3A%2F%2Fvip.manong.io%2F%3F3191%23buy)
 1. [同城双活与异地多活架构分析](https://weekly.manong.io/bounce?nid=319&aid=19878&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe1eh64z)
+1. [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?nid=320&aid=19568&url=https%3A%2F%2Fvip.manong.io%2F%3F3201%23buy)
+1. [用户画像实践：神策标签生产引擎架构](https://weekly.manong.io/bounce?nid=320&aid=19922&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9oso7iw)
+1. [荔枝微课基础架构的演进与实践](https://weekly.manong.io/bounce?nid=320&aid=19923&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0epkzuh)

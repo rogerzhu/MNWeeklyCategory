@@ -549,3 +549,4 @@
 1. [大厂面试爱问的 “调度算法”，20 张图一举拿下](https://weekly.manong.io/bounce?nid=319&aid=19893&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzu9e79n)
 1. [字节跳动的算法面试题是什么难度？](https://weekly.manong.io/bounce?nid=319&aid=19907&url=https%3A%2F%2Ftoutiao.io%2Fk%2F81dw35x)
 1. [Rust 学习笔记：无栈协程](https://weekly.manong.io/bounce?nid=319&aid=19890&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb7shlzb)
+1. [Golang语言开发栈](https://weekly.manong.io/bounce?nid=320&aid=19948&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F99181%23320)

@@ -580,3 +580,5 @@
 1. [多图教你掌握 JVM](https://weekly.manong.io/bounce?nid=318&aid=19859&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpz73jc0)
 1. [Java 异常体系](https://weekly.manong.io/bounce?nid=318&aid=19860&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0iadppl)
 1. [Java 后端开发常用的第三方服务 TOP 10](https://weekly.manong.io/bounce?nid=319&aid=19880&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1vfytv1)
+1. [Java 15 的新特性](https://weekly.manong.io/bounce?nid=320&aid=19924&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1zo4ozy)
+1. [Java旅途](https://weekly.manong.io/bounce?nid=320&aid=19944&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F444692%23320)

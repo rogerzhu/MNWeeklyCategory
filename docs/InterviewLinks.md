@@ -273,3 +273,4 @@
 1. [社招面试经历](https://weekly.manong.io/bounce?nid=318&aid=19844&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyvm0wbe)
 1. [大厂面试爱问的 “调度算法”，20 张图一举拿下](https://weekly.manong.io/bounce?nid=319&aid=19893&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzu9e79n)
 1. [字节跳动的算法面试题是什么难度？](https://weekly.manong.io/bounce?nid=319&aid=19907&url=https%3A%2F%2Ftoutiao.io%2Fk%2F81dw35x)
+1. [Vue 进阶面试必问，异步更新机制和 nextTick 原理](https://weekly.manong.io/bounce?nid=320&aid=19932&url=https%3A%2F%2Ftoutiao.io%2Fk%2Floxu86g)
