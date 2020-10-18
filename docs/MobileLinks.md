@@ -59,3 +59,4 @@
 1. [移动端滚动穿透的 6 种解决方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F3-M1wAtw6xYmsPlg768NOQ&aid=17566&nid=278)
 1. [花椒移动端基础框架架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQMhMSJ95Kl0tdE-jb1Jvgw&aid=17731&nid=280)
 1. [理解循环网络及其在移动端的趣味应用：AI 诗人](https://weekly.manong.io/bounce?nid=297&aid=18811&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fc2mxqfw)
+1. [基于 f2 从零实现移动端可视化编辑器](https://weekly.manong.io/bounce?nid=321&aid=19979&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwtfv8vn)

@@ -627,3 +627,6 @@
 1. [架构设计：基于电商交易流程，图解 TCC 事务分段提交](https://weekly.manong.io/bounce?nid=318&aid=19840&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx0ijapt)
 1. [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?nid=319&aid=19568&url=https%3A%2F%2Fvip.manong.io%2F%3F3191%23buy)
 1. [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?nid=320&aid=19568&url=https%3A%2F%2Fvip.manong.io%2F%3F3201%23buy)
+1. [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?nid=320&aid=19568&url=https%3A%2F%2Fvip.manong.io%2F%3F3201%23buy)
+1. [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?nid=321&aid=19992&url=https%3A%2F%2Fvip.manong.io%2F%3F3211%23buy)
+1. [《Head First Kotlin程序设计》](https://weekly.manong.io/bounce?nid=321&aid=19988&url=https%3A%2F%2Fitem.jd.com%2F12958560.html)

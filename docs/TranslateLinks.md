@@ -1837,3 +1837,6 @@
 1. [[译] 详解 Python 的二元算术运算，为什么说减法只是语法糖？](https://weekly.manong.io/bounce?nid=319&aid=19887&url=https%3A%2F%2Ftoutiao.io%2Fk%2F70cbu8s)
 1. [[译] 2020 年 Spring 状态报告](https://weekly.manong.io/bounce?nid=320&aid=19925&url=https%3A%2F%2Ftoutiao.io%2Fk%2Faxegdfu)
 1. [[译] 仅用 18 行 JavaScript 构建一个倒数计时器](https://weekly.manong.io/bounce?nid=320&aid=19931&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqijww23)
+1. [[译] 2020 年 Spring 状态报告](https://weekly.manong.io/bounce?nid=320&aid=19925&url=https%3A%2F%2Ftoutiao.io%2Fk%2Faxegdfu)
+1. [[译] 仅用 18 行 JavaScript 构建一个倒数计时器](https://weekly.manong.io/bounce?nid=320&aid=19931&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqijww23)
+1. [[译] 原来 9 张图就可以弄懂 Go 内存管理](https://weekly.manong.io/bounce?nid=321&aid=19966&url=https%3A%2F%2Ftoutiao.io%2Fk%2F47eqfyx)

@@ -141,3 +141,4 @@
 1. [《Flutter实战》](https://weekly.manong.io/bounce?nid=312&aid=19572&url=https%3A%2F%2Fitem.jd.com%2F12816296.html)
 1. [Flutter 1.20 下的 Hybrid Composition 深度解析](https://weekly.manong.io/bounce?nid=317&aid=19795&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpzoomgq)
 1. [浅析 Flutter 渲染原理](https://weekly.manong.io/bounce?nid=319&aid=19885&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxougc1l)
+1. [手写一个 Flutter State Widget，来让你彻底理解 State 的来龙去脉](https://weekly.manong.io/bounce?nid=321&aid=19962&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmT__uZAO_zoYmMgqNyMtjw)

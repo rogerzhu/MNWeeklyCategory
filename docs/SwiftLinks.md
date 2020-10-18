@@ -209,3 +209,4 @@
 1. [详解 WWDC 20 SwiftUI 的重大改变及核心优势 ](https://weekly.manong.io/bounce?nid=313&aid=19630&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fhp1nMopK_XBkFT7zp3gCfA)
 1. [京东商城订单模块 Swift 探索](https://weekly.manong.io/bounce?nid=316&aid=19759&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqezitnz)
 1. [京东商城订单模块 Swift 探索](https://weekly.manong.io/bounce?nid=316&aid=19759&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqezitnz)
+1. [Swift 环境及编译优化调研](https://weekly.manong.io/bounce?nid=321&aid=19963&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcM4arazOf9npcO7Ws0fnJA)

@@ -612,3 +612,5 @@
 1. [Superset，基于 Web 的开源 BI 工具](https://weekly.manong.io/bounce?nid=317&aid=19819&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuyj2p7w)
 1. [工具 | 一款功能强大，开源免费的 H5 可视化页面配置解决方案 ](https://weekly.manong.io/bounce?nid=319&aid=19917&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F68ck3bDCF62fyy3wRDWFiA)
 1. [如果项目的模型遇到瓶颈，用这些 Tricks 就对了](https://weekly.manong.io/bounce?nid=319&aid=19899&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fi3mgewz)
+1. [工具 | 英伟达开源的一个新的 PyTorch 库](https://weekly.manong.io/bounce?nid=321&aid=19989&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFJHjFwm4eRakoz9tDpxwZw)
+1. [StreamNative 宣布开源 MoP](https://weekly.manong.io/bounce?nid=321&aid=19982&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0ckwvy2)

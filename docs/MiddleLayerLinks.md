@@ -30,3 +30,4 @@
 1. [服务架构及中台](https://weekly.manong.io/bounce?nid=313&aid=19660&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F26578%23313)
 1. [服务架构及中台](https://weekly.manong.io/bounce?nid=314&aid=19683&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F26578%23314)
 1. [《算法与数据中台：基于Google、Facebook与微博实践》](https://weekly.manong.io/bounce?nid=318&aid=19870&url=https%3A%2F%2Fu.jd.com%2FDpNS3m)
+1. [工具 | 一个轻量级业务中台开发框架](https://weekly.manong.io/bounce?nid=321&aid=19990&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNiSE4_c40TQF8OQHF9Bj-A)

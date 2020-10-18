@@ -382,3 +382,7 @@
 1. [分布式事务精华总结篇](https://weekly.manong.io/bounce?nid=320&aid=19934&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxdryz90)
 1. [20 张图搞懂 “分布式事务”](https://weekly.manong.io/bounce?nid=320&aid=19938&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkeefsst)
 1. [分布式事务解决方案常见误区与实用建议](https://weekly.manong.io/bounce?nid=320&aid=19942&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh9nal21)
+1. [分布式事务精华总结篇](https://weekly.manong.io/bounce?nid=320&aid=19934&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxdryz90)
+1. [20 张图搞懂 “分布式事务”](https://weekly.manong.io/bounce?nid=320&aid=19938&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkeefsst)
+1. [分布式事务解决方案常见误区与实用建议](https://weekly.manong.io/bounce?nid=320&aid=19942&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh9nal21)
+1. [Paxos 分布式必问的内容，没有之一](https://weekly.manong.io/bounce?nid=321&aid=19975&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffhmqfyd)

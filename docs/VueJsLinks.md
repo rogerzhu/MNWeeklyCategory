@@ -164,3 +164,5 @@
 1. [图解 Vue 响应式原理](https://weekly.manong.io/bounce?nid=315&aid=19721&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsia6td6)
 1. [[译] Vue.js 构建工具比较](https://weekly.manong.io/bounce?nid=318&aid=19868&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fza7y69r)
 1. [Vue 进阶面试必问，异步更新机制和 nextTick 原理](https://weekly.manong.io/bounce?nid=320&aid=19932&url=https%3A%2F%2Ftoutiao.io%2Fk%2Floxu86g)
+1. [Vue 进阶面试必问，异步更新机制和 nextTick 原理](https://weekly.manong.io/bounce?nid=320&aid=19932&url=https%3A%2F%2Ftoutiao.io%2Fk%2Floxu86g)
+1. [工具 | Ant Design Pro 的 Vue 实现版本](https://weekly.manong.io/bounce?nid=321&aid=19991&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAWRZKtIFR7xh3uCdUb-cKg)

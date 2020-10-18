@@ -245,3 +245,5 @@
 1. [[译] 哪个更快？对 gRPC 的 Rust 和 Go 版本进行基准测试](https://weekly.manong.io/bounce?nid=314&aid=19674&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqx5ccr9)
 1. [软件测试人员的职业发展](https://weekly.manong.io/bounce?nid=319&aid=19894&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy3xrbca)
 1. [如何建立测试自动化策略？](https://weekly.manong.io/bounce?nid=320&aid=19939&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxtwnfoo)
+1. [如何建立测试自动化策略？](https://weekly.manong.io/bounce?nid=320&aid=19939&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxtwnfoo)
+1. [Android 3 分钟带你入门开发测试](https://weekly.manong.io/bounce?nid=321&aid=19959&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-TW7p3z3vJ3GJw7X9u7dVg)

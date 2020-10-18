@@ -1306,3 +1306,4 @@
 1. [机器学习与系统](https://weekly.manong.io/bounce?nid=316&aid=19780&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F412364%23315)
 1. [机器学习与系统](https://weekly.manong.io/bounce?nid=316&aid=19780&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F412364%23315)
 1. [如何基于 Flink 生成在线机器学习的样本？](https://weekly.manong.io/bounce?nid=319&aid=19903&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzu6s46v)
+1. [工具 | 英伟达开源的一个新的 PyTorch 库](https://weekly.manong.io/bounce?nid=321&aid=19989&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFJHjFwm4eRakoz9tDpxwZw)

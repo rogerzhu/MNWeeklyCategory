@@ -664,3 +664,5 @@
 1. [如何实现一个优雅的 Python 的 Json 序列化库](https://weekly.manong.io/bounce?nid=319&aid=19886&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6blou0m)
 1. [[译] 详解 Python 的二元算术运算，为什么说减法只是语法糖？](https://weekly.manong.io/bounce?nid=319&aid=19887&url=https%3A%2F%2Ftoutiao.io%2Fk%2F70cbu8s)
 1. [Python 之父为什么嫌弃 lambda 匿名函数？](https://weekly.manong.io/bounce?nid=320&aid=19930&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftvchzyj)
+1. [Python 之父为什么嫌弃 lambda 匿名函数？](https://weekly.manong.io/bounce?nid=320&aid=19930&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftvchzyj)
+1. [kafka 的工作原理](https://weekly.manong.io/bounce?nid=321&aid=19978&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4s8lzp3)

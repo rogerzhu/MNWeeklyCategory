@@ -703,3 +703,8 @@
 1. [Redis 和 Memcached 的恩怨情仇](https://weekly.manong.io/bounce?nid=318&aid=19841&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn2w1gfz)
 1. [Redis 核心原理和实践](https://weekly.manong.io/bounce?nid=320&aid=19936&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx7kg7sr)
 1. [Kotlin 协程和 Android SQLite API 中的线程模型](https://weekly.manong.io/bounce?nid=320&aid=19927&url=https%3A%2F%2Ftoutiao.io%2Fk%2F44j29de)
+1. [Redis 核心原理和实践](https://weekly.manong.io/bounce?nid=320&aid=19936&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx7kg7sr)
+1. [Kotlin 协程和 Android SQLite API 中的线程模型](https://weekly.manong.io/bounce?nid=320&aid=19927&url=https%3A%2F%2Ftoutiao.io%2Fk%2F44j29de)
+1. [这个 MySQL 优化原理剖析，比照 X 光还清楚](https://weekly.manong.io/bounce?nid=321&aid=19970&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu7wqj68)
+1. [记录一次生产环境中 Redis 内存增长异常排查全流程](https://weekly.manong.io/bounce?nid=321&aid=19972&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftqqqluo)
+1. [MySQL logstash 同步数据到 es 的几种方案对比以及每种方案数据丢失原因分析](https://weekly.manong.io/bounce?nid=321&aid=19974&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnmw60lh)

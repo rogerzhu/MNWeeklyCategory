@@ -488,3 +488,5 @@
 1. [K8s 上的 Go 服务怎么扩容、发版更新、回滚、平滑重启？](https://weekly.manong.io/bounce?nid=318&aid=19853&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqbkjrv0)
 1. [迁到 K8s 后服务老莫名重启？把 Go 的运行时错误重定向到文件](https://weekly.manong.io/bounce?nid=319&aid=19897&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1k49r2m)
 1. [[译] 容器编排的优势与特点](https://weekly.manong.io/bounce?nid=319&aid=19902&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe0jr37e)
+1. [kafka 的工作原理](https://weekly.manong.io/bounce?nid=321&aid=19978&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4s8lzp3)
+1. [Kubernetes Ingress 入门指南和实践练习](https://weekly.manong.io/bounce?nid=321&aid=19980&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8dpctvj)

@@ -798,3 +798,7 @@
 1. [聚焦 Android 11：开发语言](https://weekly.manong.io/bounce?nid=319&aid=19882&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9w4z4m2)
 1. [聚焦 Android 11：Android 开发者工具](https://weekly.manong.io/bounce?nid=320&aid=19926&url=https%3A%2F%2Ftoutiao.io%2Fk%2Foh9nb3c)
 1. [Kotlin 协程和 Android SQLite API 中的线程模型](https://weekly.manong.io/bounce?nid=320&aid=19927&url=https%3A%2F%2Ftoutiao.io%2Fk%2F44j29de)
+1. [聚焦 Android 11：Android 开发者工具](https://weekly.manong.io/bounce?nid=320&aid=19926&url=https%3A%2F%2Ftoutiao.io%2Fk%2Foh9nb3c)
+1. [Kotlin 协程和 Android SQLite API 中的线程模型](https://weekly.manong.io/bounce?nid=320&aid=19927&url=https%3A%2F%2Ftoutiao.io%2Fk%2F44j29de)
+1. [Android 3 分钟带你入门开发测试](https://weekly.manong.io/bounce?nid=321&aid=19959&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-TW7p3z3vJ3GJw7X9u7dVg)
+1. [一种统计 ListView 滚动距离的方案 (Android)](https://weekly.manong.io/bounce?nid=321&aid=19960&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsAHg4yU2g4Vw45uZgObhWg)

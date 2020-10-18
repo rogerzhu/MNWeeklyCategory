@@ -550,3 +550,6 @@
 1. [字节跳动的算法面试题是什么难度？](https://weekly.manong.io/bounce?nid=319&aid=19907&url=https%3A%2F%2Ftoutiao.io%2Fk%2F81dw35x)
 1. [Rust 学习笔记：无栈协程](https://weekly.manong.io/bounce?nid=319&aid=19890&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb7shlzb)
 1. [Golang语言开发栈](https://weekly.manong.io/bounce?nid=320&aid=19948&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F99181%23320)
+1. [Golang语言开发栈](https://weekly.manong.io/bounce?nid=320&aid=19948&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F99181%23320)
+1. [一种统计 ListView 滚动距离的方案 (Android)](https://weekly.manong.io/bounce?nid=321&aid=19960&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsAHg4yU2g4Vw45uZgObhWg)
+1. [AI算法笔记](https://weekly.manong.io/bounce?nid=321&aid=19987&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F1584%23321)

@@ -452,3 +452,5 @@
 1. [强大精简的爬虫框架 Colly，能否取代 Scrapy？](https://weekly.manong.io/bounce?nid=317&aid=19822&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjjnj85i)
 1. [鸿蒙系统中的 JS 开发框架](https://weekly.manong.io/bounce?nid=319&aid=19891&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5o5cl7x)
 1. [近万服务实例稳定运行 0 故障，携程微服务框架实践及思考](https://weekly.manong.io/bounce?nid=320&aid=19921&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flx80lt5)
+1. [近万服务实例稳定运行 0 故障，携程微服务框架实践及思考](https://weekly.manong.io/bounce?nid=320&aid=19921&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flx80lt5)
+1. [工具 | 一个轻量级业务中台开发框架](https://weekly.manong.io/bounce?nid=321&aid=19990&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNiSE4_c40TQF8OQHF9Bj-A)

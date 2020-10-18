@@ -3,3 +3,4 @@
 1. [NG-ZORRO（Ant Design + Angular）UI 组件库正式发布](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvxx08j&aid=10620&nid=181)
 1. [Ant Design Pro：开箱即用的中台前端/设计解决方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4c81t9&aid=11346&nid=191)
 1. [Ant Design 4.0 的一些杂事儿（CI 篇）](https://weekly.manong.io/bounce?nid=300&aid=19006&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fibqcf9j)
+1. [工具 | Ant Design Pro 的 Vue 实现版本](https://weekly.manong.io/bounce?nid=321&aid=19991&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAWRZKtIFR7xh3uCdUb-cKg)

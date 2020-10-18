@@ -582,3 +582,6 @@
 1. [Java 后端开发常用的第三方服务 TOP 10](https://weekly.manong.io/bounce?nid=319&aid=19880&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1vfytv1)
 1. [Java 15 的新特性](https://weekly.manong.io/bounce?nid=320&aid=19924&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1zo4ozy)
 1. [Java旅途](https://weekly.manong.io/bounce?nid=320&aid=19944&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F444692%23320)
+1. [Java 15 的新特性](https://weekly.manong.io/bounce?nid=320&aid=19924&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1zo4ozy)
+1. [Java旅途](https://weekly.manong.io/bounce?nid=320&aid=19944&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F444692%23320)
+1. [秒懂 JVM 的三大参数类型，就靠这十个小实验了](https://weekly.manong.io/bounce?nid=321&aid=19958&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftt5pijb)
