@@ -247,3 +247,4 @@
 1. [如何建立测试自动化策略？](https://weekly.manong.io/bounce?nid=320&aid=19939&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxtwnfoo)
 1. [如何建立测试自动化策略？](https://weekly.manong.io/bounce?nid=320&aid=19939&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxtwnfoo)
 1. [Android 3 分钟带你入门开发测试](https://weekly.manong.io/bounce?nid=321&aid=19959&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-TW7p3z3vJ3GJw7X9u7dVg)
+1. [困在内卷里的软件测试工程师](https://weekly.manong.io/bounce?nid=322&aid=19995&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5w3mqsq)

@@ -666,3 +666,4 @@
 1. [Python 之父为什么嫌弃 lambda 匿名函数？](https://weekly.manong.io/bounce?nid=320&aid=19930&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftvchzyj)
 1. [Python 之父为什么嫌弃 lambda 匿名函数？](https://weekly.manong.io/bounce?nid=320&aid=19930&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftvchzyj)
 1. [kafka 的工作原理](https://weekly.manong.io/bounce?nid=321&aid=19978&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4s8lzp3)
+1. [Python 疑难问题：[] 与 list() 哪个快？为什么快？快多少呢？](https://weekly.manong.io/bounce?nid=322&aid=20005&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fiqa5hbo)

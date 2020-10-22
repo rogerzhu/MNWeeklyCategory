@@ -461,3 +461,6 @@
 1. [工具 | 一个轻量级业务中台开发框架](https://weekly.manong.io/bounce?nid=321&aid=19990&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNiSE4_c40TQF8OQHF9Bj-A)
 1. [工具 | Ant Design Pro 的 Vue 实现版本](https://weekly.manong.io/bounce?nid=321&aid=19991&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAWRZKtIFR7xh3uCdUb-cKg)
 1. [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?nid=321&aid=19993&url=https%3A%2F%2Fvip.manong.io%2F%3F3212%23buy)
+1. [工具 | 一款纯前端类似 Excel 的在线表格](https://weekly.manong.io/bounce?nid=322&aid=20031&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMpwf_Z4Vk0GGYcbWMlfGOA)
+1. [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?nid=322&aid=19993&url=https%3A%2F%2Fvip.manong.io%2F%3F3222%23buy)
+1. [几个有用的 C++ 在线工具](https://weekly.manong.io/bounce?nid=322&aid=20001&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2x6txgc)

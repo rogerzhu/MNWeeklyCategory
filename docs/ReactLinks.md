@@ -280,3 +280,4 @@
 1. [[译] React 开发者常见的 3 个错误](https://weekly.manong.io/bounce?nid=310&aid=19489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzIxNTQ2NDExNA%3D%3D%26mid%3D2247484266%26idx%3D1%26sn%3D6c39170533d8ddc24bb3d1a76d3451a4)
 1. [阿里巴巴开源的这个 React Hooks 库，太好用了！](https://weekly.manong.io/bounce?nid=312&aid=19616&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyv47wt2)
 1. [在 React 中实现 keep alive](https://weekly.manong.io/bounce?nid=318&aid=19869&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhc1mxsu)
+1. [谈谈 React 5 种最流行的状态管理库](https://weekly.manong.io/bounce?nid=322&aid=20009&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgju00sr)

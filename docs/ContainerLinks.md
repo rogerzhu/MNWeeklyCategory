@@ -490,3 +490,4 @@
 1. [[译] 容器编排的优势与特点](https://weekly.manong.io/bounce?nid=319&aid=19902&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe0jr37e)
 1. [kafka 的工作原理](https://weekly.manong.io/bounce?nid=321&aid=19978&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4s8lzp3)
 1. [Kubernetes Ingress 入门指南和实践练习](https://weekly.manong.io/bounce?nid=321&aid=19980&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8dpctvj)
+1. [使用 Docker 进行交叉编译](https://weekly.manong.io/bounce?nid=322&aid=20023&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5dbr7ou)

@@ -192,3 +192,4 @@
 1. [微服务技术栈：API 网关中心，落地实现方案](https://weekly.manong.io/bounce?nid=317&aid=19814&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5fjxacf)
 1. [近万服务实例稳定运行 0 故障，携程微服务框架实践及思考](https://weekly.manong.io/bounce?nid=320&aid=19921&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flx80lt5)
 1. [近万服务实例稳定运行 0 故障，携程微服务框架实践及思考](https://weekly.manong.io/bounce?nid=320&aid=19921&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flx80lt5)
+1. [如何提升微服务的幸福感？](https://weekly.manong.io/bounce?nid=322&aid=20000&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp8owj4t)

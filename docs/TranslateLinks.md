@@ -1840,3 +1840,5 @@
 1. [[译] 2020 年 Spring 状态报告](https://weekly.manong.io/bounce?nid=320&aid=19925&url=https%3A%2F%2Ftoutiao.io%2Fk%2Faxegdfu)
 1. [[译] 仅用 18 行 JavaScript 构建一个倒数计时器](https://weekly.manong.io/bounce?nid=320&aid=19931&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqijww23)
 1. [[译] 原来 9 张图就可以弄懂 Go 内存管理](https://weekly.manong.io/bounce?nid=321&aid=19966&url=https%3A%2F%2Ftoutiao.io%2Fk%2F47eqfyx)
+1. [[译] 波兰在线购物网站 Allegro.pl 迁移到服务网格经验分享](https://weekly.manong.io/bounce?nid=322&aid=20012&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqppy6if)
+1. [[译] Google 搜索的 10 个小技巧](https://weekly.manong.io/bounce?nid=322&aid=19996&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv6w1o2e)

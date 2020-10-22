@@ -708,3 +708,5 @@
 1. [这个 MySQL 优化原理剖析，比照 X 光还清楚](https://weekly.manong.io/bounce?nid=321&aid=19970&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu7wqj68)
 1. [记录一次生产环境中 Redis 内存增长异常排查全流程](https://weekly.manong.io/bounce?nid=321&aid=19972&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftqqqluo)
 1. [MySQL logstash 同步数据到 es 的几种方案对比以及每种方案数据丢失原因分析](https://weekly.manong.io/bounce?nid=321&aid=19974&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnmw60lh)
+1. [什么是 HBase？它是怎样工作的？终于有人讲明白了](https://weekly.manong.io/bounce?nid=322&aid=20013&url=https%3A%2F%2Ftoutiao.io%2Fk%2F37gs7tk)
+1. [《我想进大厂》之 Redis 夺命连环 11 问](https://weekly.manong.io/bounce?nid=322&aid=20015&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flko6b3m)
