@@ -1842,3 +1842,6 @@
 1. [[译] 原来 9 张图就可以弄懂 Go 内存管理](https://weekly.manong.io/bounce?nid=321&aid=19966&url=https%3A%2F%2Ftoutiao.io%2Fk%2F47eqfyx)
 1. [[译] 波兰在线购物网站 Allegro.pl 迁移到服务网格经验分享](https://weekly.manong.io/bounce?nid=322&aid=20012&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqppy6if)
 1. [[译] Google 搜索的 10 个小技巧](https://weekly.manong.io/bounce?nid=322&aid=19996&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv6w1o2e)
+1. [[译] Go 中的 Goroutine 和其他并发处理方案的对比](https://weekly.manong.io/bounce?nid=323&aid=20046&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frhzp4sp)
+1. [[译] 8 个 JavaScript 库可更好地处理本地存储](https://weekly.manong.io/bounce?nid=323&aid=20048&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3bs5pmx)
+1. [[译] 什么是真正的程序员](https://weekly.manong.io/bounce?nid=323&aid=20035&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzhspu3w)

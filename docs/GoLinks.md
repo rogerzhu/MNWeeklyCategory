@@ -1002,3 +1002,5 @@
 1. [字节跳动踩坑记：Goroutine 泄漏](https://weekly.manong.io/bounce?nid=322&aid=20006&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft3z2i69)
 1. [Golang 是如何操作 Excel 的？](https://weekly.manong.io/bounce?nid=322&aid=20007&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx9jgpwh)
 1. [Go语言中文网](https://weekly.manong.io/bounce?nid=322&aid=20029&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F133906%23322)
+1. [Golang 使用 Chromedp 绕过反爬抓取微信公众号文章](https://weekly.manong.io/bounce?nid=323&aid=20045&url=https%3A%2F%2Ftoutiao.io%2Fk%2F03bgw3v)
+1. [[译] Go 中的 Goroutine 和其他并发处理方案的对比](https://weekly.manong.io/bounce?nid=323&aid=20046&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frhzp4sp)

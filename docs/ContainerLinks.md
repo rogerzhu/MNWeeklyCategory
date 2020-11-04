@@ -491,3 +491,6 @@
 1. [kafka 的工作原理](https://weekly.manong.io/bounce?nid=321&aid=19978&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4s8lzp3)
 1. [Kubernetes Ingress 入门指南和实践练习](https://weekly.manong.io/bounce?nid=321&aid=19980&url=https%3A%2F%2Ftoutiao.io%2Fk%2F8dpctvj)
 1. [使用 Docker 进行交叉编译](https://weekly.manong.io/bounce?nid=322&aid=20023&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5dbr7ou)
+1. [从容器到云原生的趋势与实践](https://weekly.manong.io/bounce?nid=323&aid=20037&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvqfze1s)
+1. [Linux Capabilities 与容器的水乳交融](https://weekly.manong.io/bounce?nid=323&aid=20055&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk0ge33p)
+1. [Kafka 监控工具之 CMAK](https://weekly.manong.io/bounce?nid=323&aid=20061&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffzzch9i)

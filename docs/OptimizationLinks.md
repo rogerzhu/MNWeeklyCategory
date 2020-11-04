@@ -396,3 +396,5 @@
 1. [Swift 环境及编译优化调研](https://weekly.manong.io/bounce?nid=321&aid=19963&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcM4arazOf9npcO7Ws0fnJA)
 1. [现代化 PHP：生产环境下优化 Composer 加载的原理](https://weekly.manong.io/bounce?nid=321&aid=19964&url=https%3A%2F%2Fhuanghantao.github.io%2F2019%2F08%2F23%2F%25E7%258E%25B0%25E4%25BB%25A3%25E5%258C%2596PHP-%25E7%2594%259F%25E4%25BA%25A7%25E7%258E%25AF%25E5%25A2%2583%25E4%25B8%258B%25E4%25BC%2598%25E5%258C%2596Composer%25E5%258A%25A0%25E8%25BD%25BD%25E7%259A%2584%25E5%258E%259F%25E7%2590%2586%2F)
 1. [iOS 性能优化：优化 App 启动速度](https://weekly.manong.io/bounce?nid=322&aid=20004&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3nt4ziv)
+1. [Impala 在网易大数据的优化和实践](https://weekly.manong.io/bounce?nid=323&aid=20038&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0vfqlgs)
+1. [这才是 SQL 优化的正确姿势](https://weekly.manong.io/bounce?nid=323&aid=20054&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhargwgd)

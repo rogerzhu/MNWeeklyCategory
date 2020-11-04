@@ -464,3 +464,6 @@
 1. [工具 | 一款纯前端类似 Excel 的在线表格](https://weekly.manong.io/bounce?nid=322&aid=20031&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMpwf_Z4Vk0GGYcbWMlfGOA)
 1. [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?nid=322&aid=19993&url=https%3A%2F%2Fvip.manong.io%2F%3F3222%23buy)
 1. [几个有用的 C++ 在线工具](https://weekly.manong.io/bounce?nid=322&aid=20001&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2x6txgc)
+1. [工具 | 阿里云开源的，业界首个面向 NLP 场景的深度迁移学习框架](https://weekly.manong.io/bounce?nid=323&aid=20073&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVTlqeoSKLiXgiyQsVmGBtQ)
+1. [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?nid=323&aid=19993&url=https%3A%2F%2Fvip.manong.io%2F%3F3232%23buy)
+1. [Kafka 监控工具之 CMAK](https://weekly.manong.io/bounce?nid=323&aid=20061&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffzzch9i)

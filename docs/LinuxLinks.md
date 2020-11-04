@@ -170,3 +170,5 @@
 1. [连接跟踪 (conntrack)：原理、应用及 Linux 内核实现](https://weekly.manong.io/bounce?nid=315&aid=19725&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpr1maxv)
 1. [《Linux内核观测技术BPF》](https://weekly.manong.io/bounce?nid=316&aid=19785&url=https%3A%2F%2Fitem.jd.com%2F72110825905.html)
 1. [《Linux内核观测技术BPF》](https://weekly.manong.io/bounce?nid=316&aid=19785&url=https%3A%2F%2Fitem.jd.com%2F72110825905.html)
+1. [Linux 机器 CPU 毛刺问题排查](https://weekly.manong.io/bounce?nid=323&aid=20051&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv3b4fgl)
+1. [Linux Capabilities 与容器的水乳交融](https://weekly.manong.io/bounce?nid=323&aid=20055&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk0ge33p)

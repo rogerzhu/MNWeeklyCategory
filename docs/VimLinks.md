@@ -48,3 +48,4 @@
 1. [Vim教程网](https://weekly.manong.io/bounce?nid=299&aid=18975&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F389874%23297)
 1. [将 Vim 配置成适用于 Python 开发的 IDE 环境](https://weekly.manong.io/bounce?nid=299&aid=18941&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0v80uav)
 1. [[译] 推荐你使用 Vim 的三个半理由](https://weekly.manong.io/bounce?nid=300&aid=19021&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffjmcqij)
+1. [资料 | Vim 从入门到精通](https://weekly.manong.io/bounce?nid=323&aid=20072&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fj-LrBUztkFYTOBgy998Dng)

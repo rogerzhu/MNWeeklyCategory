@@ -592,3 +592,4 @@
 1. [[译] 仅用 18 行 JavaScript 构建一个倒数计时器](https://weekly.manong.io/bounce?nid=320&aid=19931&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqijww23)
 1. [资料 |《JavaScript 20 年》](https://weekly.manong.io/bounce?nid=320&aid=19950&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXVQLVK0xPVx0aK9KpXZHOA)
 1. [[译] 仅用 18 行 JavaScript 构建一个倒数计时器](https://weekly.manong.io/bounce?nid=320&aid=19931&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqijww23)
+1. [[译] 8 个 JavaScript 库可更好地处理本地存储](https://weekly.manong.io/bounce?nid=323&aid=20048&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3bs5pmx)

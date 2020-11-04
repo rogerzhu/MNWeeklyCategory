@@ -632,3 +632,4 @@
 1. [《Head First Kotlin程序设计》](https://weekly.manong.io/bounce?nid=321&aid=19988&url=https%3A%2F%2Fitem.jd.com%2F12958560.html)
 1. [成为「码农周刊 VIP 会员」，查看更多「程序设计」内容](https://weekly.manong.io/bounce?nid=322&aid=19992&url=https%3A%2F%2Fvip.manong.io%2F%3F3221%23buy)
 1. [资料 | 《软件设计的哲学》](https://weekly.manong.io/bounce?nid=322&aid=20033&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fh1Gr28zS__2GD2ujQS_Prw)
+1. [成为「码农周刊 VIP 会员」，查看更多「程序设计」内容](https://weekly.manong.io/bounce?nid=323&aid=19992&url=https%3A%2F%2Fvip.manong.io%2F%3F3231%23buy)

@@ -382,3 +382,6 @@
 1. [elecV2P：一款不止于 MITM 的网络工具](https://weekly.manong.io/bounce?nid=319&aid=19908&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3dcr8pg)
 1. [2020 国家网络安全周](https://weekly.manong.io/bounce?nid=319&aid=19892&url=http%3A%2F%2Fstore.dangdang.com%2Fgys_04001_3tk3)
 1. [netwarps](https://weekly.manong.io/bounce?nid=322&aid=20025&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F448635%23322)
+1. [你可能不知道的平时在用的一致性协议 2PC、3PC？](https://weekly.manong.io/bounce?nid=323&aid=20052&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4oyem7x)
+1. [CNN + RNN + CTC，打造端到端可训练的网络](https://weekly.manong.io/bounce?nid=323&aid=20056&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj5h4ys8)
+1. [从 HTTP 协议层面探讨 Bypass](https://weekly.manong.io/bounce?nid=323&aid=20059&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fta14m5w)

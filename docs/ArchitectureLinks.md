@@ -696,3 +696,5 @@
 1. [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?nid=321&aid=19992&url=https%3A%2F%2Fvip.manong.io%2F%3F3211%23buy)
 1. [架构制图：工具与方法论](https://weekly.manong.io/bounce?nid=321&aid=19955&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpzy6sbw)
 1. [闲鱼 Serverless 架构实践](https://weekly.manong.io/bounce?nid=321&aid=19957&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0o2emfp)
+1. [跨界架构师](https://weekly.manong.io/bounce?nid=323&aid=20066&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F268968%23323)
+1. [中年架构师，悲催的一天](https://weekly.manong.io/bounce?nid=323&aid=20034&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6hkm4g6)

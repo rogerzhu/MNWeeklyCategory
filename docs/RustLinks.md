@@ -51,3 +51,4 @@
 1. [[译] 哪个更快？对 gRPC 的 Rust 和 Go 版本进行基准测试](https://weekly.manong.io/bounce?nid=314&aid=19674&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqx5ccr9)
 1. [Rust 学习笔记：无栈协程](https://weekly.manong.io/bounce?nid=319&aid=19890&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb7shlzb)
 1. [如何在 Rust 中使用 MQTT](https://weekly.manong.io/bounce?nid=322&aid=20010&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy0kuxpi)
+1. [Rust 学习笔记：再谈 Send 与 Sync](https://weekly.manong.io/bounce?nid=323&aid=20047&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9v4o1zs)

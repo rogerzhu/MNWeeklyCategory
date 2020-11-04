@@ -667,3 +667,6 @@
 1. [Python 之父为什么嫌弃 lambda 匿名函数？](https://weekly.manong.io/bounce?nid=320&aid=19930&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftvchzyj)
 1. [kafka 的工作原理](https://weekly.manong.io/bounce?nid=321&aid=19978&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4s8lzp3)
 1. [Python 疑难问题：[] 与 list() 哪个快？为什么快？快多少呢？](https://weekly.manong.io/bounce?nid=322&aid=20005&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fiqa5hbo)
+1. [Kafka 监控工具之 CMAK](https://weekly.manong.io/bounce?nid=323&aid=20061&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffzzch9i)
+1. [用 Python 绘制地理图](https://weekly.manong.io/bounce?nid=323&aid=20043&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff1d73bn)
+1. [为什么说 Python 内置函数并不是万能的？](https://weekly.manong.io/bounce?nid=323&aid=20044&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5840gfp)

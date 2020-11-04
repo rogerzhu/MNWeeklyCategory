@@ -614,3 +614,4 @@
 1. [如果项目的模型遇到瓶颈，用这些 Tricks 就对了](https://weekly.manong.io/bounce?nid=319&aid=19899&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fi3mgewz)
 1. [工具 | 英伟达开源的一个新的 PyTorch 库](https://weekly.manong.io/bounce?nid=321&aid=19989&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFJHjFwm4eRakoz9tDpxwZw)
 1. [StreamNative 宣布开源 MoP](https://weekly.manong.io/bounce?nid=321&aid=19982&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0ckwvy2)
+1. [工具 | 阿里云开源的，业界首个面向 NLP 场景的深度迁移学习框架](https://weekly.manong.io/bounce?nid=323&aid=20073&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVTlqeoSKLiXgiyQsVmGBtQ)
