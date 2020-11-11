@@ -1004,3 +1004,5 @@
 1. [Go语言中文网](https://weekly.manong.io/bounce?nid=322&aid=20029&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F133906%23322)
 1. [Golang 使用 Chromedp 绕过反爬抓取微信公众号文章](https://weekly.manong.io/bounce?nid=323&aid=20045&url=https%3A%2F%2Ftoutiao.io%2Fk%2F03bgw3v)
 1. [[译] Go 中的 Goroutine 和其他并发处理方案的对比](https://weekly.manong.io/bounce?nid=323&aid=20046&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frhzp4sp)
+1. [Golang 单元测试详尽指引](https://weekly.manong.io/bounce?nid=324&aid=20088&url=https%3A%2F%2Ftoutiao.io%2Fk%2Faio979l)
+1. [Go 监控的标配：实战 Prometheus](https://weekly.manong.io/bounce?nid=324&aid=20089&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fasb5mrq)

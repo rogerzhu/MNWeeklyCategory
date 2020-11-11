@@ -276,3 +276,5 @@
 1. [Vue 进阶面试必问，异步更新机制和 nextTick 原理](https://weekly.manong.io/bounce?nid=320&aid=19932&url=https%3A%2F%2Ftoutiao.io%2Fk%2Floxu86g)
 1. [Vue 进阶面试必问，异步更新机制和 nextTick 原理](https://weekly.manong.io/bounce?nid=320&aid=19932&url=https%3A%2F%2Ftoutiao.io%2Fk%2Floxu86g)
 1. [非科班学弟如何转行斩获 ATM 大厂的 Offer ？](https://weekly.manong.io/bounce?nid=323&aid=20050&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm9kt326)
+1. [两年半完成逆袭，他终于拿到字节跳动的 Offer](https://weekly.manong.io/bounce?nid=324&aid=20093&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwhq4czc)
+1. [程序员的面试](https://weekly.manong.io/bounce?nid=324&aid=20113&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F142771%23324)

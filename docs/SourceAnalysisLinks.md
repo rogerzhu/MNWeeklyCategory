@@ -232,3 +232,4 @@
 1. [彻底搞懂 React 源码调度原理（Concurrent 模式）](https://weekly.manong.io/bounce?nid=308&aid=19394&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5hghlsi)
 1. [《Kubernetes源码剖析》](https://weekly.manong.io/bounce?nid=311&aid=19540&url=https%3A%2F%2Fu.jd.com%2FIkFMNs)
 1. [Kotlin 源码里成吨的 noinline 和 crossinline 是干嘛的？](https://weekly.manong.io/bounce?nid=318&aid=19862&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxvi1d56)
+1. [Flutter 源码剖析（一）：源码获取与构建](https://weekly.manong.io/bounce?nid=324&aid=20084&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm4ntz2d)

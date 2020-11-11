@@ -455,3 +455,4 @@
 1. [近万服务实例稳定运行 0 故障，携程微服务框架实践及思考](https://weekly.manong.io/bounce?nid=320&aid=19921&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flx80lt5)
 1. [工具 | 一个轻量级业务中台开发框架](https://weekly.manong.io/bounce?nid=321&aid=19990&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNiSE4_c40TQF8OQHF9Bj-A)
 1. [工具 | 阿里云开源的，业界首个面向 NLP 场景的深度迁移学习框架](https://weekly.manong.io/bounce?nid=323&aid=20073&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVTlqeoSKLiXgiyQsVmGBtQ)
+1. [深入浅出 Apple 响应式框架 Combine](https://weekly.manong.io/bounce?nid=324&aid=20082&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fslhfqsr)

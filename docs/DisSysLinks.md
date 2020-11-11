@@ -386,3 +386,5 @@
 1. [20 张图搞懂 “分布式事务”](https://weekly.manong.io/bounce?nid=320&aid=19938&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkeefsst)
 1. [分布式事务解决方案常见误区与实用建议](https://weekly.manong.io/bounce?nid=320&aid=19942&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh9nal21)
 1. [Paxos 分布式必问的内容，没有之一](https://weekly.manong.io/bounce?nid=321&aid=19975&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffhmqfyd)
+1. [一文了解分布式一致性算法 EPaxos](https://weekly.manong.io/bounce?nid=324&aid=20100&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fessq2tr)
+1. [13 张图彻底搞懂分布式系统服务注册与发现原理](https://weekly.manong.io/bounce?nid=324&aid=20103&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff9kkb5t)

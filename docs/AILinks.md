@@ -1311,3 +1311,5 @@
 1. [机器学习与系统](https://weekly.manong.io/bounce?nid=322&aid=20027&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F412364%23322)
 1. [CNN + RNN + CTC，打造端到端可训练的网络](https://weekly.manong.io/bounce?nid=323&aid=20056&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj5h4ys8)
 1. [谷歌 pQRNN：轻量级文本分类模型](https://weekly.manong.io/bounce?nid=323&aid=20060&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2yzycwd)
+1. [机器学习基础：基本的概念](https://weekly.manong.io/bounce?nid=324&aid=20107&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvqgrujk)
+1. [《机器学习实战：基于Scikit-Learn Keras和TensorFlow（原书第2版）》](https://weekly.manong.io/bounce?nid=324&aid=20115&url=http%3A%2F%2Fproduct.dangdang.com%2F29132383.html)

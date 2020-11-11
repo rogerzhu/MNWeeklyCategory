@@ -698,3 +698,5 @@
 1. [闲鱼 Serverless 架构实践](https://weekly.manong.io/bounce?nid=321&aid=19957&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0o2emfp)
 1. [跨界架构师](https://weekly.manong.io/bounce?nid=323&aid=20066&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F268968%23323)
 1. [中年架构师，悲催的一天](https://weekly.manong.io/bounce?nid=323&aid=20034&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6hkm4g6)
+1. [Volcano 架构解读](https://weekly.manong.io/bounce?nid=324&aid=20078&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm6n7ojj)
+1. [爱笑的架构师](https://weekly.manong.io/bounce?nid=324&aid=20111&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F450130%23324)

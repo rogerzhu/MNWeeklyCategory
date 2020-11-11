@@ -167,3 +167,4 @@
 1. [Vue 进阶面试必问，异步更新机制和 nextTick 原理](https://weekly.manong.io/bounce?nid=320&aid=19932&url=https%3A%2F%2Ftoutiao.io%2Fk%2Floxu86g)
 1. [工具 | Ant Design Pro 的 Vue 实现版本](https://weekly.manong.io/bounce?nid=321&aid=19991&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAWRZKtIFR7xh3uCdUb-cKg)
 1. [在 Vue Vite 应用程序中实现暗/亮模式](https://weekly.manong.io/bounce?nid=322&aid=20008&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7jeyx5j)
+1. [我不能没有的 5 个 Vue.js 库](https://weekly.manong.io/bounce?nid=324&aid=20092&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl04ibvu)

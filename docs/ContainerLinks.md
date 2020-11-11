@@ -494,3 +494,4 @@
 1. [从容器到云原生的趋势与实践](https://weekly.manong.io/bounce?nid=323&aid=20037&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvqfze1s)
 1. [Linux Capabilities 与容器的水乳交融](https://weekly.manong.io/bounce?nid=323&aid=20055&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk0ge33p)
 1. [Kafka 监控工具之 CMAK](https://weekly.manong.io/bounce?nid=323&aid=20061&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffzzch9i)
+1. [Java 应用从源代码到镜像：使用 Docker 多阶段构建](https://weekly.manong.io/bounce?nid=324&aid=20080&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6xjsa2r)

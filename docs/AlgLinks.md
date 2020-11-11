@@ -555,3 +555,6 @@
 1. [AI算法笔记](https://weekly.manong.io/bounce?nid=321&aid=19987&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F1584%23321)
 1. [Python 疑难问题：[] 与 list() 哪个快？为什么快？快多少呢？](https://weekly.manong.io/bounce?nid=322&aid=20005&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fiqa5hbo)
 1. [CopyOnWriteArrayList 中的隐藏的知识，你 Get 了吗？](https://weekly.manong.io/bounce?nid=323&aid=20041&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxq6mkg4)
+1. [你真的知道怎么实现一个延迟队列吗？](https://weekly.manong.io/bounce?nid=324&aid=20098&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkqvczix)
+1. [一文了解分布式一致性算法 EPaxos](https://weekly.manong.io/bounce?nid=324&aid=20100&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fessq2tr)
+1. [Python 实现：详解 LRU 缓存淘汰算法](https://weekly.manong.io/bounce?nid=324&aid=20087&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftcbc5jk)

@@ -670,3 +670,5 @@
 1. [Kafka 监控工具之 CMAK](https://weekly.manong.io/bounce?nid=323&aid=20061&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffzzch9i)
 1. [用 Python 绘制地理图](https://weekly.manong.io/bounce?nid=323&aid=20043&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff1d73bn)
 1. [为什么说 Python 内置函数并不是万能的？](https://weekly.manong.io/bounce?nid=323&aid=20044&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5840gfp)
+1. [Python + Appium 自动化操作微信入门看这一篇就够了](https://weekly.manong.io/bounce?nid=324&aid=20086&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fplb7dqo)
+1. [Python 实现：详解 LRU 缓存淘汰算法](https://weekly.manong.io/bounce?nid=324&aid=20087&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftcbc5jk)

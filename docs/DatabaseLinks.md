@@ -712,3 +712,4 @@
 1. [《我想进大厂》之 Redis 夺命连环 11 问](https://weekly.manong.io/bounce?nid=322&aid=20015&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flko6b3m)
 1. [15 张图解 Redis 为什么这么快](https://weekly.manong.io/bounce?nid=323&aid=20053&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk7nf2vd)
 1. [这才是 SQL 优化的正确姿势](https://weekly.manong.io/bounce?nid=323&aid=20054&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhargwgd)
+1. [MySQL 8 和 PostgreSQL 10 功能对比](https://weekly.manong.io/bounce?nid=324&aid=20097&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjlhc45y)

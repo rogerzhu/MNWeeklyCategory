@@ -588,3 +588,4 @@
 1. [虚拟机系列：JVM 运行时数据区](https://weekly.manong.io/bounce?nid=322&aid=20002&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fotkcgzi)
 1. [编程体系结构：Java IO 流文件管理](https://weekly.manong.io/bounce?nid=323&aid=20040&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff3xqehn)
 1. [Java实战技术](https://weekly.manong.io/bounce?nid=323&aid=20070&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F22887%23323)
+1. [Java 应用从源代码到镜像：使用 Docker 多阶段构建](https://weekly.manong.io/bounce?nid=324&aid=20080&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6xjsa2r)

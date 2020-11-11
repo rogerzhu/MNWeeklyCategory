@@ -460,3 +460,5 @@
 1. [工具 | 一款纯前端类似 Excel 的在线表格](https://weekly.manong.io/bounce?nid=322&aid=20031&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMpwf_Z4Vk0GGYcbWMlfGOA)
 1. [前端音视频之 WebRTC 初探](https://weekly.manong.io/bounce?nid=322&aid=20024&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fut59eub)
 1. [内推职位 | 火币网 / 高级前端开发工程师](https://weekly.manong.io/bounce?nid=323&aid=19830&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhY6UIkgEmQwlc8J2jwPreg)
+1. [内推职位 | 火币网 / 高级前端开发工程师](https://weekly.manong.io/bounce?nid=324&aid=19830&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhY6UIkgEmQwlc8J2jwPreg)
+1. [前端全栈开发者](https://weekly.manong.io/bounce?nid=324&aid=20114&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F125297%23324)

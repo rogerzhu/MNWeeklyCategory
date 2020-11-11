@@ -1845,3 +1845,4 @@
 1. [[译] Go 中的 Goroutine 和其他并发处理方案的对比](https://weekly.manong.io/bounce?nid=323&aid=20046&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frhzp4sp)
 1. [[译] 8 个 JavaScript 库可更好地处理本地存储](https://weekly.manong.io/bounce?nid=323&aid=20048&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3bs5pmx)
 1. [[译] 什么是真正的程序员](https://weekly.manong.io/bounce?nid=323&aid=20035&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzhspu3w)
+1. [[译] Gas 优化：如何优化存储](https://weekly.manong.io/bounce?nid=324&aid=20108&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzgqx19d)

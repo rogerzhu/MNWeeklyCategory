@@ -467,3 +467,4 @@
 1. [工具 | 阿里云开源的，业界首个面向 NLP 场景的深度迁移学习框架](https://weekly.manong.io/bounce?nid=323&aid=20073&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVTlqeoSKLiXgiyQsVmGBtQ)
 1. [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?nid=323&aid=19993&url=https%3A%2F%2Fvip.manong.io%2F%3F3232%23buy)
 1. [Kafka 监控工具之 CMAK](https://weekly.manong.io/bounce?nid=323&aid=20061&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffzzch9i)
+1. [工具 | 字节跳动开源的，超高速、多特性的高性能序列推理引擎](https://weekly.manong.io/bounce?nid=324&aid=20116&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNWqn-qU8m3qG6FyQ7f6x9Q)

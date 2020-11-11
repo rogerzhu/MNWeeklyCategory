@@ -398,3 +398,6 @@
 1. [iOS 性能优化：优化 App 启动速度](https://weekly.manong.io/bounce?nid=322&aid=20004&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3nt4ziv)
 1. [Impala 在网易大数据的优化和实践](https://weekly.manong.io/bounce?nid=323&aid=20038&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0vfqlgs)
 1. [这才是 SQL 优化的正确姿势](https://weekly.manong.io/bounce?nid=323&aid=20054&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhargwgd)
+1. [天天说要做性能优化，到底在优化什么？](https://weekly.manong.io/bounce?nid=324&aid=20094&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9fxs5uq)
+1. [[译] Gas 优化：如何优化存储](https://weekly.manong.io/bounce?nid=324&aid=20108&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzgqx19d)
+1. [深入详解 Jetpack Compose：优化 UI 构建](https://weekly.manong.io/bounce?nid=324&aid=20081&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9i31ba9)

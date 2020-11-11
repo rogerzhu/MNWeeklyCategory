@@ -342,3 +342,4 @@
 1. [从 0 到 1 实现一款轻量级大数据分析系统](https://weekly.manong.io/bounce?nid=319&aid=19879&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftyygn3e)
 1. [如何基于 Flink 生成在线机器学习的样本？](https://weekly.manong.io/bounce?nid=319&aid=19903&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzu6s46v)
 1. [Impala 在网易大数据的优化和实践](https://weekly.manong.io/bounce?nid=323&aid=20038&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0vfqlgs)
+1. [Flink StateFun 2.0 浅谈](https://weekly.manong.io/bounce?nid=324&aid=20096&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffxy33c6)

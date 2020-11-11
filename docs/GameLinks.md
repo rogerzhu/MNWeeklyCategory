@@ -212,3 +212,4 @@
 1. [[译] 聚焦 Android 11：游戏开发新工具](https://weekly.manong.io/bounce?nid=318&aid=19861&url=https%3A%2F%2Ftoutiao.io%2Fk%2Feraqm5i)
 1. [用户画像实践：神策标签生产引擎架构](https://weekly.manong.io/bounce?nid=320&aid=19922&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9oso7iw)
 1. [用户画像实践：神策标签生产引擎架构](https://weekly.manong.io/bounce?nid=320&aid=19922&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9oso7iw)
+1. [工具 | 字节跳动开源的，超高速、多特性的高性能序列推理引擎](https://weekly.manong.io/bounce?nid=324&aid=20116&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNWqn-qU8m3qG6FyQ7f6x9Q)
