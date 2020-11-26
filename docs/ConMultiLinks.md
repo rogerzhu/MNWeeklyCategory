@@ -258,3 +258,4 @@
 1. [Kotlin 协程和 Android SQLite API 中的线程模型](https://weekly.manong.io/bounce?nid=320&aid=19927&url=https%3A%2F%2Ftoutiao.io%2Fk%2F44j29de)
 1. [Kotlin 协程和 Android SQLite API 中的线程模型](https://weekly.manong.io/bounce?nid=320&aid=19927&url=https%3A%2F%2Ftoutiao.io%2Fk%2F44j29de)
 1. [[译] Go 中的 Goroutine 和其他并发处理方案的对比](https://weekly.manong.io/bounce?nid=323&aid=20046&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frhzp4sp)
+1. [深入解读 Elasticsearch 热点线程 hot_threads](https://weekly.manong.io/bounce?nid=325&aid=20145&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1awt70n)

@@ -713,3 +713,5 @@
 1. [15 张图解 Redis 为什么这么快](https://weekly.manong.io/bounce?nid=323&aid=20053&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk7nf2vd)
 1. [这才是 SQL 优化的正确姿势](https://weekly.manong.io/bounce?nid=323&aid=20054&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhargwgd)
 1. [MySQL 8 和 PostgreSQL 10 功能对比](https://weekly.manong.io/bounce?nid=324&aid=20097&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjlhc45y)
+1. [精心为你准备的最全的 20 道 MySQL 面试题](https://weekly.manong.io/bounce?nid=325&aid=20137&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5lujxq0)
+1. [Python 中 Redis 库分布式锁简单分析](https://weekly.manong.io/bounce?nid=325&aid=20133&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyr4czdu)

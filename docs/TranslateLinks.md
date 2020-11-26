@@ -1846,3 +1846,5 @@
 1. [[译] 8 个 JavaScript 库可更好地处理本地存储](https://weekly.manong.io/bounce?nid=323&aid=20048&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3bs5pmx)
 1. [[译] 什么是真正的程序员](https://weekly.manong.io/bounce?nid=323&aid=20035&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzhspu3w)
 1. [[译] Gas 优化：如何优化存储](https://weekly.manong.io/bounce?nid=324&aid=20108&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzgqx19d)
+1. [[译] 6 种数据分析实用方法，终于有人讲明白了](https://weekly.manong.io/bounce?nid=325&aid=20148&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7zgo1nm)
+1. [[译] 有意思！Go 源代码中的那些秘密：为什么 time.minWall 是 1885？](https://weekly.manong.io/bounce?nid=325&aid=20134&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk1nx9je)

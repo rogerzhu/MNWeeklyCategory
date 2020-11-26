@@ -278,3 +278,5 @@
 1. [非科班学弟如何转行斩获 ATM 大厂的 Offer ？](https://weekly.manong.io/bounce?nid=323&aid=20050&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm9kt326)
 1. [两年半完成逆袭，他终于拿到字节跳动的 Offer](https://weekly.manong.io/bounce?nid=324&aid=20093&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwhq4czc)
 1. [程序员的面试](https://weekly.manong.io/bounce?nid=324&aid=20113&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F142771%23324)
+1. [精心为你准备的最全的 20 道 MySQL 面试题](https://weekly.manong.io/bounce?nid=325&aid=20137&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5lujxq0)
+1. [面试过 200 人的经验，都在这里了](https://weekly.manong.io/bounce?nid=325&aid=20119&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpfctyn9)

@@ -616,3 +616,6 @@
 1. [StreamNative 宣布开源 MoP](https://weekly.manong.io/bounce?nid=321&aid=19982&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0ckwvy2)
 1. [工具 | 阿里云开源的，业界首个面向 NLP 场景的深度迁移学习框架](https://weekly.manong.io/bounce?nid=323&aid=20073&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVTlqeoSKLiXgiyQsVmGBtQ)
 1. [工具 | 字节跳动开源的，超高速、多特性的高性能序列推理引擎](https://weekly.manong.io/bounce?nid=324&aid=20116&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNWqn-qU8m3qG6FyQ7f6x9Q)
+1. [工具 | 字节跳动开源的，直播中台使用的一个视频动画特效 SDK](https://weekly.manong.io/bounce?nid=325&aid=20159&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdnRDhUs4-6FPezC-E6QEiQ)
+1. [工具 | 蚂蚁集团开源的，支付宝开放平台服务端 SDK](https://weekly.manong.io/bounce?nid=325&aid=20160&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9IhgtHJolisvYpWrMtL8zQ)
+1. [资料 | 开源生态白皮书（2020 年）](https://weekly.manong.io/bounce?nid=325&aid=20162&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FnelgwbrkZKCc15iI8B_UKA)

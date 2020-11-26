@@ -133,3 +133,4 @@
 1. [《吊打面试官》系列 Node.js 全栈秒杀系统](https://weekly.manong.io/bounce?nid=301&aid=19068&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsjeip79)
 1. [《吊打面试官》系列 Node.js 全栈秒杀系统](https://weekly.manong.io/bounce?nid=301&aid=19068&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsjeip79)
 1. [Node.js 沙盒逃逸分析](https://weekly.manong.io/bounce?nid=324&aid=20091&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkuuorvj)
+1. [简单分析下 Node.js 关于集群的那些事](https://weekly.manong.io/bounce?nid=325&aid=20136&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp9mn466)

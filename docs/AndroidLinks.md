@@ -804,3 +804,4 @@
 1. [一种统计 ListView 滚动距离的方案 (Android)](https://weekly.manong.io/bounce?nid=321&aid=19960&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsAHg4yU2g4Vw45uZgObhWg)
 1. [一个 App 如何适配多个 Android 终端？](https://weekly.manong.io/bounce?nid=322&aid=20003&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo9znuof)
 1. [《Android进阶指北》](https://weekly.manong.io/bounce?nid=322&aid=20030&url=https%3A%2F%2Fitem.jd.com%2F12972072.html)
+1. [深入探索 Android Gradle 插件的缓存配置](https://weekly.manong.io/bounce?nid=325&aid=20128&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3lbqjxp)

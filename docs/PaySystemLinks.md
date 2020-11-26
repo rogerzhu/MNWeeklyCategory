@@ -51,3 +51,4 @@
 1. [超越 “双十一”：ebay 百万 TPS 支付账务系统的设计与实现](https://weekly.manong.io/bounce?nid=285&aid=18029&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsbHPxzIqv_dRn555XzE5mw)
 1. [Apple 开发者账号福音，用支付宝也可以注册了](https://weekly.manong.io/bounce?nid=291&aid=18462&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fair47of)
 1. [亿级前端项目中的 3D 技术：支付宝 2020 年新春活动的背后](https://weekly.manong.io/bounce?nid=302&aid=19116&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft55e17k)
+1. [工具 | 蚂蚁集团开源的，支付宝开放平台服务端 SDK](https://weekly.manong.io/bounce?nid=325&aid=20160&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9IhgtHJolisvYpWrMtL8zQ)

@@ -388,3 +388,5 @@
 1. [Paxos 分布式必问的内容，没有之一](https://weekly.manong.io/bounce?nid=321&aid=19975&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffhmqfyd)
 1. [一文了解分布式一致性算法 EPaxos](https://weekly.manong.io/bounce?nid=324&aid=20100&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fessq2tr)
 1. [13 张图彻底搞懂分布式系统服务注册与发现原理](https://weekly.manong.io/bounce?nid=324&aid=20103&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff9kkb5t)
+1. [分布式事务方案：SAGA 模式](https://weekly.manong.io/bounce?nid=325&aid=20139&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5oci732)
+1. [Python 中 Redis 库分布式锁简单分析](https://weekly.manong.io/bounce?nid=325&aid=20133&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyr4czdu)

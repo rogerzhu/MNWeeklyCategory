@@ -104,3 +104,5 @@
 1. [提升开发效率 N 倍的 20+ 命令行神器](https://weekly.manong.io/bounce?nid=318&aid=19846&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnims2je)
 1. [记一次线上性能调优：火焰图是利器](https://weekly.manong.io/bounce?nid=320&aid=19941&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frbvgji4)
 1. [记一次线上性能调优：火焰图是利器](https://weekly.manong.io/bounce?nid=320&aid=19941&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frbvgji4)
+1. [那些有趣/实用的 Chrome 扩展神器](https://weekly.manong.io/bounce?nid=325&aid=20149&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzpqzx3u)
+1. [自定义注解！绝对是程序员装逼的利器](https://weekly.manong.io/bounce?nid=325&aid=20127&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgnbzbuw)

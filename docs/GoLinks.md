@@ -1006,3 +1006,5 @@
 1. [[译] Go 中的 Goroutine 和其他并发处理方案的对比](https://weekly.manong.io/bounce?nid=323&aid=20046&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frhzp4sp)
 1. [Golang 单元测试详尽指引](https://weekly.manong.io/bounce?nid=324&aid=20088&url=https%3A%2F%2Ftoutiao.io%2Fk%2Faio979l)
 1. [Go 监控的标配：实战 Prometheus](https://weekly.manong.io/bounce?nid=324&aid=20089&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fasb5mrq)
+1. [Hugo 之旅](https://weekly.manong.io/bounce?nid=325&aid=20142&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5ubz2q0)
+1. [[译] 有意思！Go 源代码中的那些秘密：为什么 time.minWall 是 1885？](https://weekly.manong.io/bounce?nid=325&aid=20134&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk1nx9je)

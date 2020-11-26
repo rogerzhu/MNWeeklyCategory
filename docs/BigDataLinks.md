@@ -343,3 +343,6 @@
 1. [如何基于 Flink 生成在线机器学习的样本？](https://weekly.manong.io/bounce?nid=319&aid=19903&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzu6s46v)
 1. [Impala 在网易大数据的优化和实践](https://weekly.manong.io/bounce?nid=323&aid=20038&url=https%3A%2F%2Ftoutiao.io%2Fk%2F0vfqlgs)
 1. [Flink StateFun 2.0 浅谈](https://weekly.manong.io/bounce?nid=324&aid=20096&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffxy33c6)
+1. [优酷大数据 OLAP 技术选型](https://weekly.manong.io/bounce?nid=325&aid=20124&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fohrycaz)
+1. [[译] 6 种数据分析实用方法，终于有人讲明白了](https://weekly.manong.io/bounce?nid=325&aid=20148&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7zgo1nm)
+1. [Datapane：Python 数据分析报告生成库](https://weekly.manong.io/bounce?nid=325&aid=20152&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4obiqep)

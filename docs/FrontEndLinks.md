@@ -462,3 +462,6 @@
 1. [内推职位 | 火币网 / 高级前端开发工程师](https://weekly.manong.io/bounce?nid=323&aid=19830&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhY6UIkgEmQwlc8J2jwPreg)
 1. [内推职位 | 火币网 / 高级前端开发工程师](https://weekly.manong.io/bounce?nid=324&aid=19830&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhY6UIkgEmQwlc8J2jwPreg)
 1. [前端全栈开发者](https://weekly.manong.io/bounce?nid=324&aid=20114&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F125297%23324)
+1. [前端工程实践之数据埋点分析系统](https://weekly.manong.io/bounce?nid=325&aid=20125&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcrnvcxr)
+1. [内推职位 | 火币网 / 高级前端开发工程师](https://weekly.manong.io/bounce?nid=325&aid=19830&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhY6UIkgEmQwlc8J2jwPreg)
+1. [前端智能化 2020 年中总结和反思](https://weekly.manong.io/bounce?nid=325&aid=20150&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb0wk996)

@@ -672,3 +672,7 @@
 1. [为什么说 Python 内置函数并不是万能的？](https://weekly.manong.io/bounce?nid=323&aid=20044&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5840gfp)
 1. [Python + Appium 自动化操作微信入门看这一篇就够了](https://weekly.manong.io/bounce?nid=324&aid=20086&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fplb7dqo)
 1. [Python 实现：详解 LRU 缓存淘汰算法](https://weekly.manong.io/bounce?nid=324&aid=20087&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftcbc5jk)
+1. [资料 | 30 天循序渐进地教你学会 Python](https://weekly.manong.io/bounce?nid=325&aid=20161&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvdwZ0QgwNl9_IjKA2X9z1A)
+1. [刨根问底，Kafka 消息中间件到底会不会丢消息](https://weekly.manong.io/bounce?nid=325&aid=20140&url=https%3A%2F%2Ftoutiao.io%2Fk%2F17q9ijl)
+1. [Datapane：Python 数据分析报告生成库](https://weekly.manong.io/bounce?nid=325&aid=20152&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4obiqep)
+1. [Python 中 Redis 库分布式锁简单分析](https://weekly.manong.io/bounce?nid=325&aid=20133&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyr4czdu)

@@ -595,3 +595,5 @@
 1. [[译] 8 个 JavaScript 库可更好地处理本地存储](https://weekly.manong.io/bounce?nid=323&aid=20048&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3bs5pmx)
 1. [Node.js 沙盒逃逸分析](https://weekly.manong.io/bounce?nid=324&aid=20091&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkuuorvj)
 1. [我不能没有的 5 个 Vue.js 库](https://weekly.manong.io/bounce?nid=324&aid=20092&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl04ibvu)
+1. [如何创建与框架无关的 JavaScript 插件](https://weekly.manong.io/bounce?nid=325&aid=20135&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxs5f8j6)
+1. [简单分析下 Node.js 关于集群的那些事](https://weekly.manong.io/bounce?nid=325&aid=20136&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp9mn466)

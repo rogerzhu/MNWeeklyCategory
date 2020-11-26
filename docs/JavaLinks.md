@@ -589,3 +589,5 @@
 1. [编程体系结构：Java IO 流文件管理](https://weekly.manong.io/bounce?nid=323&aid=20040&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff3xqehn)
 1. [Java实战技术](https://weekly.manong.io/bounce?nid=323&aid=20070&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F22887%23323)
 1. [Java 应用从源代码到镜像：使用 Docker 多阶段构建](https://weekly.manong.io/bounce?nid=324&aid=20080&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6xjsa2r)
+1. [实战：自己动手编译 JDK](https://weekly.manong.io/bounce?nid=325&aid=20126&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fi7e8oql)
+1. [《阿里巴巴Java开发手册（第2版）》](https://weekly.manong.io/bounce?nid=325&aid=20158&url=https%3A%2F%2Fitem.jd.com%2F12991976.html)

@@ -99,3 +99,4 @@
 1. [Elasticsearch 预处理没有奇技淫巧，请先用好这一招](https://weekly.manong.io/bounce?nid=313&aid=19646&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjr63z4i)
 1. [Elasticsearch 从入门到放弃：瞎说 Mapping](https://weekly.manong.io/bounce?nid=315&aid=19741&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffnbbp2y)
 1. [Elasticsearch](https://weekly.manong.io/bounce?nid=318&aid=19854&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F272620%23318)
+1. [深入解读 Elasticsearch 热点线程 hot_threads](https://weekly.manong.io/bounce?nid=325&aid=20145&url=https%3A%2F%2Ftoutiao.io%2Fk%2F1awt70n)

@@ -133,3 +133,5 @@
 1. [WorkManager 在 Kotlin 中的实践](https://weekly.manong.io/bounce?nid=321&aid=19961&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FV7Ylsm7lnvp4GxXM72mPkg)
 1. [《Head First Kotlin程序设计》](https://weekly.manong.io/bounce?nid=321&aid=19988&url=https%3A%2F%2Fitem.jd.com%2F12958560.html)
 1. [《Head First Kotlin程序设计》](https://weekly.manong.io/bounce?nid=321&aid=19988&url=https%3A%2F%2Fitem.jd.com%2F12958560.html)
+1. [Kotlin Contract](https://weekly.manong.io/bounce?nid=325&aid=20130&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmx3isde)
+1. [Kotlin Contract](https://weekly.manong.io/bounce?nid=325&aid=20130&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmx3isde)
