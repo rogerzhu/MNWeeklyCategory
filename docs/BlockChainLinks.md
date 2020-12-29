@@ -178,3 +178,7 @@
 1. [挖矿 = 求解一个合适的 nonce 整数，区块链与加密数字货币知识科普](https://weekly.manong.io/bounce?nid=306&aid=19309&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7qbpk18)
 1. [何谓区块链的应用价值？](https://weekly.manong.io/bounce?nid=312&aid=19599&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhedsnnu)
 1. [边缘计算、区块链、5G，哪个能走的更远](https://weekly.manong.io/bounce?nid=317&aid=19807&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fts3ylft)
+1. [汇聚云计算、区块链、数据等技术顶级大咖！点击抢购限时早鸟票！](https://weekly.manong.io/bounce?nid=327&aid=20216&url=http%3A%2F%2Fwww.huodongxing.com%2Fevent%2F1573487912300%3Fcoupon%3DMNZK)
+1. [汇聚云计算、区块链、数据等技术顶级大咖！点击抢购限时早鸟票！](https://weekly.manong.io/bounce?nid=327&aid=20216&url=http%3A%2F%2Fwww.huodongxing.com%2Fevent%2F1573487912300%3Fcoupon%3DMNZK)
+1. [汇聚云计算、区块链、数据等技术顶级大咖！点击抢购限时早鸟票！](https://weekly.manong.io/bounce?nid=327&aid=20216&url=http%3A%2F%2Fwww.huodongxing.com%2Fevent%2F1573487912300%3Fcoupon%3DMNZK)
+1. [汇聚云计算、区块链、数据等技术顶级大咖！点击抢购限时早鸟票！](https://weekly.manong.io/bounce?nid=327&aid=20216&url=http%3A%2F%2Fwww.huodongxing.com%2Fevent%2F1573487912300%3Fcoupon%3DMNZK)

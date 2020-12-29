@@ -1008,3 +1008,5 @@
 1. [Go 监控的标配：实战 Prometheus](https://weekly.manong.io/bounce?nid=324&aid=20089&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fasb5mrq)
 1. [Hugo 之旅](https://weekly.manong.io/bounce?nid=325&aid=20142&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5ubz2q0)
 1. [[译] 有意思！Go 源代码中的那些秘密：为什么 time.minWall 是 1885？](https://weekly.manong.io/bounce?nid=325&aid=20134&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk1nx9je)
+1. [什么？Go 竟然比 PHP 慢 2 倍](https://weekly.manong.io/bounce?nid=327&aid=20212&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm6s1skb)
+1. [我是如何 3 小时上手 Golang 的](https://weekly.manong.io/bounce?nid=327&aid=20213&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqm81dgx)

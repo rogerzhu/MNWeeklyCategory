@@ -401,3 +401,4 @@
 1. [天天说要做性能优化，到底在优化什么？](https://weekly.manong.io/bounce?nid=324&aid=20094&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9fxs5uq)
 1. [[译] Gas 优化：如何优化存储](https://weekly.manong.io/bounce?nid=324&aid=20108&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzgqx19d)
 1. [深入详解 Jetpack Compose：优化 UI 构建](https://weekly.manong.io/bounce?nid=324&aid=20081&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9i31ba9)
+1. [云原生网络性能优化](https://weekly.manong.io/bounce?nid=327&aid=20220&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frcyrmxj)

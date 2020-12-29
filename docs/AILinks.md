@@ -1315,3 +1315,5 @@
 1. [《机器学习实战：基于Scikit-Learn Keras和TensorFlow（原书第2版）》](https://weekly.manong.io/bounce?nid=324&aid=20115&url=http%3A%2F%2Fproduct.dangdang.com%2F29132383.html)
 1. [前端智能化 2020 年中总结和反思](https://weekly.manong.io/bounce?nid=325&aid=20150&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb0wk996)
 1. [我爱计算机视觉](https://weekly.manong.io/bounce?nid=325&aid=20155&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F359575%23325)
+1. [[译] 使用 .NET 5 体验大数据和机器学习](https://weekly.manong.io/bounce?nid=327&aid=20210&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb7hi7tn)
+1. [如何识别聪明人？](https://weekly.manong.io/bounce?nid=327&aid=20203&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7pMx7E83ckZxDHsCE0WoXg)

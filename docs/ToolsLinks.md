@@ -471,3 +471,4 @@
 1. [工具 | 字节跳动开源的，直播中台使用的一个视频动画特效 SDK](https://weekly.manong.io/bounce?nid=325&aid=20159&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdnRDhUs4-6FPezC-E6QEiQ)
 1. [工具 | 蚂蚁集团开源的，支付宝开放平台服务端 SDK](https://weekly.manong.io/bounce?nid=325&aid=20160&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9IhgtHJolisvYpWrMtL8zQ)
 1. [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?nid=325&aid=19993&url=https%3A%2F%2Fvip.manong.io%2F%3F3252%23buy)
+1. [字节跳动开源的一款通用内存快照裁剪压缩工具](https://weekly.manong.io/bounce?nid=327&aid=20240&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FP1mnM7tbD7a2lUWNGZkOBg)

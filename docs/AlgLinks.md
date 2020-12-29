@@ -558,3 +558,5 @@
 1. [你真的知道怎么实现一个延迟队列吗？](https://weekly.manong.io/bounce?nid=324&aid=20098&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkqvczix)
 1. [一文了解分布式一致性算法 EPaxos](https://weekly.manong.io/bounce?nid=324&aid=20100&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fessq2tr)
 1. [Python 实现：详解 LRU 缓存淘汰算法](https://weekly.manong.io/bounce?nid=324&aid=20087&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftcbc5jk)
+1. [闲聊算法](https://weekly.manong.io/bounce?nid=327&aid=20224&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs8j11lm)
+1. [《趣学Python算法100例》](https://weekly.manong.io/bounce?nid=327&aid=20233&url=https%3A%2F%2Fitem.jd.com%2F12995156.html)

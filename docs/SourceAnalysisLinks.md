@@ -233,3 +233,4 @@
 1. [《Kubernetes源码剖析》](https://weekly.manong.io/bounce?nid=311&aid=19540&url=https%3A%2F%2Fu.jd.com%2FIkFMNs)
 1. [Kotlin 源码里成吨的 noinline 和 crossinline 是干嘛的？](https://weekly.manong.io/bounce?nid=318&aid=19862&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxvi1d56)
 1. [Flutter 源码剖析（一）：源码获取与构建](https://weekly.manong.io/bounce?nid=324&aid=20084&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm4ntz2d)
+1. [源码深度解析 Handler 机制及应用](https://weekly.manong.io/bounce?nid=327&aid=20208&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhslrl9e)

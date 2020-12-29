@@ -346,3 +346,4 @@
 1. [优酷大数据 OLAP 技术选型](https://weekly.manong.io/bounce?nid=325&aid=20124&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fohrycaz)
 1. [[译] 6 种数据分析实用方法，终于有人讲明白了](https://weekly.manong.io/bounce?nid=325&aid=20148&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7zgo1nm)
 1. [Datapane：Python 数据分析报告生成库](https://weekly.manong.io/bounce?nid=325&aid=20152&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4obiqep)
+1. [[译] 使用 .NET 5 体验大数据和机器学习](https://weekly.manong.io/bounce?nid=327&aid=20210&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb7hi7tn)

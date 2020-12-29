@@ -108,3 +108,4 @@
 1. [[译] 人们不使用 CSS 新功能的 5 个原因](https://weekly.manong.io/bounce?nid=303&aid=19160&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl1oju4y)
 1. [[译] 使用 CSS Paint API 动态创建与分辨率无关的可变背景](https://weekly.manong.io/bounce?nid=313&aid=19636&url=https%3A%2F%2Ftoutiao.io%2Fk%2F9lpjvzn)
 1. [为何不推荐使用 Sass 作为 css 预处理器](https://weekly.manong.io/bounce?nid=323&aid=20049&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6t740h7)
+1. [Chrome DevTools：使用 CSS 概述面板重构和改善 CSS](https://weekly.manong.io/bounce?nid=327&aid=20215&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmqrzmkb)

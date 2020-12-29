@@ -496,3 +496,6 @@
 1. [Kafka 监控工具之 CMAK](https://weekly.manong.io/bounce?nid=323&aid=20061&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffzzch9i)
 1. [Java 应用从源代码到镜像：使用 Docker 多阶段构建](https://weekly.manong.io/bounce?nid=324&aid=20080&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6xjsa2r)
 1. [刨根问底，Kafka 消息中间件到底会不会丢消息](https://weekly.manong.io/bounce?nid=325&aid=20140&url=https%3A%2F%2Ftoutiao.io%2Fk%2F17q9ijl)
+1. [深入理解 StatefulSet，用 Kubernetes 编排有状态应用](https://weekly.manong.io/bounce?nid=327&aid=20221&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbwf1s7m)
+1. [怎么给容器抓包](https://weekly.manong.io/bounce?nid=327&aid=20222&url=https%3A%2F%2Ftoutiao.io%2Fk%2F3regt6f)
+1. [K8sMeetup社区](https://weekly.manong.io/bounce?nid=327&aid=20236&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F392908%23326)

@@ -390,3 +390,4 @@
 1. [13 张图彻底搞懂分布式系统服务注册与发现原理](https://weekly.manong.io/bounce?nid=324&aid=20103&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff9kkb5t)
 1. [分布式事务方案：SAGA 模式](https://weekly.manong.io/bounce?nid=325&aid=20139&url=https%3A%2F%2Ftoutiao.io%2Fk%2F5oci732)
 1. [Python 中 Redis 库分布式锁简单分析](https://weekly.manong.io/bounce?nid=325&aid=20133&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyr4czdu)
+1. [漫谈分布式系统（二十三）：分布式数据仓库](https://weekly.manong.io/bounce?nid=327&aid=20223&url=https%3A%2F%2Ftoutiao.io%2Fk%2Flk48kxt)

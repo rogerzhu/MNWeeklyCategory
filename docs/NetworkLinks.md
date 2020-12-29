@@ -386,3 +386,4 @@
 1. [CNN + RNN + CTC，打造端到端可训练的网络](https://weekly.manong.io/bounce?nid=323&aid=20056&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj5h4ys8)
 1. [从 HTTP 协议层面探讨 Bypass](https://weekly.manong.io/bounce?nid=323&aid=20059&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fta14m5w)
 1. [谈一谈 TCP 连接](https://weekly.manong.io/bounce?nid=325&aid=20146&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fncz653e)
+1. [云原生网络性能优化](https://weekly.manong.io/bounce?nid=327&aid=20220&url=https%3A%2F%2Ftoutiao.io%2Fk%2Frcyrmxj)

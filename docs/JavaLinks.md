@@ -591,3 +591,6 @@
 1. [Java 应用从源代码到镜像：使用 Docker 多阶段构建](https://weekly.manong.io/bounce?nid=324&aid=20080&url=https%3A%2F%2Ftoutiao.io%2Fk%2F6xjsa2r)
 1. [实战：自己动手编译 JDK](https://weekly.manong.io/bounce?nid=325&aid=20126&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fi7e8oql)
 1. [《阿里巴巴Java开发手册（第2版）》](https://weekly.manong.io/bounce?nid=325&aid=20158&url=https%3A%2F%2Fitem.jd.com%2F12991976.html)
+1. [滴滴开源的基于 Jacoco、git 二次开发打造的一站式 Java 代码全量/diff 覆盖率收集平台](https://weekly.manong.io/bounce?nid=327&aid=20239&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUuWj9CwlnmCMxoMaxc2ovw)
+1. [Java 8 Stream 开发技巧](https://weekly.manong.io/bounce?nid=327&aid=20205&url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffk2qdkv)
+1. [Java 的 synchronized 能防止指令重排序吗？](https://weekly.manong.io/bounce?nid=327&aid=20206&url=https%3A%2F%2Ftoutiao.io%2Fk%2F2i5xolr)

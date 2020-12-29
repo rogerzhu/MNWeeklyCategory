@@ -1848,3 +1848,4 @@
 1. [[译] Gas 优化：如何优化存储](https://weekly.manong.io/bounce?nid=324&aid=20108&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzgqx19d)
 1. [[译] 6 种数据分析实用方法，终于有人讲明白了](https://weekly.manong.io/bounce?nid=325&aid=20148&url=https%3A%2F%2Ftoutiao.io%2Fk%2F7zgo1nm)
 1. [[译] 有意思！Go 源代码中的那些秘密：为什么 time.minWall 是 1885？](https://weekly.manong.io/bounce?nid=325&aid=20134&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk1nx9je)
+1. [[译] 使用 .NET 5 体验大数据和机器学习](https://weekly.manong.io/bounce?nid=327&aid=20210&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb7hi7tn)

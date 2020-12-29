@@ -66,3 +66,4 @@
 1. [快醒醒，C# 9 中又来了一堆关键词 init, record, with](https://weekly.manong.io/bounce?nid=317&aid=19800&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgqq6vrg)
 1. [C# 中的 is 真的是越来越强大，越来越语义化](https://weekly.manong.io/bounce?nid=321&aid=19965&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVVqMEK2_RM2zOn_aS16ncA)
 1. [快速了解 ASP.NET Core Blazor](https://weekly.manong.io/bounce?nid=324&aid=20090&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fczo40rv)
+1. [[译] 使用 .NET 5 体验大数据和机器学习](https://weekly.manong.io/bounce?nid=327&aid=20210&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb7hi7tn)

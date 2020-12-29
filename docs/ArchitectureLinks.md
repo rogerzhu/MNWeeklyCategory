@@ -701,3 +701,5 @@
 1. [Volcano 架构解读](https://weekly.manong.io/bounce?nid=324&aid=20078&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm6n7ojj)
 1. [爱笑的架构师](https://weekly.manong.io/bounce?nid=324&aid=20111&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F450130%23324)
 1. [云原生架构下复杂工作负载混合调度的思考与实践](https://weekly.manong.io/bounce?nid=325&aid=20151&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuajj5us)
+1. [聊聊微服务架构.pdf](https://weekly.manong.io/bounce?nid=327&aid=20243&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fjr3EQCq8XWVW4kazJxK6lw)
+1. [架构之美](https://weekly.manong.io/bounce?nid=327&aid=20238&url=http%3A%2F%2Ftoutiao.io%2Fsubjects%2F42200%23326)

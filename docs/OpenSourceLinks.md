@@ -619,3 +619,5 @@
 1. [工具 | 字节跳动开源的，直播中台使用的一个视频动画特效 SDK](https://weekly.manong.io/bounce?nid=325&aid=20159&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdnRDhUs4-6FPezC-E6QEiQ)
 1. [工具 | 蚂蚁集团开源的，支付宝开放平台服务端 SDK](https://weekly.manong.io/bounce?nid=325&aid=20160&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9IhgtHJolisvYpWrMtL8zQ)
 1. [资料 | 开源生态白皮书（2020 年）](https://weekly.manong.io/bounce?nid=325&aid=20162&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FnelgwbrkZKCc15iI8B_UKA)
+1. [滴滴开源的基于 Jacoco、git 二次开发打造的一站式 Java 代码全量/diff 覆盖率收集平台](https://weekly.manong.io/bounce?nid=327&aid=20239&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUuWj9CwlnmCMxoMaxc2ovw)
+1. [字节跳动开源的一款通用内存快照裁剪压缩工具](https://weekly.manong.io/bounce?nid=327&aid=20240&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FP1mnM7tbD7a2lUWNGZkOBg)

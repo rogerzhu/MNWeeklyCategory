@@ -676,3 +676,5 @@
 1. [刨根问底，Kafka 消息中间件到底会不会丢消息](https://weekly.manong.io/bounce?nid=325&aid=20140&url=https%3A%2F%2Ftoutiao.io%2Fk%2F17q9ijl)
 1. [Datapane：Python 数据分析报告生成库](https://weekly.manong.io/bounce?nid=325&aid=20152&url=https%3A%2F%2Ftoutiao.io%2Fk%2F4obiqep)
 1. [Python 中 Redis 库分布式锁简单分析](https://weekly.manong.io/bounce?nid=325&aid=20133&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyr4czdu)
+1. [用 Python 爬取英雄联盟 (lol) 全部皮肤](https://weekly.manong.io/bounce?nid=327&aid=20211&url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmy656mr)
+1. [《趣学Python算法100例》](https://weekly.manong.io/bounce?nid=327&aid=20233&url=https%3A%2F%2Fitem.jd.com%2F12995156.html)
